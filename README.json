@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499651
+            "stars": 499706
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33623
+            "stars": 33625
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-04-25T11:36:26Z",
             "owner": "guyulongcs",
             "repo": "Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-            "stars": 2585
+            "stars": 2586
           }
         },
         {
@@ -500,10 +500,10 @@
                 "archived": false,
                 "id": 21289110,
                 "language": "Python",
-                "last_commit": "2026-08-24T06:42:58Z",
+                "last_commit": "2026-08-25T04:08:40Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 315893
+                "stars": 315924
               }
             },
             {
@@ -533,7 +533,7 @@
                 "last_commit": "2026-08-25T01:28:32Z",
                 "owner": "wilsonfreitas",
                 "repo": "awesome-quant",
-                "stars": 29140
+                "stars": 29147
               }
             },
             {
@@ -593,7 +593,7 @@
                 "last_commit": "2026-08-17T02:06:31Z",
                 "owner": "humiaozuzu",
                 "repo": "awesome-flask",
-                "stars": 12753
+                "stars": 12755
               }
             },
             {
@@ -608,7 +608,7 @@
                 "last_commit": "2026-08-17T02:06:31Z",
                 "owner": "humiaozuzu",
                 "repo": "awesome-flask",
-                "stars": 12753
+                "stars": 12755
               }
             },
             {
@@ -698,7 +698,7 @@
                 "last_commit": "2026-08-22T09:33:34Z",
                 "owner": "wangzhe3224",
                 "repo": "awesome-systematic-trading",
-                "stars": 5013
+                "stars": 5014
               }
             },
             {
@@ -803,7 +803,7 @@
                 "last_commit": "2026-08-04T23:08:15Z",
                 "owner": "rafska",
                 "repo": "awesome-local-llm",
-                "stars": 2778
+                "stars": 2779
               }
             },
             {
@@ -893,7 +893,7 @@
                 "last_commit": "2026-03-28T08:28:51Z",
                 "owner": "jim-schwoebel",
                 "repo": "awesome_ai_agents",
-                "stars": 1951
+                "stars": 1952
               }
             },
             {
@@ -1130,7 +1130,7 @@
                 "archived": false,
                 "id": 614906119,
                 "language": "Ruby",
-                "last_commit": "2026-08-25T02:43:38Z",
+                "last_commit": "2026-08-25T06:25:24Z",
                 "owner": "superiorlu",
                 "repo": "AITreasureBox",
                 "stars": 856
@@ -1273,21 +1273,6 @@
             },
             {
               "node_type": "item",
-              "title": "awesome-gpt-security",
-              "description": "A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 627216756,
-                "language": null,
-                "last_commit": "2026-07-24T06:18:46Z",
-                "owner": "cckuailong",
-                "repo": "awesome-gpt-security",
-                "stars": 671
-              }
-            },
-            {
-              "node_type": "item",
               "title": "awesome-robotics-ee-opensource",
               "description": "(CN) 机器人、电子设计、机器学习开源项目列表 (中文).",
               "children": [],
@@ -1298,6 +1283,21 @@
                 "last_commit": "2026-07-04T22:40:21Z",
                 "owner": "automaticdai",
                 "repo": "awesome-robotics-ee-opensource",
+                "stars": 673
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-gpt-security",
+              "description": "A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 627216756,
+                "language": null,
+                "last_commit": "2026-07-24T06:18:46Z",
+                "owner": "cckuailong",
+                "repo": "awesome-gpt-security",
                 "stars": 671
               }
             },
@@ -2465,7 +2465,7 @@
                 "archived": false,
                 "id": 1249219853,
                 "language": "Python",
-                "last_commit": "2026-08-24T10:35:22Z",
+                "last_commit": "2026-08-25T03:11:54Z",
                 "owner": "ernie55ernie",
                 "repo": "awesome-quant",
                 "stars": 17
@@ -2578,6 +2578,21 @@
             },
             {
               "node_type": "item",
+              "title": "awesome-ai-media",
+              "description": "A curated list of 150+ AI-powered video creation, social media automation, and content creator tools — with comparison tables and weekly updates. .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1215123508,
+                "language": null,
+                "last_commit": "2026-08-25T02:41:25Z",
+                "owner": "JuneYaooo",
+                "repo": "awesome-ai-media",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
               "title": "awesome-drone",
               "description": "List of awesome , libraries, software and resources for drone create.",
               "children": [],
@@ -2603,21 +2618,6 @@
                 "last_commit": "2024-08-13T14:06:24Z",
                 "owner": "onebirdrocks",
                 "repo": "Awesome-GenAI",
-                "stars": 8
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "awesome-ai-media",
-              "description": "A curated list of 150+ AI-powered video creation, social media automation, and content creator tools — with comparison tables and weekly updates. .",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1215123508,
-                "language": null,
-                "last_commit": "2026-08-25T02:41:25Z",
-                "owner": "JuneYaooo",
-                "repo": "awesome-ai-media",
                 "stars": 8
               }
             },
@@ -3230,7 +3230,7 @@
                 "archived": false,
                 "id": 1296956084,
                 "language": "Go",
-                "last_commit": "2026-08-23T03:04:25Z",
+                "last_commit": "2026-08-25T03:01:26Z",
                 "owner": "MParvin",
                 "repo": "AI-Awesome",
                 "stars": 0
@@ -3255,7 +3255,7 @@
                 "last_commit": "2026-08-25T00:32:48Z",
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 182161
+                "stars": 182172
               }
             },
             {
@@ -3612,7 +3612,7 @@
                 "archived": false,
                 "id": 735596330,
                 "language": null,
-                "last_commit": "2026-08-24T22:04:00Z",
+                "last_commit": "2026-08-25T04:04:11Z",
                 "owner": "xlabs-club",
                 "repo": "awesome-x-ops",
                 "stars": 43
@@ -4072,7 +4072,7 @@
                 "last_commit": "2026-08-20T07:58:12Z",
                 "owner": "enaqx",
                 "repo": "awesome-react",
-                "stars": 74388
+                "stars": 74392
               }
             },
             {
@@ -4087,7 +4087,7 @@
                 "last_commit": "2026-05-03T08:24:10Z",
                 "owner": "sindresorhus",
                 "repo": "awesome-nodejs",
-                "stars": 66617
+                "stars": 66621
               }
             },
             {
@@ -4102,7 +4102,7 @@
                 "last_commit": "2026-01-26T16:36:45Z",
                 "owner": "brillout",
                 "repo": "awesome-react-components",
-                "stars": 48264
+                "stars": 48266
               }
             },
             {
@@ -4177,7 +4177,7 @@
                 "last_commit": "2026-06-30T01:51:01Z",
                 "owner": "zhuima",
                 "repo": "awesome-cloudflare",
-                "stars": 15130
+                "stars": 15131
               }
             },
             {
@@ -4687,7 +4687,7 @@
                 "last_commit": "2026-08-24T17:49:41Z",
                 "owner": "andyrewlee",
                 "repo": "awesome-agent-orchestrators",
-                "stars": 1498
+                "stars": 1500
               }
             },
             {
@@ -7589,7 +7589,7 @@
                 "last_commit": "2026-08-22T08:36:07Z",
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 72918
+                "stars": 72922
               }
             },
             {
@@ -7631,7 +7631,7 @@
                 "archived": false,
                 "id": 477570603,
                 "language": "Python",
-                "last_commit": "2026-08-25T02:05:56Z",
+                "last_commit": "2026-08-25T06:07:22Z",
                 "owner": "gmh5225",
                 "repo": "awesome-game-security",
                 "stars": 3425
@@ -7679,7 +7679,7 @@
                 "last_commit": "2026-08-13T04:30:29Z",
                 "owner": "insthync",
                 "repo": "awesome-unreal",
-                "stars": 1612
+                "stars": 1613
               }
             },
             {
@@ -7971,7 +7971,7 @@
                 "last_commit": "2026-08-24T07:28:27Z",
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 58962
+                "stars": 58963
               }
             },
             {
@@ -8016,7 +8016,7 @@
                 "last_commit": "2026-08-23T10:43:16Z",
                 "owner": "ratatui",
                 "repo": "awesome-ratatui",
-                "stars": 1960
+                "stars": 1961
               }
             },
             {
@@ -8031,7 +8031,7 @@
                 "last_commit": "2026-07-06T07:39:45Z",
                 "owner": "esp-rs",
                 "repo": "awesome-esp-rust",
-                "stars": 1647
+                "stars": 1648
               }
             },
             {
@@ -8181,7 +8181,7 @@
                 "last_commit": "2026-08-24T09:11:01Z",
                 "owner": "n0-computer",
                 "repo": "awesome-iroh",
-                "stars": 517
+                "stars": 518
               }
             },
             {
@@ -8593,7 +8593,7 @@
                 "last_commit": "2026-06-05T05:39:52Z",
                 "owner": "wasabeef",
                 "repo": "awesome-android-ui",
-                "stars": 57332
+                "stars": 57334
               }
             },
             {
@@ -8668,7 +8668,7 @@
                 "last_commit": "2023-08-29T05:35:31Z",
                 "owner": "wasabeef",
                 "repo": "awesome-android-libraries",
-                "stars": 5528
+                "stars": 5529
               }
             },
             {
@@ -9275,7 +9275,7 @@
                 "last_commit": "2026-06-24T14:58:10Z",
                 "owner": "vsouza",
                 "repo": "awesome-ios",
-                "stars": 53156
+                "stars": 53157
               }
             },
             {
@@ -9290,7 +9290,7 @@
                 "last_commit": "2026-08-24T21:05:47Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51839
+                "stars": 51843
               }
             },
             {
@@ -9362,7 +9362,7 @@
                 "archived": false,
                 "id": 869949408,
                 "language": "Swift",
-                "last_commit": "2026-08-24T18:25:10Z",
+                "last_commit": "2026-08-25T06:22:50Z",
                 "owner": "jaywcjlove",
                 "repo": "awesome-swift-macos-apps",
                 "stars": 1580
@@ -9732,7 +9732,7 @@
                 "last_commit": "2026-07-13T19:44:57Z",
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32672
+                "stars": 32671
               }
             },
             {
@@ -10294,7 +10294,7 @@
                 "last_commit": "2024-09-27T15:36:56Z",
                 "owner": "djsime1",
                 "repo": "awesome-flipperzero",
-                "stars": 24154
+                "stars": 24156
               }
             },
             {
@@ -10556,7 +10556,7 @@
                 "last_commit": "2026-03-26T05:16:53Z",
                 "owner": "quozd",
                 "repo": "awesome-dotnet",
-                "stars": 21576
+                "stars": 21577
               }
             },
             {
@@ -10571,7 +10571,7 @@
                 "last_commit": "2026-02-27T03:26:22Z",
                 "owner": "thangchung",
                 "repo": "awesome-dotnet-core",
-                "stars": 21370
+                "stars": 21371
               }
             },
             {
@@ -11235,7 +11235,7 @@
                 "archived": false,
                 "id": 482552025,
                 "language": "Shell",
-                "last_commit": "2026-08-25T02:42:57Z",
+                "last_commit": "2026-08-25T04:58:38Z",
                 "owner": "yutkat",
                 "repo": "my-neovim-pluginlist",
                 "stars": 830
@@ -11440,7 +11440,7 @@
                 "last_commit": "2024-12-30T06:53:52Z",
                 "owner": "asyraffff",
                 "repo": "Open-Source-Ruby-and-Rails-Apps",
-                "stars": 1261
+                "stars": 1260
               }
             },
             {
@@ -11814,7 +11814,7 @@
                 "last_commit": "2026-07-09T00:49:17Z",
                 "owner": "godotengine",
                 "repo": "awesome-godot",
-                "stars": 10616
+                "stars": 10618
               }
             },
             {
@@ -11903,7 +11903,7 @@
                 "last_commit": "2026-08-23T18:20:06Z",
                 "owner": "timschneeb",
                 "repo": "awesome-shizuku",
-                "stars": 9898
+                "stars": 9903
               }
             },
             {
@@ -12455,7 +12455,7 @@
                 "last_commit": "2026-08-07T03:30:15Z",
                 "owner": "qjcg",
                 "repo": "awesome-typst",
-                "stars": 3563
+                "stars": 3564
               }
             },
             {
@@ -12861,7 +12861,7 @@
                 "last_commit": "2026-08-17T09:21:33Z",
                 "owner": "mojicians",
                 "repo": "awesome-mojo",
-                "stars": 1128
+                "stars": 1129
               }
             }
           ],
@@ -13558,7 +13558,7 @@
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 542674
+            "stars": 542731
           }
         },
         {
@@ -13573,7 +13573,7 @@
             "last_commit": "2026-08-19T21:44:19Z",
             "owner": "public-apis",
             "repo": "public-apis",
-            "stars": 469929
+            "stars": 470021
           }
         },
         {
@@ -13588,7 +13588,7 @@
             "last_commit": "2026-08-22T18:55:56Z",
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 314826
+            "stars": 314870
           }
         },
         {
@@ -13603,7 +13603,7 @@
             "last_commit": "2024-11-19T14:00:38Z",
             "owner": "trimstray",
             "repo": "the-book-of-secret-knowledge",
-            "stars": 240199
+            "stars": 240220
           }
         },
         {
@@ -13618,7 +13618,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208397
+            "stars": 208401
           }
         },
         {
@@ -13633,7 +13633,7 @@
             "last_commit": "2026-08-24T19:45:41Z",
             "owner": "ripienaar",
             "repo": "free-for-dev",
-            "stars": 135087
+            "stars": 135111
           }
         },
         {
@@ -13648,7 +13648,7 @@
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 118982
+            "stars": 118989
           }
         },
         {
@@ -13660,10 +13660,10 @@
             "archived": false,
             "id": 63539055,
             "language": "Swift",
-            "last_commit": "2026-08-21T08:08:53Z",
+            "last_commit": "2026-08-25T06:14:36Z",
             "owner": "jaywcjlove",
             "repo": "awesome-mac",
-            "stars": 111734
+            "stars": 111744
           }
         },
         {
@@ -13678,7 +13678,7 @@
             "last_commit": "2026-07-31T12:32:42Z",
             "owner": "VoltAgent",
             "repo": "awesome-design-md",
-            "stars": 110178
+            "stars": 110217
           }
         },
         {
@@ -13693,7 +13693,7 @@
             "last_commit": "2026-08-24T09:14:23Z",
             "owner": "papers-we-love",
             "repo": "papers-we-love",
-            "stars": 108974
+            "stars": 108978
           }
         },
         {
@@ -13708,7 +13708,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92755
+            "stars": 92764
           }
         },
         {
@@ -13723,7 +13723,7 @@
             "last_commit": "2026-08-24T19:57:48Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74147
+            "stars": 74148
           }
         },
         {
@@ -13738,7 +13738,7 @@
             "last_commit": "2026-08-14T05:59:25Z",
             "owner": "thedaviddias",
             "repo": "Front-End-Checklist",
-            "stars": 73752
+            "stars": 73785
           }
         },
         {
@@ -13753,7 +13753,7 @@
             "last_commit": "2026-07-24T10:16:04Z",
             "owner": "vuejs",
             "repo": "awesome-vue",
-            "stars": 73536
+            "stars": 73535
           }
         },
         {
@@ -13768,7 +13768,7 @@
             "last_commit": "2026-01-04T03:51:47Z",
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 73512
+            "stars": 73516
           }
         },
         {
@@ -13783,7 +13783,7 @@
             "last_commit": "2026-08-10T21:45:44Z",
             "owner": "ComposioHQ",
             "repo": "awesome-claude-skills",
-            "stars": 73182
+            "stars": 73191
           }
         },
         {
@@ -13798,7 +13798,7 @@
             "last_commit": "2023-05-04T12:49:34Z",
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 70648
+            "stars": 70651
           }
         },
         {
@@ -13813,7 +13813,7 @@
             "last_commit": "2026-04-21T19:06:09Z",
             "owner": "Solido",
             "repo": "awesome-flutter",
-            "stars": 60994
+            "stars": 60998
           }
         },
         {
@@ -13843,7 +13843,7 @@
             "last_commit": "2024-04-15T20:15:56Z",
             "owner": "tiimgreen",
             "repo": "github-cheat-sheet",
-            "stars": 58700
+            "stars": 58703
           }
         },
         {
@@ -13855,10 +13855,10 @@
             "archived": false,
             "id": 969302809,
             "language": "Python",
-            "last_commit": "2026-08-25T00:12:55Z",
+            "last_commit": "2026-08-25T06:10:02Z",
             "owner": "hesreallyhim",
             "repo": "awesome-claude-code",
-            "stars": 52936
+            "stars": 52942
           }
         },
         {
@@ -13873,7 +13873,7 @@
             "last_commit": "2026-08-23T08:45:20Z",
             "owner": "VoltAgent",
             "repo": "awesome-openclaw-skills",
-            "stars": 52161
+            "stars": 52163
           }
         },
         {
@@ -13888,7 +13888,7 @@
             "last_commit": "2026-08-24T00:59:50Z",
             "owner": "akullpp",
             "repo": "awesome-java",
-            "stars": 48839
+            "stars": 48840
           }
         },
         {
@@ -13903,7 +13903,7 @@
             "last_commit": "2024-10-25T19:57:00Z",
             "owner": "DovAmir",
             "repo": "awesome-design-patterns",
-            "stars": 48679
+            "stars": 48680
           }
         },
         {
@@ -13918,7 +13918,7 @@
             "last_commit": "2026-08-16T19:35:44Z",
             "owner": "lukasz-madon",
             "repo": "awesome-remote-job",
-            "stars": 48011
+            "stars": 48016
           }
         },
         {
@@ -13933,7 +13933,7 @@
             "last_commit": "2026-08-24T22:47:08Z",
             "owner": "sickn33",
             "repo": "agentic-awesome-skills",
-            "stars": 45350
+            "stars": 45359
           }
         },
         {
@@ -13948,7 +13948,7 @@
             "last_commit": "2024-07-28T19:57:31Z",
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 40991
+            "stars": 40992
           }
         },
         {
@@ -13963,7 +13963,7 @@
             "last_commit": "2026-02-16T18:32:29Z",
             "owner": "ashishps1",
             "repo": "awesome-system-design-resources",
-            "stars": 40897
+            "stars": 40900
           }
         },
         {
@@ -13993,7 +13993,7 @@
             "last_commit": "2026-07-27T05:40:40Z",
             "owner": "ashishpatel26",
             "repo": "500-AI-Agents-Projects",
-            "stars": 36921
+            "stars": 36927
           }
         },
         {
@@ -14008,7 +14008,7 @@
             "last_commit": "2026-08-19T15:33:40Z",
             "owner": "veggiemonk",
             "repo": "awesome-docker",
-            "stars": 36706
+            "stars": 36707
           }
         },
         {
@@ -14023,7 +14023,7 @@
             "last_commit": "2026-03-02T12:50:21Z",
             "owner": "kuchin",
             "repo": "awesome-cto",
-            "stars": 35372
+            "stars": 35370
           }
         },
         {
@@ -14053,7 +14053,7 @@
             "last_commit": "2026-08-24T06:19:36Z",
             "owner": "VoltAgent",
             "repo": "awesome-agent-skills",
-            "stars": 31947
+            "stars": 32038
           }
         },
         {
@@ -14083,7 +14083,7 @@
             "last_commit": "2025-11-14T10:50:50Z",
             "owner": "imDazui",
             "repo": "Tvlist-awesome-m3u-m3u8",
-            "stars": 29910
+            "stars": 29911
           }
         },
         {
@@ -14098,7 +14098,7 @@
             "last_commit": "2026-08-22T06:20:28Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29858
+            "stars": 29859
           }
         },
         {
@@ -14143,7 +14143,7 @@
             "last_commit": "2026-08-19T22:05:37Z",
             "owner": "aishwaryanr",
             "repo": "awesome-generative-ai-guide",
-            "stars": 28884
+            "stars": 28885
           }
         },
         {
@@ -14173,7 +14173,7 @@
             "last_commit": "2026-08-22T17:50:41Z",
             "owner": "jivoi",
             "repo": "awesome-osint",
-            "stars": 28297
+            "stars": 28302
           }
         },
         {
@@ -14188,7 +14188,7 @@
             "last_commit": "2024-09-01T20:32:39Z",
             "owner": "sdras",
             "repo": "awesome-actions",
-            "stars": 28163
+            "stars": 28164
           }
         },
         {
@@ -14218,7 +14218,7 @@
             "last_commit": "2025-07-31T02:38:24Z",
             "owner": "Hannibal046",
             "repo": "Awesome-LLM",
-            "stars": 27281
+            "stars": 27282
           }
         },
         {
@@ -14248,7 +14248,7 @@
             "last_commit": "2026-08-19T08:47:42Z",
             "owner": "ashishps1",
             "repo": "awesome-low-level-design",
-            "stars": 26349
+            "stars": 26355
           }
         },
         {
@@ -14338,7 +14338,7 @@
             "last_commit": "2025-12-12T19:38:04Z",
             "owner": "PicoTrex",
             "repo": "Awesome-Nano-Banana-images",
-            "stars": 23561
+            "stars": 23563
           }
         },
         {
@@ -14368,7 +14368,7 @@
             "last_commit": "2026-05-10T05:03:06Z",
             "owner": "AiHubCN",
             "repo": "Awesome-Chinese-LLM",
-            "stars": 22752
+            "stars": 22751
           }
         },
         {
@@ -14398,7 +14398,7 @@
             "last_commit": "2026-06-17T14:00:26Z",
             "owner": "dipakkr",
             "repo": "A-to-Z-Resources-for-Students",
-            "stars": 22202
+            "stars": 22203
           }
         },
         {
@@ -14428,7 +14428,7 @@
             "last_commit": "2026-08-20T19:50:09Z",
             "owner": "matiassingers",
             "repo": "awesome-readme",
-            "stars": 21366
+            "stars": 21367
           }
         },
         {
@@ -14473,7 +14473,7 @@
             "last_commit": "2026-08-24T03:57:40Z",
             "owner": "birobirobiro",
             "repo": "awesome-shadcn-ui",
-            "stars": 20374
+            "stars": 20375
           }
         },
         {
@@ -14488,7 +14488,7 @@
             "last_commit": "2026-08-11T16:48:11Z",
             "owner": "rothgar",
             "repo": "awesome-tuis",
-            "stars": 20311
+            "stars": 20312
           }
         },
         {
@@ -14503,7 +14503,7 @@
             "last_commit": "2026-08-22T08:06:18Z",
             "owner": "agarrharr",
             "repo": "awesome-cli-apps",
-            "stars": 20238
+            "stars": 20239
           }
         },
         {
@@ -14533,7 +14533,7 @@
             "last_commit": "2025-09-03T17:43:01Z",
             "owner": "RunaCapital",
             "repo": "awesome-oss-alternatives",
-            "stars": 19539
+            "stars": 19540
           }
         },
         {
@@ -14623,7 +14623,7 @@
             "last_commit": "2026-08-21T15:03:15Z",
             "owner": "unixorn",
             "repo": "awesome-zsh-plugins",
-            "stars": 17969
+            "stars": 17970
           }
         },
         {
@@ -14728,7 +14728,7 @@
             "last_commit": "2026-08-17T17:57:40Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17193
+            "stars": 17194
           }
         },
         {
@@ -14743,7 +14743,7 @@
             "last_commit": "2026-06-10T02:53:23Z",
             "owner": "Wechat-ggGitHub",
             "repo": "Awesome-GitHub-Repo",
-            "stars": 17189
+            "stars": 17190
           }
         },
         {
@@ -14773,7 +14773,7 @@
             "last_commit": "2024-06-02T22:40:13Z",
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16932
+            "stars": 16934
           }
         },
         {
@@ -14818,7 +14818,7 @@
             "last_commit": "2026-08-15T08:12:01Z",
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16122
+            "stars": 16126
           }
         },
         {
@@ -14848,7 +14848,7 @@
             "last_commit": "2021-08-26T16:09:38Z",
             "owner": "jobbole",
             "repo": "awesome-programming-books",
-            "stars": 15496
+            "stars": 15495
           }
         },
         {
@@ -14908,7 +14908,7 @@
             "last_commit": "2026-04-28T19:30:24Z",
             "owner": "travisvn",
             "repo": "awesome-claude-skills",
-            "stars": 14804
+            "stars": 14806
           }
         },
         {
@@ -14998,7 +14998,7 @@
             "last_commit": "2026-02-11T22:01:53Z",
             "owner": "neutraltone",
             "repo": "awesome-stock-resources",
-            "stars": 14453
+            "stars": 14454
           }
         },
         {
@@ -15013,7 +15013,7 @@
             "last_commit": "2024-11-09T17:06:27Z",
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14183
+            "stars": 14184
           }
         },
         {
@@ -15073,7 +15073,7 @@
             "last_commit": "2025-01-22T07:49:32Z",
             "owner": "paperswithbacktest",
             "repo": "awesome-systematic-trading",
-            "stars": 13937
+            "stars": 13943
           }
         },
         {
@@ -15118,7 +15118,7 @@
             "last_commit": "2026-02-25T20:22:58Z",
             "owner": "bobeff",
             "repo": "open-source-games",
-            "stars": 13485
+            "stars": 13486
           }
         },
         {
@@ -15145,10 +15145,10 @@
             "archived": false,
             "id": 1102293054,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T00:06:18Z",
+            "last_commit": "2026-08-25T04:13:14Z",
             "owner": "YouMind-OpenLab",
             "repo": "awesome-nano-banana-pro-prompts",
-            "stars": 13274
+            "stars": 13275
           }
         },
         {
@@ -15178,7 +15178,7 @@
             "last_commit": "2026-08-25T00:05:20Z",
             "owner": "nestjs",
             "repo": "awesome-nestjs",
-            "stars": 13116
+            "stars": 13117
           }
         },
         {
@@ -15193,7 +15193,7 @@
             "last_commit": "2024-07-03T15:59:36Z",
             "owner": "chiraggude",
             "repo": "awesome-laravel",
-            "stars": 13094
+            "stars": 13095
           }
         },
         {
@@ -15238,7 +15238,7 @@
             "last_commit": "2026-08-03T10:58:05Z",
             "owner": "steven2358",
             "repo": "awesome-generative-ai",
-            "stars": 12532
+            "stars": 12531
           }
         },
         {
@@ -15273,6 +15273,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-dsh-plugin",
+          "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1333175049,
+            "language": "Python",
+            "last_commit": "2026-08-25T03:56:33Z",
+            "owner": "awesome-dsh-plugin",
+            "repo": "awesome-dsh-plugin",
+            "stars": 12387
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Awesome-Diffusion-Models",
           "description": "A collection of resources and papers on Diffusion Models.",
           "children": [],
@@ -15298,7 +15313,7 @@
             "last_commit": "2026-08-10T18:59:36Z",
             "owner": "heynickc",
             "repo": "awesome-ddd",
-            "stars": 12341
+            "stars": 12340
           }
         },
         {
@@ -15314,21 +15329,6 @@
             "owner": "theanalyst",
             "repo": "awesome-distributed-systems",
             "stars": 12320
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-dsh-plugin",
-          "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1333175049,
-            "language": "Python",
-            "last_commit": "2026-08-24T15:30:18Z",
-            "owner": "awesome-dsh-plugin",
-            "repo": "awesome-dsh-plugin",
-            "stars": 12315
           }
         },
         {
@@ -15418,7 +15418,7 @@
             "last_commit": "2024-06-12T21:23:53Z",
             "owner": "mezod",
             "repo": "awesome-indie",
-            "stars": 11730
+            "stars": 11729
           }
         },
         {
@@ -15493,7 +15493,7 @@
             "last_commit": "2026-05-28T02:14:37Z",
             "owner": "Kristories",
             "repo": "awesome-guidelines",
-            "stars": 11063
+            "stars": 11064
           }
         },
         {
@@ -15568,7 +15568,7 @@
             "last_commit": "2026-06-01T14:15:45Z",
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10532
+            "stars": 10533
           }
         },
         {
@@ -15583,7 +15583,7 @@
             "last_commit": "2026-08-25T00:44:41Z",
             "owner": "ZeroLu",
             "repo": "awesome-nanobanana-pro",
-            "stars": 10249
+            "stars": 10251
           }
         },
         {
@@ -15598,7 +15598,7 @@
             "last_commit": "2026-08-02T11:06:52Z",
             "owner": "BehiSecc",
             "repo": "awesome-claude-skills",
-            "stars": 10055
+            "stars": 10056
           }
         },
         {
@@ -15673,7 +15673,7 @@
             "last_commit": "2026-08-24T18:46:19Z",
             "owner": "lissy93",
             "repo": "awesome-privacy",
-            "stars": 9790
+            "stars": 9793
           }
         },
         {
@@ -15703,7 +15703,7 @@
             "last_commit": "2026-08-21T18:33:19Z",
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9639
+            "stars": 9640
           }
         },
         {
@@ -15748,7 +15748,7 @@
             "last_commit": "2026-08-25T00:37:41Z",
             "owner": "YouMind-OpenLab",
             "repo": "awesome-gpt-image-2",
-            "stars": 9428
+            "stars": 9432
           }
         },
         {
@@ -15793,7 +15793,7 @@
             "last_commit": "2024-08-19T02:14:10Z",
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9320
+            "stars": 9321
           }
         },
         {
@@ -15843,6 +15843,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-jellyfin",
+          "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 536260952,
+            "language": "Shell",
+            "last_commit": "2026-08-23T08:41:49Z",
+            "owner": "awesome-jellyfin",
+            "repo": "awesome-jellyfin",
+            "stars": 9051
+          }
+        },
+        {
+          "node_type": "item",
           "title": "awesome-wpo",
           "description": "A curated list of Web Performance Optimization. .",
           "children": [],
@@ -15858,21 +15873,6 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-jellyfin",
-          "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 536260952,
-            "language": "Shell",
-            "last_commit": "2026-08-23T08:41:49Z",
-            "owner": "awesome-jellyfin",
-            "repo": "awesome-jellyfin",
-            "stars": 9050
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Awesome-Embedded",
           "description": "A curated list of awesome embedded programming.",
           "children": [],
@@ -15883,7 +15883,7 @@
             "last_commit": "2026-08-12T03:10:08Z",
             "owner": "nhivp",
             "repo": "Awesome-Embedded",
-            "stars": 9028
+            "stars": 9029
           }
         },
         {
@@ -15925,10 +15925,10 @@
             "archived": false,
             "id": 788768107,
             "language": null,
-            "last_commit": "2026-08-14T15:54:28Z",
+            "last_commit": "2026-08-25T04:54:43Z",
             "owner": "WangRongsheng",
             "repo": "awesome-LLM-resources",
-            "stars": 8868
+            "stars": 8869
           }
         },
         {
@@ -15943,7 +15943,7 @@
             "last_commit": "2026-08-18T09:59:38Z",
             "owner": "MrNeRF",
             "repo": "awesome-3D-gaussian-splatting",
-            "stars": 8830
+            "stars": 8831
           }
         },
         {
@@ -15958,7 +15958,7 @@
             "last_commit": "2026-08-24T14:59:19Z",
             "owner": "ai-boost",
             "repo": "awesome-prompts",
-            "stars": 8758
+            "stars": 8759
           }
         },
         {
@@ -15973,7 +15973,7 @@
             "last_commit": "2026-05-12T12:42:04Z",
             "owner": "cipher387",
             "repo": "osint_stuff_tool_collection",
-            "stars": 8728
+            "stars": 8729
           }
         },
         {
@@ -15988,7 +15988,7 @@
             "last_commit": "2026-07-29T19:50:44Z",
             "owner": "0xFA11",
             "repo": "MultiplayerNetworkingResources",
-            "stars": 8659
+            "stars": 8661
           }
         },
         {
@@ -16003,7 +16003,7 @@
             "last_commit": "2026-03-26T09:44:15Z",
             "owner": "detailyang",
             "repo": "awesome-cheatsheet",
-            "stars": 8536
+            "stars": 8537
           }
         },
         {
@@ -16078,7 +16078,7 @@
             "last_commit": "2026-08-23T21:27:33Z",
             "owner": "samber",
             "repo": "awesome-prometheus-alerts",
-            "stars": 8167
+            "stars": 8168
           }
         },
         {
@@ -16243,7 +16243,7 @@
             "last_commit": "2026-07-28T00:25:12Z",
             "owner": "reHackable",
             "repo": "awesome-reMarkable",
-            "stars": 7649
+            "stars": 7650
           }
         },
         {
@@ -16273,7 +16273,7 @@
             "last_commit": "2026-08-19T02:46:19Z",
             "owner": "yzfly",
             "repo": "Awesome-MCP-ZH",
-            "stars": 7597
+            "stars": 7596
           }
         },
         {
@@ -16318,7 +16318,7 @@
             "last_commit": "2026-08-21T12:19:23Z",
             "owner": "Axorax",
             "repo": "awesome-free-apps",
-            "stars": 7510
+            "stars": 7512
           }
         },
         {
@@ -16398,6 +16398,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-blender",
+          "description": "🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 234972124,
+            "language": null,
+            "last_commit": "2026-01-22T14:37:39Z",
+            "owner": "agmmnn",
+            "repo": "awesome-blender",
+            "stars": 7236
+          }
+        },
+        {
+          "node_type": "item",
           "title": "awesome-roadmaps",
           "description": "A curated list of roadmaps.",
           "children": [],
@@ -16409,21 +16424,6 @@
             "owner": "liuchong",
             "repo": "awesome-roadmaps",
             "stars": 7235
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-blender",
-          "description": "🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 234972124,
-            "language": null,
-            "last_commit": "2026-01-22T14:37:39Z",
-            "owner": "agmmnn",
-            "repo": "awesome-blender",
-            "stars": 7234
           }
         },
         {
@@ -16773,6 +16773,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-bugbounty-tools",
+          "description": "A curated list of various bug bounty tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 328770750,
+            "language": null,
+            "last_commit": "2026-08-18T09:00:10Z",
+            "owner": "vavkamil",
+            "repo": "awesome-bugbounty-tools",
+            "stars": 6199
+          }
+        },
+        {
+          "node_type": "item",
           "title": "useful-java-links",
           "description": "A list of useful Java frameworks, libraries, software and hello worlds examples.",
           "children": [],
@@ -16788,21 +16803,6 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-bugbounty-tools",
-          "description": "A curated list of various bug bounty tools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 328770750,
-            "language": null,
-            "last_commit": "2026-08-18T09:00:10Z",
-            "owner": "vavkamil",
-            "repo": "awesome-bugbounty-tools",
-            "stars": 6198
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Awesome-AITools",
           "description": "Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests.",
           "children": [],
@@ -16810,10 +16810,10 @@
             "archived": false,
             "id": 622424201,
             "language": "Python",
-            "last_commit": "2026-08-25T02:50:22Z",
+            "last_commit": "2026-08-25T06:10:42Z",
             "owner": "ikaijua",
             "repo": "Awesome-AITools",
-            "stars": 6150
+            "stars": 6151
           }
         },
         {
@@ -16828,7 +16828,7 @@
             "last_commit": "2023-08-06T16:41:11Z",
             "owner": "devanshbatham",
             "repo": "Awesome-Bugbounty-Writeups",
-            "stars": 6099
+            "stars": 6100
           }
         },
         {
@@ -16873,7 +16873,7 @@
             "last_commit": "2026-02-05T02:34:40Z",
             "owner": "ashishps1",
             "repo": "learn-ai-engineering",
-            "stars": 5957
+            "stars": 5958
           }
         },
         {
@@ -17143,7 +17143,7 @@
             "last_commit": "2025-09-15T21:53:32Z",
             "owner": "nuxt",
             "repo": "awesome",
-            "stars": 5525
+            "stars": 5526
           }
         },
         {
@@ -17215,7 +17215,7 @@
             "archived": false,
             "id": 215434183,
             "language": "Python",
-            "last_commit": "2026-08-25T01:29:01Z",
+            "last_commit": "2026-08-25T05:55:05Z",
             "owner": "pluwen",
             "repo": "awesome-testflight-link",
             "stars": 5453
@@ -17230,10 +17230,10 @@
             "archived": false,
             "id": 1189234446,
             "language": null,
-            "last_commit": "2026-08-16T14:50:13Z",
+            "last_commit": "2026-08-25T05:49:41Z",
             "owner": "0xNyk",
             "repo": "awesome-hermes-agent",
-            "stars": 5434
+            "stars": 5437
           }
         },
         {
@@ -17368,7 +17368,7 @@
             "last_commit": "2026-04-16T01:34:11Z",
             "owner": "filipecalegario",
             "repo": "awesome-vibe-coding",
-            "stars": 5163
+            "stars": 5162
           }
         },
         {
@@ -17548,7 +17548,7 @@
             "last_commit": "2026-08-05T15:41:35Z",
             "owner": "libukai",
             "repo": "awesome-agent-skills",
-            "stars": 5006
+            "stars": 5008
           }
         },
         {
@@ -17683,7 +17683,7 @@
             "last_commit": "2025-11-13T12:41:43Z",
             "owner": "ipfs",
             "repo": "awesome-ipfs",
-            "stars": 4604
+            "stars": 4605
           }
         },
         {
@@ -17698,7 +17698,7 @@
             "last_commit": "2026-08-20T13:54:55Z",
             "owner": "lukasmasuch",
             "repo": "best-of-python",
-            "stars": 4581
+            "stars": 4582
           }
         },
         {
@@ -17758,7 +17758,7 @@
             "last_commit": "2024-03-31T09:18:04Z",
             "owner": "luban-agi",
             "repo": "Awesome-AIGC-Tutorials",
-            "stars": 4535
+            "stars": 4534
           }
         },
         {
@@ -17788,7 +17788,7 @@
             "last_commit": "2026-05-30T00:29:18Z",
             "owner": "jaredthecoder",
             "repo": "awesome-vehicle-security",
-            "stars": 4520
+            "stars": 4521
           }
         },
         {
@@ -17833,7 +17833,7 @@
             "last_commit": "2026-08-18T10:17:25Z",
             "owner": "nikolaydubina",
             "repo": "go-recipes",
-            "stars": 4500
+            "stars": 4501
           }
         },
         {
@@ -17908,7 +17908,7 @@
             "last_commit": "2026-08-20T05:22:57Z",
             "owner": "fosslife",
             "repo": "awesome-ricing",
-            "stars": 4456
+            "stars": 4457
           }
         },
         {
@@ -17983,7 +17983,7 @@
             "last_commit": "2026-08-23T06:16:15Z",
             "owner": "awesome-android-root",
             "repo": "awesome-android-root",
-            "stars": 4395
+            "stars": 4396
           }
         },
         {
@@ -17998,7 +17998,7 @@
             "last_commit": "2024-01-26T12:36:48Z",
             "owner": "hal9ai",
             "repo": "awesome-dataviz",
-            "stars": 4387
+            "stars": 4388
           }
         },
         {
@@ -18073,7 +18073,7 @@
             "last_commit": "2025-07-25T02:24:35Z",
             "owner": "HuaizhengZhang",
             "repo": "AI-Infra-from-Zero-to-Hero",
-            "stars": 4301
+            "stars": 4302
           }
         },
         {
@@ -18103,7 +18103,7 @@
             "last_commit": "2026-08-12T17:03:11Z",
             "owner": "Astrosp",
             "repo": "Awesome-OSINT-List",
-            "stars": 4280
+            "stars": 4281
           }
         },
         {
@@ -18358,7 +18358,7 @@
             "last_commit": "2026-08-06T06:09:09Z",
             "owner": "killop",
             "repo": "anything_about_game",
-            "stars": 4041
+            "stars": 4042
           }
         },
         {
@@ -18468,21 +18468,6 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-ai-devtools",
-          "description": "Curated list of AI-powered developer tools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 674164679,
-            "language": null,
-            "last_commit": "2026-07-11T19:10:35Z",
-            "owner": "jamesmurdza",
-            "repo": "awesome-ai-devtools",
-            "stars": 3920
-          }
-        },
-        {
-          "node_type": "item",
           "title": "awesome-harness-engineering",
           "description": "🛠️ Awesome tools & guides for harness engineering.",
           "children": [],
@@ -18493,6 +18478,21 @@
             "last_commit": "2026-08-19T07:27:55Z",
             "owner": "walkinglabs",
             "repo": "awesome-harness-engineering",
+            "stars": 3922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-ai-devtools",
+          "description": "Curated list of AI-powered developer tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 674164679,
+            "language": null,
+            "last_commit": "2026-07-11T19:10:35Z",
+            "owner": "jamesmurdza",
+            "repo": "awesome-ai-devtools",
             "stars": 3920
           }
         },
@@ -18523,7 +18523,7 @@
             "last_commit": "2026-06-05T19:32:12Z",
             "owner": "yvoronoy",
             "repo": "awesome-english",
-            "stars": 3916
+            "stars": 3917
           }
         },
         {
@@ -18708,6 +18708,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-harness-engineering",
+          "description": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1195371847,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:48:55Z",
+            "owner": "ai-boost",
+            "repo": "awesome-harness-engineering",
+            "stars": 3775
+          }
+        },
+        {
+          "node_type": "item",
           "title": "really-awesome-gan",
           "description": "A list of papers on Generative Adversarial (Neural) Networks.",
           "children": [],
@@ -18719,21 +18734,6 @@
             "owner": "nightrome",
             "repo": "really-awesome-gan",
             "stars": 3773
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-harness-engineering",
-          "description": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1195371847,
-            "language": "Python",
-            "last_commit": "2026-08-24T14:48:55Z",
-            "owner": "ai-boost",
-            "repo": "awesome-harness-engineering",
-            "stars": 3770
           }
         },
         {
@@ -18823,7 +18823,7 @@
             "last_commit": "2026-08-10T14:47:21Z",
             "owner": "tmstack",
             "repo": "awesome-persona-skills",
-            "stars": 3719
+            "stars": 3724
           }
         },
         {
@@ -19053,6 +19053,21 @@
         },
         {
           "node_type": "item",
+          "title": "Auto-Empirical-Research-Skills",
+          "description": "🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | 精选 23,000+ AI Agent 技能库，覆盖8大社会科学学科的实证研究。CoPaper.AI 20分钟完成一篇可复现的规范实证论文，并支持用户上传 Skills。-- Maintained by CoPaper.AI from Stanford REAP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1200204014,
+            "language": "Stata",
+            "last_commit": "2026-08-24T05:28:12Z",
+            "owner": "brycewang-stanford",
+            "repo": "Auto-Empirical-Research-Skills",
+            "stars": 3533
+          }
+        },
+        {
+          "node_type": "item",
           "title": "awesome-functional-programming",
           "description": "Yet another resource for collecting articles, videos etc. regarding functional programming.",
           "children": [],
@@ -19078,22 +19093,7 @@
             "last_commit": "2026-06-20T17:54:18Z",
             "owner": "VoltAgent",
             "repo": "awesome-claude-design",
-            "stars": 3531
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Auto-Empirical-Research-Skills",
-          "description": "🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | 精选 23,000+ AI Agent 技能库，覆盖8大社会科学学科的实证研究。CoPaper.AI 20分钟完成一篇可复现的规范实证论文，并支持用户上传 Skills。-- Maintained by CoPaper.AI from Stanford REAP.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1200204014,
-            "language": "Stata",
-            "last_commit": "2026-08-24T05:28:12Z",
-            "owner": "brycewang-stanford",
-            "repo": "Auto-Empirical-Research-Skills",
-            "stars": 3530
+            "stars": 3532
           }
         },
         {
@@ -19123,7 +19123,7 @@
             "last_commit": "2026-06-01T23:12:11Z",
             "owner": "dawdle-deer",
             "repo": "awesome-learn-gamedev",
-            "stars": 3527
+            "stars": 3528
           }
         },
         {
@@ -19318,7 +19318,7 @@
             "last_commit": "2026-06-28T14:22:34Z",
             "owner": "xinghaochen",
             "repo": "awesome-hand-pose-estimation",
-            "stars": 3387
+            "stars": 3388
           }
         },
         {
@@ -19360,10 +19360,10 @@
             "archived": false,
             "id": 1087207313,
             "language": null,
-            "last_commit": "2026-08-23T20:34:02Z",
+            "last_commit": "2026-08-25T03:36:41Z",
             "owner": "knightnemo",
             "repo": "Awesome-World-Models",
-            "stars": 3337
+            "stars": 3340
           }
         },
         {
@@ -19378,7 +19378,7 @@
             "last_commit": "2026-07-22T09:18:26Z",
             "owner": "hyperai",
             "repo": "awesome-ai4s",
-            "stars": 3336
+            "stars": 3337
           }
         },
         {
@@ -19663,7 +19663,7 @@
             "last_commit": "2026-08-21T15:24:17Z",
             "owner": "taishi-i",
             "repo": "awesome-ChatGPT-repositories",
-            "stars": 3211
+            "stars": 3212
           }
         },
         {
@@ -19738,7 +19738,7 @@
             "last_commit": "2026-07-27T12:45:49Z",
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3157
+            "stars": 3156
           }
         },
         {
@@ -19783,7 +19783,7 @@
             "last_commit": "2024-08-05T10:05:56Z",
             "owner": "jkup",
             "repo": "awesome-personal-blogs",
-            "stars": 3122
+            "stars": 3123
           }
         },
         {
@@ -19963,7 +19963,7 @@
             "last_commit": "2026-08-14T16:33:49Z",
             "owner": "michelpereira",
             "repo": "awesome-open-source-games",
-            "stars": 3027
+            "stars": 3030
           }
         },
         {
@@ -20068,7 +20068,7 @@
             "last_commit": "2026-01-20T08:27:38Z",
             "owner": "restyler",
             "repo": "awesome-n8n",
-            "stars": 2976
+            "stars": 2975
           }
         },
         {
@@ -20263,7 +20263,7 @@
             "last_commit": "2019-05-07T11:32:14Z",
             "owner": "Juude",
             "repo": "awesome-android-performance",
-            "stars": 2891
+            "stars": 2892
           }
         },
         {
@@ -20278,7 +20278,7 @@
             "last_commit": "2026-07-10T15:05:39Z",
             "owner": "bytewax",
             "repo": "awesome-public-real-time-datasets",
-            "stars": 2886
+            "stars": 2885
           }
         },
         {
@@ -20413,7 +20413,7 @@
             "last_commit": "2025-11-07T09:27:28Z",
             "owner": "luo-junyu",
             "repo": "Awesome-Agent-Papers",
-            "stars": 2833
+            "stars": 2834
           }
         },
         {
@@ -20533,7 +20533,7 @@
             "last_commit": "2026-08-23T09:49:09Z",
             "owner": "bmpi-dev",
             "repo": "awesome-seo",
-            "stars": 2775
+            "stars": 2776
           }
         },
         {
@@ -20743,7 +20743,7 @@
             "last_commit": "2025-09-22T15:36:35Z",
             "owner": "ttt30ga",
             "repo": "awesome-product-design",
-            "stars": 2693
+            "stars": 2694
           }
         },
         {
@@ -20803,7 +20803,7 @@
             "last_commit": "2024-02-11T22:48:44Z",
             "owner": "vsitzmann",
             "repo": "awesome-implicit-representations",
-            "stars": 2647
+            "stars": 2648
           }
         },
         {
@@ -20923,7 +20923,7 @@
             "last_commit": "2026-08-17T12:26:05Z",
             "owner": "shlomi-noach",
             "repo": "awesome-mysql",
-            "stars": 2609
+            "stars": 2610
           }
         },
         {
@@ -20938,7 +20938,7 @@
             "last_commit": "2026-06-02T12:52:38Z",
             "owner": "DEEP-PolyU",
             "repo": "Awesome-GraphRAG",
-            "stars": 2608
+            "stars": 2610
           }
         },
         {
@@ -20968,7 +20968,22 @@
             "last_commit": "2026-07-29T20:15:17Z",
             "owner": "toolleeo",
             "repo": "awesome-cli-apps-in-a-csv",
-            "stars": 2594
+            "stars": 2595
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-ceo",
+          "description": "A curated and opinionated list of resources for startup founders and leaders of high-growth companies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 582413746,
+            "language": null,
+            "last_commit": "2023-02-16T09:50:34Z",
+            "owner": "kuchin",
+            "repo": "awesome-ceo",
+            "stars": 2589
           }
         },
         {
@@ -20984,21 +20999,6 @@
             "owner": "kdeldycke",
             "repo": "awesome-engineering-team-management",
             "stars": 2586
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-ceo",
-          "description": "A curated and opinionated list of resources for startup founders and leaders of high-growth companies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 582413746,
-            "language": null,
-            "last_commit": "2023-02-16T09:50:34Z",
-            "owner": "kuchin",
-            "repo": "awesome-ceo",
-            "stars": 2584
           }
         },
         {
@@ -21103,7 +21103,7 @@
             "last_commit": "2026-07-09T16:29:36Z",
             "owner": "mesquidar",
             "repo": "ForensicsTools",
-            "stars": 2545
+            "stars": 2546
           }
         },
         {
@@ -21408,21 +21408,6 @@
         },
         {
           "node_type": "item",
-          "title": "Awesome-Text-to-Image",
-          "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 303611255,
-            "language": null,
-            "last_commit": "2026-08-13T10:32:32Z",
-            "owner": "Yutong-Zhou-cv",
-            "repo": "Awesome-Text-to-Image",
-            "stars": 2442
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Awesome-independent-tools",
           "description": "收录独立开发、AI出海领域最新、最实用的工具与资源（Build Faster with Better Tools）.",
           "children": [],
@@ -21433,6 +21418,21 @@
             "last_commit": "2026-07-04T09:40:16Z",
             "owner": "yaolifeng0629",
             "repo": "Awesome-independent-tools",
+            "stars": 2443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Text-to-Image",
+          "description": "(ෆ`꒳´ෆ) A Survey on Text-to-Image Generation/Synthesis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 303611255,
+            "language": null,
+            "last_commit": "2026-08-13T10:32:32Z",
+            "owner": "Yutong-Zhou-cv",
+            "repo": "Awesome-Text-to-Image",
             "stars": 2442
           }
         },
@@ -21478,7 +21478,7 @@
             "last_commit": "2023-10-17T12:23:20Z",
             "owner": "fkie-cad",
             "repo": "awesome-embedded-and-iot-security",
-            "stars": 2429
+            "stars": 2430
           }
         },
         {
@@ -21613,7 +21613,7 @@
             "last_commit": "2026-08-16T18:00:03Z",
             "owner": "bst04",
             "repo": "CyberSources",
-            "stars": 2391
+            "stars": 2392
           }
         },
         {
@@ -21775,7 +21775,7 @@
             "archived": false,
             "id": 48127781,
             "language": null,
-            "last_commit": "2026-08-09T19:01:56Z",
+            "last_commit": "2026-08-25T04:14:21Z",
             "owner": "KrishMunot",
             "repo": "awesome-startup",
             "stars": 2332
@@ -21793,7 +21793,7 @@
             "last_commit": "2026-02-08T02:36:12Z",
             "owner": "dend",
             "repo": "awesome-product-management",
-            "stars": 2318
+            "stars": 2319
           }
         },
         {
@@ -22083,6 +22083,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-osint-arsenal",
+          "description": "🔍 Curated OSINT & recon toolkit for Kali Linux — 100+ tools, one-command installer, covering SOCMINT, GEOINT, network recon, dark web, forensics & more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1208852221,
+            "language": "Shell",
+            "last_commit": "2026-07-21T22:39:08Z",
+            "owner": "rawfilejson",
+            "repo": "awesome-osint-arsenal",
+            "stars": 2260
+          }
+        },
+        {
+          "node_type": "item",
           "title": "awesome-rat",
           "description": "RAT And C&C Resources. 250+ Open Source Projects, 1200+ RAT/C&C blog/video.",
           "children": [],
@@ -22154,21 +22169,6 @@
             "owner": "mundimark",
             "repo": "awesome-markdown-editors",
             "stars": 2241
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-osint-arsenal",
-          "description": "🔍 Curated OSINT & recon toolkit for Kali Linux — 100+ tools, one-command installer, covering SOCMINT, GEOINT, network recon, dark web, forensics & more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1208852221,
-            "language": "Shell",
-            "last_commit": "2026-07-21T22:39:08Z",
-            "owner": "rawfilejson",
-            "repo": "awesome-osint-arsenal",
-            "stars": 2235
           }
         },
         {
@@ -22288,7 +22288,7 @@
             "last_commit": "2025-07-28T13:31:18Z",
             "owner": "FoundationAgents",
             "repo": "awesome-foundation-agents",
-            "stars": 2208
+            "stars": 2209
           }
         },
         {
@@ -22873,7 +22873,7 @@
             "last_commit": "2026-07-26T05:01:07Z",
             "owner": "brabadu",
             "repo": "awesome-fonts",
-            "stars": 2054
+            "stars": 2055
           }
         },
         {
@@ -22893,6 +22893,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-gpt-image",
+          "description": "A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1203417753,
+            "language": "Python",
+            "last_commit": "2026-08-25T01:35:05Z",
+            "owner": "ZeroLu",
+            "repo": "awesome-gpt-image",
+            "stars": 2038
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Awesome-Efficient-LLM",
           "description": "A curated list for Efficient Large Language Models.",
           "children": [],
@@ -22908,17 +22923,17 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-gpt-image",
-          "description": "A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.",
+          "title": "awesome-ops",
+          "description": "🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 653 个。.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "id": 1203417753,
-            "language": "Python",
-            "last_commit": "2026-08-25T01:35:05Z",
-            "owner": "ZeroLu",
-            "repo": "awesome-gpt-image",
-            "stars": 2035
+            "id": 739948055,
+            "language": "Go Template",
+            "last_commit": "2026-07-30T01:37:25Z",
+            "owner": "opsre",
+            "repo": "awesome-ops",
+            "stars": 2034
           }
         },
         {
@@ -22933,21 +22948,6 @@
             "last_commit": "2023-08-08T19:55:49Z",
             "owner": "cbailes",
             "repo": "awesome-deep-trading",
-            "stars": 2032
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-ops",
-          "description": "🧰 记录每一个与运维相关的优秀项目，⚗️ 项目内表格通过 GitHub Action 自动生成，📥 当前收录项目 653 个。.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 739948055,
-            "language": "Go Template",
-            "last_commit": "2026-07-30T01:37:25Z",
-            "owner": "opsre",
-            "repo": "awesome-ops",
             "stars": 2032
           }
         },
@@ -23083,7 +23083,7 @@
             "last_commit": "2019-11-20T10:49:52Z",
             "owner": "wbkd",
             "repo": "awesome-interactive-journalism",
-            "stars": 1990
+            "stars": 1991
           }
         },
         {
@@ -23125,10 +23125,10 @@
             "archived": false,
             "id": 885743839,
             "language": "Python",
-            "last_commit": "2026-08-24T09:40:48Z",
+            "last_commit": "2026-08-25T06:24:39Z",
             "owner": "leofan90",
             "repo": "Awesome-World-Models",
-            "stars": 1980
+            "stars": 1983
           }
         },
         {
@@ -23448,6 +23448,21 @@
         },
         {
           "node_type": "item",
+          "title": "web3",
+          "description": "Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 446977925,
+            "language": "HTML",
+            "last_commit": "2026-08-07T18:09:57Z",
+            "owner": "life-itself",
+            "repo": "web3",
+            "stars": 1928
+          }
+        },
+        {
+          "node_type": "item",
           "title": "On-Chain-Investigations-Tools-List",
           "description": "Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals! PRs are welcome! If any tool is missing - please open PR!.",
           "children": [],
@@ -23463,21 +23478,6 @@
         },
         {
           "node_type": "item",
-          "title": "web3",
-          "description": "Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 446977925,
-            "language": "HTML",
-            "last_commit": "2026-08-07T18:09:57Z",
-            "owner": "life-itself",
-            "repo": "web3",
-            "stars": 1927
-          }
-        },
-        {
-          "node_type": "item",
           "title": "awesome-bongocat",
           "description": "🚀 汇聚优质的第三方 BongoCat 模型！.",
           "children": [],
@@ -23488,7 +23488,7 @@
             "last_commit": "2026-06-04T07:36:00Z",
             "owner": "ayangweb",
             "repo": "Awesome-BongoCat",
-            "stars": 1927
+            "stars": 1928
           }
         },
         {
@@ -23568,21 +23568,6 @@
         },
         {
           "node_type": "item",
-          "title": "programming-math-science",
-          "description": "This is a list of links to different freely available learning resources about computer programming, math, and science.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 400507157,
-            "language": null,
-            "last_commit": "2026-08-23T16:24:19Z",
-            "owner": "bobeff",
-            "repo": "programming-math-science",
-            "stars": 1905
-          }
-        },
-        {
-          "node_type": "item",
           "title": "awesome-ai-for-science",
           "description": "A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.",
           "children": [],
@@ -23593,6 +23578,21 @@
             "last_commit": "2026-08-24T16:24:03Z",
             "owner": "ai4s-research",
             "repo": "awesome-ai-for-science",
+            "stars": 1906
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "programming-math-science",
+          "description": "This is a list of links to different freely available learning resources about computer programming, math, and science.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 400507157,
+            "language": null,
+            "last_commit": "2026-08-23T16:24:19Z",
+            "owner": "bobeff",
+            "repo": "programming-math-science",
             "stars": 1905
           }
         },
@@ -23688,21 +23688,6 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-lists",
-          "description": "Awesome Security lists for SOC/CERT/CTI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 576895240,
-            "language": "YARA",
-            "last_commit": "2026-08-25T02:40:17Z",
-            "owner": "mthcht",
-            "repo": "awesome-lists",
-            "stars": 1888
-          }
-        },
-        {
-          "node_type": "item",
           "title": "awesome-seedance-2-prompts",
           "description": "🎬 2000+ curated Seedance 2.0 video generation prompts — cinematic, anime, UGC, ads, meme styles. Includes Seedance API guides, character consistency tips, and advanced video workflows.",
           "children": [],
@@ -23710,9 +23695,24 @@
             "archived": false,
             "id": 1155268703,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T01:28:42Z",
+            "last_commit": "2026-08-25T04:57:04Z",
             "owner": "YouMind-OpenLab",
             "repo": "awesome-seedance-2-prompts",
+            "stars": 1890
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-lists",
+          "description": "Awesome Security lists for SOC/CERT/CTI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 576895240,
+            "language": "YARA",
+            "last_commit": "2026-08-25T06:24:52Z",
+            "owner": "mthcht",
+            "repo": "awesome-lists",
             "stars": 1888
           }
         },
@@ -23808,21 +23808,6 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-home-networking-cn",
-          "description": "家庭网络知识整理.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 243001692,
-            "language": null,
-            "last_commit": "2025-10-28T12:37:44Z",
-            "owner": "blanboom",
-            "repo": "awesome-home-networking-cn",
-            "stars": 1862
-          }
-        },
-        {
-          "node_type": "item",
           "title": "awesome-agriculture",
           "description": "Open source technology for agriculture, farming, and gardening.",
           "children": [],
@@ -23833,6 +23818,21 @@
             "last_commit": "2026-01-05T18:48:16Z",
             "owner": "brycejohnston",
             "repo": "awesome-agriculture",
+            "stars": 1863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-home-networking-cn",
+          "description": "家庭网络知识整理.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 243001692,
+            "language": null,
+            "last_commit": "2025-10-28T12:37:44Z",
+            "owner": "blanboom",
+            "repo": "awesome-home-networking-cn",
             "stars": 1862
           }
         },
@@ -24138,21 +24138,6 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-deep-learning-resources",
-          "description": "Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 74903728,
-            "language": null,
-            "last_commit": "2024-01-18T13:35:40Z",
-            "owner": "guillaume-chevalier",
-            "repo": "Awesome-Deep-Learning-Resources",
-            "stars": 1815
-          }
-        },
-        {
-          "node_type": "item",
           "title": "awesome-malware-development",
           "description": "Curated resources for malware dev, reverse engineering, and defensive security research.",
           "children": [],
@@ -24163,6 +24148,21 @@
             "last_commit": "2026-04-01T12:44:37Z",
             "owner": "rootkit-io",
             "repo": "awesome-malware-development",
+            "stars": 1816
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-deep-learning-resources",
+          "description": "Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 74903728,
+            "language": null,
+            "last_commit": "2024-01-18T13:35:40Z",
+            "owner": "guillaume-chevalier",
+            "repo": "Awesome-Deep-Learning-Resources",
             "stars": 1815
           }
         },
@@ -24179,6 +24179,21 @@
             "owner": "haiiiiiyun",
             "repo": "awesome-django-cn",
             "stars": 1814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "indie-hacker-tools-plus",
+          "description": "为独立开发者准备的精选技术栈和工具仓库来了！这里有你最需要的工具，帮你提升开发效率、节约成本，最重要的是——这些工具都是市场上热门的，经过验证的。🚀A curated collection of tech stacks and tools tailored for independent developers is here! these are proven, popular tools widely used in the industry. 🚀.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 887660501,
+            "language": null,
+            "last_commit": "2026-08-24T23:22:17Z",
+            "owner": "XiaomingX",
+            "repo": "indie-hacker-tools-plus",
+            "stars": 1813
           }
         },
         {
@@ -24208,21 +24223,6 @@
             "last_commit": "2022-12-03T09:33:26Z",
             "owner": "altryne",
             "repo": "awesome-ai-art-image-synthesis",
-            "stars": 1812
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "indie-hacker-tools-plus",
-          "description": "为独立开发者准备的精选技术栈和工具仓库来了！这里有你最需要的工具，帮你提升开发效率、节约成本，最重要的是——这些工具都是市场上热门的，经过验证的。🚀A curated collection of tech stacks and tools tailored for independent developers is here! these are proven, popular tools widely used in the industry. 🚀.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 887660501,
-            "language": null,
-            "last_commit": "2026-08-24T23:22:17Z",
-            "owner": "XiaomingX",
-            "repo": "indie-hacker-tools-plus",
             "stars": 1812
           }
         },
@@ -24685,7 +24685,7 @@
             "archived": false,
             "id": 415350443,
             "language": null,
-            "last_commit": "2026-08-24T07:24:59Z",
+            "last_commit": "2026-08-25T06:26:04Z",
             "owner": "Hiflylabs",
             "repo": "awesome-dbt",
             "stars": 1721
@@ -24718,7 +24718,7 @@
             "last_commit": "2024-08-02T12:52:41Z",
             "owner": "jakob-pennington",
             "repo": "awesome-devsecops",
-            "stars": 1717
+            "stars": 1718
           }
         },
         {
@@ -25113,6 +25113,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-agent-harness",
+          "description": "An awesome list of Agent Harness engineering resources, including GitHub projects, tools, benchmarks, and practical guides.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1195759722,
+            "language": "Python",
+            "last_commit": "2026-08-23T17:00:04Z",
+            "owner": "Picrew",
+            "repo": "awesome-agent-harness",
+            "stars": 1660
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Awesome-Video-Datasets",
           "description": "Video datasets.",
           "children": [],
@@ -25138,21 +25153,6 @@
             "last_commit": "2026-01-14T20:11:22Z",
             "owner": "ong",
             "repo": "awesome-decentralized-finance",
-            "stars": 1659
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-agent-harness",
-          "description": "An awesome list of Agent Harness engineering resources, including GitHub projects, tools, benchmarks, and practical guides.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1195759722,
-            "language": "Python",
-            "last_commit": "2026-08-23T17:00:04Z",
-            "owner": "Picrew",
-            "repo": "awesome-agent-harness",
             "stars": 1659
           }
         },
@@ -25188,6 +25188,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-multi-agent-papers",
+          "description": "A compilation of the best multi-agent papers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 761397238,
+            "language": "TeX",
+            "last_commit": "2026-08-20T19:37:51Z",
+            "owner": "kyegomez",
+            "repo": "awesome-multi-agent-papers",
+            "stars": 1655
+          }
+        },
+        {
+          "node_type": "item",
           "title": "awesome-google-vrp-writeups",
           "description": "🐛 A list of writeups from the Google VRP Bug Bounty program.",
           "children": [],
@@ -25203,21 +25218,6 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-multi-agent-papers",
-          "description": "A compilation of the best multi-agent papers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 761397238,
-            "language": "TeX",
-            "last_commit": "2026-08-20T19:37:51Z",
-            "owner": "kyegomez",
-            "repo": "awesome-multi-agent-papers",
-            "stars": 1654
-          }
-        },
-        {
-          "node_type": "item",
           "title": "awesome-claude",
           "description": "A curated list of awesome things related to Anthropic Claude.",
           "children": [],
@@ -25228,7 +25228,7 @@
             "last_commit": "2026-08-10T11:33:40Z",
             "owner": "webfuse-com",
             "repo": "awesome-claude",
-            "stars": 1653
+            "stars": 1652
           }
         },
         {
@@ -25633,7 +25633,7 @@
             "last_commit": "2026-06-10T16:46:10Z",
             "owner": "caramaschiHG",
             "repo": "awesome-ai-agents-2026",
-            "stars": 1606
+            "stars": 1607
           }
         },
         {
@@ -25803,21 +25803,6 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-echarts",
-          "description": "Awesome list of Apache ECharts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 75928695,
-            "language": null,
-            "last_commit": "2025-01-16T04:29:51Z",
-            "owner": "ecomfe",
-            "repo": "awesome-echarts",
-            "stars": 1571
-          }
-        },
-        {
-          "node_type": "item",
           "title": "NL2SQL_Handbook",
           "description": "This is a continuously updated handbook for readers to easily track the latest Text-to-SQL techniques in the literature and provide practical guidance for researchers and practitioners. .",
           "children": [],
@@ -25828,6 +25813,21 @@
             "last_commit": "2026-07-28T08:54:04Z",
             "owner": "HKUSTDial",
             "repo": "NL2SQL_Handbook",
+            "stars": 1572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-echarts",
+          "description": "Awesome list of Apache ECharts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75928695,
+            "language": null,
+            "last_commit": "2025-01-16T04:29:51Z",
+            "owner": "ecomfe",
+            "repo": "awesome-echarts",
             "stars": 1571
           }
         },
@@ -25983,6 +25983,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-wayland",
+          "description": "A curated list of Wayland resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 737870617,
+            "language": null,
+            "last_commit": "2026-08-22T19:45:31Z",
+            "owner": "rcalixte",
+            "repo": "awesome-wayland",
+            "stars": 1556
+          }
+        },
+        {
+          "node_type": "item",
           "title": "bots",
           "description": ":zap: Tools for building bots.",
           "children": [],
@@ -26008,21 +26023,6 @@
             "last_commit": "2026-08-11T07:21:31Z",
             "owner": "vkarampinis",
             "repo": "awesome-icons",
-            "stars": 1555
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-wayland",
-          "description": "A curated list of Wayland resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 737870617,
-            "language": null,
-            "last_commit": "2026-08-22T19:45:31Z",
-            "owner": "rcalixte",
-            "repo": "awesome-wayland",
             "stars": 1555
           }
         },
@@ -26248,7 +26248,7 @@
             "last_commit": "2026-05-28T20:27:55Z",
             "owner": "Jolg42",
             "repo": "awesome-typography",
-            "stars": 1528
+            "stars": 1529
           }
         },
         {
@@ -26703,21 +26703,6 @@
         },
         {
           "node_type": "item",
-          "title": "Awesome-Ionic",
-          "description": "😎 A curated list of amazingly awesome Ionic libraries, resources and solutions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 26858332,
-            "language": null,
-            "last_commit": "2021-04-18T23:43:16Z",
-            "owner": "Alexintosh",
-            "repo": "Awesome-Ionic",
-            "stars": 1462
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Awesome-Embodied-AI-Job",
           "description": "Lumina Robotics Talent Call | Lumina社区具身智能招贤榜 | A list for Embodied AI / Robotics Jobs (PhD, RA, intern, etc .",
           "children": [],
@@ -26728,6 +26713,21 @@
             "last_commit": "2026-02-25T06:43:50Z",
             "owner": "StarCycle",
             "repo": "Awesome-Embodied-AI-Job",
+            "stars": 1463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Ionic",
+          "description": "😎 A curated list of amazingly awesome Ionic libraries, resources and solutions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26858332,
+            "language": null,
+            "last_commit": "2021-04-18T23:43:16Z",
+            "owner": "Alexintosh",
+            "repo": "Awesome-Ionic",
             "stars": 1462
           }
         },
@@ -27258,6 +27258,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-dsh-plugins",
+          "description": "DSH 插件雷达与精选榜：多路自动发现 9000+ 候选，容器真实安装路径运行级实测（四档判定），精选 Top 50 · 11 类人工策展，全量索引 PLUGINS-ALL.md，自动更新。.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1323404274,
+            "language": "Python",
+            "last_commit": "2026-08-25T01:55:56Z",
+            "owner": "AdamPlatin123",
+            "repo": "awesome-dsh-plugins",
+            "stars": 1385
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Awesome-TensorFlow-Chinese",
           "description": "Awesome-TensorFlow-Chinese，TensorFlow 中文资源精选，官方网站，安装教程，入门教程，视频教程，实战项目，学习路径。QQ群：167122861，公众号：磐创AI，微信群二维码：",
           "children": [],
@@ -27303,21 +27318,6 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-dsh-plugins",
-          "description": "DSH 插件雷达与精选榜：多路自动发现 9000+ 候选，容器真实安装路径运行级实测（四档判定），精选 Top 50 · 11 类人工策展，全量索引 PLUGINS-ALL.md，自动更新。.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1323404274,
-            "language": "Python",
-            "last_commit": "2026-08-25T01:55:56Z",
-            "owner": "AdamPlatin123",
-            "repo": "awesome-dsh-plugins",
-            "stars": 1380
-          }
-        },
-        {
-          "node_type": "item",
           "title": "awesome-flame",
           "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
           "children": [],
@@ -27328,7 +27328,7 @@
             "last_commit": "2026-07-02T10:11:31Z",
             "owner": "flame-engine",
             "repo": "awesome-flame",
-            "stars": 1379
+            "stars": 1380
           }
         },
         {
@@ -27558,6 +27558,21 @@
         },
         {
           "node_type": "item",
+          "title": "Awesome-RAG",
+          "description": "😎 Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 785751279,
+            "language": null,
+            "last_commit": "2026-07-09T14:58:23Z",
+            "owner": "Danielskry",
+            "repo": "Awesome-RAG",
+            "stars": 1346
+          }
+        },
+        {
+          "node_type": "item",
           "title": "awesome-hcloud",
           "description": "A curated list of awesome libraries, tools, and integrations for Hetzner Cloud.",
           "children": [],
@@ -27569,21 +27584,6 @@
             "owner": "hetznercloud",
             "repo": "awesome-hcloud",
             "stars": 1346
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome-RAG",
-          "description": "😎 Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 785751279,
-            "language": null,
-            "last_commit": "2026-07-09T14:58:23Z",
-            "owner": "Danielskry",
-            "repo": "Awesome-RAG",
-            "stars": 1345
           }
         },
         {
@@ -27778,7 +27778,7 @@
             "last_commit": "2026-08-11T19:26:52Z",
             "owner": "davisonio",
             "repo": "awesome-irc",
-            "stars": 1325
+            "stars": 1326
           }
         },
         {
@@ -28143,6 +28143,36 @@
         },
         {
           "node_type": "item",
+          "title": "Awesome-LLMs-for-Vulnerability-Detection",
+          "description": "The community's most comprehensive, continuously-updated index of research on Large Language Models for software vulnerability detection — papers across function-level, repository-level, agentic, and smart-contract detection, plus datasets, benchmarks, and surveys.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 851138183,
+            "language": "Python",
+            "last_commit": "2026-08-25T00:32:07Z",
+            "owner": "huhusmang",
+            "repo": "Awesome-LLMs-for-Vulnerability-Detection",
+            "stars": 1278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-networking",
+          "description": "A collection of awesome networking courses, books, tutorials and other resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 134559384,
+            "language": null,
+            "last_commit": "2026-05-23T05:25:49Z",
+            "owner": "facyber",
+            "repo": "awesome-networking",
+            "stars": 1276
+          }
+        },
+        {
+          "node_type": "item",
           "title": "awesome-wordlists",
           "description": "A curated list of wordlists for bruteforcing and fuzzing.",
           "children": [],
@@ -28158,36 +28188,6 @@
         },
         {
           "node_type": "item",
-          "title": "Awesome-LLMs-for-Vulnerability-Detection",
-          "description": "The community's most comprehensive, continuously-updated index of research on Large Language Models for software vulnerability detection — papers across function-level, repository-level, agentic, and smart-contract detection, plus datasets, benchmarks, and surveys.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 851138183,
-            "language": "Python",
-            "last_commit": "2026-08-25T00:32:07Z",
-            "owner": "huhusmang",
-            "repo": "Awesome-LLMs-for-Vulnerability-Detection",
-            "stars": 1274
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-networking",
-          "description": "A collection of awesome networking courses, books, tutorials and other resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 134559384,
-            "language": null,
-            "last_commit": "2026-05-23T05:25:49Z",
-            "owner": "facyber",
-            "repo": "awesome-networking",
-            "stars": 1274
-          }
-        },
-        {
-          "node_type": "item",
           "title": "MobileHackersWeapons",
           "description": "Mobile Hacker's Weapons / A collection of cool tools used by Mobile hackers. Happy hacking , Happy bug-hunting.",
           "children": [],
@@ -28198,7 +28198,7 @@
             "last_commit": "2026-03-01T01:58:42Z",
             "owner": "hahwul",
             "repo": "MobileHackersWeapons",
-            "stars": 1272
+            "stars": 1273
           }
         },
         {
@@ -28270,7 +28270,7 @@
             "archived": false,
             "id": 126641992,
             "language": "Python",
-            "last_commit": "2026-08-24T06:59:07Z",
+            "last_commit": "2026-08-25T06:14:03Z",
             "owner": "valpackett",
             "repo": "awesome-gtk",
             "stars": 1266
@@ -28653,6 +28653,21 @@
         },
         {
           "node_type": "item",
+          "title": "Awesome-AI-Agents-for-Healthcare",
+          "description": "Latest Advances on Agentic AI & AI Agents for Healthcare.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1077926723,
+            "language": null,
+            "last_commit": "2026-08-19T17:31:10Z",
+            "owner": "AgenticHealthAI",
+            "repo": "Awesome-AI-Agents-for-Healthcare",
+            "stars": 1224
+          }
+        },
+        {
+          "node_type": "item",
           "title": "awesome-relation-extraction",
           "description": "📖 A curated list of awesome resources dedicated to Relation Extraction, one of the most important tasks in Natural Language Processing (NLP).",
           "children": [],
@@ -28678,21 +28693,6 @@
             "last_commit": "2025-03-05T15:20:16Z",
             "owner": "ghoullier",
             "repo": "awesome-template-literal-types",
-            "stars": 1223
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome-AI-Agents-for-Healthcare",
-          "description": "Latest Advances on Agentic AI & AI Agents for Healthcare.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1077926723,
-            "language": null,
-            "last_commit": "2026-08-19T17:31:10Z",
-            "owner": "AgenticHealthAI",
-            "repo": "Awesome-AI-Agents-for-Healthcare",
             "stars": 1223
           }
         },
@@ -29098,7 +29098,7 @@
             "last_commit": "2026-08-17T11:13:31Z",
             "owner": "VILA-Lab",
             "repo": "Awesome-DLMs",
-            "stars": 1186
+            "stars": 1187
           }
         },
         {
@@ -29193,6 +29193,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-workflow-automation",
+          "description": "A curated list of Workflow Automation Software, Engines and Tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25362254,
+            "language": null,
+            "last_commit": "2026-04-28T14:45:31Z",
+            "owner": "dariubs",
+            "repo": "awesome-workflow-automation",
+            "stars": 1178
+          }
+        },
+        {
+          "node_type": "item",
           "title": "awesome-ai-memory",
           "description": "Awesome AI Memory | LLM Memory | A curated knowledge base on AI memory for LLMs and agents, covering long-term memory, reasoning, retrieval, and memory-native system design. Awesome-AI-Memory 是一个 集中式、持续更新的 AI 记忆知识库，系统性整理了与 大模型记忆（LLM Memory）与智能体记忆（Agent Memory） 相关的前沿研究、工程框架、系统设计、评测基准与真实应用实践。.",
           "children": [],
@@ -29204,21 +29219,6 @@
             "owner": "IAAR-Shanghai",
             "repo": "Awesome-AI-Memory",
             "stars": 1178
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-workflow-automation",
-          "description": "A curated list of Workflow Automation Software, Engines and Tools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 25362254,
-            "language": null,
-            "last_commit": "2026-04-28T14:45:31Z",
-            "owner": "dariubs",
-            "repo": "awesome-workflow-automation",
-            "stars": 1177
           }
         },
         {
@@ -29328,6 +29328,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome_audio_video_learning",
+          "description": "2025年音视频开发最新总结，提供全面的音视频开发学习资源，涵盖从基础知识到实战项目的资料、论文、书籍、项目和示例，帮助你快速热门并逐步进阶，持续更新维护中！.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1044233138,
+            "language": null,
+            "last_commit": "2025-09-09T06:08:33Z",
+            "owner": "0voice",
+            "repo": "awesome_audio_video_learning",
+            "stars": 1161
+          }
+        },
+        {
+          "node_type": "item",
           "title": "awesome-vision-language-pretraining-papers",
           "description": "Recent Advances in Vision and Language PreTrained Models (VL-PTMs).",
           "children": [],
@@ -29368,21 +29383,6 @@
             "last_commit": "2024-04-08T06:32:51Z",
             "owner": "yrgo",
             "repo": "awesome-educational-games",
-            "stars": 1159
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome_audio_video_learning",
-          "description": "2025年音视频开发最新总结，提供全面的音视频开发学习资源，涵盖从基础知识到实战项目的资料、论文、书籍、项目和示例，帮助你快速热门并逐步进阶，持续更新维护中！.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1044233138,
-            "language": null,
-            "last_commit": "2025-09-09T06:08:33Z",
-            "owner": "0voice",
-            "repo": "awesome_audio_video_learning",
             "stars": 1159
           }
         },
@@ -30028,7 +30028,7 @@
             "last_commit": "2026-08-11T02:49:45Z",
             "owner": "hzxie",
             "repo": "Awesome-3D-Scene-Generation",
-            "stars": 1081
+            "stars": 1083
           }
         },
         {
@@ -30213,21 +30213,6 @@
         },
         {
           "node_type": "item",
-          "title": "Knowledge-Graph-Tutorials-and-Papers",
-          "description": "Insightful Tutorials and Papers about Knowledge Graphs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 174802068,
-            "language": null,
-            "last_commit": "2026-08-14T09:29:51Z",
-            "owner": "heathersherry",
-            "repo": "Knowledge-Graph-Tutorials-and-Papers",
-            "stars": 1069
-          }
-        },
-        {
-          "node_type": "item",
           "title": "awesome-cli-coding-agents",
           "description": "Curated directory of terminal-native AI coding agents and the harnesses that orchestrate them. Covers open-source tools (Pi, OpenCode, Aider, Goose), platform agents (Claude Code, Codex, Gemini CLI), parallel runners, autonomous loops, and agent infrastructure. .",
           "children": [],
@@ -30238,6 +30223,21 @@
             "last_commit": "2026-08-24T20:15:11Z",
             "owner": "bradAGI",
             "repo": "awesome-cli-coding-agents",
+            "stars": 1071
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knowledge-Graph-Tutorials-and-Papers",
+          "description": "Insightful Tutorials and Papers about Knowledge Graphs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 174802068,
+            "language": null,
+            "last_commit": "2026-08-14T09:29:51Z",
+            "owner": "heathersherry",
+            "repo": "Knowledge-Graph-Tutorials-and-Papers",
             "stars": 1069
           }
         },
@@ -30283,7 +30283,7 @@
             "last_commit": "2025-07-04T05:41:40Z",
             "owner": "0voice",
             "repo": "Awesome-QuantDev-Learn",
-            "stars": 1065
+            "stars": 1066
           }
         },
         {
@@ -30733,7 +30733,7 @@
             "last_commit": "2025-11-25T12:51:43Z",
             "owner": "YifanZhang07",
             "repo": "Awesome-LongTailed-Learning",
-            "stars": 1026
+            "stars": 1027
           }
         },
         {
@@ -30748,7 +30748,7 @@
             "last_commit": "2026-08-02T17:46:38Z",
             "owner": "ligurio",
             "repo": "awesome-ttygames",
-            "stars": 1025
+            "stars": 1026
           }
         },
         {
@@ -31068,21 +31068,6 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-iocs",
-          "description": "A collection of sources of indicators of compromise.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 74331654,
-            "language": "Shell",
-            "last_commit": "2025-05-08T15:09:05Z",
-            "owner": "sroberts",
-            "repo": "awesome-iocs",
-            "stars": 996
-          }
-        },
-        {
-          "node_type": "item",
           "title": "awesome-openclaw",
           "description": "A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) — open-source self-hosted AI agent for WhatsApp, Telegram, Discord & 50+ integrations.",
           "children": [],
@@ -31093,6 +31078,21 @@
             "last_commit": "2026-08-17T06:47:56Z",
             "owner": "Anil-matcha",
             "repo": "awesome-openclaw",
+            "stars": 997
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-iocs",
+          "description": "A collection of sources of indicators of compromise.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 74331654,
+            "language": "Shell",
+            "last_commit": "2025-05-08T15:09:05Z",
+            "owner": "sroberts",
+            "repo": "awesome-iocs",
             "stars": 996
           }
         },
@@ -31368,21 +31368,6 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-automotive-can-id",
-          "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 317634009,
-            "language": null,
-            "last_commit": "2026-08-12T13:39:28Z",
-            "owner": "iDoka",
-            "repo": "awesome-automotive-can-id",
-            "stars": 978
-          }
-        },
-        {
-          "node_type": "item",
           "title": "awesome-vla-wam",
           "description": "A Curated List of Vision-Language-Action (VLA) and World Action Models (WAM) Research and Beyond.",
           "children": [],
@@ -31393,6 +31378,21 @@
             "last_commit": "2026-08-21T18:14:33Z",
             "owner": "DravenALG",
             "repo": "awesome-vla-wam",
+            "stars": 978
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-automotive-can-id",
+          "description": ":tractor: Collect of CAN IDs and its payloads for various car brands/models in one place. Might be useful for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 317634009,
+            "language": null,
+            "last_commit": "2026-08-12T13:39:28Z",
+            "owner": "iDoka",
+            "repo": "awesome-automotive-can-id",
             "stars": 977
           }
         },
@@ -31543,7 +31543,7 @@
             "last_commit": "2026-08-21T06:18:22Z",
             "owner": "worldbench",
             "repo": "awesome-3d-4d-world-models",
-            "stars": 967
+            "stars": 968
           }
         },
         {
@@ -31578,21 +31578,6 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-kubernetes-security",
-          "description": "A curated list of awesome Kubernetes security resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 187921415,
-            "language": null,
-            "last_commit": "2023-12-15T05:19:31Z",
-            "owner": "ksoclabs",
-            "repo": "awesome-kubernetes-security",
-            "stars": 965
-          }
-        },
-        {
-          "node_type": "item",
           "title": "awesome-jsgames",
           "description": "A curated list of awesome JavaScript Games 🎮.",
           "children": [],
@@ -31603,6 +31588,21 @@
             "last_commit": "2026-03-22T21:09:20Z",
             "owner": "proyecto26",
             "repo": "awesome-jsgames",
+            "stars": 966
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-kubernetes-security",
+          "description": "A curated list of awesome Kubernetes security resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 187921415,
+            "language": null,
+            "last_commit": "2023-12-15T05:19:31Z",
+            "owner": "ksoclabs",
+            "repo": "awesome-kubernetes-security",
             "stars": 965
           }
         },
@@ -31938,6 +31938,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-multi-omics",
+          "description": "List of software packages for multi-omics analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 144076744,
+            "language": null,
+            "last_commit": "2026-08-04T18:01:58Z",
+            "owner": "mikelove",
+            "repo": "awesome-multi-omics",
+            "stars": 942
+          }
+        },
+        {
+          "node_type": "item",
           "title": "awesome-humanoid-learning",
           "description": "Humanoid Robots Resources.",
           "children": [],
@@ -31949,21 +31964,6 @@
             "owner": "jonyzhang2023",
             "repo": "awesome-humanoid-learning",
             "stars": 942
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-multi-omics",
-          "description": "List of software packages for multi-omics analysis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 144076744,
-            "language": null,
-            "last_commit": "2026-08-04T18:01:58Z",
-            "owner": "mikelove",
-            "repo": "awesome-multi-omics",
-            "stars": 941
           }
         },
         {
@@ -32148,21 +32148,6 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-ld-preload",
-          "description": "List of resources related to LD_PRELOAD, a mechanism for changing application behavior at run-time.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 236289767,
-            "language": null,
-            "last_commit": "2024-04-23T13:22:18Z",
-            "owner": "gaul",
-            "repo": "awesome-ld-preload",
-            "stars": 921
-          }
-        },
-        {
-          "node_type": "item",
           "title": "3d-resources",
           "description": "Curated, CC0 reference hub for 3D, VFX, and game dev. 3,400+ tools, assets, and tutorials across 12 sections. Searchable, filterable, free.",
           "children": [],
@@ -32173,6 +32158,21 @@
             "last_commit": "2026-08-21T13:07:37Z",
             "owner": "devanshutak25",
             "repo": "3d-resources",
+            "stars": 922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-ld-preload",
+          "description": "List of resources related to LD_PRELOAD, a mechanism for changing application behavior at run-time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 236289767,
+            "language": null,
+            "last_commit": "2024-04-23T13:22:18Z",
+            "owner": "gaul",
+            "repo": "awesome-ld-preload",
             "stars": 921
           }
         },
@@ -32583,6 +32583,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-deepseek-harness",
+          "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1330942675,
+            "language": "Python",
+            "last_commit": "2026-08-25T05:26:52Z",
+            "owner": "0xsline",
+            "repo": "awesome-deepseek-harness",
+            "stars": 891
+          }
+        },
+        {
+          "node_type": "item",
           "title": "awesome-runners",
           "description": "A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix.",
           "children": [],
@@ -32613,6 +32628,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-geospatial-companies",
+          "description": ":globe_with_meridians: List & Map of 800+ companies for geospatial jobs (GIS, Earth Observation, UAV, Satellite, Digital Farming, .).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 272108471,
+            "language": "Python",
+            "last_commit": "2026-07-09T02:14:59Z",
+            "owner": "chrieke",
+            "repo": "awesome-geospatial-companies",
+            "stars": 888
+          }
+        },
+        {
+          "node_type": "item",
           "title": "awesome-docs",
           "description": "A curated list of awesome documentation tools.",
           "children": [],
@@ -32638,36 +32668,6 @@
             "last_commit": "2026-08-24T11:14:43Z",
             "owner": "ahmet",
             "repo": "awesome-web3",
-            "stars": 887
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-geospatial-companies",
-          "description": ":globe_with_meridians: List & Map of 800+ companies for geospatial jobs (GIS, Earth Observation, UAV, Satellite, Digital Farming, .).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 272108471,
-            "language": "Python",
-            "last_commit": "2026-07-09T02:14:59Z",
-            "owner": "chrieke",
-            "repo": "awesome-geospatial-companies",
-            "stars": 887
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-deepseek-harness",
-          "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1330942675,
-            "language": "Python",
-            "last_commit": "2026-08-24T23:24:34Z",
-            "owner": "0xsline",
-            "repo": "awesome-deepseek-harness",
             "stars": 887
           }
         },
@@ -33318,6 +33318,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-cs",
+          "description": "👨‍💻 ❤️ 💻 上海交通大学计算机系本科作业参考.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 269371168,
+            "language": "Python",
+            "last_commit": "2026-07-15T05:25:30Z",
+            "owner": "SJTU-CSE",
+            "repo": "awesome-cs",
+            "stars": 833
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Awesome-LLM-Uncertainty-Reliability-Robustness",
           "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models.",
           "children": [],
@@ -33359,21 +33374,6 @@
             "owner": "yetmike",
             "repo": "awesome-kubestronaut",
             "stars": 833
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-cs",
-          "description": "👨‍💻 ❤️ 💻 上海交通大学计算机系本科作业参考.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 269371168,
-            "language": "Python",
-            "last_commit": "2026-07-15T05:25:30Z",
-            "owner": "SJTU-CSE",
-            "repo": "awesome-cs",
-            "stars": 832
           }
         },
         {
@@ -33813,6 +33813,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-local-llms",
+          "description": "Compare compatible open-source local LLM projects by their metrics to assess popularity and activeness.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 764998085,
+            "language": "Python",
+            "last_commit": "2026-08-24T09:36:45Z",
+            "owner": "vince-lam",
+            "repo": "awesome-local-llms",
+            "stars": 803
+          }
+        },
+        {
+          "node_type": "item",
           "title": "awesome-ue4",
           "description": "A curated list of resources for working with Unreal Engine 4. (Awesome Unreal Engine 4).",
           "children": [],
@@ -33853,21 +33868,6 @@
             "last_commit": "2026-08-18T21:05:14Z",
             "owner": "taskflow",
             "repo": "awesome-parallel-computing",
-            "stars": 802
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-local-llms",
-          "description": "Compare compatible open-source local LLM projects by their metrics to assess popularity and activeness.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 764998085,
-            "language": "Python",
-            "last_commit": "2026-08-24T09:36:45Z",
-            "owner": "vince-lam",
-            "repo": "awesome-local-llms",
             "stars": 802
           }
         },
@@ -33943,7 +33943,7 @@
             "last_commit": "2026-08-25T02:51:52Z",
             "owner": "laolaoshiren",
             "repo": "claude-code-skills-zh",
-            "stars": 791
+            "stars": 793
           }
         },
         {
@@ -34543,7 +34543,7 @@
             "last_commit": "2023-09-04T23:11:00Z",
             "owner": "doingodswork",
             "repo": "awesome-stremio",
-            "stars": 759
+            "stars": 760
           }
         },
         {
@@ -34653,21 +34653,6 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-eventbridge",
-          "description": "List of resources for learning about events, patterns, and using Amazon EventBridge.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 448032871,
-            "language": null,
-            "last_commit": "2025-05-07T10:09:29Z",
-            "owner": "boyney123",
-            "repo": "awesome-eventbridge",
-            "stars": 749
-          }
-        },
-        {
-          "node_type": "item",
           "title": "awesome-react-graphql",
           "description": "A curated collection of resources, clients and tools that make working with awesome.",
           "children": [],
@@ -34678,6 +34663,21 @@
             "last_commit": "2020-12-22T18:35:38Z",
             "owner": "hasura",
             "repo": "awesome-react-graphql",
+            "stars": 748
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-eventbridge",
+          "description": "List of resources for learning about events, patterns, and using Amazon EventBridge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 448032871,
+            "language": null,
+            "last_commit": "2025-05-07T10:09:29Z",
+            "owner": "boyney123",
+            "repo": "awesome-eventbridge",
             "stars": 748
           }
         },
@@ -34893,21 +34893,6 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-hust",
-          "description": "HUST experiments, reports, and useful tools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 136359927,
-            "language": "Shell",
-            "last_commit": "2025-06-30T00:32:34Z",
-            "owner": "recolic",
-            "repo": "awesome-hust",
-            "stars": 739
-          }
-        },
-        {
-          "node_type": "item",
           "title": "awesome-on-policy-distillation",
           "description": "A curated collection of papers, technical reports, frameworks, and tools for on-policy distillation (OPD) of large language models.",
           "children": [],
@@ -34918,6 +34903,21 @@
             "last_commit": "2026-08-15T04:27:47Z",
             "owner": "chrisliu298",
             "repo": "awesome-on-policy-distillation",
+            "stars": 740
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-hust",
+          "description": "HUST experiments, reports, and useful tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 136359927,
+            "language": "Shell",
+            "last_commit": "2025-06-30T00:32:34Z",
+            "owner": "recolic",
+            "repo": "awesome-hust",
             "stars": 739
           }
         },
@@ -35148,6 +35148,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-human-distillation",
+          "description": "A curated catalog of human distillliation agent skills.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1199916658,
+            "language": "Python",
+            "last_commit": "2026-08-25T02:50:22Z",
+            "owner": "mliu98",
+            "repo": "awesome-human-distillation",
+            "stars": 728
+          }
+        },
+        {
+          "node_type": "item",
           "title": "bluetoolkit",
           "description": "BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research, penetration testing and bluetooth hacking. We also collected and classified Bluetooth vulnerabilities in an \"Awesome Bluetooth Security\" way.",
           "children": [],
@@ -35173,21 +35188,6 @@
             "last_commit": "2026-08-20T08:56:23Z",
             "owner": "firework8",
             "repo": "Awesome-Skeleton-based-Action-Recognition",
-            "stars": 727
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-human-distillation",
-          "description": "A curated catalog of human distillliation agent skills.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1199916658,
-            "language": "Python",
-            "last_commit": "2026-08-25T02:50:22Z",
-            "owner": "mliu98",
-            "repo": "awesome-human-distillation",
             "stars": 727
           }
         },
@@ -35293,7 +35293,7 @@
             "last_commit": "2026-06-16T18:05:37Z",
             "owner": "mathworks",
             "repo": "awesome-matlab-students",
-            "stars": 721
+            "stars": 722
           }
         },
         {
@@ -35613,6 +35613,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-networking",
+          "description": "Curated list of awesome computer networking resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 120031407,
+            "language": null,
+            "last_commit": "2026-06-27T18:41:51Z",
+            "owner": "nyquist",
+            "repo": "awesome-networking",
+            "stars": 705
+          }
+        },
+        {
+          "node_type": "item",
           "title": "competitive-programming",
           "description": "A one-stop Destination✏️ for all your Competitive Programming Resources.📗📕 Refer CONTRIBUTING.md for contributions.",
           "children": [],
@@ -35638,21 +35653,6 @@
             "last_commit": "2026-08-23T01:16:19Z",
             "owner": "yibie",
             "repo": "awesome-autoresearch",
-            "stars": 703
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-networking",
-          "description": "Curated list of awesome computer networking resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 120031407,
-            "language": null,
-            "last_commit": "2026-06-27T18:41:51Z",
-            "owner": "nyquist",
-            "repo": "awesome-networking",
             "stars": 703
           }
         },
@@ -35868,6 +35868,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-pentest-cheat-sheets",
+          "description": "Collection of cheat sheets useful for pentesting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 752811322,
+            "language": null,
+            "last_commit": "2024-06-27T07:56:01Z",
+            "owner": "ByteSnipers",
+            "repo": "awesome-pentest-cheat-sheets",
+            "stars": 689
+          }
+        },
+        {
+          "node_type": "item",
           "title": "awesome-open-source-supporters",
           "description": "⭐️ A curated list of companies that offer their services for free to Open Source projects.",
           "children": [],
@@ -35883,16 +35898,16 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-pentest-cheat-sheets",
-          "description": "Collection of cheat sheets useful for pentesting.",
+          "title": "best-of-Agent-Harnesses",
+          "description": "🏆 Curated, ranked list of AI agent harnesses (100+) — plus an MCP server, llms.txt & JSON so agents can recommend them too. Rescored weekly.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "id": 752811322,
-            "language": null,
-            "last_commit": "2024-06-27T07:56:01Z",
-            "owner": "ByteSnipers",
-            "repo": "awesome-pentest-cheat-sheets",
+            "id": 1175588150,
+            "language": "Python",
+            "last_commit": "2026-08-23T14:22:36Z",
+            "owner": "RyanAlberts",
+            "repo": "best-of-Agent-Harnesses",
             "stars": 688
           }
         },
@@ -35908,21 +35923,6 @@
             "last_commit": "2023-04-12T16:20:45Z",
             "owner": "abacaj",
             "repo": "awesome-transformers",
-            "stars": 687
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "best-of-Agent-Harnesses",
-          "description": "🏆 Curated, ranked list of AI agent harnesses (100+) — plus an MCP server, llms.txt & JSON so agents can recommend them too. Rescored weekly.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1175588150,
-            "language": "Python",
-            "last_commit": "2026-08-23T14:22:36Z",
-            "owner": "RyanAlberts",
-            "repo": "best-of-Agent-Harnesses",
             "stars": 687
           }
         },
@@ -36415,7 +36415,7 @@
             "archived": false,
             "id": 853732915,
             "language": null,
-            "last_commit": "2026-08-22T14:20:19Z",
+            "last_commit": "2026-08-25T04:31:08Z",
             "owner": "open-spaced-repetition",
             "repo": "awesome-fsrs",
             "stars": 664
@@ -36963,21 +36963,6 @@
         },
         {
           "node_type": "item",
-          "title": "Awesome-AI-Review",
-          "description": "Awesome AI industry & research review.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 357972921,
-            "language": null,
-            "last_commit": "2026-03-10T04:29:22Z",
-            "owner": "junfanz1",
-            "repo": "Awesome-AI-Review",
-            "stars": 648
-          }
-        },
-        {
-          "node_type": "item",
           "title": "awesome-multi-view-clustering",
           "description": "Collections for advanced, novel multi-view clustering methods(papers , codes and datasets).",
           "children": [],
@@ -37033,6 +37018,21 @@
             "last_commit": "2022-09-20T11:10:44Z",
             "owner": "pjagielski",
             "repo": "awesome-live-coding-music",
+            "stars": 647
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-AI-Review",
+          "description": "Awesome AI industry & research review.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 357972921,
+            "language": null,
+            "last_commit": "2026-03-10T04:29:22Z",
+            "owner": "junfanz1",
+            "repo": "Awesome-AI-Review",
             "stars": 647
           }
         },
@@ -37135,7 +37135,7 @@
             "archived": false,
             "id": 1084889552,
             "language": null,
-            "last_commit": "2026-08-20T13:20:19Z",
+            "last_commit": "2026-08-25T05:36:00Z",
             "owner": "TsinghuaC3I",
             "repo": "Awesome-Memory-for-Agents",
             "stars": 643
@@ -37458,6 +37458,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-quant-interview",
+          "description": "量化金融八股文 | 55道高频考点 × 详细解答 | 数学统计 · Python/C++ · 因子与Alpha策略 · 机器学习/深度学习 | 面试 + 学习两用指南.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1193344795,
+            "language": null,
+            "last_commit": "2026-08-03T03:04:10Z",
+            "owner": "SoYuCry",
+            "repo": "awesome-quant-interview",
+            "stars": 632
+          }
+        },
+        {
+          "node_type": "item",
           "title": "awesome-buggy-erc20-tokens",
           "description": "A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected.",
           "children": [],
@@ -37578,21 +37593,6 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-quant-interview",
-          "description": "量化金融八股文 | 55道高频考点 × 详细解答 | 数学统计 · Python/C++ · 因子与Alpha策略 · 机器学习/深度学习 | 面试 + 学习两用指南.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1193344795,
-            "language": null,
-            "last_commit": "2026-08-03T03:04:10Z",
-            "owner": "SoYuCry",
-            "repo": "awesome-quant-interview",
-            "stars": 629
-          }
-        },
-        {
-          "node_type": "item",
           "title": "awesome-concepts",
           "description": "Awesome list about all kinds of interesting topics: Laws, Principles, Mental Models, Cognitive Biases.",
           "children": [],
@@ -37668,21 +37668,6 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-astronomy",
-          "description": "A list of awesome astronomy projects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 35851867,
-            "language": null,
-            "last_commit": "2025-07-30T14:42:37Z",
-            "owner": "jonathansick",
-            "repo": "awesome-astronomy",
-            "stars": 625
-          }
-        },
-        {
-          "node_type": "item",
           "title": "awesome-intelligence-writing",
           "description": "Collection of awesome resources on intelligence writing, including manuals/guides, standards, books, tranings, articles, videos, etc.",
           "children": [],
@@ -37693,6 +37678,21 @@
             "last_commit": "2025-12-04T03:51:22Z",
             "owner": "mxm0z",
             "repo": "awesome-intelligence-writing",
+            "stars": 626
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-astronomy",
+          "description": "A list of awesome astronomy projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35851867,
+            "language": null,
+            "last_commit": "2025-07-30T14:42:37Z",
+            "owner": "jonathansick",
+            "repo": "awesome-astronomy",
             "stars": 625
           }
         },
@@ -38148,6 +38148,21 @@
         },
         {
           "node_type": "item",
+          "title": "Awesome-Agent-Memory",
+          "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1086124473,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:47:18Z",
+            "owner": "TeleAI-UAGI",
+            "repo": "Awesome-Agent-Memory",
+            "stars": 604
+          }
+        },
+        {
+          "node_type": "item",
           "title": "awesome-ipsum",
           "description": "A curated list of awesome lorem ipsum generators.",
           "children": [],
@@ -38233,21 +38248,6 @@
             "last_commit": "2023-05-30T11:02:04Z",
             "owner": "Hardy-Uint",
             "repo": "awesome-3D-vision",
-            "stars": 602
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome-Agent-Memory",
-          "description": "Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1086124473,
-            "language": "Python",
-            "last_commit": "2026-08-24T14:47:18Z",
-            "owner": "TeleAI-UAGI",
-            "repo": "Awesome-Agent-Memory",
             "stars": 602
           }
         },
@@ -38383,7 +38383,7 @@
             "last_commit": "2026-08-24T08:44:30Z",
             "owner": "yyeboah",
             "repo": "Awesome-Text-to-3D",
-            "stars": 597
+            "stars": 598
           }
         },
         {
@@ -39708,21 +39708,6 @@
         },
         {
           "node_type": "item",
-          "title": "best-of-crypto",
-          "description": "🏆 A ranked list of awesome open-source crypto projects. Updated weekly.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 445931634,
-            "language": null,
-            "last_commit": "2024-07-12T09:36:46Z",
-            "owner": "lukasmasuch",
-            "repo": "best-of-crypto",
-            "stars": 550
-          }
-        },
-        {
-          "node_type": "item",
           "title": "awesome-awesome-wm",
           "description": "A curated list of awesome tools/scripts/configs for Awesome Window Manager.",
           "children": [],
@@ -39763,6 +39748,21 @@
             "last_commit": "2026-06-30T08:25:18Z",
             "owner": "EnableSecurity",
             "repo": "awesome-rtc-hacking",
+            "stars": 549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "best-of-crypto",
+          "description": "🏆 A ranked list of awesome open-source crypto projects. Updated weekly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 445931634,
+            "language": null,
+            "last_commit": "2024-07-12T09:36:46Z",
+            "owner": "lukasmasuch",
+            "repo": "best-of-crypto",
             "stars": 549
           }
         },
@@ -40038,6 +40038,21 @@
         },
         {
           "node_type": "item",
+          "title": "Awesome-Multimodal-Modeling",
+          "description": "Awesome Multimodal Modeling [Covers MLLM, UMM, and NMM].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1193748483,
+            "language": null,
+            "last_commit": "2026-08-07T16:18:16Z",
+            "owner": "OpenEnvision",
+            "repo": "Awesome-Multimodal-Modeling",
+            "stars": 539
+          }
+        },
+        {
+          "node_type": "item",
           "title": "awesome-css-grid",
           "description": "A curated list of CSS Grid Resources.",
           "children": [],
@@ -40098,16 +40113,16 @@
         },
         {
           "node_type": "item",
-          "title": "Awesome-Multimodal-Modeling",
-          "description": "Awesome Multimodal Modeling [Covers MLLM, UMM, and NMM].",
+          "title": "Awesome-hacking-tools",
+          "description": "收集网上好用、实用的红蓝对抗武器。从资产扫描、泄漏扫描、信息收集、漏洞扫描、SRC批量挖掘、内网渗透、应急响应等等工具。 大部分我都用过、部分会写上自己的感想与建议，希望对你有帮助.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "id": 1193748483,
-            "language": null,
-            "last_commit": "2026-08-07T16:18:16Z",
-            "owner": "OpenEnvision",
-            "repo": "Awesome-Multimodal-Modeling",
+            "id": 480365383,
+            "language": "Python",
+            "last_commit": "2022-05-21T05:44:10Z",
+            "owner": "awake1t",
+            "repo": "Awesome-hacking-tools",
             "stars": 538
           }
         },
@@ -40138,21 +40153,6 @@
             "last_commit": "2026-07-16T18:23:46Z",
             "owner": "fstanis",
             "repo": "awesome-webdav",
-            "stars": 537
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome-hacking-tools",
-          "description": "收集网上好用、实用的红蓝对抗武器。从资产扫描、泄漏扫描、信息收集、漏洞扫描、SRC批量挖掘、内网渗透、应急响应等等工具。 大部分我都用过、部分会写上自己的感想与建议，希望对你有帮助.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 480365383,
-            "language": "Python",
-            "last_commit": "2022-05-21T05:44:10Z",
-            "owner": "awake1t",
-            "repo": "Awesome-hacking-tools",
             "stars": 537
           }
         },
@@ -40843,7 +40843,7 @@
             "last_commit": "2026-08-13T09:28:38Z",
             "owner": "InternScience",
             "repo": "Awesome-Scientific-Skills",
-            "stars": 517
+            "stars": 518
           }
         },
         {
@@ -40930,7 +40930,7 @@
             "archived": false,
             "id": 1105262876,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T01:02:45Z",
+            "last_commit": "2026-08-25T04:34:26Z",
             "owner": "YouMind-OpenLab",
             "repo": "awesome-gemini-3-prompts",
             "stars": 514
@@ -42138,6 +42138,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-ai-voice",
+          "description": "List of open-source TTS, voice cloning, and music generation models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1178248327,
+            "language": null,
+            "last_commit": "2026-08-24T11:02:36Z",
+            "owner": "wildminder",
+            "repo": "awesome-ai-voice",
+            "stars": 475
+          }
+        },
+        {
+          "node_type": "item",
           "title": "awesome-ruby-security",
           "description": "Awesome Ruby Security resources.",
           "children": [],
@@ -42178,21 +42193,6 @@
             "last_commit": "2024-02-05T14:03:24Z",
             "owner": "felipefialho",
             "repo": "frontend-tools",
-            "stars": 474
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-ai-voice",
-          "description": "List of open-source TTS, voice cloning, and music generation models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1178248327,
-            "language": null,
-            "last_commit": "2026-08-24T11:02:36Z",
-            "owner": "wildminder",
-            "repo": "awesome-ai-voice",
             "stars": 474
           }
         },
@@ -42468,6 +42468,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-vla-for-ad",
+          "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1052088443,
+            "language": "HTML",
+            "last_commit": "2026-08-21T04:32:52Z",
+            "owner": "worldbench",
+            "repo": "awesome-vla-for-ad",
+            "stars": 465
+          }
+        },
+        {
+          "node_type": "item",
           "title": "awesome-slim",
           "description": "A curated list of awesome tutorials and other resources for the Slim micro framework.",
           "children": [],
@@ -42508,21 +42523,6 @@
             "last_commit": "2021-09-28T14:59:54Z",
             "owner": "SrinivasanTarget",
             "repo": "awesome-appium",
-            "stars": 464
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-vla-for-ad",
-          "description": "🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1052088443,
-            "language": "HTML",
-            "last_commit": "2026-08-21T04:32:52Z",
-            "owner": "worldbench",
-            "repo": "awesome-vla-for-ad",
             "stars": 464
           }
         },
@@ -42670,7 +42670,7 @@
             "archived": false,
             "id": 1223597497,
             "language": null,
-            "last_commit": "2026-08-24T09:25:25Z",
+            "last_commit": "2026-08-25T06:23:57Z",
             "owner": "ZeroPointRepo",
             "repo": "awesome-hermes-skills",
             "stars": 461
@@ -43353,6 +43353,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-marketing",
+          "description": "A curated list of awesome marketing tools and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 759393175,
+            "language": null,
+            "last_commit": "2026-07-27T07:26:41Z",
+            "owner": "marketingtoolslist",
+            "repo": "awesome-marketing",
+            "stars": 441
+          }
+        },
+        {
+          "node_type": "item",
           "title": "awesome-live-reloading",
           "description": "A curated collection of live-reloading / hot-reloading / watch-reloading tools for different languages and frameworks.",
           "children": [],
@@ -43408,21 +43423,6 @@
             "last_commit": "2026-04-20T08:24:23Z",
             "owner": "pprp",
             "repo": "Awesome-LLM-Quantization",
-            "stars": 440
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-marketing",
-          "description": "A curated list of awesome marketing tools and resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 759393175,
-            "language": null,
-            "last_commit": "2026-07-27T07:26:41Z",
-            "owner": "marketingtoolslist",
-            "repo": "awesome-marketing",
             "stars": 440
           }
         },
@@ -43753,7 +43753,7 @@
             "last_commit": "2022-10-07T18:41:14Z",
             "owner": "hurcy",
             "repo": "awesome-ehr-deeplearning",
-            "stars": 429
+            "stars": 430
           }
         },
         {
@@ -44268,6 +44268,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-adhd",
+          "description": "A curated list of ADHD apps, books, ideas and resources across the web!.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 645541329,
+            "language": null,
+            "last_commit": "2025-01-29T12:05:35Z",
+            "owner": "XargsUK",
+            "repo": "awesome-adhd",
+            "stars": 417
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Awesome-Law-NLP-Research-Work",
           "description": "Awesome Law NLP Research Work, Paper, Competition, Onlline System.",
           "children": [],
@@ -44293,21 +44308,6 @@
             "last_commit": "2026-08-09T09:00:33Z",
             "owner": "valentin-vogel",
             "repo": "awesome-nocode-lowcode",
-            "stars": 416
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-adhd",
-          "description": "A curated list of ADHD apps, books, ideas and resources across the web!.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 645541329,
-            "language": null,
-            "last_commit": "2025-01-29T12:05:35Z",
-            "owner": "XargsUK",
-            "repo": "awesome-adhd",
             "stars": 416
           }
         },
@@ -44883,6 +44883,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-vibe-research",
+          "description": "An open, collaboratively-built repository for AI-assisted scientific research — collecting and curating agents, skills, workflows, tools, and best practices across the full research lifecycle. 面向 AI 辅助科研的开放共建仓库 收集和沉淀科研全流程中的 agents、skills、workflows、tools 与最佳实践.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1267423357,
+            "language": "Python",
+            "last_commit": "2026-08-25T02:51:20Z",
+            "owner": "modelscope",
+            "repo": "Awesome-Vibe-Research",
+            "stars": 403
+          }
+        },
+        {
+          "node_type": "item",
           "title": "ProjectSoundtracks",
           "description": "🎧 List of best Soundtracks to boost your Productivity and Focus.",
           "children": [],
@@ -44908,21 +44923,6 @@
             "last_commit": "2026-08-24T16:43:02Z",
             "owner": "leipzig",
             "repo": "awesome-reproducible-research",
-            "stars": 402
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-vibe-research",
-          "description": "An open, collaboratively-built repository for AI-assisted scientific research — collecting and curating agents, skills, workflows, tools, and best practices across the full research lifecycle. 面向 AI 辅助科研的开放共建仓库 收集和沉淀科研全流程中的 agents、skills、workflows、tools 与最佳实践.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1267423357,
-            "language": "Python",
-            "last_commit": "2026-08-25T02:51:20Z",
-            "owner": "modelscope",
-            "repo": "Awesome-Vibe-Research",
             "stars": 402
           }
         },
@@ -45018,6 +45018,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-developer-marketing",
+          "description": "A living document of hand-picked resources for marketers working on dev-centric products. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 355664397,
+            "language": null,
+            "last_commit": "2026-03-03T14:17:29Z",
+            "owner": "ronakganatra",
+            "repo": "awesome-developer-marketing",
+            "stars": 400
+          }
+        },
+        {
+          "node_type": "item",
           "title": "awesome-dicom",
           "description": "A curated list of awesome DICOM resources and libraries.",
           "children": [],
@@ -45103,21 +45118,6 @@
             "last_commit": "2025-04-22T14:01:14Z",
             "owner": "GuoLanqing",
             "repo": "Awesome-Shadow-Removal",
-            "stars": 399
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-developer-marketing",
-          "description": "A living document of hand-picked resources for marketers working on dev-centric products. .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 355664397,
-            "language": null,
-            "last_commit": "2026-03-03T14:17:29Z",
-            "owner": "ronakganatra",
-            "repo": "awesome-developer-marketing",
             "stars": 399
           }
         },
@@ -46323,6 +46323,21 @@
         },
         {
           "node_type": "item",
+          "title": "awesome-llm-constrained-decoding",
+          "description": "A curated list of papers related to constrained decoding of LLM, along with their relevant code and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 828295085,
+            "language": null,
+            "last_commit": "2026-07-27T12:16:18Z",
+            "owner": "Saibo-creator",
+            "repo": "Awesome-LLM-Constrained-Decoding",
+            "stars": 366
+          }
+        },
+        {
+          "node_type": "item",
           "title": "awesome-fluid-dynamics",
           "description": "A curated list of repositories related to fluid dynamics.",
           "children": [],
@@ -46348,21 +46363,6 @@
             "last_commit": "2026-01-08T11:54:19Z",
             "owner": "Purshow",
             "repo": "Awesome-Unified-Multimodal",
-            "stars": 365
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-llm-constrained-decoding",
-          "description": "A curated list of papers related to constrained decoding of LLM, along with their relevant code and resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 828295085,
-            "language": null,
-            "last_commit": "2026-07-27T12:16:18Z",
-            "owner": "Saibo-creator",
-            "repo": "Awesome-LLM-Constrained-Decoding",
             "stars": 365
           }
         },
@@ -47170,7 +47170,7 @@
             "archived": false,
             "id": 89342798,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T08:05:55Z",
+            "last_commit": "2026-08-25T05:24:15Z",
             "owner": "SNStatComp",
             "repo": "awesome-official-statistics-software",
             "stars": 351
@@ -47466,7 +47466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:52:34.926Z",
+    "last_updated": "2026-08-25T06:25:48.591Z",
     "original_repository": "andrew/ultimate-awesome",
     "original_repository_id": 741679293,
     "original_repository_sha": "40a34ed941d33e4269bc09b26cfd790f1548d721",
