@@ -4,7 +4,7 @@ Every awesome list on every topic, including awesome lists of awesome lists, upd
 
 This list was generated automatically from [awesome.ecosyste.ms](https://awesome.ecosyste.ms/), an open API service indexing awesome lists of open source software. It includes every eligible awesome list with at least 30 items and a description. Within each section, lists are grouped by star count (1,000–9,999, 100–999, 10–99, and so on), highest groups first, then sorted alphabetically.
 
-Last generated: 2026-11-12, 10396 lists.
+Last generated: 2026-11-14, 10399 lists.
 
 ## Contents
 
@@ -651,26 +651,26 @@ Last generated: 2026-11-12, 10396 lists.
 
 ## Lists of Lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,142 | 🐛 103 | 📅 2026-09-02 - 😎 Awesome lists about all kinds of interesting topics \[NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones].
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,784 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02 - A curated list of awesome awesomeness.
-* [lists](https://github.com/jnv/lists) ⭐ 11,660 | 🐛 3 | 📅 2026-11-05 - The definitive list of lists (of lists) curated on GitHub and elsewhere.
-* [awesome\_qt\_learning](https://github.com/0voice/awesome_qt_learning) ⭐ 973 | 🐛 0 | 📅 2025-09-09 - 2025年 qt 开发最新总结，提供全面的 qt 开发学习资源，涵盖从基础知识到实战项目的资料、文献、书籍、项目和示例，帮助你快速入门并逐步进阶，持续更新维护中！.
-* [awesome-projects](https://github.com/imq/awesome-projects) ⭐ 466 | 🐛 1 | 🌐 HTML | 📅 2026-11-01 - A curated list of amazingly projects.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,585 | 🐛 104 | 📅 2026-09-02 - 😎 Awesome lists about all kinds of interesting topics \[NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones].
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,786 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02 - A curated list of awesome awesomeness.
+* [lists](https://github.com/jnv/lists) ⭐ 11,661 | 🐛 3 | 📅 2026-11-05 - The definitive list of lists (of lists) curated on GitHub and elsewhere.
+* [awesome\_qt\_learning](https://github.com/0voice/awesome_qt_learning) ⭐ 972 | 🐛 0 | 📅 2025-09-09 - 2025年 qt 开发最新总结，提供全面的 qt 开发学习资源，涵盖从基础知识到实战项目的资料、文献、书籍、项目和示例，帮助你快速入门并逐步进阶，持续更新维护中！.
+* [awesome-projects](https://github.com/imq/awesome-projects) ⭐ 470 | 🐛 2 | 🌐 HTML | 📅 2026-11-01 - A curated list of amazingly projects.
 * [awesome-awesome-artificial-intelligence](https://github.com/zhimin-z/awesome-awesome-artificial-intelligence) ⭐ 227 | 🐛 2 | 📅 2026-07-09 - A curated list of awesome curated lists of many topics related to artificial intelligence.
 * [awesome-cn](https://github.com/gamedilong/awesome-cn) ⭐ 132 | 🐛 0 | 📅 2020-01-23 - Awesome项目中文翻译，提升查阅效率.
 * [more-awesome](https://github.com/0ex/more-awesome) ⭐ 117 | 🐛 7 | 🌐 Python | 📅 2026-10-30 - An extensive list of "awesome" lists to help you find resources and starting points on every topic.
 * [awesome-awesome](https://github.com/coopermaa/awesome-awesome) ⭐ 93 | 🐛 0 | 📅 2019-11-22 - Awesome collection of awesome lists.
-* [awesome-lists](https://github.com/brandonhimpfen/awesome-lists) ⭐ 67 | 🐛 0 | 📅 2026-11-10 - A collection of awesome lists that are about a variety of different topics.
+* [awesome-lists](https://github.com/brandonhimpfen/awesome-lists) ⭐ 68 | 🐛 0 | 📅 2026-11-13 - A collection of awesome lists that are about a variety of different topics.
 * [awesome-ai-list-guide](https://github.com/bigcash/awesome-ai-list-guide) ⭐ 59 | 🐛 2 | 📅 2024-10-10 - The guide of awesome list about AI.
-* [fucking-awesome](https://github.com/Correia-jpv/fucking-awesome) ⭐ 54 | 🐛 2 | 📅 2026-11-12 - 😎 Awesome lists about all kinds of interesting topics. With repository stars⭐ and forks🍴.
+* [fucking-awesome](https://github.com/Correia-jpv/fucking-awesome) ⭐ 54 | 🐛 2 | 📅 2026-11-14 - 😎 Awesome lists about all kinds of interesting topics. With repository stars⭐ and forks🍴.
 * [fucking-lists](https://github.com/Correia-jpv/fucking-lists) ⭐ 37 | 🐛 1 | 📅 2026-11-12 - The definitive list of lists (of lists) curated on GitHub and elsewhere. With repository stars⭐ and forks🍴.
 * [fucking-awesome-awesomeness](https://github.com/Correia-jpv/fucking-awesome-awesomeness) ⭐ 29 | 🐛 0 | 🌐 Ruby | 📅 2026-11-12 - A curated list of awesome awesomeness. With repository stars⭐ and forks🍴.
 * [awesome](https://github.com/wohugb/awesome) ⭐ 22 | 🐛 0 | 🌐 HTML | 📅 2017-03-20 - 赞表.
-* [awesome](https://github.com/ever-works/awesome) ⭐ 14 | 🐛 1 | 📅 2026-05-01 - Awesome - meta collection of awesome directories -.
+* [awesome](https://github.com/ever-works/awesome) ⭐ 15 | 🐛 1 | 📅 2026-11-13 - Awesome - meta collection of awesome directories -.
 * [collection](https://github.com/exajobs/collection) ⭐ 9 | 🐛 0 | 📅 2022-03-20 - Welcome to the definitive collection of collections (of collections) curated on GitHub and elsewhere.
-* [awesome-index](https://github.com/tamnd/awesome-index) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - Auto-generated enriched index of sindresorhus/awesome — with stars, last update, commit counts, and more.
+* [awesome-index](https://github.com/tamnd/awesome-index) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-11-14 - Auto-generated enriched index of sindresorhus/awesome — with stars, last update, commit counts, and more.
 * [awesome-index](https://github.com/amrithasuresh/awesome-index) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-11-08 - 1,500+ curated awesome lists ranked by quality, trending activity, and recency. Auto-updated every Sunday via GitHub Actions.
-* [awesome-list-for-all-awesome-lists](https://github.com/achingachris/awesome-list-for-all-awesome-lists) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-11-12 - A comprehensive list of repositories named awesome or awesome-list.
+* [awesome-list-for-all-awesome-lists](https://github.com/achingachris/awesome-list-for-all-awesome-lists) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - A comprehensive list of repositories named awesome or awesome-list.
 * [awesome](https://github.com/egnd/awesome) ⭐ 1 | 🐛 0 | 🌐 Makefile | 📅 2023-04-06 - Awesome lists about all kinds of interesting topics.
 * [awesome-cn](https://github.com/iphpjs/awesome-cn) ⭐ 1 | 🐛 0 | 📅 2018-10-28 - Awesome精选列表.
 * [awesome-list](https://github.com/tehruhn/awesome-list) ⭐ 1 | 🐛 0 | 📅 2018-05-28 - Awesome list of awesome lists.
@@ -703,14 +703,14 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### C Lists
 
-* [awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) ⭐ 24,665 | 🐛 18 | 📅 2024-09-27 - 🐬 A collection of awesome resources for the Flipper Zero device.
+* [awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) ⭐ 24,669 | 🐛 18 | 📅 2024-09-27 - 🐬 A collection of awesome resources for the Flipper Zero device.
 * [Mac-QuickLook](https://github.com/haokaiyang/Mac-QuickLook) ⭐ 1,476 | 🐛 6 | 🌐 CSS | 📅 2026-04-01 - QuickLook plugins and packages.
 * [awesome-nginx](https://github.com/agile6v/awesome-nginx) ⭐ 1,304 | 🐛 6 | 🌐 C | 📅 2026-11-04 - A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:.
 * [awesome-embedded-software](https://github.com/iDoka/awesome-embedded-software) ⭐ 1,148 | 🐛 0 | 📅 2026-08-27 - :stars: List of software (HW interfaces, libs, protocols, etc) specifically suitable for resource-constrained Embedded Systems (low-memory and low-power) like 8-bit, 16-bit and 32-bit microcontrollers.
 * [awesome-c-preprocessor](https://github.com/Hirrolot/awesome-c-preprocessor) ⭐ 416 | 🐛 2 | 📅 2025-07-17 - A list of awesome C preprocessor stuff.
 * [fucking-awesome-flipperzero](https://github.com/Correia-jpv/fucking-awesome-flipperzero) ⭐ 416 | 🐛 1 | 📅 2026-11-12 - 🐬 A collection of awesome resources for the Flipper Zero device. With repository stars⭐ and forks🍴.
 * [awesome-zephyr-rtos](https://github.com/golioth/awesome-zephyr-rtos) ⭐ 231 | 🐛 1 | 📅 2026-09-08 - 🪁 A curated list of awesome projects and resources for the Zephyr RTOS project.
-* [AwesomeCompiler](https://github.com/BaseMax/AwesomeCompiler) ⭐ 112 | 🐛 1 | 📅 2019-06-21 - The Big list of the GitHub, open-source compilers.
+* [AwesomeCompiler](https://github.com/BaseMax/AwesomeCompiler) ⭐ 113 | 🐛 1 | 📅 2019-06-21 - The Big list of the GitHub, open-source compilers.
 * [AwesomeInterpreter](https://github.com/BaseMax/AwesomeInterpreter) ⭐ 83 | 🐛 0 | 📅 2026-05-04 - The Big list of the GitHub, open-source interpreters.
 * [awesome-blocksds](https://github.com/blocksds/awesome-blocksds) ⭐ 38 | 🐛 0 | 📅 2026-10-07 - List of awesome projects related to BlocksDS.
 * [awesome-mcu-embedded](https://github.com/mintisan/awesome-mcu-embedded) ⭐ 35 | 🐛 1 | 📅 2026-03-17 - A curated list of awesome libraries, tutorials, projects and other related to MCU Embedded domain(almost C language). This repository aims to be a comprehensive and organized collection that will help MCU embedded developers in the world!
@@ -724,29 +724,29 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### C# Lists
 
-* [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,718 | 🐛 223 | 📅 2026-03-26 - A collection of awesome .NET libraries, tools, frameworks and software.
-* [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) ⭐ 21,452 | 🐛 228 | 🌐 C# | 📅 2026-02-27 - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software.
-* [awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) ⭐ 9,393 | 🐛 90 | 📅 2026-11-12 - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-* [awesome-unity-open-source-on-github](https://github.com/baba-s/awesome-unity-open-source-on-github) ⭐ 4,480 | 🐛 17 | 📅 2026-02-02 - A categorized collection of awesome Unity open source on GitHub (800+).
-* [awesome-avalonia](https://github.com/AvaloniaCommunity/awesome-avalonia) ⭐ 3,255 | 🐛 64 | 📅 2026-04-24 - A collection of interesting libraries and tools for Avalonia project.
-* [awesome-unity3d](https://github.com/insthync/awesome-unity3d) ⭐ 2,752 | 🐛 2 | 📅 2026-11-01 - A categorized collection of awesome opensource unity3d repos.
-* [awesome-dotnet-maui](https://github.com/jsuarezruiz/awesome-dotnet-maui) ⭐ 2,671 | 🐛 17 | 📅 2025-10-20 - A curated list of awesome .NET MAUI libraries and resources.
+* [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,719 | 🐛 224 | 📅 2026-03-26 - A collection of awesome .NET libraries, tools, frameworks and software.
+* [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) ⭐ 21,453 | 🐛 229 | 🌐 C# | 📅 2026-02-27 - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software.
+* [awesome-blazor](https://github.com/AdrienTorris/awesome-blazor) ⭐ 9,394 | 🐛 90 | 📅 2026-11-12 - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+* [awesome-unity-open-source-on-github](https://github.com/baba-s/awesome-unity-open-source-on-github) ⭐ 4,481 | 🐛 17 | 📅 2026-02-02 - A categorized collection of awesome Unity open source on GitHub (800+).
+* [awesome-avalonia](https://github.com/AvaloniaCommunity/awesome-avalonia) ⭐ 3,256 | 🐛 65 | 📅 2026-04-24 - A collection of interesting libraries and tools for Avalonia project.
+* [awesome-unity3d](https://github.com/insthync/awesome-unity3d) ⭐ 2,753 | 🐛 2 | 📅 2026-11-01 - A categorized collection of awesome opensource unity3d repos.
+* [awesome-dotnet-maui](https://github.com/jsuarezruiz/awesome-dotnet-maui) ⭐ 2,670 | 🐛 17 | 📅 2025-10-20 - A curated list of awesome .NET MAUI libraries and resources.
 * [csharp-source-generators](https://github.com/amis92/csharp-source-generators) ⭐ 2,418 | 🐛 9 | 📅 2026-09-02 - A list of C# Source Generators (not necessarily awesome) and associated resources: articles, talks, demos.
-* [awesome-opensource-unity](https://github.com/StefanoCecere/awesome-opensource-unity) ⭐ 2,307 | 🐛 11 | 📅 2026-02-18 - A list of curated opensource Unity packages for future proof Game Developers.
+* [awesome-opensource-unity](https://github.com/StefanoCecere/awesome-opensource-unity) ⭐ 2,308 | 🐛 11 | 📅 2026-02-18 - A list of curated opensource Unity packages for future proof Game Developers.
 * [awesome-wpf](https://github.com/Carlos487/awesome-wpf) ⭐ 2,179 | 🐛 3 | 🌐 C# | 📅 2026-10-10 - A collection of awesome WPF resources, libraries and UI controls.
 * [awesome-dotnet-core](https://github.com/jasonhua95/awesome-dotnet-core) ⭐ 2,078 | 🐛 5 | 🌐 C# | 📅 2024-06-14 - .NET Core库、工具、框架和软件的中文收录大全。 内容包括：库、工具、框架、模板引擎、身份认证、数据库、ORM框架、图片处理、文本处理、机器学习、日志、代码分析、教程等。.
 * [awesome-dotnet-cn](https://github.com/jobbole/awesome-dotnet-cn) ⭐ 1,771 | 🐛 7 | 📅 2022-12-06 - DotNet 资源大全中文版，内容包括：编译器、压缩、应用框架、应用模板、加密、数据库、反编译、IDE、日志、风格指南等。.
-* [awesome-monogame](https://github.com/aloisdeniel/awesome-monogame) ⭐ 1,472 | 🐛 5 | 📅 2025-08-18 - A collection of interesting libraries/tools for Monogame based game projects.
+* [awesome-monogame](https://github.com/aloisdeniel/awesome-monogame) ⭐ 1,473 | 🐛 5 | 📅 2025-08-18 - A collection of interesting libraries/tools for Monogame based game projects.
 * [awesome-xamarin-forms](https://github.com/jsuarezruiz/awesome-xamarin-forms) ⭐ 1,221 | 🐛 2 | 🌐 C# | 📅 2023-08-06 - A curated list of awesome Xamarin.Forms libraries and resources.
-* [awesome-c-sharp](https://github.com/uhub/awesome-c-sharp) ⭐ 935 | 🐛 0 | 📅 2026-10-10 - A curated list of awesome C# frameworks, libraries and software.
+* [awesome-c-sharp](https://github.com/uhub/awesome-c-sharp) ⭐ 935 | 🐛 0 | 📅 2026-11-13 - A curated list of awesome C# frameworks, libraries and software.
 * [awesome-analyzers](https://github.com/Cybermaxs/awesome-analyzers) ⭐ 650 | 🐛 1 | 📅 2026-10-29 - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes. Everyone can contribute here!
 * [awesome-powertoys-run-plugins](https://github.com/hlaueriksson/awesome-powertoys-run-plugins) ⭐ 618 | 🐛 6 | 📅 2025-09-08 - 🗂️🔎 Delightful PowerToys Run community plugins 🔌.
 * [awesome-abp](https://github.com/EasyAbp/awesome-abp) ⭐ 458 | 🐛 0 | 📅 2026-02-19 - Resources for abp.io - a modular application framework for .net core.
 * [awesome-semantickernel](https://github.com/geffzhang/awesome-semantickernel) ⭐ 343 | 🐛 2 | 📅 2025-02-18 - Awesome list of tools and projects with the awesome semantic kernel framework.
-* [awesome-uwp](https://github.com/tomzorz/awesome-uwp) ⭐ 287 | 🐛 2 | 📅 2022-01-27 - Awesome UWP libs.
+* [awesome-uwp](https://github.com/tomzorz/awesome-uwp) ⭐ 286 | 🐛 2 | 📅 2022-01-27 - Awesome UWP libs.
 * [awesome-csharp](https://github.com/JessicaBarclay/awesome-csharp) ⭐ 188 | 🐛 20 | 📅 2025-06-14 - Awesome list of C# related libraries, tools and tutorials. Inspired by awesome-dotnet, awesome-dotnet-core, awesome-roslyn and awesome.
 * [awesome-dotnet-mcp](https://github.com/scisharp/awesome-dotnet-mcp) ⭐ 159 | 🐛 4 | 📅 2026-10-01 - Awesome ModelContextProtocol resources - A curated list of MCP DotNET resources.
-* [awesome-cs2](https://github.com/samyycx/awesome-cs2) ⭐ 111 | 🐛 2 | 🌐 Python | 📅 2026-11-13 - An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
+* [awesome-cs2](https://github.com/samyycx/awesome-cs2) ⭐ 111 | 🐛 2 | 🌐 Python | 📅 2026-11-14 - An awesome list for all available cs2 development information, including modding frameworks, development resources, plugins and etc.
 * [Awesome-Sitecore](https://github.com/MartinMiles/Awesome-Sitecore) ⭐ 84 | 🐛 5 | 📅 2025-09-26 - Awesome lists of useful Sitecore tools, extensions and GitHub repositories.
 * [awesome-vl](https://github.com/chkw-rks/awesome-vl) ⭐ 70 | 🐛 0 | 📅 2026-02-04 - A collection of libraries, resources and tutorials for vvvv and VL.
 * [awesome-among-us](https://github.com/AstralKitsune/awesome-among-us) ⭐ 63 | 🐛 0 | 📅 2026-10-28 - A curated list of awesome Among Us mods, tools and resources.
@@ -757,7 +757,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-dnn](https://github.com/DnnFree/awesome-dnn) ⭐ 21 | 🐛 0 | 📅 2025-05-20 - Awesome things related to DNN (DotNetNuke).
 * [awsome-dotnet](https://github.com/stackdev19/awsome-dotnet) ⭐ 20 | 🐛 0 | 📅 2022-07-04 - About A collection of awesome .NET libraries, tools, frameworks and software.
 * [awesome-dotnet](https://github.com/ElliotOne/awesome-dotnet) ⭐ 18 | 🐛 0 | 📅 2026-11-08 - A collection of awesome .NET libraries, frameworks and tools.
-* [fucking-awesome-dotnet](https://github.com/correia-jpv/fucking-awesome-dotnet) ⭐ 15 | 🐛 0 | 📅 2026-11-12 - A collection of awesome .NET libraries, tools, frameworks and software. 😎 Awesome lists about all kinds of interesting topics. With repository stars⭐ and forks🍴.
+* [fucking-awesome-dotnet](https://github.com/correia-jpv/fucking-awesome-dotnet) ⭐ 15 | 🐛 0 | 📅 2026-11-14 - A collection of awesome .NET libraries, tools, frameworks and software. 😎 Awesome lists about all kinds of interesting topics. With repository stars⭐ and forks🍴.
 * [Awesome-Unity](https://github.com/zhenhaiwang/Awesome-Unity) ⭐ 14 | 🐛 0 | 📅 2025-08-11 - List of game frameworks programming resources for Unity.
 * [awesome-reference-tools](https://github.com/HaraHeique/awesome-reference-tools) ⭐ 2 | 🐛 0 | 📅 2025-11-13 - A collection of awesome packages, libraries, tools, frameworks and software reference links.
 * [awesome-dot-dev](https://github.com/technovert/awesome-dot-dev) ⭐ 1 | 🐛 0 | 📅 2019-12-06 - A bunch of awesome .NET patterns, tools, frameworks, and softwares.
@@ -771,14 +771,14 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### C++ Lists
 
-* [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 74,393 | 🐛 288 | 📅 2026-11-11 - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-. stuff.
-* [awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn) ⭐ 11,223 | 🐛 11 | 📅 2023-12-28 - C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。由「开源前哨」和「CPP开发者」微信公号团队维护更新。.
+* [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 74,406 | 🐛 289 | 📅 2026-11-11 - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-. stuff.
+* [awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn) ⭐ 11,225 | 🐛 11 | 📅 2023-12-28 - C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。由「开源前哨」和「CPP开发者」微信公号团队维护更新。.
 * [awesome-hpp](https://github.com/p-ranav/awesome-hpp) ⭐ 4,185 | 🐛 25 | 📅 2025-11-06 - A curated list of awesome header-only C++ libraries.
-* [awesome-game-security](https://github.com/gmh5225/awesome-game-security) ⭐ 3,736 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - Awesome game security \[Welcome to PR].
-* [awesome-qt-qml](https://github.com/mikalv/awesome-qt-qml) ⭐ 2,630 | 🐛 11 | 📅 2026-09-01 - A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.
+* [awesome-game-security](https://github.com/gmh5225/awesome-game-security) ⭐ 3,740 | 🐛 0 | 🌐 Python | 📅 2026-11-14 - Awesome game security \[Welcome to PR].
+* [awesome-qt-qml](https://github.com/mikalv/awesome-qt-qml) ⭐ 2,630 | 🐛 12 | 📅 2026-09-01 - A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.
 * [AwesomeCppGameDev](https://github.com/Caerind/AwesomeCppGameDev) ⭐ 2,104 | 🐛 2 | 🌐 Markdown | 📅 2026-11-11 - A curated list of awesome C++ (mainly) things for Game Development. Inspired by awesome-. stuff.
 * [awesome-unreal](https://github.com/insthync/awesome-unreal) ⭐ 1,637 | 🐛 3 | 📅 2026-10-30 - A categorized collection of awesome opensource Unreal Engine 4 and 5 repos.
-* [awesome-game-remakes](https://github.com/radek-sprta/awesome-game-remakes) ⭐ 1,603 | 🐛 0 | 📅 2026-11-12 - Actively maintained open-source game remakes.
+* [awesome-game-remakes](https://github.com/radek-sprta/awesome-game-remakes) ⭐ 1,608 | 🐛 0 | 📅 2026-11-13 - Actively maintained open-source game remakes.
 * [awesome-juce](https://github.com/sudara/awesome-juce) ⭐ 1,358 | 🐛 14 | 🌐 Ruby | 📅 2026-10-19 - A curated list of JUCE modules, templates, plugins, oh my!
 * [Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM) ⭐ 1,120 | 🐛 7 | 📅 2023-10-13 - A curated list of SLAM resources.
 * [awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) ⭐ 748 | 🐛 0 | 📅 2023-01-05 - 😎 A Collection of Awesome NCNN-based Projects.
@@ -790,9 +790,9 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-practical-cpp](https://github.com/szdytom/awesome-practical-cpp) ⭐ 23 | 🐛 0 | 🌐 C++ | 📅 2026-05-30 - ⭐ A choice list of the most practical and recognized C++ frameworks and libraries that are production ready.
 * [awesome-modern-cpp](https://github.com/uchenily/awesome-modern-cpp) ⭐ 9 | 🐛 0 | 🌐 C++ | 📅 2025-09-14 - A collection of modern C++ libraries, including the most basic usage.
 * [awesome-robotics](https://github.com/edwardtay/awesome-robotics) ⭐ 7 | 🐛 1 | 📅 2026-11-09 - A curated list of 170+ robotics frameworks, simulators, tools, and platforms.
-* [fucking-awesome-cpp](https://github.com/Correia-jpv/fucking-awesome-cpp) ⭐ 7 | 🐛 1 | 📅 2026-11-12 - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. With repository stars⭐ and forks🍴.
+* [fucking-awesome-cpp](https://github.com/Correia-jpv/fucking-awesome-cpp) ⭐ 7 | 🐛 1 | 📅 2026-11-14 - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. With repository stars⭐ and forks🍴.
 * [awesome-arduino](https://github.com/storbukas/awesome-arduino) ⭐ 2 | 🐛 0 | 📅 2021-02-08 - A curated list of awesome Arduino libraries, hardware and projects.
-* [awesome-cpp-with-stars](https://github.com/amanbolat/awesome-cpp-with-stars) ⭐ 2 | 🐛 0 | 📅 2026-11-12 - List of awesome c/c++ projects with stars.
+* [awesome-cpp-with-stars](https://github.com/amanbolat/awesome-cpp-with-stars) ⭐ 2 | 🐛 0 | 📅 2026-11-13 - List of awesome c/c++ projects with stars.
 * [awesome-code-for-gamedev](https://github.com/wdshin/awesome-code-for-gamedev) ⭐ 1 | 🐛 0 | 📅 2021-07-26 - A curated list of awesome (cpp,go,rust,c#) libraries,frameworks,softwares for game development IMHO.
 * [awesomecpp](https://github.com/ortfero/awesomecpp) ⭐ 1 | 🐛 0 | 📅 2023-11-27 - Awesome C++ Libraries.
 * [awesome-arduino](https://github.com/eric-erki/awesome-arduino) ⭐ 0 | 🐛 0 | 🌐 Shell | 📅 2020-02-02 - A curated list of awesome Arduino hardwares, libraries and softwares with update script.
@@ -820,8 +820,8 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### CSS Lists
 
-* [awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) ⭐ 9,534 | 🐛 69 | 🌐 CSS | 📅 2024-04-06 - 🕶️ Awesome stuff for Obsidian.
-* [awesome-omarchy](https://github.com/aorumbayev/awesome-omarchy) ⭐ 721 | 🐛 11 | 🌐 HTML | 📅 2026-11-12 - ⚡A curated list of awesome omarchy resources.
+* [awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) ⭐ 9,533 | 🐛 70 | 🌐 CSS | 📅 2024-04-06 - 🕶️ Awesome stuff for Obsidian.
+* [awesome-omarchy](https://github.com/aorumbayev/awesome-omarchy) ⭐ 723 | 🐛 11 | 🌐 HTML | 📅 2026-11-12 - ⚡A curated list of awesome omarchy resources.
 * [awesome-css-only](https://github.com/refusado/awesome-css-only) ⭐ 38 | 🐛 1 | 📅 2023-10-03 - An awesome & curated list of beautiful projects made with pure CSS!
 
 ### D Lists
@@ -832,8 +832,8 @@ Last generated: 2026-11-12, 10396 lists.
 
 * [awesome-flutter-cn](https://github.com/crazycodeboy/awesome-flutter-cn) ⭐ 3,828 | 🐛 8 | 📅 2023-05-21 - 一个很棒的Flutter学习资源，官方教程，插件，工具，文章，App，视频教程等的资源列表.
 * [awesome-flutter-cn](https://github.com/osoutpost/awesome-flutter-cn) ⭐ 294 | 🐛 0 | 📅 2022-07-13 - Flutter 资源大全中文版。包括：组件、导航、模板、插件、框架和引擎等.
-* [fucking-awesome-flutter](https://github.com/correia-jpv/fucking-awesome-flutter) ⭐ 28 | 🐛 1 | 🌐 Dart | 📅 2026-11-12 - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. 😎 Awesome lists about all kinds of interesting topics. With repository stars⭐ and forks🍴.
-* [awesome-open-source-flutter-applications](https://github.com/jagdish-pulpet/awesome-open-source-flutter-applications) ⭐ 3 | 🐛 1 | 📅 2025-02-26 - This repository is a curated collection of amazing open-source applications written in Flutter framework. Whether you're looking for inspiration, learning resources, or just want to explore what others have built with Flutter, this is the perfect place for you!
+* [fucking-awesome-flutter](https://github.com/correia-jpv/fucking-awesome-flutter) ⭐ 28 | 🐛 1 | 🌐 Dart | 📅 2026-11-14 - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. 😎 Awesome lists about all kinds of interesting topics. With repository stars⭐ and forks🍴.
+* [awesome-open-source-flutter-applications](https://github.com/jagdish-pulpet/awesome-open-source-flutter-applications) ⭐ 4 | 🐛 1 | 📅 2025-02-26 - This repository is a curated collection of amazing open-source applications written in Flutter framework. Whether you're looking for inspiration, learning resources, or just want to explore what others have built with Flutter, this is the perfect place for you!
 * [awesome-dart](https://github.com/mimzychou/awesome-dart) ⭐ 1 | 🐛 1 | 📅 2016-08-29 - A curated list of Dart code and resources, inspired by awesome lists.
 * [awesome-flutter](https://github.com/phamios/awesome-flutter) ⭐ 0 | 🐛 0 | 📅 2019-05-30 - Awesome-flutter.
 * [awesome-flutter](https://github.com/xiaomingx/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
@@ -846,7 +846,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 * [awesome-elixir](https://github.com/h4cc/awesome-elixir) ⭐ 13,166 | 🐛 46 | 🌐 Elixir | 📅 2025-10-12 - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:.
 * [awesome-ash-framework](https://github.com/mipmip/awesome-ash-framework) ⭐ 55 | 🐛 1 | 📅 2025-08-26 - A curated list of awesome Ash Framework extensions, layers and resources.
-* [fucking-awesome-elixir](https://github.com/correia-jpv/fucking-awesome-elixir) ⭐ 41 | 🐛 1 | 🌐 Elixir | 📅 2026-11-12 - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. With repository stars⭐ and forks🍴.
+* [fucking-awesome-elixir](https://github.com/correia-jpv/fucking-awesome-elixir) ⭐ 41 | 🐛 1 | 🌐 Elixir | 📅 2026-11-14 - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. With repository stars⭐ and forks🍴.
 * [awesome-elixir-ai](https://github.com/agentjido/awesome-elixir-ai) ⭐ 30 | 🐛 0 | 📅 2026-09-14 - Awesome List for the Elixir AI Collective.
 * [freaking\_awesome\_elixir](https://github.com/hvnsweeting/freaking_awesome_elixir) - More than Awesome Elixir.
 * [fucking-awesome-elixir](https://github.com/Stainless-Nata/fucking-awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things.
@@ -858,37 +858,37 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### F# Lists
 
-* [awesome-fsharp](https://github.com/fsprojects/awesome-fsharp) ⭐ 1,437 | 🐛 7 | 🌐 F# | 📅 2026-11-07 - A curated list of awesome F# frameworks, libraries, software and resources.
+* [awesome-fsharp](https://github.com/fsprojects/awesome-fsharp) ⭐ 1,438 | 🐛 7 | 🌐 F# | 📅 2026-11-07 - A curated list of awesome F# frameworks, libraries, software and resources.
 * [awesome-websharper](https://github.com/Tarmil/awesome-websharper) ⭐ 108 | 🐛 1 | 📅 2021-01-09 - Awesome links for WebSharper.
 
 ### GDScript Lists
 
-* [awesome-godot](https://github.com/Calinou/awesome-godot) ⭐ 10,985 | 🐛 94 | 📅 2026-11-09 - A curated list of free/libre plugins, scripts and add-ons for Godot.
+* [awesome-godot](https://github.com/Calinou/awesome-godot) ⭐ 10,986 | 🐛 94 | 📅 2026-11-09 - A curated list of free/libre plugins, scripts and add-ons for Godot.
 * [awesome-godot-3](https://github.com/gordzen/awesome-godot-3) ⭐ 6 | 🐛 1 | 📅 2024-05-17 - A curated list of free/libre games, plugins, add-ons and scripts for Godot 3.
 * [awesome-godot](https://github.com/xiaomingx/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot.
 
 ### Gleam Lists
 
-* [awesome-gleam](https://github.com/gleam-lang/awesome-gleam) ⭐ 2,057 | 🐛 29 | 🌐 Gleam | 📅 2026-06-23 - 💯 A collection of Gleam libraries, projects, and resources.
+* [awesome-gleam](https://github.com/gleam-lang/awesome-gleam) ⭐ 2,058 | 🐛 29 | 🌐 Gleam | 📅 2026-06-23 - 💯 A collection of Gleam libraries, projects, and resources.
 
 ### Go Lists
 
-* [awesome-go](https://github.com/avelino/awesome-go) ⭐ 193,632 | 🐛 131 | 🌐 Go | 📅 2026-11-12 - A curated list of awesome Go frameworks, libraries and software.
-* [awesome-go-cn](https://github.com/jobbole/awesome-go-cn) ⭐ 7,382 | 🐛 15 | 📅 2024-05-22 - Go 资源大全中文版， 内容包括：Web框架、模板引擎、表单、身份认证、数据库、ORM框架、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析、教程和（电子）书等。由「开源前哨」和「Go开发大全」微信团队维护。.
+* [awesome-go](https://github.com/avelino/awesome-go) ⭐ 193,825 | 🐛 129 | 🌐 Go | 📅 2026-11-13 - A curated list of awesome Go frameworks, libraries and software.
+* [awesome-go-cn](https://github.com/jobbole/awesome-go-cn) ⭐ 7,381 | 🐛 15 | 📅 2024-05-22 - Go 资源大全中文版， 内容包括：Web框架、模板引擎、表单、身份认证、数据库、ORM框架、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析、教程和（电子）书等。由「开源前哨」和「Go开发大全」微信团队维护。.
 * [awesome-tf](https://github.com/shuaibiyy/awesome-tf) ⭐ 6,681 | 🐛 26 | 📅 2026-11-09 - Curated list of resources on HashiCorp's Terraform and OpenTofu.
 * [go-awesome](https://github.com/shockerli/go-awesome) ⭐ 6,613 | 🐛 11 | 📅 2024-08-10 - Go 语言优秀资源整理，为项目落地加速🏃.
-* [awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn) ⭐ 5,240 | 🐛 296 | 📅 2026-11-13 - 一个很棒的Go框架、库和软件的中文收录大全。:alarm\_clock:脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go\~.
+* [awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn) ⭐ 5,240 | 🐛 297 | 📅 2026-11-14 - 一个很棒的Go框架、库和软件的中文收录大全。:alarm\_clock:脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go\~.
 * [awesome-go-storage](https://github.com/gostor/awesome-go-storage) ⭐ 4,742 | 🐛 8 | 📅 2024-12-25 - A curated list of awesome Go storage projects and libraries.
-* [awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) ⭐ 4,248 | 🐛 84 | 📅 2025-05-20 - A curated list of awesome Kubernetes tools and resources.
+* [awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) ⭐ 4,249 | 🐛 82 | 📅 2025-05-20 - A curated list of awesome Kubernetes tools and resources.
 * [awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) ⭐ 2,554 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-12 - A curated list for awesome cloud native tools, software and tutorials.
-* [awesome-go](https://github.com/uhub/awesome-go) ⭐ 1,852 | 🐛 0 | 📅 2026-10-17 - A curated list of awesome Go frameworks, libraries and software.
+* [awesome-go](https://github.com/uhub/awesome-go) ⭐ 1,853 | 🐛 0 | 📅 2026-10-17 - A curated list of awesome Go frameworks, libraries and software.
 * [awesome-kubectl-plugins](https://github.com/ishantanu/awesome-kubectl-plugins) ⭐ 1,010 | 🐛 4 | 📅 2026-10-28 - Curated list of kubectl plugins.
 * [awesome-pion](https://github.com/pion/awesome-pion) ⭐ 946 | 🐛 0 | 🌐 Shell | 📅 2026-11-07 - A curated list of awesome things related to Pion.
-* [awesome-go-with-stars](https://github.com/amanbolat/awesome-go-with-stars) ⭐ 860 | 🐛 0 | 📅 2026-11-12 - Awesome-go list with stars. Automatically updated.
+* [awesome-go-with-stars](https://github.com/amanbolat/awesome-go-with-stars) ⭐ 860 | 🐛 0 | 📅 2026-11-13 - Awesome-go list with stars. Automatically updated.
 * [awesome-k6](https://github.com/grafana/awesome-k6) ⭐ 785 | 🐛 6 | 📅 2026-10-30 - A curated list of awesome tools, content and projects using k6.
 * [awesome-go-security](https://github.com/Binject/awesome-go-security) ⭐ 757 | 🐛 2 | 📅 2026-10-13 - A dedicated place for cool golang security projects.
 * [awesome-gin](https://github.com/FlowerWrong/awesome-gin) ⭐ 431 | 🐛 0 | 📅 2022-09-08 - Awesome for gin framework.
-* [charm-in-the-wild](https://github.com/charm-and-friends/charm-in-the-wild) ⭐ 315 | 🐛 5 | 📅 2026-11-06 - Featuring only the most showstopping, glamorous CLI tooling out there.
+* [charm-in-the-wild](https://github.com/charm-and-friends/charm-in-the-wild) ⭐ 316 | 🐛 2 | 📅 2026-11-13 - Featuring only the most showstopping, glamorous CLI tooling out there.
 * [awesome-go-quant](https://github.com/goex-top/awesome-go-quant) ⭐ 286 | 🐛 2 | 📅 2026-10-28 - A curated list of insanely awesome libraries for golang, packages and resources for Quants (Quantitative Finance).
 * [awesome-slog](https://github.com/go-slog/awesome-slog) ⭐ 259 | 🐛 2 | 🌐 Nix | 📅 2026-07-21 - Collection of log/slog related projects.
 * [awesome-tinygo](https://github.com/tinygo-org/awesome-tinygo) ⭐ 166 | 🐛 0 | 📅 2026-07-25 - A curated list of awesome TinyGo projects and libraries. Inspired by awesome-go.
@@ -904,13 +904,13 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-golang-repositories](https://github.com/ezeoleaf/awesome-golang-repositories) ⭐ 23 | 🐛 0 | 📅 2023-09-22 - List of the repositories published by Larry.
 * [awesome-x-ops](https://github.com/xlabs-club/awesome-x-ops) ⭐ 22 | 🐛 8 | 📅 2026-10-08 - A curated map of modern X-Ops: AI Ops, LLM/Agent Observability, Platform Engineering, GitOps, DataOps, FinOps, DevSecOps, and production-grade open-source operations tooling.面向现代 X-Ops 的开源工具地图：覆盖 AI Ops、LLM/Agent 可观测性、平台工程、GitOps、DataOps、FinOps、DevSecOps，以及生产级运维工具链。.
 * [awesome-go-processed](https://github.com/kaxap/awesome-go-processed) ⭐ 16 | 🐛 2 | 🌐 Python | 📅 2018-07-09 - This is an augmented copy of avelino/awesome-go.
-* [fucking-awesome-go](https://github.com/correia-jpv/fucking-awesome-go) ⭐ 15 | 🐛 2 | 🌐 Go | 📅 2026-11-12 - A curated list of awesome Go frameworks, libraries and software. With repository stars⭐ and forks🍴.
+* [fucking-awesome-go](https://github.com/correia-jpv/fucking-awesome-go) ⭐ 15 | 🐛 2 | 🌐 Go | 📅 2026-11-14 - A curated list of awesome Go frameworks, libraries and software. With repository stars⭐ and forks🍴.
 * [awesome-devops](https://github.com/frimik/awesome-devops) ⭐ 13 | 🐛 0 | 📅 2026-10-02 - List of stuff worth remembering (and using).
 * [awesome-go](https://github.com/vicanso/awesome-go) ⭐ 13 | 🐛 0 | 🌐 Go | 📅 2025-09-26 - It's a mirror of `avelino/awesome-go`, which sorts the repos by stars, while original `awesome-go` sorts by alphabet only.
 * [awesome-trevor](https://github.com/pcgeek86/awesome-trevor) ⭐ 12 | 🐛 0 | 📅 2026-03-24 - This repository contains links to things that Trevor thinks are awesome.
 * [awesome-gh-extensions](https://github.com/myzkey/awesome-gh-extensions) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-09 - Auto-updated curated list of GitHub CLI extensions.
 * [zero-alloc-awesome-go](https://github.com/cloudxaas/zero-alloc-awesome-go) ⭐ 8 | 🐛 0 | 📅 2023-06-03 - Zero Allocation Golang Packages / Stuff.
-* [awesome-go](https://github.com/abordage/awesome-go) ⭐ 7 | 🐛 0 | 📅 2026-11-12 - Structured collection of Go frameworks, libraries, tools, and resources. Automatically maintained and up-to-date with metadata, filtering, and comprehensive categorization.
+* [awesome-go](https://github.com/abordage/awesome-go) ⭐ 7 | 🐛 0 | 📅 2026-11-13 - Structured collection of Go frameworks, libraries, tools, and resources. Automatically maintained and up-to-date with metadata, filtering, and comprehensive categorization.
 * [awesome-go](https://github.com/Cori1109/awesome-go) ⭐ 7 | 🐛 0 | 🌐 Go | 📅 2023-02-07 - A curated list of awesome Go frameworks, libraries and software.
 * [awesome-go-zh](https://github.com/chinanf-boy/awesome-go-zh) ⭐ 6 | 🐛 0 | 📅 2019-03-29 - 🇨🇳翻译: <awesome-go> 一个精明的GO框架、库和软件列表 :heart: 很慢慢校对 中.
 * [awesome-cloud-native](https://github.com/hard-kernel/awesome-cloud-native) ⭐ 5 | 🐛 0 | 📅 2021-09-23 - Some useful cloud native project and tools.
@@ -948,10 +948,10 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Java Lists
 
-* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 58,441 | 🐛 44 | 📅 2026-06-05 - A curated list of awesome Android UI/UX libraries.
-* [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 49,517 | 🐛 42 | 📅 2026-09-23 - A curated list of awesome frameworks, libraries and software for the Java programming language.
-* [awesome-android](https://github.com/JStumpp/awesome-android) ⭐ 12,457 | 🐛 1 | 📅 2026-11-08 - A curated list of awesome Android packages and resources.
-* [awesome-java](https://github.com/CodingDocs/awesome-java) ⭐ 9,607 | 🐛 16 | 📅 2026-03-10 - Collection of awesome Java project on GitHub(非常棒的 Java 开源项目集合).
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 58,461 | 🐛 44 | 📅 2026-06-05 - A curated list of awesome Android UI/UX libraries.
+* [awesome-java](https://github.com/akullpp/awesome-java) ⭐ 49,532 | 🐛 42 | 📅 2026-09-23 - A curated list of awesome frameworks, libraries and software for the Java programming language.
+* [awesome-android](https://github.com/JStumpp/awesome-android) ⭐ 12,458 | 🐛 1 | 📅 2026-11-08 - A curated list of awesome Android packages and resources.
+* [awesome-java](https://github.com/CodingDocs/awesome-java) ⭐ 9,608 | 🐛 16 | 📅 2026-03-10 - Collection of awesome Java project on GitHub(非常棒的 Java 开源项目集合).
 * [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) ⭐ 5,850 | 🐛 15 | 📅 2018-01-06 - Collection of material design libs and res.
 * [awesome-github-android-ui](https://github.com/opendigg/awesome-github-android-ui) ⭐ 5,790 | 🐛 17 | 📅 2017-11-09 - 安卓UI相关开源项目库汇总.
 * [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries) ⭐ 5,533 | 🐛 63 | 📅 2023-08-29 - This is an alphabetical list of libraries for Android development, the majority being actively maintained.
@@ -959,7 +959,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [vertx-awesome](https://github.com/vert-x3/vertx-awesome) ⭐ 2,217 | 🐛 0 | 📅 2026-06-27 - A curated list of awesome Vert.x resources, libraries, and other nice things.
 * [awesome-android-cn](https://github.com/jobbole/awesome-android-cn) ⭐ 1,546 | 🐛 1 | 📅 2020-01-02 - Android 资源大全中文版，包括：图表、游戏开发、GUI、崩溃检测、调试工具等，由伯乐在线持续更新。.
 * [awesome-libgdx](https://github.com/rafaskb/awesome-libgdx) ⭐ 1,279 | 🐛 9 | 📅 2024-12-03 - 🎮 📝 A curated list of libGDX resources to help developers make awesome games.
-* [Awesome-Android-Open-Source-Projects](https://github.com/binaryshrey/Awesome-Android-Open-Source-Projects) ⭐ 1,265 | 🐛 19 | 📅 2026-03-26 - :eyeglasses: A curated list of awesome android projects by open-source contributors.
+* [Awesome-Android-Open-Source-Projects](https://github.com/binaryshrey/Awesome-Android-Open-Source-Projects) ⭐ 1,266 | 🐛 19 | 📅 2026-03-26 - :eyeglasses: A curated list of awesome android projects by open-source contributors.
 * [awesome-android-things](https://github.com/amitshekhariitbhu/awesome-android-things) ⭐ 1,008 | 🐛 6 | 🌐 Java | 📅 2024-07-20 - A curated list of awesome android things tutorials, libraries and much more at one place.
 * [awesome-graphql-java](https://github.com/graphql-java/awesome-graphql-java) ⭐ 593 | 🐛 4 | 📅 2026-09-16 - Awesome list of graphql-java related projects.
 * [awesome-neo4j](https://github.com/neueda/awesome-neo4j) ⭐ 563 | 🐛 3 | 📅 2020-12-09 - A curated list of Neo4j resources.
@@ -967,8 +967,8 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-rxjava](https://github.com/eleventigers/awesome-rxjava) ⭐ 307 | 🐛 1 | 📅 2019-01-09 - Useful resources for working with RxJava.
 * [awesome-kafka](https://github.com/semantalytics/awesome-kafka) ⭐ 292 | 🐛 15 | 📅 2025-05-21 - A curated list of awesome things related to Apache Kafka.
 * [awesome-android-libraries](https://github.com/thanhtoan1196/awesome-android-libraries) ⭐ 175 | 🐛 1 | 📅 2022-01-18 - :sunglasses: A curated list of awesome Android libraries.
-* [awesome-java](https://github.com/tuyucheng777/awesome-java) ⭐ 174 | 🐛 0 | 📅 2026-11-12 - Awesome Java.
-* [awesome-minecraft](https://github.com/LiteDevelopers/awesome-minecraft) ⭐ 150 | 🐛 29 | 📅 2026-09-14 - 😎 Awesome Minecraft ⭐ A list of frameworks, libraries and software relating to Minecraft.
+* [awesome-java](https://github.com/tuyucheng777/awesome-java) ⭐ 174 | 🐛 0 | 📅 2026-11-13 - Awesome Java.
+* [awesome-minecraft](https://github.com/LiteDevelopers/awesome-minecraft) ⭐ 151 | 🐛 30 | 📅 2026-09-14 - 😎 Awesome Minecraft ⭐ A list of frameworks, libraries and software relating to Minecraft.
 * [android-awesome-libraries](https://github.com/kaiinui/android-awesome-libraries) ⭐ 117 | 🐛 1 | 📅 2016-02-15 - There are many libraries which helps your android development!
 * [aboutfx](https://github.com/mkpaz/aboutfx) ⭐ 116 | 🐛 1 | 🌐 Python | 📅 2022-12-30 - An unofficial GitHub repo that sums up everything about the JavaFX project state on a single page.
 * [awesome-dropwizard](https://github.com/stve/awesome-dropwizard) ⭐ 104 | 🐛 0 | 🌐 Shell | 📅 2026-09-12 - Java framework.
@@ -978,12 +978,12 @@ Last generated: 2026-11-12, 10396 lists.
 * [gwt-boot-awesome-lili](https://github.com/gwtboot/gwt-boot-awesome-lili) ⭐ 51 | 🐛 0 | 📅 2026-11-08 - Collection of JavaScript Libraries with JsInterop Interfaces and Others - GWT Awesome Library List (Gwit a LiLi).
 * [awesome-android](https://github.com/liuguangqiang/awesome-android) ⭐ 46 | 🐛 0 | 📅 2021-08-05 - A awesome list of organizations, developers and libraries.
 * [beautiful-android-ui](https://github.com/devbpulse/beautiful-android-ui) ⭐ 37 | 🐛 0 | 📅 2017-07-09 - Beautiful Android UI Objects.
-* [fucking-awesome-android-ui](https://github.com/correia-jpv/fucking-awesome-android-ui) ⭐ 31 | 🐛 1 | 📅 2026-11-12 - A curated list of awesome Android UI/UX libraries. With repository stars⭐ and forks🍴.
-* [fucking-awesome-android](https://github.com/correia-jpv/fucking-awesome-android) ⭐ 22 | 🐛 1 | 📅 2026-11-12 - A curated list of awesome Android packages and resources. With repository stars⭐ and forks🍴.
+* [fucking-awesome-android-ui](https://github.com/correia-jpv/fucking-awesome-android-ui) ⭐ 31 | 🐛 1 | 📅 2026-11-14 - A curated list of awesome Android UI/UX libraries. With repository stars⭐ and forks🍴.
+* [fucking-awesome-android](https://github.com/correia-jpv/fucking-awesome-android) ⭐ 22 | 🐛 1 | 📅 2026-11-14 - A curated list of awesome Android packages and resources. With repository stars⭐ and forks🍴.
 * [Awesome-JMonkeyEngine](https://github.com/codex128/Awesome-JMonkeyEngine) ⭐ 16 | 🐛 0 | 📅 2025-02-15 - A list of awesome resources for JMonkeyEngine.
 * [awesome-kafka-connect](https://github.com/conduktor/awesome-kafka-connect) ⭐ 12 | 🐛 0 | 📅 2026-11-10 - A curated list of Kafka Connect connectors.
 * [awesome-datalake](https://github.com/jinsyin/awesome-datalake) ⭐ 5 | 🐛 0 | 📅 2024-10-02 - 📚 Awesome DataLake.
-* [fucking-awesome-java](https://github.com/correia-jpv/fucking-awesome-java) ⭐ 4 | 🐛 1 | 📅 2026-11-12 - A curated list of awesome frameworks, libraries and software for the Java programming language. With repository stars⭐ and forks🍴.
+* [fucking-awesome-java](https://github.com/correia-jpv/fucking-awesome-java) ⭐ 4 | 🐛 1 | 📅 2026-11-14 - A curated list of awesome frameworks, libraries and software for the Java programming language. With repository stars⭐ and forks🍴.
 * [Android-Awesome-Resources](https://github.com/kiwismedia/Android-Awesome-Resources) ⭐ 2 | 🐛 0 | 📅 2021-10-08 - One and only place on the internet for all Android Development Resources.
 * [awesome-skript](https://github.com/thunder-red-star/awesome-skript) ⭐ 2 | 🐛 0 | 📅 2024-05-22 - 3am shenanigans, anyways cool skript stuff for YOUR mc server.
 * [-awesome-android-ui](https://github.com/eric-erki/-awesome-android-ui) ⭐ 0 | 🐛 0 | 📅 2020-02-02 - A curated list of awesome Android UI/UX libraries.
@@ -997,44 +997,44 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### JavaScript Lists
 
-* [awesome-react](https://github.com/enaqx/awesome-react) ⭐ 75,265 | 🐛 39 | 📅 2026-09-04 - A collection of awesome things regarding React ecosystem.
-* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,484 | 🐛 25 | 📅 2026-09-02 - :zap: Delightful Node.js packages and resources \[BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY].
-* [awesome-react-components](https://github.com/brillout/awesome-react-components) ⭐ 48,860 | 🐛 129 | 📅 2026-01-26 - Curated List of React Components & Libraries.
-* [awesome-react-native](https://github.com/jondot/awesome-react-native) ⭐ 35,707 | 🐛 50 | 📅 2026-08-26 - Awesome React Native components, news, tools, and learning material!
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,034 | 🐛 38 | 📅 2026-11-10 - 🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.
-* [awesome-electron](https://github.com/sindresorhus/awesome-electron) ⭐ 27,357 | 🐛 9 | 📅 2026-05-03 - Useful resources for creating apps with Electron \[SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE I'M TIRED OF REVIEWING LOW-QUALITY STUFF].
-* [awesome-vite](https://github.com/vitejs/awesome-vite) ⭐ 17,292 | 🐛 158 | 🌐 JavaScript | 📅 2026-02-04 - ⚡️ A curated list of awesome things related to Vite.js.
-* [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) ⭐ 15,612 | 🐛 3 | 📅 2026-11-06 - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
-* [awesome-github-vue](https://github.com/opendigg/awesome-github-vue) ⭐ 12,779 | 🐛 31 | 📅 2023-07-22 - Vue相关开源项目库汇总.
+* [awesome-react](https://github.com/enaqx/awesome-react) ⭐ 75,276 | 🐛 39 | 📅 2026-09-04 - A collection of awesome things regarding React ecosystem.
+* [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⭐ 67,497 | 🐛 25 | 📅 2026-09-02 - :zap: Delightful Node.js packages and resources \[BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY].
+* [awesome-react-components](https://github.com/brillout/awesome-react-components) ⭐ 48,868 | 🐛 129 | 📅 2026-01-26 - Curated List of React Components & Libraries.
+* [awesome-react-native](https://github.com/jondot/awesome-react-native) ⭐ 35,706 | 🐛 50 | 📅 2026-08-26 - Awesome React Native components, news, tools, and learning material!
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,033 | 🐛 39 | 📅 2026-11-10 - 🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.
+* [awesome-electron](https://github.com/sindresorhus/awesome-electron) ⭐ 27,356 | 🐛 9 | 📅 2026-05-03 - Useful resources for creating apps with Electron \[SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE I'M TIRED OF REVIEWING LOW-QUALITY STUFF].
+* [awesome-vite](https://github.com/vitejs/awesome-vite) ⭐ 17,293 | 🐛 158 | 🌐 JavaScript | 📅 2026-02-04 - ⚡️ A curated list of awesome things related to Vite.js.
+* [awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) ⭐ 15,617 | 🐛 4 | 📅 2026-11-06 - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
+* [awesome-github-vue](https://github.com/opendigg/awesome-github-vue) ⭐ 12,780 | 🐛 31 | 📅 2023-07-22 - Vue相关开源项目库汇总.
 * [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) ⭐ 10,274 | 🐛 12 | 📅 2023-07-27 - Awesome React Hooks.
-* [awesome-angular](https://github.com/PatrickJS/awesome-angular) ⭐ 10,097 | 🐛 0 | 🌐 HTML | 📅 2026-11-12 - :page\_facing\_up: A curated list of awesome Angular resources.
-* [awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp) ⭐ 9,506 | 🐛 12 | 📅 2020-08-16 - 微信小程序开源项目库汇总.
-* [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) ⭐ 7,800 | 🐛 2 | 📅 2022-04-13 - JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等。由「开源前哨」和「前端大全」微信公号团队维护更新。.
+* [awesome-angular](https://github.com/PatrickJS/awesome-angular) ⭐ 10,097 | 🐛 0 | 🌐 HTML | 📅 2026-11-14 - :page\_facing\_up: A curated list of awesome Angular resources.
+* [awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp) ⭐ 9,505 | 🐛 12 | 📅 2020-08-16 - 微信小程序开源项目库汇总.
+* [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn) ⭐ 7,799 | 🐛 2 | 📅 2022-04-13 - JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等。由「开源前哨」和「前端大全」微信公号团队维护更新。.
 * [awesome-d3](https://github.com/wbkd/awesome-d3) ⭐ 5,322 | 🐛 6 | 📅 2023-01-13 - A list of D3 libraries, plugins and utilities.
 * [promise-fun](https://github.com/sindresorhus/promise-fun) ⭐ 5,184 | 🐛 0 | 📅 2024-04-25 - Promise packages, patterns, chat, and tutorials.
 * [awesome-eslint](https://github.com/dustinspecker/awesome-eslint) ⭐ 4,777 | 🐛 23 | 📅 2026-10-24 - A list of awesome ESLint plugins, configs, etc.
 * [awesome-npm](https://github.com/sindresorhus/awesome-npm) ⭐ 4,758 | 🐛 1 | 📅 2026-04-20 - Awesome npm resources and tips.
 * [awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages) ⭐ 4,623 | 🐛 5 | 📅 2023-12-18 - A curated list of small, focused npm packages.
-* [awesome-deno](https://github.com/denolib/awesome-deno) ⭐ 4,417 | 🐛 5 | 📅 2026-11-10 - Curated list of awesome things related to Deno.
+* [awesome-deno](https://github.com/denolib/awesome-deno) ⭐ 4,417 | 🐛 7 | 📅 2026-11-10 - Curated list of awesome things related to Deno.
 * [awesome-wepy](https://github.com/aben1188/awesome-wepy) ⭐ 4,361 | 🐛 1 | 📅 2021-05-06 - Awesome for wepy ! 微信小程序组件化开发框架wepy开发资源汇总.
 * [awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors) ⭐ 4,000 | 🐛 1 | 📅 2026-11-06 - A curated list of awesome WYSIWYG Editors.
 * [es6-tools](https://github.com/addyosmani/es6-tools) ⭐ 3,973 | 🐛 15 | 📅 2019-10-31 - An aggregation of tooling for using ES6 today.
-* [awesome-bun](https://github.com/oven-sh/awesome-bun) ⭐ 3,682 | 🐛 103 | 📅 2025-07-20 - ⚡️ A curated list of awesome things related to Bun.
+* [awesome-bun](https://github.com/oven-sh/awesome-bun) ⭐ 3,681 | 🐛 103 | 📅 2025-07-20 - ⚡️ A curated list of awesome things related to Bun.
 * [awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui) ⭐ 3,462 | 🐛 12 | 🌐 Python | 📅 2023-08-28 - Awesome React Native UI components updated weekly.
 * [awesome-ant-design](https://github.com/websemantics/awesome-ant-design) ⭐ 3,303 | 🐛 31 | 📅 2025-07-29 - A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date.
 * [awesome-angular-components](https://github.com/brillout/awesome-angular-components) ⭐ 3,184 | 🐛 19 | 📅 2022-01-04 - Catalog of Angular 2+ Components & Libraries.
 * [awesome-web-effect](https://github.com/lindelof/awesome-web-effect) ⭐ 3,170 | 🐛 2 | 📅 2021-04-12 - A series of exquisite and compact web page cool effects.
-* [awesome-taro](https://github.com/jd-opensource/awesome-taro) ⭐ 2,925 | 🐛 4 | 📅 2024-04-11 - 多端统一开发框架 Taro 优秀学习资源汇总.
+* [awesome-taro](https://github.com/jd-opensource/awesome-taro) ⭐ 2,924 | 🐛 4 | 📅 2024-04-11 - 多端统一开发框架 Taro 优秀学习资源汇总.
 * [awesome-editorjs](https://github.com/editor-js/awesome-editorjs) ⭐ 2,888 | 🐛 26 | 📅 2026-10-20 - 🤩 A curated list of awesome Editor.js tools, libraries and resources.
 * [awesome](https://github.com/rollup/awesome) ⭐ 2,713 | 🐛 3 | 📅 2026-07-18 - ⚡️ Delightful Rollup Plugins, Packages, and Resources.
-* [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) ⭐ 2,585 | 🐛 30 | 📅 2024-07-19 - A curated list of awesome puppeteer resources.
+* [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) ⭐ 2,586 | 🐛 31 | 📅 2024-07-19 - A curated list of awesome puppeteer resources.
 * [awesome-peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) ⭐ 2,563 | 🐛 23 | 📅 2023-03-28 - A list of peer-to-peer resources.
-* [awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) ⭐ 2,418 | 🐛 57 | 📅 2026-11-12 - List of agent orchestrators.
-* [awesome-workshopper](https://github.com/therebelrobot/awesome-workshopper) ⭐ 2,304 | 🐛 2 | 📅 2021-03-03 - A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.
-* [awesome-promises](https://github.com/wbinnssmith/awesome-promises) ⭐ 1,782 | 🐛 8 | 📅 2023-12-15 - A curated list of useful resources for JavaScript Promises.
+* [awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) ⭐ 2,422 | 🐛 58 | 📅 2026-11-12 - List of agent orchestrators.
+* [awesome-workshopper](https://github.com/therebelrobot/awesome-workshopper) ⭐ 2,305 | 🐛 2 | 📅 2021-03-03 - A list of CLI workshopper/adventure tutorials for various things. Inspired by awesome.
+* [awesome-promises](https://github.com/wbinnssmith/awesome-promises) ⭐ 1,783 | 🐛 8 | 📅 2023-12-15 - A curated list of useful resources for JavaScript Promises.
 * [awesome-frontend](https://github.com/JingwenTian/awesome-frontend) ⭐ 1,745 | 🐛 11 | 📅 2024-05-11 - A curated list of amazingly awesome frontend libraries, resources and shiny things.
 * [Awesome-PicGo](https://github.com/PicGo/Awesome-PicGo) ⭐ 1,732 | 🐛 1 | 📅 2026-11-02 - A collection of awesome projects using PicGo.
-* [awesome-playwright](https://github.com/mxschmitt/awesome-playwright) ⭐ 1,610 | 🐛 63 | 📅 2026-10-02 - A curated list of awesome tools, utils and projects using Playwright.
+* [awesome-playwright](https://github.com/mxschmitt/awesome-playwright) ⭐ 1,611 | 🐛 64 | 📅 2026-10-02 - A curated list of awesome tools, utils and projects using Playwright.
 * [awesome-web-animation](https://github.com/sergey-pimenov/awesome-web-animation) ⭐ 1,606 | 🐛 14 | 🌐 JavaScript | 📅 2026-09-20 - A list of awesome web animation libraries, books, apps etc.
 * [awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs) ⭐ 1,556 | 🐛 2 | 📅 2022-02-16 - 🎉 整理我平时关注的前端库。.
 * [awesome-jest](https://github.com/jest-community/awesome-jest) ⭐ 1,551 | 🐛 8 | 📅 2026-09-22 - 🕶 Awesome Jest packages and resources.
@@ -1045,10 +1045,10 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-parcel](https://github.com/parcel-bundler/awesome-parcel) ⭐ 1,392 | 🐛 6 | 📅 2022-10-07 - 🔗 A curated list of awesome Parcel resources, libraries, tools and boilerplates.
 * [awesome-nodejs](https://github.com/huaize2020/awesome-nodejs) ⭐ 1,300 | 🐛 4 | 🌐 JavaScript | 📅 2024-06-16 - Node.js 资源大全中文版。An awesome Node.js packages and resources.
 * [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) ⭐ 1,213 | 🐛 1 | 📅 2026-09-18 - :two\_men\_holding\_hands: A curated list of awesome developer tools for writing cross-platform Node.js code.
-* [awesome-micro](https://github.com/amio/awesome-micro) ⭐ 1,065 | 🐛 0 | 📅 2022-03-04 - A collection of awesome things regarding zeit's micro.
 * [awesome-javascript](https://github.com/uhub/awesome-javascript) ⭐ 1,064 | 🐛 2 | 📅 2026-10-20 - A curated list of awesome JavaScript frameworks, libraries and software.
+* [awesome-micro](https://github.com/amio/awesome-micro) ⭐ 1,064 | 🐛 0 | 📅 2022-03-04 - A collection of awesome things regarding zeit's micro.
 * [awesome-adonisjs](https://github.com/adonisjs-community/awesome-adonisjs) ⭐ 1,050 | 🐛 5 | 📅 2026-09-23 - A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the AdonisJS ecosystem.
-* [awesome-preact](https://github.com/preactjs/awesome-preact) ⭐ 1,012 | 🐛 1 | 📅 2026-11-07 - A curated list of amazingly awesome things regarding Preact ecosystem :star2:.
+* [awesome-preact](https://github.com/preactjs/awesome-preact) ⭐ 1,012 | 🐛 2 | 📅 2026-11-07 - A curated list of amazingly awesome things regarding Preact ecosystem :star2:.
 * [awesome-solid-js](https://github.com/one-aalam/awesome-solid-js) ⭐ 1,005 | 🐛 23 | 📅 2026-07-29 - Curated resources on building sites with SolidJS, a brand new way(now 1.0) to build JavaScript based interactive web applications. A very close looking cousin to React/JSX by syntax, and to Svelte by few important principles(compiler and fine-grained reactivity), it's a highly optimised way to deliver web applications with best-in-class performance.
 * [awesome-jquery](https://github.com/petk/awesome-jquery) ⭐ 983 | 🐛 0 | 📅 2026-01-01 - A curated list of awesome jQuery plugins, resources and other shiny things.
 * [awesome-feathersjs](https://github.com/feathersjs/awesome-feathersjs) ⭐ 948 | 🐛 4 | 📅 2023-11-22 - A list of awesome things related to FeathersJS.
@@ -1062,7 +1062,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-gulp](https://github.com/alferov/awesome-gulp) ⭐ 623 | 🐛 4 | 🌐 JavaScript | 📅 2022-04-12 - :tropical\_drink: A curated list of awesome gulp resources, plugins, and boilerplates for a better development workflow automation -.
 * [awesome-vue](https://github.com/rumengkai/awesome-vue) ⭐ 598 | 🐛 2 | 📅 2022-06-25 - Vue相关开源项目库汇总.
 * [awesome-network-js](https://github.com/Kikobeats/awesome-network-js) ⭐ 585 | 🐛 0 | 📅 2026-10-18 - A :tophat: list of network layer resources written pure JS.
-* [Awesome-DeepSeek-Harness-Plugins](https://github.com/Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins) ⭐ 568 | 🐛 25 | 📅 2026-10-18 - Curated DeepSeek Harness (DSH) plugins, extensions, tools, skills, clients, runtimes, integrations, and verified references — English and Chinese.
+* [Awesome-DeepSeek-Harness-Plugins](https://github.com/Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins) ⭐ 568 | 🐛 26 | 📅 2026-10-18 - Curated DeepSeek Harness (DSH) plugins, extensions, tools, skills, clients, runtimes, integrations, and verified references — English and Chinese.
 * [awesome-shadcnui](https://github.com/2-fly-4-ai/awesome-shadcnui) ⭐ 565 | 🐛 14 | 📅 2025-06-19 - The largest list online of awesome things related to shadcn/ui.
 * [awesome-phaser](https://github.com/Raiper34/awesome-phaser) ⭐ 517 | 🐛 6 | 📅 2025-04-14 - A curated list of awesome Phaser libraries, resources and shiny things.
 * [hyperawesome](https://github.com/jorgebucaran/hyperawesome) ⭐ 503 | 🐛 4 | 📅 2025-10-03 - A curated list of awesome projects built with Hyperapp + more.
@@ -1118,7 +1118,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-faker](https://github.com/faker-js/awesome-faker) ⭐ 57 | 🐛 2 | 📅 2025-12-11 - 😎 A curated list of awesome things related to Faker 🐼.
 * [awesome-deku](https://github.com/lambtron/awesome-deku) ⭐ 53 | 🐛 1 | 📅 2016-10-29 - A curated list of awesome Deku resources.
 * [awesome-javascript-audio](https://github.com/sc0ttj/awesome-javascript-audio) ⭐ 53 | 🐛 10 | 📅 2025-09-04 - JavaScript tools, libraries and components for creating/managing audio, sounds and music.
-* [awesome-vitest](https://github.com/porada/awesome-vitest) ⭐ 51 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-13 - Curated list of awesome Vitest tools and resources.
+* [awesome-vitest](https://github.com/porada/awesome-vitest) ⭐ 52 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-13 - Curated list of awesome Vitest tools and resources.
 * [Awesome-Arcade-Extensions](https://github.com/UnsignedArduino/Awesome-Arcade-Extensions) ⭐ 42 | 🐛 0 | 📅 2023-04-23 - This is a list of MakeCode Arcade extensions that I find super useful (or just plain cool) in my projects.
 * [awesome-pears](https://github.com/gasolin/awesome-pears) ⭐ 42 | 🐛 0 | 📅 2026-10-16 - Awesome Pears.
 * [awesome-prosemirror](https://github.com/artemnistuley/awesome-prosemirror) ⭐ 42 | 🐛 1 | 📅 2026-07-01 - A curated list of awesome things related to ProseMirror.
@@ -1132,7 +1132,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [fucking-awesome-web-effect](https://github.com/Correia-jpv/fucking-awesome-web-effect) ⭐ 30 | 🐛 0 | 📅 2026-11-12 - A series of exquisite and compact web page cool effects. With repository stars⭐ and forks🍴.
 * [awesome-stencil](https://github.com/stencil-community/awesome-stencil) ⭐ 26 | 🐛 8 | 📅 2025-02-28 - A curated list of awesome Stencil resources, libraries and tools.
 * [awesome-crafted-nodejs](https://github.com/fraxken/awesome-crafted-nodejs) ⭐ 24 | 🐛 0 | 📅 2021-02-14 - Awesome list of well crafted Node.js packages.
-* [fucking-awesome-tailwindcss](https://github.com/correia-jpv/fucking-awesome-tailwindcss) ⭐ 24 | 🐛 2 | 📅 2026-11-12 - 😎 Awesome things related to Tailwind CSS. With repository stars⭐ and forks🍴.
+* [fucking-awesome-tailwindcss](https://github.com/correia-jpv/fucking-awesome-tailwindcss) ⭐ 24 | 🐛 2 | 📅 2026-11-14 - 😎 Awesome things related to Tailwind CSS. With repository stars⭐ and forks🍴.
 * [awesome-angular-components](https://github.com/chyngyz/awesome-angular-components) ⭐ 23 | 🐛 1 | 📅 2017-02-09 - This project is no longer supported.
 * [awesome-deno](https://github.com/denoone/awesome-deno) ⭐ 23 | 🐛 1 | 📅 2020-05-24 - A curated list of awesome Deno frameworks, libraries, software and resources.
 * [awesome-react-hooks-cn](https://github.com/docschina/awesome-react-hooks-cn) ⭐ 23 | 🐛 0 | 📅 2023-10-03 - Awesome React Hooks 中文版本.
@@ -1141,7 +1141,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-react-cn](https://github.com/flynn-eye/awesome-react-cn) ⭐ 21 | 🐛 0 | 📅 2020-11-21 - 收集react库,项目,文章,vscode插件的中文仓库,更新中.
 * [awesome-farcaster-dev](https://github.com/ftchd/awesome-farcaster-dev) ⭐ 20 | 🐛 0 | 📅 2026-10-28 - A sufficiently decentralized list about open source Farcaster & Frames projects.
 * [fucking-awesome-react-components](https://github.com/Correia-jpv/fucking-awesome-react-components) ⭐ 19 | 🐛 1 | 📅 2026-11-12 - Curated List of React Components & Libraries. With repository stars⭐ and forks🍴.
-* [fucking-awesome-react-native](https://github.com/correia-jpv/fucking-awesome-react-native) ⭐ 18 | 🐛 3 | 📅 2026-11-12 - Awesome React Native components, news, tools, and learning material! With repository stars⭐ and forks🍴.
+* [fucking-awesome-react-native](https://github.com/correia-jpv/fucking-awesome-react-native) ⭐ 18 | 🐛 3 | 📅 2026-11-14 - Awesome React Native components, news, tools, and learning material! With repository stars⭐ and forks🍴.
 * [awesome-assemblyscript](https://github.com/JairusSW/awesome-assemblyscript) ⭐ 17 | 🐛 1 | 📅 2026-11-09 - Curated listing for AssemblyScript packages, libraries, and tools. 🚀.
 * [awesome-javascript](https://github.com/saehun/awesome-javascript) ⭐ 17 | 🐛 0 | 🌐 TypeScript | 📅 2024-11-07 - A collection of awesome JavaScript libraries, resources and people.
 * [awesome-dsh-plugin](https://github.com/Anil-matcha/awesome-dsh-plugin) ⭐ 16 | 🐛 18 | 🌐 Python | 📅 2026-09-17 - A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem.
@@ -1154,34 +1154,34 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome](https://github.com/fibjs/awesome) ⭐ 13 | 🐛 0 | 📅 2019-06-04 - Useful resources for creating apps with fibjs.
 * [awesome-nodejs-cn](https://github.com/czewail/awesome-nodejs-cn) ⭐ 13 | 🐛 0 | 📅 2025-02-13 - Awesome-Node.js 中文版🇨🇳.
 * [awesome-buildspace](https://github.com/AlbertoCruzLuis/awesome-buildspace) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2023-04-01 - 🎉 A curated list of awesome Buildspace projects.
-* [fucking-awesome-javascript](https://github.com/correia-jpv/fucking-awesome-javascript) ⭐ 12 | 🐛 3 | 📅 2026-11-12 - 🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things. 😎 Awesome lists about all kinds of interesting topics. With repository stars⭐ and forks🍴.
+* [fucking-awesome-javascript](https://github.com/correia-jpv/fucking-awesome-javascript) ⭐ 12 | 🐛 3 | 📅 2026-11-14 - 🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things. 😎 Awesome lists about all kinds of interesting topics. With repository stars⭐ and forks🍴.
 * [awesome-element-plus](https://github.com/warmthsea/awesome-element-plus) ⭐ 11 | 🐛 1 | 🌐 TypeScript | 📅 2024-08-21 - 😎 Awesome things related to Element Plus.
-* [fucking-awesome-angular](https://github.com/correia-jpv/fucking-awesome-angular) ⭐ 11 | 🐛 2 | 🌐 HTML | 📅 2026-11-12 - 📄 A curated list of awesome Angular resources. With repository stars⭐ and forks🍴.
+* [fucking-awesome-angular](https://github.com/correia-jpv/fucking-awesome-angular) ⭐ 11 | 🐛 2 | 🌐 HTML | 📅 2026-11-14 - 📄 A curated list of awesome Angular resources. With repository stars⭐ and forks🍴.
 * [awesome-nodejs-precise](https://github.com/magicdawn/awesome-nodejs-precise) ⭐ 10 | 🐛 2 | 🌐 JavaScript | 📅 2017-04-08 - Same as awesome-Node.js, but more precise.
-* [fucking-awesome-nodejs](https://github.com/correia-jpv/fucking-awesome-nodejs) ⭐ 10 | 🐛 0 | 📅 2026-11-12 - ⚡ Delightful Node.js packages and resources. With repository stars⭐ and forks🍴.
+* [fucking-awesome-nodejs](https://github.com/correia-jpv/fucking-awesome-nodejs) ⭐ 10 | 🐛 0 | 📅 2026-11-14 - ⚡ Delightful Node.js packages and resources. With repository stars⭐ and forks🍴.
 * [awesome-js](https://github.com/yashprit/awesome-js) ⭐ 9 | 🐛 1 | 📅 2022-05-12 - A curated list of delightful JavaScript packages and resources.
 * [Awesome-Remix](https://github.com/re50urces/Awesome-Remix) ⭐ 9 | 🐛 0 | 📅 2023-04-05 - Curated List Awesome Remix Resources.
-* [fucking-awesome-npm](https://github.com/correia-jpv/fucking-awesome-npm) ⭐ 9 | 🐛 0 | 📅 2026-11-12 - Awesome npm resources and tips. With repository stars⭐ and forks🍴.
+* [fucking-awesome-npm](https://github.com/correia-jpv/fucking-awesome-npm) ⭐ 9 | 🐛 0 | 📅 2026-11-14 - Awesome npm resources and tips. With repository stars⭐ and forks🍴.
 * [awesome-node](https://github.com/shaikh-shahid/awesome-node) ⭐ 8 | 🐛 0 | 📅 2020-06-06 - Best Node.js tools, libraries, frameworks and resources.
 * [awesome-nord](https://github.com/luke-beep/awesome-nord) ⭐ 8 | 🐛 0 | 📅 2024-03-09 - Discover a curated selection of sleek and stylish themes inspired by the Nord color palette. From code editors to desktop environments, elevate your workspace experience with this collection of Nord-inspired themes.
-* [fucking-awesome-wpo](https://github.com/correia-jpv/fucking-awesome-wpo) ⭐ 8 | 🐛 1 | 📅 2026-11-12 - 📝 A curated list of Web Performance Optimization. Everyone can contribute here! With repository stars⭐ and forks🍴.
+* [fucking-awesome-wpo](https://github.com/correia-jpv/fucking-awesome-wpo) ⭐ 8 | 🐛 1 | 📅 2026-11-14 - 📝 A curated list of Web Performance Optimization. Everyone can contribute here! With repository stars⭐ and forks🍴.
 * [awesome-front-end](https://github.com/FivestarsMobi/awesome-front-end) ⭐ 7 | 🐛 0 | 📅 2020-04-03 - A curated list of amazingly awesome frontend libraries, resources and shiny things.
 * [awesome-github-wechat-app](https://github.com/xn2113/awesome-github-wechat-app) ⭐ 7 | 🐛 0 | 📅 2018-11-09 - 微信小程序开源项目汇总.
-* [fucking-awesome-eslint](https://github.com/correia-jpv/fucking-awesome-eslint) ⭐ 7 | 🐛 1 | 📅 2026-11-12 - A list of awesome ESLint plugins, configs, etc. With repository stars⭐ and forks🍴.
-* [fucking-awesome-react](https://github.com/correia-jpv/fucking-awesome-react) ⭐ 7 | 🐛 0 | 📅 2026-11-12 - A collection of awesome things regarding React ecosystem. With repository stars⭐ and forks🍴.
-* [fucking-awesome-fp-js](https://github.com/correia-jpv/fucking-awesome-fp-js) ⭐ 6 | 🐛 0 | 📅 2026-11-12 - 😎 A curated list of awesome functional programming stuff in js. With repository stars⭐ and forks🍴.
-* [fucking-awesome-micro-npm-packages](https://github.com/correia-jpv/fucking-awesome-micro-npm-packages) ⭐ 6 | 🐛 0 | 📅 2026-11-12 - A curated list of small, focused npm packages. With repository stars⭐ and forks🍴.
+* [fucking-awesome-eslint](https://github.com/correia-jpv/fucking-awesome-eslint) ⭐ 7 | 🐛 1 | 📅 2026-11-14 - A list of awesome ESLint plugins, configs, etc. With repository stars⭐ and forks🍴.
+* [fucking-awesome-react](https://github.com/correia-jpv/fucking-awesome-react) ⭐ 7 | 🐛 0 | 📅 2026-11-14 - A collection of awesome things regarding React ecosystem. With repository stars⭐ and forks🍴.
+* [fucking-awesome-fp-js](https://github.com/correia-jpv/fucking-awesome-fp-js) ⭐ 6 | 🐛 0 | 📅 2026-11-14 - 😎 A curated list of awesome functional programming stuff in js. With repository stars⭐ and forks🍴.
+* [fucking-awesome-micro-npm-packages](https://github.com/correia-jpv/fucking-awesome-micro-npm-packages) ⭐ 6 | 🐛 0 | 📅 2026-11-14 - A curated list of small, focused npm packages. With repository stars⭐ and forks🍴.
 * [awesome-angular-components](https://github.com/is2ei/awesome-angular-components) ⭐ 5 | 🐛 1 | 📅 2026-07-19 - Catalog of Angular 2+ Components & Libraries.
 * [awesome-micro-npm-packages-zh](https://github.com/chinanf-boy/awesome-micro-npm-packages-zh) ⭐ 5 | 🐛 0 | 📅 2018-09-08 - 🇨🇳翻译: <awesome-micro-npm-package> 小模块,列表 ❤ 校对 ✔.
 * [awesome-web-cn](https://github.com/left0ver/awesome-web-cn) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2023-01-17 - 收集JavaScript实用的工具,以及react,vue的一些好用的组件.
 * [awesomeelectron](https://github.com/dorisoy/awesomeelectron) ⭐ 5 | 🐛 0 | 📅 2021-11-23 - Electron is an open-source framework for creating desktop apps using web technologies. It combines the Chromium rendering engine and the Node.js runtime.
-* [fucking-awesome-electron](https://github.com/correia-jpv/fucking-awesome-electron) ⭐ 5 | 🐛 1 | 📅 2026-11-12 - Useful resources for creating apps with Electron. With repository stars⭐ and forks🍴.
+* [fucking-awesome-electron](https://github.com/correia-jpv/fucking-awesome-electron) ⭐ 5 | 🐛 1 | 📅 2026-11-14 - Useful resources for creating apps with Electron. With repository stars⭐ and forks🍴.
 * [awesome-jquery](https://github.com/yashprit/awesome-jquery) ⭐ 4 | 🐛 0 | 📅 2015-11-12 - List of awesome jquery plugin.
 * [awesome-react](https://github.com/neyric/awesome-react) ⭐ 4 | 🐛 1 | 📅 2025-11-20 - A collection of the best React libraries, components, and resources.
 * [awesome-react-components-all](https://github.com/sheep0704/awesome-react-components-all) ⭐ 4 | 🐛 0 | 📅 2019-06-11 - Catalog of React components / libraries / React 学习大全.
 * [awesome-react-native](https://github.com/thenaubit/awesome-react-native) ⭐ 4 | 🐛 2 | 📅 2026-02-07 - Awesome React Native (Expo) components, news, tools, and learning material!
 * [awesome-zaraz](https://github.com/mackenly/awesome-zaraz) ⭐ 4 | 🐛 0 | 📅 2025-03-13 - 🚀 Awesome Cloudflare Zaraz components, libraries, resources, and tools.
-* [fucking-awesome-promises](https://github.com/correia-jpv/fucking-awesome-promises) ⭐ 4 | 🐛 0 | 📅 2026-11-12 - A curated list of useful resources for JavaScript Promises. With repository stars⭐ and forks🍴.
+* [fucking-awesome-promises](https://github.com/correia-jpv/fucking-awesome-promises) ⭐ 4 | 🐛 0 | 📅 2026-11-14 - A curated list of useful resources for JavaScript Promises. With repository stars⭐ and forks🍴.
 * [awesome-agent-product](https://github.com/iamdin/awesome-agent-product) ⭐ 3 | 🐛 12 | 📅 2026-08-03 - A curated list of AI agent products - desktop apps, IDEs, terminal agents, and dashboards.
 * [awesome-boilerplate](https://github.com/ilhamjaya08/awesome-boilerplate) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2024-10-08 - A simple list of awesome boilerplate and starterkit according stack you want for your project.
 * [awesome-d3](https://github.com/pilotbe2man/awesome-d3) ⭐ 3 | 🐛 0 | 📅 2018-09-30 - A list of D3 libraries, plugins and utilities.
@@ -1189,7 +1189,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-list](https://github.com/Chr15t0pher/awesome-list) ⭐ 3 | 🐛 1 | 📅 2021-06-03 - Awesome-list.
 * [awesome-nodejs-tools](https://github.com/tysoncung/awesome-nodejs-tools) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-20 - 🚀 A curated list of awesome Node.js tools, libraries, and frameworks with rankings.
 * [awesome-react-components](https://github.com/saidee-hasan/awesome-react-components) ⭐ 3 | 🐛 0 | 📅 2025-01-05 - 🚀 Curated Collection of Exceptional React Components & Libraries.
-* [fucking-es6-tools](https://github.com/correia-jpv/fucking-es6-tools) ⭐ 3 | 🐛 0 | 📅 2026-11-12 - An aggregation of tooling for using ES6 today. With repository stars⭐ and forks🍴.
+* [fucking-es6-tools](https://github.com/correia-jpv/fucking-es6-tools) ⭐ 3 | 🐛 0 | 📅 2026-11-14 - An aggregation of tooling for using ES6 today. With repository stars⭐ and forks🍴.
 * [awesome-client-side](https://github.com/xajkep/awesome-client-side) ⭐ 2 | 🐛 1 | 📅 2023-01-31 - A dedicated place for cool client side stuffs.
 * [awesome-focusnetworks](https://github.com/FocusLabs/awesome-focusnetworks) ⭐ 2 | 🐛 0 | 📅 2014-11-18 - List of awesome tools, scripts and anything to use in Focusnetworks.
 * [awesome-nodejs](https://github.com/MengFangui/awesome-nodejs) ⭐ 2 | 🐛 0 | 📅 2024-03-13 - Node常用库.
@@ -1272,7 +1272,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-ktor](https://github.com/mjovanc/awesome-ktor) ⭐ 496 | 🐛 1 | 🌐 Kotlin | 📅 2026-05-15 - Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡.
 * [awesome-mirai](https://github.com/project-mirai/awesome-mirai) ⭐ 468 | 🐛 3 | 🌐 JavaScript | 📅 2023-12-14 - Mirai相关项目和插件收集.
 * [awesome-compose](https://github.com/hadiyarajesh/awesome-compose) ⭐ 158 | 🐛 0 | 📅 2021-08-11 - Curated collection of repositories containing awesome UI using Jetpack Compose.
-* [changelog-awesome-shizuku](https://github.com/timschneeb/changelog-awesome-shizuku) ⭐ 105 | 🐛 0 | 📅 2026-11-11 - Automatically generated changelogs for the awesome-shizuku list.
+* [changelog-awesome-shizuku](https://github.com/timschneeb/changelog-awesome-shizuku) ⭐ 106 | 🐛 0 | 📅 2026-11-11 - Automatically generated changelogs for the awesome-shizuku list.
 * [awesome-kotlin-libraries-for-android](https://github.com/appcypher/awesome-kotlin-libraries-for-android) ⭐ 70 | 🐛 3 | 📅 2020-11-02 - 😎 A curated list of awesome Kotlin libraries for Android.
 * [awesome-kotlin-multiplatform](https://github.com/hoangchungk53qx1/awesome-kotlin-multiplatform) ⭐ 21 | 🐛 0 | 📅 2023-10-06 - We are Rx-Mobile-Team ( Kotlin Multiplatform. Welcome PR if you find or create new Kotlin Multiplatform Library and Project.
 * [awesome-open-source-kotlin-applications](https://github.com/jagdish-pulpet/awesome-open-source-kotlin-applications) ⭐ 9 | 🐛 1 | 📅 2025-05-28 - This repository is a curated collection of amazing open-source kotlin applications. Whether you're looking for inspiration, learning resources, or just want to explore what others have built, this is the perfect place for you!
@@ -1281,16 +1281,16 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Lua Lists
 
-* [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) ⭐ 21,574 | 🐛 12 | 🌐 Shell | 📅 2026-11-13 - Collections of awesome neovim plugins.
+* [awesome-neovim](https://github.com/rockerBOO/awesome-neovim) ⭐ 21,573 | 🐛 12 | 🌐 Shell | 📅 2026-11-13 - Collections of awesome neovim plugins.
 * [awesome-lua](https://github.com/LewisJEllis/awesome-lua) ⭐ 4,596 | 🐛 52 | 📅 2024-08-11 - A curated list of quality Lua packages and resources.
 * [awesome-love2d](https://github.com/love2d-community/awesome-love2d) ⭐ 4,559 | 🐛 1 | 🌐 PowerShell | 📅 2026-09-26 - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
-* [awesome-resty](https://github.com/bungle/awesome-resty) ⭐ 2,480 | 🐛 2 | 📅 2026-05-26 - A List of Quality OpenResty Libraries, and Resources.
-* [awesome-mpv](https://github.com/stax76/awesome-mpv) ⭐ 2,312 | 🐛 17 | 📅 2026-02-04 - A curated list of awesome mpv resources.
+* [awesome-resty](https://github.com/bungle/awesome-resty) ⭐ 2,479 | 🐛 2 | 📅 2026-05-26 - A List of Quality OpenResty Libraries, and Resources.
+* [awesome-mpv](https://github.com/stax76/awesome-mpv) ⭐ 2,314 | 🐛 17 | 📅 2026-02-04 - A curated list of awesome mpv resources.
 * [awesome-balatro](https://github.com/jie65535/awesome-balatro) ⭐ 1,293 | 🐛 5 | 📅 2026-10-16 - A list of Balatro Mods and Tools.
-* [my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) ⭐ 832 | 🐛 0 | 🌐 Shell | 📅 2026-11-13 - My personal list of Neovim plugins.
+* [my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist) ⭐ 832 | 🐛 1 | 🌐 Shell | 📅 2026-11-14 - My personal list of Neovim plugins.
 * [awesome-wezterm](https://github.com/michaelbrusegard/awesome-wezterm) ⭐ 787 | 🐛 0 | 📅 2026-10-12 - Collections of awesome WezTerm plugins.
 * [awesome-awesomewm-modules-widgets-and-libraries](https://github.com/thomashighbaugh/awesome-awesomewm-modules-widgets-and-libraries) ⭐ 266 | 🐛 0 | 📅 2026-08-05 - A community driven, not-so-curated list of projects you can bolt into your AwesomeWM Configuration.
-* [awesome-defold](https://github.com/astrochili/awesome-defold) ⭐ 245 | 🐛 1 | 📅 2026-08-09 - Awesome Defold.
+* [awesome-defold](https://github.com/astrochili/awesome-defold) ⭐ 246 | 🐛 1 | 📅 2026-08-09 - Awesome Defold.
 * [awesome-mta-sa](https://github.com/AlexRazor1337/awesome-mta-sa) ⭐ 94 | 🐛 1 | 📅 2025-02-03 - List of free/opensource MTA:SA resources.
 * [awesome-onset](https://github.com/alexandregv/awesome-onset) ⭐ 34 | 🐛 0 | 📅 2022-03-06 - A collection of awesome Onset packages, assets, tools, guides, and more.
 * [awesome-solar2d](https://github.com/sekodev/awesome-solar2d) ⭐ 24 | 🐛 1 | 📅 2026-04-30 - A collection of awesome Solar2D resources.
@@ -1315,15 +1315,15 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Motoko Lists
 
-* [awesome-motoko](https://github.com/ic123-xyz/awesome-motoko) ⭐ 118 | 🐛 0 | 📅 2025-11-25 - A curated list of Motoko code and resources.
+* [awesome-motoko](https://github.com/ic123-xyz/awesome-motoko) ⭐ 119 | 🐛 0 | 📅 2025-11-25 - A curated list of Motoko code and resources.
 
 ### Nim Lists
 
-* [awesome-nim](https://github.com/ringabout/awesome-nim) ⭐ 1,551 | 🐛 16 | 🌐 Nim | 📅 2026-10-13 - A curated list of awesome Nim frameworks, libraries, software and resources.
+* [awesome-nim](https://github.com/ringabout/awesome-nim) ⭐ 1,552 | 🐛 16 | 🌐 Nim | 📅 2026-10-13 - A curated list of awesome Nim frameworks, libraries, software and resources.
 
 ### Nix Lists
 
-* [awesome-nix](https://github.com/nix-community/awesome-nix) ⭐ 5,545 | 🐛 27 | 📅 2026-07-23 - 😎 A curated list of the best resources in the Nix community \[maintainer=@cyntheticfox].
+* [awesome-nix](https://github.com/nix-community/awesome-nix) ⭐ 5,548 | 🐛 27 | 📅 2026-07-23 - 😎 A curated list of the best resources in the Nix community \[maintainer=@cyntheticfox].
 
 ### Objective-C Lists
 
@@ -1331,7 +1331,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-objective-c](https://github.com/uhub/awesome-objective-c) ⭐ 341 | 🐛 0 | 📅 2026-10-26 - A curated list of awesome Objective-C frameworks, libraries and software.
 * [awesome](https://github.com/itenfay/awesome) ⭐ 252 | 🐛 1 | 📅 2024-06-02 - 提供iOS精选列表，包含Objective-C和Swift项目，涉及鸿蒙开发、Flutter、React Native、Weex、H5、小程序、区块链、数据库、游戏开发等教程(Provides a curated list of awesome iOS, including Objective-C and Swift Projects, covering tutorials on HarmonyOS development, Flutter, React Native, Weex, H5, mini programs, blockchain, databases, game development, and more.)。.
 * [Awesome-iOS](https://github.com/ElfSundae/Awesome-iOS) ⭐ 37 | 🐛 0 | 📅 2022-12-07 - A curated list of most common & awesome iOS frameworks, libraries, tools, components and much more.
-* [awesome-mobile-ui](https://github.com/suguru/awesome-mobile-ui) ⭐ 35 | 🐛 0 | 📅 2014-08-05 - UI/UX resources.
+* [awesome-mobile-ui](https://github.com/suguru/awesome-mobile-ui) ⭐ 36 | 🐛 0 | 📅 2014-08-05 - UI/UX resources.
 
 ### Odin Lists
 
@@ -1343,10 +1343,10 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### PHP Lists
 
-* [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,799 | 🐛 80 | 📅 2026-10-30 - A curated list of amazingly awesome PHP libraries, resources and shiny things.
-* [awesome-php](https://github.com/JingwenTian/awesome-php) ⭐ 1,869 | 🐛 4 | 📅 2022-06-24 - 收集整理一些常用的PHP类库, 资源以及技巧. 以便在工作中迅速的查找所需.
+* [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,801 | 🐛 84 | 📅 2026-10-30 - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+* [awesome-php](https://github.com/JingwenTian/awesome-php) ⭐ 1,868 | 🐛 4 | 📅 2022-06-24 - 收集整理一些常用的PHP类库, 资源以及技巧. 以便在工作中迅速的查找所需.
 * [awesome-yii2](https://github.com/forecho/awesome-yii2) ⭐ 1,809 | 🐛 0 | 📅 2022-02-12 - Yii2 干货集.
-* [awesome](https://github.com/YOURLS/awesome) ⭐ 1,053 | 🐛 0 | 🌐 Python | 📅 2026-11-07 - 🎉 A curated list of awesome things related to YOURLS.
+* [awesome](https://github.com/YOURLS/awesome) ⭐ 1,052 | 🐛 0 | 🌐 Python | 📅 2026-11-14 - 🎉 A curated list of awesome things related to YOURLS.
 * [mageres](https://github.com/aleron75/mageres) ⭐ 1,020 | 🐛 2 | 🌐 PHP | 📅 2026-10-31 - A list of useful Magento technical resources.
 * [awesome-cakephp](https://github.com/FriendsOfCake/awesome-cakephp) ⭐ 935 | 🐛 9 | 📅 2026-11-11 - A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 * [awesome-composer](https://github.com/jakoch/awesome-composer) ⭐ 912 | 🐛 1 | 📅 2026-10-08 - :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.
@@ -1368,10 +1368,10 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-magento](https://github.com/sunel/awesome-magento) ⭐ 89 | 🐛 0 | 📅 2021-07-06 - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Magento ecosystem.
 * [awesome-php-ai](https://github.com/garyblankenship/awesome-php-ai) ⭐ 57 | 🐛 1 | 🌐 HTML | 📅 2026-10-13 - A curated list of PHP libraries and tools for AI, Machine Learning, and Natural Language Processing. Find everything you need to integrate modern AI capabilities into your PHP applications.
 * [islandora\_awesome](https://github.com/Islandora-Labs/islandora_awesome) ⭐ 36 | 🐛 0 | 📅 2025-05-26 - A list of awesome modules for Islandora.
-* [fucking-awesome-laravel](https://github.com/correia-jpv/fucking-awesome-laravel) ⭐ 26 | 🐛 2 | 📅 2026-11-12 - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem. With repository stars⭐ and forks🍴.
+* [fucking-awesome-laravel](https://github.com/correia-jpv/fucking-awesome-laravel) ⭐ 26 | 🐛 2 | 📅 2026-11-14 - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem. With repository stars⭐ and forks🍴.
 * [awesome-amphp](https://github.com/thgs/awesome-amphp) ⭐ 16 | 🐛 0 | 📅 2024-01-28 - A curated list of amphp packages.
 * [awesome-http](https://github.com/php-http/awesome-http) ⭐ 15 | 🐛 0 | 📅 2016-05-10 - A curated list of amazingly awesome PHP libraries, resources and shiny things related to HTTP.
-* [fucking-awesome-php](https://github.com/correia-jpv/fucking-awesome-php) ⭐ 11 | 🐛 2 | 📅 2026-11-12 - A curated list of amazingly awesome PHP libraries, resources and shiny things. With repository stars⭐ and forks🍴.
+* [fucking-awesome-php](https://github.com/correia-jpv/fucking-awesome-php) ⭐ 11 | 🐛 2 | 📅 2026-11-14 - A curated list of amazingly awesome PHP libraries, resources and shiny things. With repository stars⭐ and forks🍴.
 * [awesome-laravel-filament](https://github.com/lightszentip/awesome-laravel-filament) ⭐ 6 | 🐛 1 | 📅 2026-06-18 - A list for the topic laravel and filament.
 * [awesome](https://github.com/ozh/awesome) ⭐ 5 | 🐛 0 | 📅 2026-06-25 - 😎 List made daily from repo I've starred.
 * [awesome-php-cn](https://github.com/xu767142206/awesome-php-cn) ⭐ 5 | 🐛 1 | 📅 2023-06-01 - Php常见的资源、库 中文版本 应该是最全的中文库了.
@@ -1394,101 +1394,101 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Python Lists
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 334,415 | 🐛 23 | 🌐 Python | 📅 2026-11-13 - The definitive list that answers "I want to do X in Python, which tool should I use?".
-* [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) ⭐ 30,686 | 🐛 36 | 🌐 Makefile | 📅 2022-08-29 - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。.
-* [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) ⭐ 30,606 | 🐛 300 | 🌐 HTML | 📅 2026-11-13 - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance).
-* [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) ⭐ 21,099 | 🐛 44 | 📅 2026-11-12 - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning.
-* [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) ⭐ 18,153 | 🐛 77 | 🌐 Jupyter Notebook | 📅 2026-10-18 - 💿 Free software that works great, and also happens to be open-source Python.
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 334,630 | 🐛 23 | 🌐 Python | 📅 2026-11-13 - The definitive list that answers "I want to do X in Python, which tool should I use?".
+* [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) ⭐ 30,687 | 🐛 36 | 🌐 Makefile | 📅 2022-08-29 - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。.
+* [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) ⭐ 30,627 | 🐛 306 | 🌐 Python | 📅 2026-11-14 - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance).
+* [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) ⭐ 21,101 | 🐛 44 | 📅 2026-11-12 - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning.
+* [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) ⭐ 18,158 | 🐛 79 | 🌐 Jupyter Notebook | 📅 2026-10-18 - 💿 Free software that works great, and also happens to be open-source Python.
 * [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) ⭐ 16,756 | 🐛 33 | 📅 2026-09-22 - A comprehensive list of pytorch related content on GitHub,such as different models,implementations,helper libraries,tutorials etc.
 * [awesome-flask](https://github.com/humiaozuzu/awesome-flask) ⭐ 12,809 | 🐛 18 | 📅 2026-08-17 - A curated list of awesome Flask resources and plugins.
 * [awesome-flask	](https://github.com/humiaozuzu/awesome-flask) ⭐ 12,809 | 🐛 18 | 📅 2026-08-17 - A curated list of awesome Flask resources and plugins.
-* [awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) ⭐ 11,777 | 🐛 36 | 📅 2026-08-24 - A curated list of awesome things related to FastAPI.
+* [awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) ⭐ 11,777 | 🐛 38 | 📅 2026-08-24 - A curated list of awesome things related to FastAPI.
 * [awesome-django](https://github.com/wsvincent/awesome-django) ⭐ 11,303 | 🐛 5 | 🌐 Python | 📅 2026-10-26 - A curated list of awesome things related to Django.
-* [techniques](https://github.com/satellite-image-deep-learning/techniques) ⭐ 10,301 | 🐛 0 | 📅 2026-11-07 - Techniques for deep learning with satellite & aerial imagery.
-* [awesome-langchain](https://github.com/kyrolabs/awesome-langchain) ⭐ 9,597 | 🐛 0 | 📅 2026-11-11 - 😎 Awesome list of tools and projects with the awesome LangChain framework.
-* [awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) ⭐ 6,745 | 🐛 81 | 📅 2026-11-12 - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
-* [Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) ⭐ 6,336 | 🐛 92 | 🌐 Python | 📅 2026-11-13 - Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests.
-* [awesome-llmops](https://github.com/tensorchord/awesome-llmops) ⭐ 5,972 | 🐛 455 | 🌐 Shell | 📅 2026-11-10 - An awesome & curated list of best LLMOps tools for developers.
-* [awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) ⭐ 5,398 | 🐛 76 | 🌐 HTML | 📅 2026-11-03 - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资.
-* [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) ⭐ 5,155 | 🐛 26 | 📅 2025-12-01 - A curated list of awesome Python asyncio frameworks, libraries, software and resources.
-* [awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) ⭐ 5,032 | 🐛 55 | 🌐 Python | 📅 2026-11-06 - Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.
-* [awesome-termux-hacking](https://github.com/may215/awesome-termux-hacking) ⭐ 4,941 | 🐛 67 | 📅 2023-12-14 - ⚡️An awesome list of the best Termux hacking tools.
-* [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) ⭐ 3,642 | 🐛 27 | 📅 2026-04-13 - Probably the best curated list of data science software in Python.
+* [techniques](https://github.com/satellite-image-deep-learning/techniques) ⭐ 10,302 | 🐛 0 | 📅 2026-11-07 - Techniques for deep learning with satellite & aerial imagery.
+* [awesome-langchain](https://github.com/kyrolabs/awesome-langchain) ⭐ 9,596 | 🐛 1 | 📅 2026-11-11 - 😎 Awesome list of tools and projects with the awesome LangChain framework.
+* [awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) ⭐ 6,752 | 🐛 83 | 📅 2026-11-12 - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
+* [Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) ⭐ 6,339 | 🐛 86 | 🌐 Python | 📅 2026-11-13 - Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests.
+* [awesome-llmops](https://github.com/tensorchord/awesome-llmops) ⭐ 5,975 | 🐛 462 | 🌐 Shell | 📅 2026-11-10 - An awesome & curated list of best LLMOps tools for developers.
+* [awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) ⭐ 5,400 | 🐛 78 | 🌐 HTML | 📅 2026-11-03 - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资.
+* [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) ⭐ 5,156 | 🐛 26 | 📅 2025-12-01 - A curated list of awesome Python asyncio frameworks, libraries, software and resources.
+* [awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) ⭐ 5,035 | 🐛 58 | 🌐 Python | 📅 2026-11-06 - Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.
+* [awesome-termux-hacking](https://github.com/may215/awesome-termux-hacking) ⭐ 4,943 | 🐛 67 | 📅 2023-12-14 - ⚡️An awesome list of the best Termux hacking tools.
+* [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) ⭐ 3,643 | 🐛 27 | 📅 2026-04-13 - Probably the best curated list of data science software in Python.
 * [awesome-TS-anomaly-detection](https://github.com/rob-med/awesome-TS-anomaly-detection) ⭐ 3,165 | 🐛 8 | 📅 2024-10-21 - List of tools & datasets for anomaly detection on time-series data.
 * [awesome-image-classification](https://github.com/weiaicunzai/awesome-image-classification) ⭐ 3,071 | 🐛 2 | 📅 2022-04-20 - A curated list of deep learning image classification papers and codes.
-* [awesome-local-llm](https://github.com/rafska/awesome-local-llm) ⭐ 3,065 | 🐛 299 | 📅 2026-11-11 - A curated list of awesome platforms, tools, practices and resources that helps run LLMs locally.
-* [awesome-agents](https://github.com/kyrolabs/awesome-agents) ⭐ 3,004 | 🐛 1 | 📅 2026-11-11 - 🤖 Awesome list of AI Agents.
+* [awesome-local-llm](https://github.com/rafska/awesome-local-llm) ⭐ 3,065 | 🐛 307 | 📅 2026-11-13 - A curated list of awesome platforms, tools, practices and resources that helps run LLMs locally.
+* [awesome-agents](https://github.com/kyrolabs/awesome-agents) ⭐ 3,006 | 🐛 0 | 📅 2026-11-11 - 🤖 Awesome list of AI Agents.
 * [awesome\_time\_series\_in\_python](https://github.com/MaxBenChrist/awesome_time_series_in_python) ⭐ 2,267 | 🐛 9 | 📅 2023-02-10 - This curated list contains python packages for time series analysis.
 * [awesome-data-analysis](https://github.com/pavelgrigoryevds/awesome-data-analysis) ⭐ 2,203 | 🐛 16 | 📅 2026-11-01 - 🚀 500+ curated resources for Data Analysis & Data Science: Python, SQL, Statistics, ML, AI, Visualization, Cheatsheets, Roadmaps, Interview Prep. For beginners and experts.
 * [awesome-wagtail](https://github.com/wagtail/awesome-wagtail) ⭐ 2,192 | 🐛 2 | 🌐 Python | 📅 2026-06-16 - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 * [fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python) ⭐ 2,074 | 🐛 7 | 📅 2024-04-15 - Awesome-python with :octocat: :star: and :fork\_and\_knife:.
-* [awesome\_ai\_agents](https://github.com/jim-schwoebel/awesome_ai_agents) ⭐ 2,031 | 🐛 300 | 📅 2026-03-28 - 🤖 A comprehensive list of 1,500+ resources and tools related to AI agents.
-* [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) ⭐ 1,993 | 🐛 7 | 📅 2026-11-08 - Collection of awesome Python types, stubs, plugins, and tools to work with them.
+* [awesome\_ai\_agents](https://github.com/jim-schwoebel/awesome_ai_agents) ⭐ 2,031 | 🐛 301 | 📅 2026-03-28 - 🤖 A comprehensive list of 1,500+ resources and tools related to AI agents.
+* [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) ⭐ 1,993 | 🐛 7 | 📅 2026-11-13 - Collection of awesome Python types, stubs, plugins, and tools to work with them.
 * [awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience) ⭐ 1,885 | 🐛 20 | 📅 2026-05-26 - Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome.
 * [awesome-micropython](https://github.com/mcauser/awesome-micropython) ⭐ 1,815 | 🐛 8 | 🌐 HTML | 📅 2026-11-04 - A curated list of awesome MicroPython libraries, frameworks, software and resources.
 * [awesome-yolo-object-detection](https://github.com/coderonion/awesome-yolo-object-detection) ⭐ 1,804 | 🐛 4 | 📅 2025-05-31 - 🚀🚀🚀 A collection of some awesome public YOLO object detection series projects and the related object detection datasets.
 * [Awesome-pytorch-list-CNVersion](https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion) ⭐ 1,792 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-07-26 - Awesome-pytorch-list 翻译工作进行中.
 * [awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents) ⭐ 1,626 | 🐛 136 | 🌐 Python | 📅 2026-11-08 - A curated list of awesome LLM agents frameworks.
-* [awesome-ai-security](https://github.com/ottosulin/awesome-ai-security) ⭐ 1,614 | 🐛 329 | 📅 2026-11-11 - A collection of awesome resources related AI security.
-* [awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) ⭐ 1,607 | 🐛 1 | 📅 2026-02-20 - A curated list of IDA x64DBG, Ghidra and OllyDBG plugins.
+* [awesome-ai-security](https://github.com/ottosulin/awesome-ai-security) ⭐ 1,616 | 🐛 333 | 📅 2026-11-11 - A collection of awesome resources related AI security.
+* [awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) ⭐ 1,608 | 🐛 1 | 📅 2026-02-20 - A curated list of IDA x64DBG, Ghidra and OllyDBG plugins.
 * [awesome-generative-ai-data-scientist](https://github.com/business-science/awesome-generative-ai-data-scientist) ⭐ 1,603 | 🐛 25 | 📅 2025-04-10 - A curated list of 100+ resources for building and deploying generative AI specifically focusing on helping you become a Generative AI Data Scientist with LLMs.
 * [awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework) ⭐ 1,476 | 🐛 3 | 📅 2026-09-11 - 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework.
 * [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) ⭐ 1,456 | 🐛 12 | 📅 2025-09-21 - A curated list of Python packages related to chemistry.
-* [ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools) ⭐ 1,388 | 🐛 32 | 🌐 JavaScript | 📅 2026-07-21 - Your AI Game Dev Hub. The ultimate resource hub for AI-powered game development tools. Discover cutting-edge LLMs, World Model, Agent, Code, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Singing Voice and Analytics. 🔥.
+* [ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools) ⭐ 1,389 | 🐛 32 | 🌐 JavaScript | 📅 2026-07-21 - Your AI Game Dev Hub. The ultimate resource hub for AI-powered game development tools. Discover cutting-edge LLMs, World Model, Agent, Code, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Singing Voice and Analytics. 🔥.
 * [CV-pretrained-model](https://github.com/balavenkatesh3322/CV-pretrained-model) ⭐ 1,371 | 🐛 1 | 📅 2021-03-03 - A collection of computer vision pre-trained models.
 * [awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) ⭐ 1,284 | 🐛 1 | 📅 2026-10-18 - :octocat: A curated awesome list of flake8 extensions. Feel free to contribute! :mortar\_board:.
-* [Awesome-AI-Agents](https://github.com/Jenqyang/Awesome-AI-Agents) ⭐ 1,274 | 🐛 81 | 🌐 JavaScript | 📅 2026-11-13 - A collection of autonomous agents 🤖️ powered by LLM.
-* [Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) ⭐ 1,228 | 🐛 0 | 📅 2026-11-08 - This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).
-* [AiTreasureBox](https://github.com/superiorlu/AiTreasureBox) ⭐ 924 | 🐛 11 | 🌐 Ruby | 📅 2026-11-13 - 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎.
+* [Awesome-AI-Agents](https://github.com/Jenqyang/Awesome-AI-Agents) ⭐ 1,274 | 🐛 85 | 🌐 JavaScript | 📅 2026-11-13 - A collection of autonomous agents 🤖️ powered by LLM.
+* [Awesome-Segment-Anything](https://github.com/liliu-avril/Awesome-Segment-Anything) ⭐ 1,228 | 🐛 0 | 📅 2026-11-14 - This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM).
+* [AiTreasureBox](https://github.com/superiorlu/AiTreasureBox) ⭐ 924 | 🐛 11 | 🌐 Ruby | 📅 2026-11-14 - 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎.
 * [awesome-gcn](https://github.com/Jiakui/awesome-gcn) ⭐ 909 | 🐛 3 | 📅 2019-07-12 - Resources for graph convolutional networks （图卷积神经网络相关资源）.
-* [awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list) ⭐ 909 | 🐛 134 | 📅 2026-11-04 - A concise list for mcp servers.
-* [awesome-llm](https://github.com/uhub/awesome-llm) ⭐ 872 | 🐛 1 | 📅 2026-10-22 - A curated list of awesome LLM frameworks, libraries and software.
+* [awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list) ⭐ 909 | 🐛 150 | 📅 2026-11-04 - A concise list for mcp servers.
+* [awesome-llm](https://github.com/uhub/awesome-llm) ⭐ 873 | 🐛 1 | 📅 2026-10-22 - A curated list of awesome LLM frameworks, libraries and software.
 * [awesome-machine-learning-resources](https://github.com/ZhiningLiu1998/awesome-machine-learning-resources) ⭐ 853 | 🐛 3 | 📅 2023-03-08 - 😎 A curated list of awesome lists across all machine learning topics. | 机器学习/深度学习/人工智能一切主题 (学习范式/任务/应用/模型/道德/交叉学科/数据集/框架/教程) 的资源列表汇总。.
 * [Awesome-MXNet](https://github.com/chinakook/Awesome-MXNet) ⭐ 832 | 🐛 1 | 📅 2022-03-14 - A curated list of MXNet examples, tutorials and blogs.
-* [awesome-robotics-ee-opensource](https://github.com/automaticdai/awesome-robotics-ee-opensource) ⭐ 825 | 🐛 1 | 📅 2026-11-12 - (CN) 机器人、电子设计、机器学习开源项目列表 (中文).
+* [awesome-robotics-ee-opensource](https://github.com/automaticdai/awesome-robotics-ee-opensource) ⭐ 828 | 🐛 1 | 📅 2026-11-12 - (CN) 机器人、电子设计、机器学习开源项目列表 (中文).
 * [awesome-frappe](https://github.com/gavindsouza/awesome-frappe) ⭐ 818 | 🐛 6 | 🌐 HTML | 📅 2026-10-12 - A curated list of awesome things related to the Frappe Framework.
 * [awesome-pydantic](https://github.com/jamesonl/awesome-pydantic) ⭐ 803 | 🐛 20 | 📅 2026-11-13 - A curated list of awesome things related to Pydantic! 🌪️.
 * [awesome-sanic](https://github.com/mekicha/awesome-sanic) ⭐ 766 | 🐛 4 | 📅 2024-01-06 - A curated list of awesome Sanic resources and extensions.
 * [awesome-comfyui](https://github.com/ComfyUI-Workflow/awesome-comfyui) ⭐ 745 | 🐛 3 | 🌐 Python | 📅 2025-07-24 - A collection of awesome custom nodes for ComfyUI.
 * [awesome-time-series](https://github.com/lmmentel/awesome-time-series) ⭐ 699 | 🐛 10 | 📅 2025-07-26 - Resources for working with time series and sequence data.
 * [awesome-taichi](https://github.com/taichi-dev/awesome-taichi) ⭐ 695 | 🐛 1 | 📅 2024-06-13 - A curated list of awesome Taichi applications, courses, demos and features.
-* [awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security) ⭐ 677 | 🐛 43 | 📅 2026-07-24 - A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT.
+* [awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security) ⭐ 678 | 🐛 42 | 📅 2026-07-24 - A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT.
 * [awesome-physics](https://github.com/wbierbower/awesome-physics) ⭐ 660 | 🐛 4 | 📅 2026-11-05 - 🌌 A collaborative list of awesome software for exploring Physics concepts.
 * [awesome-asyncio-cn](https://github.com/chenjiandongx/awesome-asyncio-cn) ⭐ 653 | 🐛 0 | 🌐 Makefile | 📅 2019-09-15 - 😎 Python Asyncio 精选资源列表，囊括了网络框架，库，软件等资源.
 * [awesome\_photonics](https://github.com/joamatab/awesome_photonics) ⭐ 649 | 🐛 13 | 🌐 Makefile | 📅 2026-01-05 - 😎 curated list of open source photonics projects.
 * [Awesome-state-space-models](https://github.com/radarFudan/Awesome-state-space-models) ⭐ 622 | 🐛 0 | 🌐 Python | 📅 2026-10-01 - Collection of papers on state-space models.
 * [awesome-ai](https://github.com/openbestof/awesome-ai) ⭐ 602 | 🐛 71 | 📅 2024-05-04 - A curated list of awesome AI tools, frameworks, api, software and resources.
-* [awesome-AI-driven-development](https://github.com/eltociear/awesome-AI-driven-development) ⭐ 575 | 🐛 79 | 📅 2026-11-09 - Awesome list of AI-Driven Development.
+* [awesome-AI-driven-development](https://github.com/eltociear/awesome-AI-driven-development) ⭐ 575 | 🐛 81 | 📅 2026-11-09 - Awesome list of AI-Driven Development.
 * [awesome-pyramid](https://github.com/uralbash/awesome-pyramid) ⭐ 571 | 🐛 0 | 📅 2021-07-08 - A curated list of awesome Pyramid apps, projects and resources.
 * [awesome-scrapy](https://github.com/AccordBox/awesome-scrapy) ⭐ 563 | 🐛 6 | 📅 2022-12-28 - A curated list of awesome packages, articles, and other cool resources from the Scrapy community.
 * [awesome-production-llm](https://github.com/jihoo-kim/awesome-production-llm) ⭐ 528 | 🐛 30 | 📅 2024-12-31 - A curated list of awesome open-source libraries for production LLM.
 * [awesome-dependency-injection-in-python](https://github.com/sfermigier/awesome-dependency-injection-in-python) ⭐ 486 | 🐛 8 | 📅 2026-10-14 - A curated list of awesome things related to dependency inversion / dependency injection in Python. (Contributions welcomed).
+* [awesome-ai-media-cn](https://github.com/juneyaooo/awesome-ai-media-cn) ⭐ 389 | 🐛 7 | 📅 2026-11-12 - AI 视频制作与自媒体运营工具精选合集 — 涵盖一键生成、文生视频、多平台分发、字幕翻译等 150+ 开源项目，每周更新。.
 * [awesome-python-code-formatters](https://github.com/life4/awesome-python-code-formatters) ⭐ 388 | 🐛 2 | 🌐 Shell | 📅 2026-09-23 - A curated list of awesome Python code formatters.
-* [awesome-ai-media-cn](https://github.com/juneyaooo/awesome-ai-media-cn) ⭐ 386 | 🐛 6 | 📅 2026-11-12 - AI 视频制作与自媒体运营工具精选合集 — 涵盖一键生成、文生视频、多平台分发、字幕翻译等 150+ 开源项目，每周更新。.
 * [awesome-scapy](https://github.com/secdev/awesome-scapy) ⭐ 372 | 🐛 1 | 📅 2025-06-09 - Great packages that use Scapy.
-* [awesome-ip-search-engines](https://github.com/cipher387/awesome-ip-search-engines) ⭐ 365 | 🐛 2 | 📅 2026-10-20 - This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).
+* [awesome-ip-search-engines](https://github.com/cipher387/awesome-ip-search-engines) ⭐ 365 | 🐛 1 | 📅 2026-11-13 - This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information etc)).
 * [awesome-nanopore](https://github.com/GoekeLab/awesome-nanopore) ⭐ 341 | 🐛 1 | 📅 2026-05-20 - A curated list of awesome nanopore analysis tools.
 * [Awesome\_AI4Finance](https://github.com/AI4Finance-Foundation/Awesome_AI4Finance) ⭐ 333 | 🐛 14 | 📅 2026-11-05 - Resources.
 * [awesome-python-testing](https://github.com/cleder/awesome-python-testing) ⭐ 320 | 🐛 2 | 📅 2026-11-10 - Collection of awesome 😎️ Python resources for testing.
-* [Awesome-RAG-Production](https://github.com/Yigtwxx/Awesome-RAG-Production) ⭐ 293 | 🐛 4 | 🌐 Python | 📅 2026-11-07 - A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-Augmented Generation (RAG) systems.
+* [Awesome-RAG-Production](https://github.com/Yigtwxx/Awesome-RAG-Production) ⭐ 294 | 🐛 6 | 🌐 Python | 📅 2026-11-07 - A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-Augmented Generation (RAG) systems.
 * [awesome-pytorch](https://github.com/rickiepark/awesome-pytorch) ⭐ 284 | 🐛 1 | 📅 2024-02-01 - Awesome PyTorch.
 * [Awesome-LLMOps](https://github.com/InftyAI/Awesome-LLMOps) ⭐ 272 | 🐛 203 | 🌐 Python | 📅 2026-11-13 - 🎉 An awesome & curated list of best LLMOps tools.
-* [Auto-Research-Skills](https://github.com/brycewang-stanford/Auto-Research-Skills) ⭐ 253 | 🐛 0 | 🌐 Python | 📅 2026-11-09 - A curated hub of autonomous-research skills & agents — from idea to paper, on autopilot. | 自主科研技能与智能体精选库 —— 从灵感到论文全文，全程自动完成。.
+* [Auto-Research-Skills](https://github.com/brycewang-stanford/Auto-Research-Skills) ⭐ 254 | 🐛 0 | 🌐 Python | 📅 2026-11-09 - A curated hub of autonomous-research skills & agents — from idea to paper, on autopilot. | 自主科研技能与智能体精选库 —— 从灵感到论文全文，全程自动完成。.
 * [awesome-golem](https://github.com/golemfactory/awesome-golem) ⭐ 246 | 🐛 3 | 📅 2024-01-16 - A community-curated list of awesome projects and resources related to the Golem peer-to-peer computational resources marketplace.
 * [awesome-agent-evolution](https://github.com/EvoMap/awesome-agent-evolution) ⭐ 240 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-11 - A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap.ai.
 * [awesome-python](https://github.com/gribouille/awesome-python) ⭐ 240 | 🐛 0 | 🌐 Makefile | 📅 2024-01-31 - An enriched version of awesome-python (.
 * [Awesome-MLLM-Safety](https://github.com/isXinLiu/Awesome-MLLM-Safety) ⭐ 236 | 🐛 0 | 🌐 Python | 📅 2024-08-25 - Accepted by IJCAI-24 Survey Track.
-* [toolsdk-mcp-registry](https://github.com/toolsdk-ai/toolsdk-mcp-registry) ⭐ 233 | 🐛 113 | 🌐 TypeScript | 📅 2026-11-13 - MCPSDK.dev(ToolSDK.ai)'s Awesome MCP Servers and Packages Registry and Database with Structured JSON configurations. Supports OAuth2.1, DCR.
+* [toolsdk-mcp-registry](https://github.com/toolsdk-ai/toolsdk-mcp-registry) ⭐ 235 | 🐛 131 | 🌐 TypeScript | 📅 2026-11-13 - MCPSDK.dev(ToolSDK.ai)'s Awesome MCP Servers and Packages Registry and Database with Structured JSON configurations. Supports OAuth2.1, DCR.
 * [awesome-django-security](https://github.com/vintasoftware/awesome-django-security) ⭐ 218 | 🐛 2 | 📅 2025-02-24 - A collection of Django security-related tools and libs.
-* [awesome-openvino](https://github.com/openvinotoolkit/awesome-openvino) ⭐ 216 | 🐛 6 | 📅 2026-10-19 - A curated list of OpenVINO based AI projects.
+* [awesome-openvino](https://github.com/openvinotoolkit/awesome-openvino) ⭐ 216 | 🐛 7 | 📅 2026-10-19 - A curated list of OpenVINO based AI projects.
 * [awesome-atmos](https://github.com/MeteoAI/awesome-atmos) ⭐ 213 | 🐛 2 | 📅 2021-05-31 - A curated list of awesome Python libraries, software and resources in Atmosphere, Environment and Machine Learning.
 * [awesome-cow-plugins](https://github.com/woodgoose/awesome-cow-plugins) ⭐ 213 | 🐛 0 | 📅 2025-04-29 - 这个仓库主要是收集CoW(chatgpt-on-wechat)与DoW(dify-on-wechat)的插件，欢迎补充加入看到、用过或新开发的插件。.
 * [awesome-python-web-frameworks](https://github.com/sfermigier/awesome-python-web-frameworks) ⭐ 204 | 🐛 4 | 📅 2026-10-14 - A curated list of awesome Python Web Frameworks (micro, full-stack, REST, etc.).
-* [awesome-biological-image-analysis](https://github.com/hallvaaw/awesome-biological-image-analysis) ⭐ 201 | 🐛 1 | 📅 2026-09-01 - A curated list of software, tools, pipelines, plugins etc. for image analysis related to biological questions.
+* [awesome-biological-image-analysis](https://github.com/hallvaaw/awesome-biological-image-analysis) ⭐ 201 | 🐛 2 | 📅 2026-09-01 - A curated list of software, tools, pipelines, plugins etc. for image analysis related to biological questions.
 * [awesome-private-ai](https://github.com/tdi/awesome-private-ai) ⭐ 197 | 🐛 13 | 📅 2026-09-21 - Curated list of tools, frameworks, and resources for running, building, and deploying AI privately — on-prem, air-gapped, or self-hosted.
 * [awesome-modal](https://github.com/modal-labs/awesome-modal) ⭐ 195 | 🐛 2 | 📅 2026-07-22 - A curated list of amazingly awesome Modal applications, demos, and shiny things. Inspired by awesome-php.
 * [awesome-autoresearch](https://github.com/AI4Scientist/awesome-autoresearch) ⭐ 188 | 🐛 1 | 📅 2026-10-28 - A curated list of awesome autonomous researcher frameworks.
-* [awesome-production-agentic-systems](https://github.com/EthicalML/awesome-production-agentic-systems) ⭐ 185 | 🐛 17 | 📅 2026-11-01 - A curated list of awesome open source libraries to deploy, monitor, version and scale agentic applications and systems.
+* [awesome-production-agentic-systems](https://github.com/EthicalML/awesome-production-agentic-systems) ⭐ 185 | 🐛 16 | 📅 2026-11-01 - A curated list of awesome open source libraries to deploy, monitor, version and scale agentic applications and systems.
 * [awesome-ai-agents](https://github.com/alternbits/awesome-ai-agents) ⭐ 152 | 🐛 65 | 📅 2026-02-02 - A curated list of awesome top best AI Agents.
 * [awesome-marketing-machine-learning](https://github.com/station-10/awesome-marketing-machine-learning) ⭐ 150 | 🐛 2 | 📅 2024-05-01 - A curated list of awesome machine learning libraries for marketing, including media mix models, multi touch attribution, causal inference and more.
 * [awesome-langchain-zh](https://github.com/microxxx/awesome-langchain-zh) ⭐ 137 | 🐛 1 | 📅 2024-05-26 - Langchain 工具,流程设计组件,服务,代理以及相关学习文档的合集(agent,service,tutorials,flow-design).
@@ -1500,31 +1500,31 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-local-ai](https://github.com/ethicals7s/awesome-local-ai) ⭐ 118 | 🐛 21 | 📅 2025-11-30 - 152 open-source tools to run LLMs 100% locally – no cloud, no API keys, no censorship.
 * [awesome-agent-orchestration](https://github.com/vivy-yi/awesome-agent-orchestration) ⭐ 111 | 🐛 18 | 📅 2026-03-05 - ⭐ Curated list of AI Agent frameworks: AutoGen, CrewAI, MetaGPT, LangGraph, Swarms. Multi-Agent Systems, Swarm Intelligence, A2A Protocol, MCP Protocol. LLM Agents, Agentic AI, Agent Workflows.
 * [awesome-flask-cn](https://github.com/haiiiiiyun/awesome-flask-cn) ⭐ 108 | 🐛 0 | 📅 2016-08-28 - Python Flask 优秀资源集锦。.
-* [awesome-ai-agents](https://github.com/aloth/awesome-ai-agents) ⭐ 98 | 🐛 21 | 🌐 Python | 📅 2026-11-11 - A curated list of AI agent frameworks, tools, platforms, research papers, and resources.
+* [awesome-ai-agents](https://github.com/aloth/awesome-ai-agents) ⭐ 98 | 🐛 22 | 🌐 Python | 📅 2026-11-11 - A curated list of AI agent frameworks, tools, platforms, research papers, and resources.
 * [awesome-python-data-science](https://github.com/thomasjpfan/awesome-python-data-science) ⭐ 97 | 🐛 1 | 📅 2024-06-19 - A curated list of Python libraries used for data science.
 * [awesome-virome](https://github.com/shandley/awesome-virome) ⭐ 95 | 🐛 9 | 🌐 Python | 📅 2026-11-08 - A listing of software, tools and databases useful for virome analysis.
 * [awesome-ray](https://github.com/JiahaoYao/awesome-ray) ⭐ 83 | 🐛 0 | 📅 2026-06-18 - Ray - A curated list of resources:.
 * [awesome-stable-diffusion](https://github.com/doanbactam/awesome-stable-diffusion) ⭐ 82 | 🐛 8 | 📅 2026-11-08 - A curated list of awesome stable diffusion resources 🌟.
 * [awesome-llm-projects](https://github.com/InfiniteAICreations/awesome-llm-projects) ⭐ 81 | 🐛 7 | 📅 2025-02-11 - 😎 A list of awesome projects related to LLM.
 * [awesome-plone](https://github.com/collective/awesome-plone) ⭐ 78 | 🐛 0 | 📅 2026-09-20 - Add-ons and resources for the CMS Plone.
-* [awesome-voice-agents](https://github.com/yzfly/awesome-voice-agents) ⭐ 77 | 🐛 16 | 📅 2026-11-01 - A curated list of voice AI agent frameworks, tools, resources, and best practices.
-* [awesome-ai-cae](https://github.com/kimimgo/awesome-ai-cae) ⭐ 68 | 🐛 8 | 🌐 Python | 📅 2026-10-12 - A curated list of 100+ AI-ready tools for Computer-Aided Engineering, ranked by an AI-Readiness Score (agent-callability: MCP, Python API, CLI, pip). CFD, FEA, SPH, DEM, differentiable simulation, neural operators, PINNs, MCP servers.
-* [awesome-llm](https://github.com/xiaomingx/awesome-llm) ⭐ 66 | 🐛 5 | 🌐 Python | 📅 2026-02-03 - Awesome-LLM: a curated list of Large Language Model.🔥 大型语言模型（LLM）已经席卷了 全球，不再局限于 NLP 或 AI 社区。这里整理了一些关于大型语言模型，特别是与 ChatGPT 相关的研究论文，涵盖了 LLM 训练框架、部署工具、课程与教程，以及所有公开的 LLM 检查点和 API。.
-* [awesome-skills-zh](https://github.com/yzfly/awesome-skills-zh) ⭐ 66 | 🐛 12 | 📅 2026-11-01 - 🚀 精选 Claude Skills、Agent Skills、LLM Skills 及 AI 智能体开发资源列表（中文）。A curated list of awesome Claude / Agent / LLM Skills.
+* [awesome-voice-agents](https://github.com/yzfly/awesome-voice-agents) ⭐ 77 | 🐛 17 | 📅 2026-11-01 - A curated list of voice AI agent frameworks, tools, resources, and best practices.
+* [awesome-ai-cae](https://github.com/kimimgo/awesome-ai-cae) ⭐ 68 | 🐛 9 | 🌐 Python | 📅 2026-10-12 - A curated list of 100+ AI-ready tools for Computer-Aided Engineering, ranked by an AI-Readiness Score (agent-callability: MCP, Python API, CLI, pip). CFD, FEA, SPH, DEM, differentiable simulation, neural operators, PINNs, MCP servers.
+* [awesome-llm](https://github.com/xiaomingx/awesome-llm) ⭐ 66 | 🐛 4 | 🌐 Python | 📅 2026-02-03 - Awesome-LLM: a curated list of Large Language Model.🔥 大型语言模型（LLM）已经席卷了 全球，不再局限于 NLP 或 AI 社区。这里整理了一些关于大型语言模型，特别是与 ChatGPT 相关的研究论文，涵盖了 LLM 训练框架、部署工具、课程与教程，以及所有公开的 LLM 检查点和 API。.
+* [awesome-skills-zh](https://github.com/yzfly/awesome-skills-zh) ⭐ 66 | 🐛 0 | 📅 2026-11-14 - 🚀 精选 Claude Skills、Agent Skills、LLM Skills 及 AI 智能体开发资源列表（中文）。A curated list of awesome Claude / Agent / LLM Skills.
 * [awesome-ai-agents](https://github.com/nipunaranasinghe/awesome-ai-agents) ⭐ 61 | 🐛 39 | 🌐 HTML | 📅 2026-11-12 - A curated list of frameworks, tools, and resources for building and deploying AI agents.
 * [Python-Security-Tool-Database](https://github.com/MythicStack/Python-Security-Tool-Database) ⭐ 58 | 🐛 0 | 📅 2025-01-20 - Solid Python toolkit for those in the security industry. Some by me, most by smarter people.
 * [Awesome-RAG](https://github.com/noworneverev/Awesome-RAG) ⭐ 57 | 🐛 9 | 🌐 TypeScript | 📅 2024-12-31 - Awesome-RAG: a curated list of Retrieval-Augmented Generation.
 * [awesome-jax](https://github.com/lockwo/awesome-jax) ⭐ 55 | 🐛 2 | 📅 2026-10-03 - Curated list of JAX Resources and Packages.
 * [awesome-python](https://github.com/DarLiner/awesome-python) ⭐ 53 | 🐛 0 | 🌐 Python | 📅 2018-12-05 - Awesome-python 是 vinta 发起维护的 Python 资源列表，内容包括：Web框架、网络爬虫、网络内容提取、模板引擎、数据库、数据可视化、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析等。十分受Python开发者的青睐。.
-* [awesome-llm-observability](https://github.com/ContextJet-ai/awesome-llm-observability) ⭐ 48 | 🐛 4 | 🌐 Python | 📅 2026-11-11 - 50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate, debug, secure & monitor reliable LLM apps. Tracing, evals, guardrails, LLMOps.
+* [awesome-llm-observability](https://github.com/ContextJet-ai/awesome-llm-observability) ⭐ 49 | 🐛 4 | 🌐 Python | 📅 2026-11-11 - 50+ curated LLM observability tools PLUS 26 Agent Skills (several with runnable, unit-tested scripts) to build, evaluate, debug, secure & monitor reliable LLM apps. Tracing, evals, guardrails, LLMOps.
 * [fucking-awesome-python-cn](https://github.com/Correia-jpv/fucking-awesome-python-cn) ⭐ 48 | 🐛 0 | 🌐 Makefile | 📅 2026-11-12 - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。 With repository stars⭐ and forks🍴.
 * [awesome-ai-agents](https://github.com/korchasa/awesome-ai-agents) ⭐ 47 | 🐛 10 | 📅 2026-11-09 - This curated list focuses on tools and frameworks for building AI agents.
+* [awesome-ai-media](https://github.com/juneyaooo/awesome-ai-media) ⭐ 46 | 🐛 19 | 📅 2026-11-12 - A curated list of 150+ AI-powered video creation, social media automation, and content creator tools — with comparison tables and weekly updates.
 * [Awesome-Tensorflow2](https://github.com/1044197988/Awesome-Tensorflow2) ⭐ 46 | 🐛 0 | 📅 2020-02-27 - 基于Tensorflow2开发的优秀扩展包及项目.
 * [awesome-data-synthesis](https://github.com/joofio/awesome-data-synthesis) ⭐ 45 | 🐛 0 | 📅 2022-02-16 - A curated list of awesome resources for creating synthetic data.
-* [awesome-ai-media](https://github.com/juneyaooo/awesome-ai-media) ⭐ 44 | 🐛 20 | 📅 2026-11-12 - A curated list of 150+ AI-powered video creation, social media automation, and content creator tools — with comparison tables and weekly updates.
 * [starred-awesome](https://github.com/osantana/starred-awesome) ⭐ 43 | 🐛 0 | 📅 2018-06-04 - A curated list of my GitHub stars!
-* [awesome-quant](https://github.com/ernie55ernie/awesome-quant) ⭐ 41 | 🐛 1 | 🌐 Python | 📅 2026-11-12 - Awesome list of quantitative research, systematic trading, market microstructure, and ML-for-trading resources.
-* [awesome-ai-offensive-security](https://github.com/yeyintminthuhtut/awesome-ai-offensive-security) ⭐ 40 | 🐛 6 | 📅 2026-07-30 - A curated list of awesome AI agents and tools specifically designed for AI-powered offensive security, as well as tools for attacking AI systems.
+* [awesome-ai-offensive-security](https://github.com/yeyintminthuhtut/awesome-ai-offensive-security) ⭐ 41 | 🐛 7 | 📅 2026-07-30 - A curated list of awesome AI agents and tools specifically designed for AI-powered offensive security, as well as tools for attacking AI systems.
+* [awesome-quant](https://github.com/ernie55ernie/awesome-quant) ⭐ 41 | 🐛 1 | 🌐 Python | 📅 2026-11-13 - Awesome list of quantitative research, systematic trading, market microstructure, and ML-for-trading resources.
 * [awesome-mcp-security](https://github.com/getagentseal/awesome-mcp-security) ⭐ 39 | 🐛 10 | 📅 2026-03-14 - Security scores for 800+ MCP servers. 9 analyzers scan for prompt injection, toxic flows, and attack surface risks. Updated daily. 🛡️.
 * [awesome-python-fa](https://github.com/imrrobat/awesome-python-fa) ⭐ 36 | 🐛 0 | 📅 2025-05-09 - اینجا میتونید پکیج‌های مختلف برای کارهای مختلف رو توی پایتون پیدا کنید. ❤️.
 * [Awesome-BEV-Perception](https://github.com/autodriving-heart/Awesome-BEV-Perception) ⭐ 34 | 🐛 0 | 📅 2023-06-27 - Awesome-BEV-Perception.
@@ -1532,19 +1532,19 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-python-machine-learning](https://github.com/sorend/awesome-python-machine-learning) ⭐ 30 | 🐛 1 | 📅 2020-09-30 - Curated list of Awesome Python Machine Learning frameworks, libraries, tools, etc.
 * [awesome-mpython](https://github.com/labplus-cn/awesome-mpython) ⭐ 27 | 🐛 1 | 🌐 Python | 📅 2021-01-20 - 掌控板资源精选.
 * [awesome-agents](https://github.com/vince-lam/awesome-agents) ⭐ 26 | 🐛 2 | 📅 2025-05-12 - Compare open-source LLM agentic projects by their metrics to assess popularity and activeness.
-* [fucking-awesome-python](https://github.com/correia-jpv/fucking-awesome-python) ⭐ 24 | 🐛 3 | 🌐 Python | 📅 2026-11-12 - A curated list of awesome Python frameworks, libraries, software and resources. With repository stars⭐ and forks🍴.
+* [fucking-awesome-python](https://github.com/correia-jpv/fucking-awesome-python) ⭐ 24 | 🐛 3 | 🌐 Python | 📅 2026-11-14 - A curated list of awesome Python frameworks, libraries, software and resources. With repository stars⭐ and forks🍴.
 * [awesome-anchor-free-object-detection](https://github.com/coderonion/awesome-anchor-free-object-detection) ⭐ 23 | 🐛 0 | 📅 2024-02-22 - A collection of some awesome public Anchor-Free object detection series projects.
 * [awesome-human-pose-estimation](https://github.com/dae-sun/awesome-human-pose-estimation) ⭐ 23 | 🐛 0 | 📅 2022-08-29 - Human Mesh Recovery / Human Pose Estimation.
 * [awesome-scrapers](https://github.com/edwardtay/awesome-scrapers) ⭐ 23 | 🐛 18 | 📅 2026-11-09 - A curated list of 150+ web scraping tools, crawlers, proxies, and anti-detection libraries.
 * [amaranth-awesome](https://github.com/robtaylor/amaranth-awesome) ⭐ 22 | 🐛 0 | 📅 2026-11-09 - Awesome projects using the Amaranth HDL.
-* [llmops](https://github.com/pmady/llmops) ⭐ 21 | 🐛 9 | 🌐 Shell | 📅 2026-07-05 - 🚀 The Ultimate Curated List of LLMOps Tools, Frameworks, and Resources - A comprehensive collection of the best tools for Large Language Model Operations.
-* [awesome-healthcare-mcp-servers](https://github.com/rdmgator12/awesome-healthcare-mcp-servers) ⭐ 20 | 🐛 9 | 🌐 JavaScript | 📅 2026-07-15 - A curated list of healthcare MCP servers for FHIR, clinical decision support, revenue cycle, and HIPAA-compliant AI workflows.
+* [awesome-healthcare-mcp-servers](https://github.com/rdmgator12/awesome-healthcare-mcp-servers) ⭐ 21 | 🐛 10 | 🌐 JavaScript | 📅 2026-07-15 - A curated list of healthcare MCP servers for FHIR, clinical decision support, revenue cycle, and HIPAA-compliant AI workflows.
+* [llmops](https://github.com/pmady/llmops) ⭐ 21 | 🐛 8 | 🌐 Shell | 📅 2026-07-05 - 🚀 The Ultimate Curated List of LLMOps Tools, Frameworks, and Resources - A comprehensive collection of the best tools for Large Language Model Operations.
+* [awesome-computer-use](https://github.com/12britz/awesome-computer-use) ⭐ 20 | 🐛 14 | 📅 2026-08-11 - 139 open-source projects that let AI click, type, scroll, and generally make a mess of your desktop — so you don't have to.
 * [awesome-python](https://github.com/carrington-dev/awesome-python) ⭐ 19 | 🐛 41 | 📅 2026-01-06 - A curated collection of exceptional Python frameworks, libraries, software, and resources. This comprehensive guide helps developers discover the best tools for their Python projects.
-* [awesome-computer-use](https://github.com/12britz/awesome-computer-use) ⭐ 19 | 🐛 14 | 📅 2026-08-11 - 139 open-source projects that let AI click, type, scroll, and generally make a mess of your desktop — so you don't have to.
 * [awesome-list](https://github.com/johnhany/awesome-list) ⭐ 18 | 🐛 0 | 📅 2022-11-14 - A list of useful stuff in Machine Learning, Computer Graphics, Software Development, .
-* [Awesome-Whisper-Apps](https://github.com/danielrosehill/Awesome-Whisper-Apps) ⭐ 17 | 🐛 58 | 📅 2026-11-06 - Useful speech to text tools that use Whisper under the hood (API/local).
+* [Awesome-Whisper-Apps](https://github.com/danielrosehill/Awesome-Whisper-Apps) ⭐ 17 | 🐛 59 | 📅 2026-11-06 - Useful speech to text tools that use Whisper under the hood (API/local).
 * [awesome-ai-robotics](https://github.com/tc-huang/awesome-ai-robotics) ⭐ 15 | 🐛 0 | 📅 2026-11-06 - A list of awesome AI Robotics resources.
-* [fucking-awesome-datascience](https://github.com/correia-jpv/fucking-awesome-datascience) ⭐ 14 | 🐛 2 | 📅 2026-11-12 - 📝 An awesome Data Science repository to learn and apply for real world problems. With repository stars⭐ and forks🍴.
+* [fucking-awesome-datascience](https://github.com/correia-jpv/fucking-awesome-datascience) ⭐ 14 | 🐛 2 | 📅 2026-11-14 - 📝 An awesome Data Science repository to learn and apply for real world problems. With repository stars⭐ and forks🍴.
 * [awesome-nlp-note](https://github.com/eagle705/awesome-nlp-note) ⭐ 13 | 🐛 0 | 📅 2019-11-30 - A curated list of resources dedicated to NLP (paper, blogs, note and etc).
 * [awesome-llm-prod](https://github.com/saucam/awesome-llm-prod) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2026-07-11 - A curated collection of open-source Large Language Model (LLM) projects that are production-ready and can be used for solving real-world problems. This repository focuses on high-performance, scalable LLM solutions across various industries and applications.
 * [awesome-agent-rl-environments](https://github.com/v01dmur10c/awesome-agent-rl-environments) ⭐ 12 | 🐛 1 | 📅 2026-10-20 - A curated list of training & evaluation environments for LLM/VLM agents (SWE-Gym, GEM, RAGEN, AgentGym, WebArena, OSWorld, ToolBench…). Updated weekly.
@@ -1552,7 +1552,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-drone](https://github.com/26remph/awesome-drone) ⭐ 9 | 🐛 1 | 📅 2024-08-20 - List of awesome , libraries, software and resources for drone create.
 * [awesome-midi-repos](https://github.com/asigalov61/awesome-midi-repos) ⭐ 9 | 🐛 0 | 📅 2025-12-22 - Carefully curated list of GitHub repos which contain MIDI files.
 * [awesome-genai](https://github.com/onebirdrocks/awesome-genai) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2024-08-13 - A curated collection of resources, tools, frameworks, and information related to Generative AI.
-* [stars](https://github.com/ju-c/stars) ⭐ 8 | 🐛 0 | 📅 2026-11-13 - A curated list of my GitHub stars!
+* [stars](https://github.com/ju-c/stars) ⭐ 8 | 🐛 0 | 📅 2026-11-14 - A curated list of my GitHub stars!
 * [awesome-behave](https://github.com/mathiaspaulenko/awesome-behave) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-10-15 - A curated list of awesome resources, tools, libraries, and projects for Behave — BDD, Python style.
 * [fucking-awesome-tensorflow](https://github.com/correia-jpv/fucking-awesome-tensorflow) ⭐ 7 | 🐛 0 | 📅 2026-11-12 - TensorFlow - A curated list of dedicated resources. With repository stars⭐ and forks🍴.
 * [alan\_awesome\_llm](https://github.com/tangzhenyu/alan_awesome_llm) ⭐ 6 | 🐛 0 | 📅 2024-08-21 - LLM resources on model, system, application.
@@ -1602,7 +1602,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### R Lists
 
-* [awesome-shiny-extensions](https://github.com/nanxstats/awesome-shiny-extensions) ⭐ 1,696 | 🐛 1 | 🌐 R | 📅 2026-10-29 - 🐝 Awesome R and Python packages offering extended UI or server components for the web framework Shiny.
+* [awesome-shiny-extensions](https://github.com/nanxstats/awesome-shiny-extensions) ⭐ 1,696 | 🐛 0 | 🌐 R | 📅 2026-11-13 - 🐝 Awesome R and Python packages offering extended UI or server components for the web framework Shiny.
 * [awesome-r-dataviz](https://github.com/krzjoa/awesome-r-dataviz) ⭐ 393 | 🐛 2 | 🌐 R | 📅 2022-07-06 - Curated resources about Data Visualization, Drawing & Publishing in R.
 
 ### Racket Lists
@@ -1620,7 +1620,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-rails](https://github.com/gramantin/awesome-rails) ⭐ 3,939 | 🐛 0 | 📅 2026-11-03 - A curated list of awesome things related to Ruby on Rails.
 * [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem) ⭐ 2,804 | 🐛 29 | 🌐 Ruby | 📅 2024-03-12 - A collection of awesome Ruby Gems for Rails development.
 * [awesome-jekyll-plugins](https://github.com/planetjekyll/awesome-jekyll-plugins) ⭐ 1,417 | 🐛 0 | 📅 2026-10-29 - A collection of awesome Jekyll plugins (gems, scripts, pasties, etc.).
-* [Open-Source-Ruby-and-Rails-Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps) ⭐ 1,263 | 🐛 1 | 📅 2026-10-23 - Awesome Ruby and Rails Open Source applications 🌈.
+* [Open-Source-Ruby-and-Rails-Apps](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps) ⭐ 1,262 | 🐛 1 | 📅 2026-10-23 - Awesome Ruby and Rails Open Source applications 🌈.
 * [data-science-with-ruby](https://github.com/arbox/data-science-with-ruby) ⭐ 724 | 🐛 1 | 🌐 Ruby | 📅 2023-07-19 - Practical Data Science with Ruby based tools.
 * [awesome-hanami](https://github.com/davydovanton/awesome-hanami) ⭐ 415 | 🐛 2 | 🌐 Ruby | 📅 2023-12-18 - A collection of awesome Hanami Gems and projects.
 * [awesome-danger](https://github.com/danger/awesome-danger) ⭐ 361 | 🐛 1 | 📅 2025-12-28 - An awesome list of all things Danger.
@@ -1633,7 +1633,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-rspec](https://github.com/Darhazer/awesome-rspec) ⭐ 23 | 🐛 0 | 📅 2024-09-06 - Curated list of awesome RSpec related resources.
 * [awesome-rails-gems](https://github.com/ShipOnRails/awesome-rails-gems) ⭐ 21 | 🐛 0 | 📅 2024-12-10 - A curated list of Awesome Rails Gems.
 * [awesome-puppet](https://github.com/awesome-puppet-org/awesome-puppet) ⭐ 18 | 🐛 1 | 📅 2026-03-21 - An opinionated list of Puppet resources.
-* [fucking-awesome-ruby](https://github.com/correia-jpv/fucking-awesome-ruby) ⭐ 5 | 🐛 1 | 📅 2026-11-12 - 💎 A collection of awesome Ruby libraries, tools, frameworks and software. With repository stars⭐ and forks🍴.
+* [fucking-awesome-ruby](https://github.com/correia-jpv/fucking-awesome-ruby) ⭐ 5 | 🐛 1 | 📅 2026-11-14 - 💎 A collection of awesome Ruby libraries, tools, frameworks and software. With repository stars⭐ and forks🍴.
 * [awesome](https://github.com/watsy0007/awesome) ⭐ 4 | 🐛 0 | 📅 2017-02-15 - 收集有意思的GitHub仓库.
 * [awesome-rails-api-gems](https://github.com/randikabanura/awesome-rails-api-gems) ⭐ 1 | 🐛 0 | 📅 2023-09-20 - A collection of awesome Ruby Gems for Rails API development.
 * [awesome-open-ror](https://github.com/Alex223124/awesome-open-ror) ⭐ 0 | 🐛 0 | 📅 2016-01-06 - A collection of awesome Ruby on Rails open source projects and software.
@@ -1642,20 +1642,20 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Rust Lists
 
-* [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 60,501 | 🐛 13 | 🌐 Rust | 📅 2026-11-12 - A curated list of Rust code and resources.
-* [awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) ⭐ 4,152 | 🐛 55 | 🌐 Rust | 📅 2026-07-13 - A curated list of replacements for existing software written in Rust.
-* [awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) ⭐ 2,830 | 🐛 20 | 📅 2026-05-17 - Collect libraries and packages about blockchain/cryptography in Rust.
-* [awesome-ratatui](https://github.com/ratatui/awesome-ratatui) ⭐ 2,079 | 🐛 1 | 📅 2026-11-12 - A curated list of TUI apps and libraries built with Ratatui.
-* [awesome-gpui](https://github.com/zed-industries/awesome-gpui) ⭐ 1,705 | 🐛 1 | 🌐 Python | 📅 2026-11-13 - Awesome projects, built with or for GPUI!
+* [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 60,525 | 🐛 14 | 🌐 Rust | 📅 2026-11-12 - A curated list of Rust code and resources.
+* [awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) ⭐ 4,155 | 🐛 55 | 🌐 Rust | 📅 2026-07-13 - A curated list of replacements for existing software written in Rust.
+* [awesome-blockchain-rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust) ⭐ 2,831 | 🐛 20 | 📅 2026-05-17 - Collect libraries and packages about blockchain/cryptography in Rust.
+* [awesome-ratatui](https://github.com/ratatui/awesome-ratatui) ⭐ 2,079 | 🐛 3 | 📅 2026-11-12 - A curated list of TUI apps and libraries built with Ratatui.
+* [awesome-gpui](https://github.com/zed-industries/awesome-gpui) ⭐ 1,713 | 🐛 5 | 🌐 Python | 📅 2026-11-14 - Awesome projects, built with or for GPUI!
 * [awesome-esp-rust](https://github.com/esp-rs/awesome-esp-rust) ⭐ 1,699 | 🐛 2 | 📅 2026-09-14 - Curated list of resources for ESP32 development in the Rust programming language.
 * [awesome-yew](https://github.com/jetli/awesome-yew) ⭐ 1,617 | 🐛 3 | 📅 2026-02-28 - 😎 A curated list of awesome things related to Yew / WebAssembly.
-* [awesome-nu](https://github.com/nushell/awesome-nu) ⭐ 1,430 | 🐛 3 | 🌐 Nushell | 📅 2026-11-11 - A curated list of awesome tools that work within the nu language ecosystem e.g. nushell, scripts, nana, etc.
-* [awesome-rust](https://github.com/awesome-rust-com/awesome-rust) ⭐ 1,112 | 🐛 0 | 🌐 HTML | 📅 2026-11-13 - Awesome Rust.
+* [awesome-nu](https://github.com/nushell/awesome-nu) ⭐ 1,431 | 🐛 3 | 🌐 Nushell | 📅 2026-11-11 - A curated list of awesome tools that work within the nu language ecosystem e.g. nushell, scripts, nana, etc.
+* [awesome-rust](https://github.com/awesome-rust-com/awesome-rust) ⭐ 1,112 | 🐛 1 | 🌐 HTML | 📅 2026-11-13 - Awesome Rust.
 * [awesome-rust](https://github.com/rustcc/awesome-rust) ⭐ 1,070 | 🐛 4 | 📅 2023-12-05 - Rust框架、库和资源的汇总, Rust中文社区.
-* [awesome-leptos](https://github.com/leptos-rs/awesome-leptos) ⭐ 972 | 🐛 3 | 📅 2026-09-18 - A collection of awesome libraries in the Leptos ecosystem.
+* [awesome-leptos](https://github.com/leptos-rs/awesome-leptos) ⭐ 973 | 🐛 3 | 📅 2026-09-18 - A collection of awesome libraries in the Leptos ecosystem.
 * [awesome-rust-tools](https://github.com/unpluggedcoder/awesome-rust-tools) ⭐ 738 | 🐛 1 | 📅 2026-11-12 - Harness the power of Rust. Those fast productivity tools based on Rust.
-* [awesome-iroh](https://github.com/n0-computer/awesome-iroh) ⭐ 599 | 🐛 10 | 📅 2026-11-03 - Curated list of awesome stuff built on & with iroh.
-* [awesome-cryptography-rust](https://github.com/rust-cc/awesome-cryptography-rust) ⭐ 593 | 🐛 4 | 📅 2026-07-01 - Collect libraries and packages about cryptography in Rust.
+* [awesome-iroh](https://github.com/n0-computer/awesome-iroh) ⭐ 602 | 🐛 10 | 📅 2026-11-03 - Curated list of awesome stuff built on & with iroh.
+* [awesome-cryptography-rust](https://github.com/rust-cc/awesome-cryptography-rust) ⭐ 593 | 🐛 0 | 📅 2026-11-14 - Collect libraries and packages about cryptography in Rust.
 * [awesome-modern-cli](https://github.com/thegdsks/awesome-modern-cli) ⭐ 468 | 🐛 1 | 📅 2026-10-31 - A curated list of modern alternatives to classic command-line tools. Faster, prettier, smarter replacements for the Unix utilities you use every day.
 * [awesome-georust](https://github.com/pka/awesome-georust) ⭐ 417 | 🐛 2 | 📅 2026-03-01 - A curated list of awesome geospatial software, libraries, tools and resources, written in Rust.
 * [awesome-rust-formalized-reasoning](https://github.com/newca12/awesome-rust-formalized-reasoning) ⭐ 403 | 🐛 0 | 📅 2026-11-07 - An exhaustive list of all Rust resources regarding automated or semi-automated formalization efforts in any area, constructive mathematics, formal algorithms, and program verification.
@@ -1668,14 +1668,14 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-offensive-rust](https://github.com/ebalo55/awesome-offensive-rust) ⭐ 123 | 🐛 0 | 📅 2025-06-12 - Curated list of projects, articles and more related to Offensive Security and Red Teaming. Completely written in Rust.
 * [awesome-rust-zh](https://github.com/chinanf-boy/awesome-rust-zh) ⭐ 109 | 🐛 0 | 🌐 Shell | 📅 2020-01-11 - 中文翻译: \<rust-unofficial/awesome-rust> Rust 代码和资源的精选列表 :heart: 更新✅.
 * [awesome-bevy](https://github.com/d-bucur/awesome-bevy) ⭐ 79 | 🐛 1 | 📅 2025-05-23 - A curated list of Bevy resources.
+* [Awesome-Rust-Checker](https://github.com/BurtonQin/Awesome-Rust-Checker) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2026-08-22 - A curated list of awesome Rust checkers.
 * [awesome-2d-graphics-rendering](https://github.com/zhanba/awesome-2d-graphics-rendering) ⭐ 70 | 🐛 1 | 📅 2026-01-07 - Awesome vector graphic and font rendering resources.
-* [Awesome-Rust-Checker](https://github.com/BurtonQin/Awesome-Rust-Checker) ⭐ 70 | 🐛 0 | 🌐 Python | 📅 2026-08-22 - A curated list of awesome Rust checkers.
 * [awesome-rust-list](https://github.com/coderonion/awesome-rust-list) ⭐ 49 | 🐛 0 | 📅 2024-09-01 - This repository lists some awesome public Rust projects, Videos, Blogs and Jobs.
 * [awesome-egui](https://github.com/AZProductions/awesome-egui) ⭐ 22 | 🐛 0 | 📅 2025-06-17 - A collection of egui libraries and programs for inspiration.
 * [awesome-rust](https://github.com/shirdonliao/awesome-rust) ⭐ 18 | 🐛 0 | 🌐 Rust | 📅 2019-07-21 - Rust代码和资源的整理清单汇总--全网最全，快速精通rust\~欢迎star,fork!
 * [awesome-rust-python](https://github.com/rp-libs/awesome-rust-python) ⭐ 18 | 🐛 0 | 📅 2026-03-04 - A curated list of awesome Python libraries and tools powered by Rust.
-* [fucking-awesome-rust](https://github.com/correia-jpv/fucking-awesome-rust) ⭐ 17 | 🐛 2 | 🌐 Rust | 📅 2026-11-12 - A curated list of Rust code and resources. With repository stars⭐ and forks🍴.
-* [awesome-rust-with-stars](https://github.com/amanbolat/awesome-rust-with-stars) ⭐ 13 | 🐛 0 | 📅 2026-11-12 - List of awesome rust projects with stars.
+* [fucking-awesome-rust](https://github.com/correia-jpv/fucking-awesome-rust) ⭐ 17 | 🐛 2 | 🌐 Rust | 📅 2026-11-14 - A curated list of Rust code and resources. With repository stars⭐ and forks🍴.
+* [awesome-rust-with-stars](https://github.com/amanbolat/awesome-rust-with-stars) ⭐ 13 | 🐛 0 | 📅 2026-11-13 - List of awesome rust projects with stars.
 * [awesome-rust-cn](https://github.com/PuzzledAlien/awesome-rust-cn) ⭐ 9 | 🐛 1 | 🌐 Rust | 📅 2020-04-26 - Rust资源列表 中文版 主要参考自：.
 * [awesome-rust](https://github.com/MrSmart0401/awesome-rust) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2024-04-30 - A curated list of Rust code and resources.
 * [awesome-rust](https://github.com/aleriado/awesome-rust) ⭐ 0 | 🐛 0 | 🌐 Rust | 📅 2025-10-15 - About A curated list of Rust code and resources.
@@ -1693,10 +1693,10 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Shell Lists
 
-* [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) ⭐ 10,939 | 🐛 4 | 📅 2026-10-11 - A curated list of dotfiles resources.
-* [awesome-tmux](https://github.com/rothgar/awesome-tmux) ⭐ 10,460 | 🐛 15 | 📅 2026-10-05 - A list of awesome resources for tmux.
-* [awesome-bash](https://github.com/awesome-lists/awesome-bash) ⭐ 10,199 | 🐛 8 | 🌐 Shell | 📅 2026-05-21 - A curated list of delightful Bash scripts and resources.
-* [awesome-password-store](https://github.com/tijn/awesome-password-store) ⭐ 313 | 🐛 0 | 📅 2026-11-07 - A collection of awesome pass extensions and interfaces (for zx2c4's pass).
+* [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) ⭐ 10,938 | 🐛 5 | 📅 2026-10-11 - A curated list of dotfiles resources.
+* [awesome-tmux](https://github.com/rothgar/awesome-tmux) ⭐ 10,465 | 🐛 15 | 📅 2026-10-05 - A list of awesome resources for tmux.
+* [awesome-bash](https://github.com/awesome-lists/awesome-bash) ⭐ 10,200 | 🐛 7 | 🌐 Shell | 📅 2026-05-21 - A curated list of delightful Bash scripts and resources.
+* [awesome-password-store](https://github.com/tijn/awesome-password-store) ⭐ 314 | 🐛 0 | 📅 2026-11-07 - A collection of awesome pass extensions and interfaces (for zx2c4's pass).
 
 ### Smalltalk Lists
 
@@ -1714,30 +1714,30 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Swift Lists
 
-* [awesome-ios](https://github.com/vsouza/awesome-ios) ⭐ 53,971 | 🐛 35 | 🌐 Swift | 📅 2026-08-27 - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects.
-* [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) ⭐ 53,230 | 🐛 3 | 📅 2026-11-12 - :iphone: Collaborative List of Open-Source iOS Apps.
-* [awesome-swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,370 | 🐛 23 | 🌐 Ruby | 📅 2026-11-11 - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
+* [awesome-ios](https://github.com/vsouza/awesome-ios) ⭐ 53,981 | 🐛 35 | 🌐 Swift | 📅 2026-08-27 - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects.
+* [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) ⭐ 53,256 | 🐛 3 | 📅 2026-11-13 - :iphone: Collaborative List of Open-Source iOS Apps.
+* [awesome-swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,373 | 🐛 24 | 🌐 Ruby | 📅 2026-11-11 - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 * [awesome-swift](https://github.com/Wolg/awesome-swift) ⭐ 5,903 | 🐛 119 | 📅 2026-04-12 - A curated list of awesome Swift frameworks, libraries and software.
 * [Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds) ⭐ 4,393 | 🐛 1 | 🌐 Swift | 📅 2026-04-02 - A List of Awesome Swift Playgrounds.
-* [awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps) ⭐ 1,806 | 🐛 1 | 🌐 Swift | 📅 2026-11-13 - A curated collection of open-source macOS applications built with Swift.
+* [awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps) ⭐ 1,807 | 🐛 1 | 🌐 Swift | 📅 2026-11-14 - A curated collection of open-source macOS applications built with Swift.
 * [awesome-ios](https://github.com/ivanvorobei/awesome-ios) ⭐ 1,656 | 🐛 0 | 🌐 PHP | 📅 2023-03-06 - A collaborative list of awesome for iOS developers. Include quick preview.
 * [awesome-swiftui-libraries](https://github.com/Toni77777/awesome-swiftui-libraries) ⭐ 1,550 | 🐛 4 | 🌐 Swift | 📅 2026-10-26 - :rocket: Awesome SwiftUI Libraries.
 * [awesome-result-builders](https://github.com/carson-katri/awesome-result-builders) ⭐ 1,139 | 🐛 5 | 📅 2024-06-16 - A list of cool DSLs made with Swift 5.4’s @resultBuilder.
-* [awesome-swiftui](https://github.com/onmyway133/awesome-swiftui) ⭐ 1,080 | 🐛 11 | 📅 2026-11-12 - 🌮 Awesome resources, articles, libraries about SwiftUI.
-* [awesome-swift](https://github.com/uhub/awesome-swift) ⭐ 867 | 🐛 0 | 📅 2026-11-05 - A curated list of awesome Swift frameworks, libraries and software.
-* [TheList](https://github.com/Awesome-Server-Side-Swift/TheList) ⭐ 860 | 🐛 16 | 🌐 Swift | 📅 2019-04-09 - A list of Awesome Server Side Swift 3 projects.
+* [awesome-swiftui](https://github.com/onmyway133/awesome-swiftui) ⭐ 1,082 | 🐛 11 | 📅 2026-11-12 - 🌮 Awesome resources, articles, libraries about SwiftUI.
+* [awesome-swift](https://github.com/uhub/awesome-swift) ⭐ 868 | 🐛 0 | 📅 2026-11-05 - A curated list of awesome Swift frameworks, libraries and software.
+* [TheList](https://github.com/Awesome-Server-Side-Swift/TheList) ⭐ 861 | 🐛 16 | 🌐 Swift | 📅 2019-04-09 - A list of Awesome Server Side Swift 3 projects.
 * [awesome-rxswift](https://github.com/LeoMobileDeveloper/awesome-rxswift) ⭐ 503 | 🐛 1 | 🌐 Swift | 📅 2020-07-04 - An "awesome" type curated list of RxSwift library and learning material.
 * [awesome-apple-watch](https://github.com/738/awesome-apple-watch) ⭐ 493 | 🐛 2 | 🌐 Swift | 📅 2024-06-16 - ⌚A curated list of awesome watchOS frameworks, libraries, sample apps, including Objective-C and Swift Projects.
-* [awesome-mobile-libraries](https://github.com/simformsolutionspvtltd/awesome-mobile-libraries) ⭐ 224 | 🐛 1 | 📅 2026-05-14 - This repo contains all the Open-source Libraries from iOS, Android, Flutter and React-Native.✨.
+* [awesome-mobile-libraries](https://github.com/simformsolutionspvtltd/awesome-mobile-libraries) ⭐ 225 | 🐛 1 | 📅 2026-05-14 - This repo contains all the Open-source Libraries from iOS, Android, Flutter and React-Native.✨.
 * [Awesome-Mobile-UI](https://github.com/cymcsg/Awesome-Mobile-UI) ⭐ 138 | 🐛 0 | 🌐 Python | 📅 2016-08-09 - A curated list of awesome mobile UI/UX libraries.Both Android and iOS.
 * [awesome-system-swift](https://github.com/felix91gr/awesome-system-swift) ⭐ 103 | 🐛 7 | 🌐 Swift | 📅 2019-03-27 - An index of cross-platform libraries or projects made in Swift by the open source community. Issue a PR if something's missing! :).
 * [fucking-open-source-ios-apps](https://github.com/Correia-jpv/fucking-open-source-ios-apps) ⭐ 58 | 🐛 0 | 📅 2026-11-12 - 📱 Collaborative List of Open-Source iOS Apps. With up-to-date repository stars⭐ and forks🍴.
 * [fucking-about-SwiftUI](https://github.com/Correia-jpv/fucking-about-SwiftUI) ⭐ 45 | 🐛 0 | 🌐 Swift | 📅 2026-11-12 - Gathering all info published, both by Apple and by others, about new framework SwiftUI. With repository stars⭐ and forks🍴.
 * [awesome-ios-star](https://github.com/damozhang/awesome-ios-star) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2026-11-10 - All data is from Only the GitHub star count is added to this list. Update weekly.
-* [fucking-awesome-ios](https://github.com/correia-jpv/fucking-awesome-ios) ⭐ 31 | 🐛 1 | 🌐 Swift | 📅 2026-11-12 - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects. With repository stars⭐ and forks🍴.
+* [fucking-awesome-ios](https://github.com/correia-jpv/fucking-awesome-ios) ⭐ 31 | 🐛 1 | 🌐 Swift | 📅 2026-11-14 - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects. With repository stars⭐ and forks🍴.
 * [awesome-swift](https://github.com/jaywcjlove/awesome-swift) ⭐ 23 | 🐛 1 | 📅 2026-06-27 - A curated list of Swift packages, libraries, tools, and learning resources for Apple platform development.
 * [awesome-macos-libraries](https://github.com/Toni77777/awesome-macos-libraries) ⭐ 22 | 🐛 1 | 🌐 Swift | 📅 2022-09-05 - :fire: Awesome list of macOS libraries.
-* [fucking-awesome-swift](https://github.com/Correia-jpv/fucking-awesome-swift) ⭐ 15 | 🐛 2 | 🌐 Ruby | 📅 2026-11-12 - A collaborative list of awesome Swift libraries and resources. Feel free to contribute! With repository stars⭐ and forks🍴.
+* [fucking-awesome-swift](https://github.com/Correia-jpv/fucking-awesome-swift) ⭐ 15 | 🐛 2 | 🌐 Ruby | 📅 2026-11-14 - A collaborative list of awesome Swift libraries and resources. Feel free to contribute! With repository stars⭐ and forks🍴.
 * [awesome-swift-cn](https://github.com/Tuccuay/awesome-swift-cn) ⭐ 4 | 🐛 0 | 🌐 Swift | 📅 2016-02-26 - **deprecated**.
 * [Awesome-Swift-Lib-Hunt](https://github.com/kuraydev/Awesome-Swift-Lib-Hunt) ⭐ 3 | 🐛 0 | 📅 2018-01-01 - All these libraries are tested and used my me. Bookmarks are just not enough and we cannot share them on public easily. Here are the awesome iOS / Swift libraries.
 * [awesome-SS-Mobile](https://github.com/vatsaltanna/awesome-SS-Mobile) ⭐ 2 | 🐛 0 | 📅 2022-07-14 - This repo contains all the Open-source Libraries from iOS, Android, Flutter and React-Native.
@@ -1784,14 +1784,15 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### 3D Topic Lists
 
-* [awesome-blender](https://github.com/agmmnn/awesome-blender) ⭐ 7,633 | 🐛 0 | 📅 2026-11-13 - 🪐 A curated list of awesome Blender add-ons, extensions, AI/MCP tools, tutorials, and 3D resources.
-* [awesome-webgpu](https://github.com/mikbry/awesome-webgpu) ⭐ 2,020 | 🐛 52 | 📅 2026-09-10 - 😎 Curated list of awesome things around WebGPU ecosystem.
+* [awesome-blender](https://github.com/agmmnn/awesome-blender) ⭐ 7,636 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-13 - 🪐 A curated list of awesome Blender add-ons, extensions, AI/MCP tools, tutorials, and 3D resources.
+* [gamedev-resources](https://github.com/kavex/gamedev-resources) ⭐ 7,180 | 🐛 48 | 📅 2026-04-10 - :video\_game: :game\_die: A wonderful list of Game Development resources.
+* [awesome-webgpu](https://github.com/mikbry/awesome-webgpu) ⭐ 2,022 | 🐛 52 | 📅 2026-09-10 - 😎 Curated list of awesome things around WebGPU ecosystem.
 * [awesome-lidar](https://github.com/szenergy/awesome-lidar) ⭐ 1,373 | 🐛 1 | 📅 2026-11-06 - 😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.
-* [awesome-3d-4d-world-models](https://github.com/worldbench/awesome-3d-4d-world-models) ⭐ 1,030 | 🐛 0 | 🌐 HTML | 📅 2026-10-31 - \[TPAMI 2026] 3D and 4D World Modeling: A Survey.
-* [3d-resources](https://github.com/devanshutak25/3d-resources) ⭐ 1,025 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-10 - Curated, CC0 reference hub for 3D, VFX, and game dev. 3,400+ tools, assets, and tutorials across 12 sections. Searchable, filterable, free.
+* [awesome-3d-4d-world-models](https://github.com/worldbench/awesome-3d-4d-world-models) ⭐ 1,030 | 🐛 0 | 🌐 HTML | 📅 2026-11-14 - \[TPAMI 2026] 3D and 4D World Modeling: A Survey.
+* [3d-resources](https://github.com/devanshutak25/3d-resources) ⭐ 1,025 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-13 - Curated, CC0 reference hub for 3D, VFX, and game dev. 3,400+ tools, assets, and tutorials across 12 sections. Searchable, filterable, free.
 * [awesome-robotics-3d](https://github.com/zubair-irshad/awesome-robotics-3d) ⭐ 825 | 🐛 6 | 📅 2025-12-17 - A curated list of 3D Vision papers relating to Robotics domain in the era of large models i.e. LLMs/VLMs, inspired by awesome-computer-vision, including papers, codes, and related websites.
-* [awesome-vla-for-ad](https://github.com/worldbench/awesome-vla-for-ad) ⭐ 525 | 🐛 1 | 🌐 HTML | 📅 2026-11-06 - 🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future.
-* [awesome-citygml](https://github.com/OloOcki/awesome-citygml) ⭐ 435 | 🐛 1 | 📅 2026-11-12 - The ultimate list of open data semantic 3D city models.
+* [awesome-vla-for-ad](https://github.com/worldbench/awesome-vla-for-ad) ⭐ 527 | 🐛 1 | 🌐 HTML | 📅 2026-11-14 - 🌐 Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future.
+* [awesome-citygml](https://github.com/OloOcki/awesome-citygml) ⭐ 436 | 🐛 1 | 📅 2026-11-12 - The ultimate list of open data semantic 3D city models.
 * [awesome-gaussians](https://github.com/longxiang-ai/awesome-gaussians) ⭐ 373 | 🐛 0 | 🌐 Python | 📅 2026-11-09 - This repository tracks the latest advancements in 3D Gaussian Splatting from Arxiv, with daily automated updates. Stay up-to-date with cutting-edge research in this exciting field!
 * [Awesome-Physics-Cognition-based-Video-Generation](https://github.com/minnie-lin/Awesome-Physics-Cognition-based-Video-Generation) ⭐ 332 | 🐛 2 | 📅 2026-06-23 - A comprehensive list of papers investigating physical cognition in video generation, including papers, codes, and related websites.
 * [Awesome-Monocular-Depth](https://github.com/choyingw/Awesome-Monocular-Depth) ⭐ 212 | 🐛 2 | 📅 2024-10-11 - A curated list of recent monocular depth estimation papers.
@@ -1818,7 +1819,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Actions Topic Lists
 
-* [awesome-actions](https://github.com/sdras/awesome-actions) ⭐ 28,430 | 🐛 360 | 📅 2024-09-01 - A curated list of awesome actions to use on GitHub.
+* [awesome-actions](https://github.com/sdras/awesome-actions) ⭐ 28,434 | 🐛 360 | 📅 2024-09-01 - A curated list of awesome actions to use on GitHub.
 * [awesome-runners](https://github.com/jonico/awesome-runners) ⭐ 910 | 🐛 1 | 🌐 SCSS | 📅 2026-11-13 - A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix.
 * [awesome-continuous-ai](https://github.com/githubnext/awesome-continuous-ai) ⭐ 498 | 🐛 20 | 📅 2025-11-16 - An awesome list of Continuous AI Actions and Frameworks.
 * [fucking-awesome-actions](https://github.com/Correia-jpv/fucking-awesome-actions) ⭐ 30 | 🐛 1 | 📅 2026-11-12 - A curated list of awesome actions to use on GitHub. With repository stars⭐ and forks🍴.
@@ -1849,71 +1850,71 @@ Last generated: 2026-11-12, 10396 lists.
 * [Awesome-Embodied-AI-Safety](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety) ⭐ 164 | 🐛 5 | 🌐 Python | 📅 2026-11-09 - Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses | 500+ Papers | Perception, Cognition, Planning, Interaction, Agentic System.
 * [RS-Adversarial-Learning](https://github.com/EdisonLeeeee/RS-Adversarial-Learning) ⭐ 137 | 🐛 0 | 📅 2022-04-29 - A curated collection of adversarial attack and defense on recommender systems.
 * [awesome-3D-point-cloud-attacks](https://github.com/cuge1995/awesome-3D-point-cloud-attacks) ⭐ 113 | 🐛 1 | 📅 2022-12-03 - List of state of the art papers, code, and other resources.
-* [awesome-ai-agent-attacks](https://github.com/webpro255/awesome-ai-agent-attacks) ⭐ 91 | 🐛 0 | 📅 2026-10-28 - A curated timeline of real AI agent security incidents, breaches, and vulnerabilities (2024-2026). Every entry sourced and dated.
+* [awesome-ai-agent-attacks](https://github.com/webpro255/awesome-ai-agent-attacks) ⭐ 91 | 🐛 0 | 📅 2026-11-13 - A curated timeline of real AI agent security incidents, breaches, and vulnerabilities (2024-2026). Every entry sourced and dated.
 * [awesome-real-world-adversarial-examples](https://github.com/lionelmessi6410/awesome-real-world-adversarial-examples) ⭐ 63 | 🐛 1 | 📅 2020-07-29 - 😎 A curated list of awesome real-world adversarial examples resources.
 * [awesome-llm-security-alignment](https://github.com/0xSweet/awesome-llm-security-alignment) ⭐ 15 | 🐛 2 | 📅 2026-09-13 - A curated list of research papers, experiments, and resources related to LLM security and alignment.
 * [awesome-adversarial-machine-learning](https://github.com/man3kin3ko/awesome-adversarial-machine-learning) ⭐ 10 | 🐛 0 | 📅 2026-05-21 - A curated list of awesome AML attacks and defences frameworks and resources.
 
 ### Agent Harness Topic Lists
 
-* [awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) ⭐ 5,140 | 🐛 277 | 🌐 Python | 📅 2026-11-13 - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
-* [awesome-agent-harness](https://github.com/Picrew/awesome-agent-harness) ⭐ 1,921 | 🐛 121 | 🌐 Python | 📅 2026-11-04 - An awesome list of Agent Harness engineering resources, including GitHub projects, tools, benchmarks, and practical guides.
-* [awesome-deepseek-harness](https://github.com/libukai/awesome-deepseek-harness) ⭐ 375 | 🐛 103 | 📅 2026-09-12 - DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins\&Toolkit.
+* [awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) ⭐ 5,153 | 🐛 275 | 🌐 Python | 📅 2026-11-14 - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
+* [awesome-agent-harness](https://github.com/Picrew/awesome-agent-harness) ⭐ 1,923 | 🐛 121 | 🌐 Python | 📅 2026-11-04 - An awesome list of Agent Harness engineering resources, including GitHub projects, tools, benchmarks, and practical guides.
+* [awesome-deepseek-harness](https://github.com/libukai/awesome-deepseek-harness) ⭐ 376 | 🐛 103 | 📅 2026-09-12 - DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins\&Toolkit.
 * [awesome-agent-harness](https://github.com/rucaibox/awesome-agent-harness) ⭐ 235 | 🐛 12 | 📅 2026-05-25 - The official GitHub page for the paper "Agent Systems with Harness Engineering".
-* [awesome-deepseek-harness](https://github.com/awesome-deepseekharness/awesome-deepseek-harness) ⭐ 42 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-13 - Community-curated DeepSeek Harness (dsh) plugins, tools, skills and learning resources. Searchable bilingual directory | DeepSeek 插件、工具与技能精选.
+* [awesome-deepseek-harness](https://github.com/awesome-deepseekharness/awesome-deepseek-harness) ⭐ 43 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-14 - Community-curated DeepSeek Harness (dsh) plugins, tools, skills and learning resources. Searchable bilingual directory | DeepSeek 插件、工具与技能精选.
 * [awesome-agent-loop-papers](https://github.com/js-lee-AI/awesome-agent-loop-papers) ⭐ 10 | 🐛 0 | 📅 2026-11-04 - Companion reading list for the survey 'The Agent Loop: Control Strategies, Skills, and Harnesses for LLM Agents': 492 papers by section plus 28 open-source artifacts (frameworks, coding harnesses, skill libraries, registries).
-* [awesome-deepseek-harness](https://github.com/calderbuild/awesome-deepseek-harness) ⭐ 2 | 🐛 4 | 📅 2026-10-14 - Curated DeepSeek Harness resources: docs, concepts, packages, plugins, and write-ups.
+* [awesome-deepseek-harness](https://github.com/calderbuild/awesome-deepseek-harness) ⭐ 2 | 🐛 5 | 📅 2026-10-14 - Curated DeepSeek Harness resources: docs, concepts, packages, plugins, and write-ups.
 
 ### Agent Skills Topic Lists
 
-* [awesome-claude-skills](https://github.com/composiohq/awesome-claude-skills) ⭐ 79,380 | 🐛 1,893 | 🌐 Python | 📅 2026-09-18 - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows.
-* [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) ⭐ 53,736 | 🐛 13 | 📅 2026-10-30 - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞.
-* [agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) ⭐ 49,624 | 🐛 3 | 🌐 Python | 📅 2026-11-12 - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
-* [awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) ⭐ 6,385 | 🐛 367 | 🌐 TypeScript | 📅 2026-11-09 - Tutorials, Guides and Agent Skills Directories.
-* [awesome-hermes-agent](https://github.com/0xnyk/awesome-hermes-agent) ⭐ 6,010 | 🐛 256 | 📅 2026-10-27 - Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
-* [Auto-Empirical-Research-Skills](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills) ⭐ 5,013 | 🐛 0 | 🌐 Stata | 📅 2026-11-09 - 🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | 精选 23,000+ AI Agent 技能库，覆盖8大社会科学学科的实证研究。CoPaper.AI 20分钟完成一篇可复现的规范实证论文，并支持用户上传 Skills。-- Maintained by CoPaper.AI from Stanford REAP.
+* [awesome-claude-skills](https://github.com/composiohq/awesome-claude-skills) ⭐ 79,459 | 🐛 1,897 | 🌐 Python | 📅 2026-09-18 - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows.
+* [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) ⭐ 53,756 | 🐛 15 | 📅 2026-10-30 - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞.
+* [agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) ⭐ 49,679 | 🐛 7 | 🌐 Python | 📅 2026-11-13 - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.
+* [awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) ⭐ 6,387 | 🐛 373 | 🌐 TypeScript | 📅 2026-11-09 - Tutorials, Guides and Agent Skills Directories.
+* [awesome-hermes-agent](https://github.com/0xnyk/awesome-hermes-agent) ⭐ 6,018 | 🐛 263 | 📅 2026-10-27 - Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
+* [Auto-Empirical-Research-Skills](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills) ⭐ 5,014 | 🐛 0 | 🌐 Stata | 📅 2026-11-09 - 🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | 精选 23,000+ AI Agent 技能库，覆盖8大社会科学学科的实证研究。CoPaper.AI 20分钟完成一篇可复现的规范实证论文，并支持用户上传 Skills。-- Maintained by CoPaper.AI from Stanford REAP.
 * [awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills) ⭐ 4,744 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-18 - Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives.
-* [awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) ⭐ 3,372 | 🐛 102 | 🌐 Python | 📅 2026-11-08 - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code and Codex skills.
-* [awesome-rea](https://github.com/reacher-z/awesome-rea) ⭐ 2,698 | 🐛 1,849 | 🌐 Python | 📅 2026-11-13 - Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites, games, apps, binaries, firmware and communication protocols.
-* [awesome-short-drama-skills](https://github.com/underleveledbuilder/awesome-short-drama-skills) ⭐ 2,267 | 🐛 13 | 🌐 HTML | 📅 2026-11-03 - AI 短剧 · 漫剧 Skill（技能包）精选：剧本、改编、分镜、Seedance / 可灵 / MiniMax 视频提示词，千问、豆包、龙虾 OpenClaw、WorkBuddy、Claude Code、Codex 等智能体可用 | Curated agent skills for AI short drama, micro drama / microdrama, vertical drama and manju (AI comic drama): screenwriting, storyboards, Seedance / Kling / MiniMax video prompts.
-* [awesome-claude-video-skills](https://github.com/zhuyansen/awesome-claude-video-skills) ⭐ 1,992 | 🐛 19 | 📅 2026-11-12 - Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each security-graded. English / 中文.
+* [awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) ⭐ 3,375 | 🐛 103 | 🌐 Python | 📅 2026-11-13 - A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code and Codex skills.
+* [awesome-rea](https://github.com/reacher-z/awesome-rea) ⭐ 2,777 | 🐛 1,851 | 🌐 Python | 📅 2026-11-14 - Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites, games, apps, binaries, firmware and communication protocols.
+* [awesome-short-drama-skills](https://github.com/underleveledbuilder/awesome-short-drama-skills) ⭐ 2,298 | 🐛 12 | 🌐 HTML | 📅 2026-11-14 - AI 短剧 · 漫剧 Skill（技能包）精选：剧本、改编、分镜、Seedance / 可灵 / MiniMax 视频提示词，千问、豆包、龙虾 OpenClaw、WorkBuddy、Claude Code、Codex 等智能体可用 | Curated agent skills for AI short drama, micro drama / microdrama, vertical drama and manju (AI comic drama): screenwriting, storyboards, Seedance / Kling / MiniMax video prompts.
+* [awesome-claude-video-skills](https://github.com/zhuyansen/awesome-claude-video-skills) ⭐ 2,039 | 🐛 21 | 📅 2026-11-13 - Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each security-graded. English / 中文.
 * [awesome-japanese-nlp-resources](https://github.com/taishi-i/awesome-japanese-nlp-resources) ⭐ 1,031 | 🐛 4 | 📅 2026-11-09 - A curated list of resources for Japanese natural language processing (NLP): Python libraries, LLMs, dictionaries, corpora, and datasets. Includes Claude Code and Codex skills to search resources.
-* [awesome-trading-agents](https://github.com/llmquant/awesome-trading-agents) ⭐ 997 | 🐛 43 | 📅 2026-08-13 - Curated list of LLM-driven trading agents, MCP servers, and agent skills for market research, strategy, and execution.
+* [awesome-trading-agents](https://github.com/llmquant/awesome-trading-agents) ⭐ 998 | 🐛 44 | 📅 2026-08-13 - Curated list of LLM-driven trading agents, MCP servers, and agent skills for market research, strategy, and execution.
 * [awesome-human-distillation](https://github.com/mliu98/awesome-human-distillation) ⭐ 763 | 🐛 3 | 🌐 Python | 📅 2026-11-13 - A curated catalog of human distillliation agent skills.
-* [awesome-ai-for-economists](https://github.com/hanlulong/awesome-ai-for-economists) ⭐ 710 | 🐛 1 | 📅 2026-11-07 - A curated list of AI tools, agent skills, libraries, and resources for economics research, teaching, and policy analysis. Maintained by the OpenEcon team.
-* [awesome-agent-skills](https://github.com/skillmatic-ai/awesome-agent-skills) ⭐ 698 | 🐛 178 | 📅 2026-05-14 - The definitive resource for Agent Skills - modular capabilities revolutionizing AI agent architecture.
-* [awesome-hermes-skills](https://github.com/ZeroPointRepo/awesome-hermes-skills) ⭐ 681 | 🐛 98 | 📅 2026-11-02 - Hermes Agent skills and plugins: 350+ tools, memory providers, and guides for Nous Research's agent.
-* [awesome-agent-skills](https://github.com/JackyST0/awesome-agent-skills) ⭐ 669 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-09 - 🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具.
-* [awesome-typesafe-jev](https://github.com/AbdelStark/awesome-typesafe-jev) ⭐ 616 | 🐛 21 | 🌐 HTML | 📅 2026-11-01 - Awesome Jev: a source-backed field guide to TypeSafe's System One model, with SDKs, live demos, agent tools, and independent evaluations.
-* [awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) ⭐ 596 | 🐛 339 | 📅 2026-10-29 - 🎯 The definitive collection of 50+ verified Awesome Claude Skills for Claude Code, Claude.ai, and API. Boost productivity with TDD, debugging, git workflows, document processing, and more. Community-driven, actively maintained.
+* [awesome-ai-for-economists](https://github.com/hanlulong/awesome-ai-for-economists) ⭐ 712 | 🐛 1 | 📅 2026-11-07 - A curated list of AI tools, agent skills, libraries, and resources for economics research, teaching, and policy analysis. Maintained by the OpenEcon team.
+* [awesome-agent-skills](https://github.com/skillmatic-ai/awesome-agent-skills) ⭐ 698 | 🐛 182 | 📅 2026-05-14 - The definitive resource for Agent Skills - modular capabilities revolutionizing AI agent architecture.
+* [awesome-hermes-skills](https://github.com/ZeroPointRepo/awesome-hermes-skills) ⭐ 681 | 🐛 102 | 📅 2026-11-02 - Hermes Agent skills and plugins: 350+ tools, memory providers, and guides for Nous Research's agent.
+* [awesome-agent-skills](https://github.com/JackyST0/awesome-agent-skills) ⭐ 669 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-13 - 🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具.
+* [awesome-typesafe-jev](https://github.com/AbdelStark/awesome-typesafe-jev) ⭐ 617 | 🐛 21 | 🌐 HTML | 📅 2026-11-01 - Awesome Jev: a source-backed field guide to TypeSafe's System One model, with SDKs, live demos, agent tools, and independent evaluations.
+* [awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) ⭐ 597 | 🐛 345 | 📅 2026-10-29 - 🎯 The definitive collection of 50+ verified Awesome Claude Skills for Claude Code, Claude.ai, and API. Boost productivity with TDD, debugging, git workflows, document processing, and more. Community-driven, actively maintained.
 * [awesome-scientific-skills](https://github.com/internscience/awesome-scientific-skills) ⭐ 593 | 🐛 15 | 📅 2026-08-13 - An open, curated collection of Agent Skills for scientific research — clone it, use it, extend it!
-* [awesome-nuwa](https://github.com/nuwa-skills/awesome-nuwa) ⭐ 494 | 🐛 4 | 🌐 Ruby | 📅 2026-10-18 - Awesome list of 女娲.skill — 用女娲蒸馏的人物思维框架合集 | Distilled human thinking frameworks for Claude Code.
-* [Awesome-Self-Evolving-Agents](https://github.com/XMUDeepLIT/Awesome-Self-Evolving-Agents) ⭐ 486 | 🐛 4 | 📅 2026-11-13 - A Survey of Self-Evolving Agents | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on Self-Evolving Agents.
-* [awesome-seedance-2.5-prompts-skills](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills) ⭐ 268 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-13 - 100+ curated Seedance 2.5 prompts with real video previews, plus an installable Agent Skill that optimizes prompts, creates storyboards, and generates videos via Seedance models.
-* [awesome-academic-research-skills](https://github.com/kael-odin/awesome-academic-research-skills) ⭐ 210 | 🐛 0 | 🌐 Python | 📅 2026-11-12 - 面向中文用户的学术论文与科研 Agent Skill 每日排行榜 · 自动搜索、过滤并排名 GitHub 上的 Claude Code / Codex / OpenCode 科研 Skill 仓库.
-* [awesome-agent-skills](https://github.com/kodustech/awesome-agent-skills) ⭐ 118 | 🐛 140 | 📅 2026-10-01 - Curated list of Agent Skills for AI coding agents like Claude Code, Codex and Cursor.
+* [awesome-nuwa](https://github.com/nuwa-skills/awesome-nuwa) ⭐ 496 | 🐛 4 | 🌐 Ruby | 📅 2026-10-18 - Awesome list of 女娲.skill — 用女娲蒸馏的人物思维框架合集 | Distilled human thinking frameworks for Claude Code.
+* [Awesome-Self-Evolving-Agents](https://github.com/XMUDeepLIT/Awesome-Self-Evolving-Agents) ⭐ 487 | 🐛 4 | 📅 2026-11-13 - A Survey of Self-Evolving Agents | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on Self-Evolving Agents.
+* [awesome-seedance-2.5-prompts-skills](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills) ⭐ 268 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-14 - 100+ curated Seedance 2.5 prompts with real video previews, plus an installable Agent Skill that optimizes prompts, creates storyboards, and generates videos via Seedance models.
+* [awesome-academic-research-skills](https://github.com/kael-odin/awesome-academic-research-skills) ⭐ 210 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - 面向中文用户的学术论文与科研 Agent Skill 每日排行榜 · 自动搜索、过滤并排名 GitHub 上的 Claude Code / Codex / OpenCode 科研 Skill 仓库.
+* [awesome-agent-skills](https://github.com/kodustech/awesome-agent-skills) ⭐ 118 | 🐛 142 | 📅 2026-10-01 - Curated list of Agent Skills for AI coding agents like Claude Code, Codex and Cursor.
 * [awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot) ⭐ 114 | 🐛 44 | 📅 2026-10-04 - Grok Bot skills, plugins, and MCP servers: 60+ verified entries plus self-hosted alternatives.
 * [awesome-ios-ai](https://github.com/techopolis/awesome-ios-ai) ⭐ 108 | 🐛 9 | 🌐 Shell | 📅 2026-04-25 - AI agent skills, agent teams, MCP servers, and tools that make AI coding assistants better at Swift and iOS development.
-* [many-ppt-skills](https://github.com/brycewang-stanford/many-ppt-skills) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-11-12 - Every AI slide-deck skill worth knowing, on one page — both the HTML and native-PPTX routes, compared on what actually decides the choice rather than on star count. Bilingual, auto-refreshed.
-* [awesome-academic-skills](https://github.com/o0000-code/awesome-academic-skills) ⭐ 67 | 🐛 2 | 🌐 Python | 📅 2026-11-12 - An index of Claude and agent skills for academic work, from literature search to peer review. Organized by where each skill fits in the research lifecycle; each entry notes its license and what it runs. CC0.
-* [awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills) ⭐ 47 | 🐛 4 | 🌐 Python | 📅 2026-11-13 - 炒股/量化交易/选股 AI Skill 合集：收录国内外 GitHub 上的股票分析、量化交易、选股策略 Agent Skills，附索引与合规转载.
+* [many-ppt-skills](https://github.com/brycewang-stanford/many-ppt-skills) ⭐ 76 | 🐛 1 | 🌐 Python | 📅 2026-11-13 - Every AI slide-deck skill worth knowing, on one page — both the HTML and native-PPTX routes, compared on what actually decides the choice rather than on star count. Bilingual, auto-refreshed.
+* [awesome-academic-skills](https://github.com/o0000-code/awesome-academic-skills) ⭐ 67 | 🐛 2 | 🌐 Python | 📅 2026-11-13 - An index of Claude and agent skills for academic work, from literature search to peer review. Organized by where each skill fits in the research lifecycle; each entry notes its license and what it runs. CC0.
+* [awesome-stock-quant-skills](https://github.com/Serennity007/awesome-stock-quant-skills) ⭐ 47 | 🐛 4 | 🌐 Python | 📅 2026-11-14 - 炒股/量化交易/选股 AI Skill 合集：收录国内外 GitHub 上的股票分析、量化交易、选股策略 Agent Skills，附索引与合规转载.
 * [awesome-copilot-cowork-skills](https://github.com/kesslernity/awesome-copilot-cowork-skills) ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2026-11-03 - 37 folder-drop skills for Microsoft 365 Copilot Cowork. 21 workflow skills plus a 16-persona executive review board. Drop a folder into OneDrive, no admin, no app package. The same SKILL.md files run verbatim in Claude Code.
 * [awesome-agent-skills](https://github.com/linny006/awesome-agent-skills) ⭐ 45 | 🐛 10 | 🌐 Python | 📅 2026-11-02 - Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a.
 * [skills-tracker](https://github.com/linny006/skills-tracker) ⭐ 31 | 🐛 5 | 🌐 Python | 📅 2026-11-02 - Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend.
-* [awesome-agent-skills](https://github.com/philipbankier/awesome-agent-skills) ⭐ 22 | 🐛 90 | 🌐 TypeScript | 📅 2026-10-24 - A curated directory of skills, tools, and plugins for AI coding agents — across every platform. MCP servers, Agent Skills, Cursor rules, and more.
-* [onchain-agents](https://github.com/satohubai/onchain-agents) ⭐ 16 | 🐛 10 | 🌐 JavaScript | 📅 2026-11-12 - ⬡ The scored, daily-updated index of the onchain agent stack — frameworks, MCPs, wallets, payment rails, live agents.
+* [awesome-agent-skills](https://github.com/philipbankier/awesome-agent-skills) ⭐ 22 | 🐛 93 | 🌐 TypeScript | 📅 2026-10-24 - A curated directory of skills, tools, and plugins for AI coding agents — across every platform. MCP servers, Agent Skills, Cursor rules, and more.
+* [onchain-agents](https://github.com/satohubai/onchain-agents) ⭐ 16 | 🐛 10 | 🌐 JavaScript | 📅 2026-11-13 - ⬡ The scored, daily-updated index of the onchain agent stack — frameworks, MCPs, wallets, payment rails, live agents.
 * [awesome-deepagent-skills](https://github.com/egoalpha/awesome-deepagent-skills) ⭐ 15 | 🐛 14 | 📅 2026-02-13 - A curated list of awesome Agent Skills, tools, and resources for building modular AI agents.
+* [awesome-ai-media-skills](https://github.com/juneyaooo/awesome-ai-media-skills) ⭐ 9 | 🐛 8 | 📅 2026-11-12 - A curated list of Claude Code skills, MCP servers, and AI agent capabilities for video creation, social media management, and content automation.
 * [awesome-agent-plugins](https://github.com/ZeroPointRepo/awesome-agent-plugins) ⭐ 8 | 🐛 11 | 📅 2026-09-28 - Agent Plugins directory: 40+ verified plugins for the open, vendor-neutral standard.
 * [awesome-ai-coding-assistants-playbook](https://github.com/codandotv/awesome-ai-coding-assistants-playbook) ⭐ 8 | 🐛 10 | 📅 2026-05-27 - A centralized map of references for configuring AI coding assistants — skills, instructions, prompts, agents, rules and SDD tools.
-* [awesome-ai-media-skills](https://github.com/juneyaooo/awesome-ai-media-skills) ⭐ 8 | 🐛 7 | 📅 2026-11-12 - A curated list of Claude Code skills, MCP servers, and AI agent capabilities for video creation, social media management, and content automation.
 * [awesome-hermes-agents](https://github.com/frankxai/awesome-hermes-agents) ⭐ 8 | 🐛 2 | 🌐 PowerShell | 📅 2026-11-09 - Web-first Hermes agents index: UIs, memory, deploy, and operator tools. Not a skills dump.
 * [awesome-hermes-agent-skills](https://github.com/frankxai/awesome-hermes-agent-skills) ⭐ 7 | 🐛 4 | 🌐 Python | 📅 2026-11-05 - Web-first Hermes skills index and safety gate: find SKILL.md packs before you install them.
 * [awesome-human-skill](https://github.com/weslynn/awesome-human-skill) ⭐ 6 | 🐛 0 | 📅 2026-05-12 - 赛博永生的人类集聚地-We can Live Forever.
 * [claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) ⭐ 6 | 🐛 3 | 🌐 Python | 📅 2026-11-02 - Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub.
+* [awesome-agent-harness](https://github.com/zients/awesome-agent-harness) ⭐ 5 | 🐛 1 | 📅 2026-11-09 - A curated list of useful Agent Skills for Claude Code, Codex, Gemini CLI, OpenClaw, Hermes, and other AI coding agents.
 * [Awesome-Agentic-Engineering](https://github.com/natnew/Awesome-Agentic-Engineering) ⭐ 5 | 🐛 5 | 📅 2026-10-22 - A curated map of agentic AI systems — covering architectures, frameworks, memory, evaluation, and safety. 🌟 Star if you like it!
 * [awesome-research-agents](https://github.com/chrisliu298/awesome-research-agents) ⭐ 5 | 🐛 4 | 📅 2026-05-19 - A curated collection of research agents, skill libraries, autonomous research loops, paper-writing pipelines, MCP servers, and benchmarks built around Claude Code, OpenAI Codex CLI, and adjacent coding-agent CLIs for AI/ML research.
 * [awesome-seo-mcp-servers](https://github.com/sharozdawa/awesome-seo-mcp-servers) ⭐ 5 | 🐛 14 | 📅 2026-03-21 - A curated list of MCP servers, agent skills, and AI-powered tools for SEO professionals.
-* [awesome-agent-harness](https://github.com/zients/awesome-agent-harness) ⭐ 4 | 🐛 1 | 📅 2026-11-09 - A curated list of useful Agent Skills for Claude Code, Codex, Gemini CLI, OpenClaw, Hermes, and other AI coding agents.
 * [awesome-agent-operating-systems](https://github.com/frankxai/awesome-agent-operating-systems) ⭐ 3 | 🐛 3 | 🌐 PowerShell | 📅 2026-11-10 - Web-first index of agent operating systems, coding agents, MCP, memory, and deploy tools.
 * [awesome-agent-cli](https://github.com/shuyhere/awesome-agent-cli) ⭐ 2 | 🐛 9 | 📅 2026-03-28 - A curated collection of CLI tools designed for AI agents — classified by domain, tagged, and reviewed. Productivity, research, project management, and more.
 * [awesome-workspace-intelligence](https://github.com/chistiq/awesome-workspace-intelligence) ⭐ 2 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-31 - A curated list of tools and resources for understanding codebases, dependencies, architecture, changes, and AI context.
@@ -1928,28 +1929,28 @@ Last generated: 2026-11-12, 10396 lists.
 ### AI Agents Topic Lists
 
 * [awesome-ai-engineering](https://github.com/dipakkr/awesome-ai-engineering) ⭐ 22,566 | 🐛 84 | 📅 2026-10-21 - 🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems.
-* [learn-ai-engineering](https://github.com/ashishps1/learn-ai-engineering) ⭐ 6,229 | 🐛 9 | 📅 2026-02-05 - Learn AI and LLMs from scratch using free resources.
-* [awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) ⭐ 4,703 | 🐛 28 | 📅 2026-11-09 - 🛠️ Awesome tools & guides for harness engineering.
-* [Awesome-Self-Evolving-Agents](https://github.com/ANative-Lab/Awesome-Self-Evolving-Agents) ⭐ 2,522 | 🐛 62 | 📅 2026-05-16 - 📖 A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems.
-* [agentsmeetrl](https://github.com/thinkwee/agentsmeetrl) ⭐ 1,880 | 🐛 0 | 🌐 HTML | 📅 2026-11-06 - Awesome List for Agentic RL.
-* [awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools) ⭐ 1,745 | 🐛 29 | 🌐 Python | 📅 2026-11-05 - A curated list of public-source, research, and commercial tools for AI security and AI-assisted cybersecurity — autotriage, agent security, AI/ML supply chain, pentest agents, AI SAST, LLM-driven fuzzing, threat intelligence, SOC/SIEM triage, reverse engineering, LLM red-teaming, and more.
+* [learn-ai-engineering](https://github.com/ashishps1/learn-ai-engineering) ⭐ 6,235 | 🐛 9 | 📅 2026-02-05 - Learn AI and LLMs from scratch using free resources.
+* [awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) ⭐ 4,710 | 🐛 30 | 📅 2026-11-09 - 🛠️ Awesome tools & guides for harness engineering.
+* [Awesome-Self-Evolving-Agents](https://github.com/ANative-Lab/Awesome-Self-Evolving-Agents) ⭐ 2,523 | 🐛 62 | 📅 2026-05-16 - 📖 A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems.
+* [agentsmeetrl](https://github.com/thinkwee/agentsmeetrl) ⭐ 1,881 | 🐛 0 | 🌐 HTML | 📅 2026-11-06 - Awesome List for Agentic RL.
+* [awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools) ⭐ 1,753 | 🐛 10 | 🌐 Python | 📅 2026-11-14 - A curated list of public-source, research, and commercial tools for AI security and AI-assisted cybersecurity — autotriage, agent security, AI/ML supply chain, pentest agents, AI SAST, LLM-driven fuzzing, threat intelligence, SOC/SIEM triage, reverse engineering, LLM red-teaming, and more.
 * [Awesome-Agentic-Reasoning](https://github.com/weitianxin/Awesome-Agentic-Reasoning) ⭐ 1,432 | 🐛 19 | 📅 2026-09-21 - A curated list of papers and resources based on the survey "Agentic Reasoning for Large Language Models".
 * [Awesome-AI-Agents-for-Healthcare](https://github.com/AgenticHealthAI/Awesome-AI-Agents-for-Healthcare) ⭐ 1,288 | 🐛 16 | 📅 2026-10-02 - Latest Advances on Agentic AI & AI Agents for Healthcare.
-* [Awesome-Deep-Research](https://github.com/DavidZWZ/Awesome-Deep-Research) ⭐ 875 | 🐛 23 | 📅 2026-07-23 - \[ACL 2026 KnowFM] Awesome Agentic Deep Research Resources.
+* [Awesome-Deep-Research](https://github.com/DavidZWZ/Awesome-Deep-Research) ⭐ 875 | 🐛 24 | 📅 2026-07-23 - \[ACL 2026 KnowFM] Awesome Agentic Deep Research Resources.
 * [Awesome-Adaptation-of-Agentic-AI](https://github.com/pat-jj/Awesome-Adaptation-of-Agentic-AI) ⭐ 688 | 🐛 4 | 📅 2026-06-21 - Repo for "Adaptation of Agentic AI".
-* [Awesome-Self-Improving-Agents](https://github.com/selfimproving-agent/Awesome-Self-Improving-Agents) ⭐ 627 | 🐛 5 | 🌐 TeX | 📅 2026-11-12 - A curated list for Self-Improvement in Foundation Model Based Agentic Systems.
-* [awesome-ai-auto-research](https://github.com/worldbench/awesome-ai-auto-research) ⭐ 577 | 🐛 3 | 🌐 HTML | 📅 2026-11-12 - 🔥 A Survey on AI Auto-Research.
+* [Awesome-Self-Improving-Agents](https://github.com/selfimproving-agent/Awesome-Self-Improving-Agents) ⭐ 629 | 🐛 4 | 🌐 TeX | 📅 2026-11-13 - A curated list for Self-Improvement in Foundation Model Based Agentic Systems.
+* [awesome-ai-auto-research](https://github.com/worldbench/awesome-ai-auto-research) ⭐ 578 | 🐛 2 | 🌐 HTML | 📅 2026-11-14 - 🔥 A Survey on AI Auto-Research.
 * [awesome-adk-agents](https://github.com/sri-krishna-v/awesome-adk-agents) ⭐ 352 | 🐛 1 | 🌐 Python | 📅 2026-11-08 - Curated collection of AI agents built with Google’s Agent Development Kit (ADK): templates, best practices, and production-ready examples for research, business, automation, education, and more.
-* [awesome-agentic-world-modeling](https://github.com/matrix-agent/awesome-agentic-world-modeling) ⭐ 338 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-05 - Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond.
+* [awesome-agentic-world-modeling](https://github.com/matrix-agent/awesome-agentic-world-modeling) ⭐ 338 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-05 - Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond.
 * [metorial-index](https://github.com/metorial/metorial-index) ⭐ 281 | 🐛 32 | 🌐 TypeScript | 📅 2025-12-31 - Metorial MCP Index - An ever growing list of open source MCP servers 📁 🎉.
 * [deepseek-harness-handbook](https://github.com/sandbaseai/deepseek-harness-handbook) ⭐ 246 | 🐛 7 | 🌐 HTML | 📅 2026-08-31 - Agent-first DeepSeek Harness handbook: 173 source-backed runtime, plugin, MCP, sandbox, evaluation, troubleshooting, multilingual, and 74-resource Awesome ecosystem guides.
 * [awesome-agent-cortex](https://github.com/0xnyk/awesome-agent-cortex) ⭐ 232 | 🐛 86 | 🌐 JavaScript | 📅 2026-10-29 - Curated map of AI agent frameworks, protocols, runtimes, skills, memory, identity, security, evaluation, and commerce.
 * [awesome-agent-failures](https://github.com/vectara/awesome-agent-failures) ⭐ 221 | 🐛 8 | 📅 2026-10-30 - A community curated collection of AI agent failure modes and battle-tested solutions.
-* [awesome-multi-agent-orchestrators](https://github.com/Agent-Analytics/awesome-multi-agent-orchestrators) ⭐ 185 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-13 - Awesome-style curated list and directory for multi-agent orchestration.
+* [awesome-multi-agent-orchestrators](https://github.com/Agent-Analytics/awesome-multi-agent-orchestrators) ⭐ 186 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-14 - Awesome-style curated list and directory for multi-agent orchestration.
 * [awesome-auditable-ai](https://github.com/yzhao062/awesome-auditable-ai) ⭐ 160 | 🐛 7 | 🌐 Python | 📅 2026-11-10 - Auditing AI agents: a curated list of papers, tools, datasets, benchmarks, and standards covering reliability, monitoring, failure attribution, and decision records.
-* [awesome-agent-runtime-security](https://github.com/bureado/awesome-agent-runtime-security) ⭐ 135 | 🐛 40 | 📅 2026-11-09 - Learning something new about runtime security for agents.
+* [awesome-agent-runtime-security](https://github.com/bureado/awesome-agent-runtime-security) ⭐ 135 | 🐛 39 | 📅 2026-11-09 - Learning something new about runtime security for agents.
 * [awesome-agentic-ai-learning-resource-by-devkay](https://github.com/dharminjoshi/awesome-agentic-ai-learning-resource-by-devkay) ⭐ 82 | 🐛 4 | 📅 2025-08-12 - Awesome Agentic AI Learning Resource by DevKay is a curated roadmap for mastering Agentic AI—from ML foundations to production-ready agents. Features a 0–12+ month path, hands-on projects, top resources, agent architectures, and tools like LangChain and AutoGen.
-* [awesome-agentic-commerce](https://github.com/MentionNetwork/awesome-agentic-commerce) ⭐ 66 | 🐛 167 | 📅 2026-07-20 - A curated list of awesome agentic commerce resources — protocols, MCP servers, tools, apps, APIs and services for AI agents that shop, sell and transact. For store owners, developers, agencies and marketers.
+* [awesome-agentic-commerce](https://github.com/MentionNetwork/awesome-agentic-commerce) ⭐ 66 | 🐛 168 | 📅 2026-07-20 - A curated list of awesome agentic commerce resources — protocols, MCP servers, tools, apps, APIs and services for AI agents that shop, sell and transact. For store owners, developers, agencies and marketers.
 * [Awesome-Agent-RL](https://github.com/tongjingqi/Awesome-Agent-RL) ⭐ 61 | 🐛 3 | 📅 2025-09-01 - A curated list of awesome resources about reward construction for AI agents. This repository covers cutting-edge research, and practical guides on defining and collecting rewards to build more intelligent and aligned AI agents.
 * [awesome-serialization](https://github.com/maximveksler/awesome-serialization) ⭐ 57 | 🐛 4 | 📅 2026-02-26 - Curated list of data serialization formats — API, ML, Agentic AI, Big Data, Configuration, and beyond.
 * [awesome-ai-agent-testing](https://github.com/chaosync-org/awesome-ai-agent-testing) ⭐ 52 | 🐛 24 | 📅 2025-05-28 - 🤖 A curated list of resources for testing AI agents - frameworks, methodologies, benchmarks, tools, and best practices for ensuring reliable, safe, and effective autonomous AI systems.
@@ -1962,11 +1963,11 @@ Last generated: 2026-11-12, 10396 lists.
 * [llm-agents-radar](https://github.com/linny006/llm-agents-radar) ⭐ 16 | 🐛 4 | 🌐 Python | 📅 2026-11-02 - Live-updating index of LLM agent frameworks shipping on GitHub, refreshed every 15 minutes.
 * [awesome-agentic-ai](https://github.com/mfornos/awesome-agentic-ai) ⭐ 15 | 🐛 12 | 📅 2026-07-27 - A curated list of principles and technologies related to Agentic AI systems.
 * [awesome-mcp-devtools](https://github.com/epistates/awesome-mcp-devtools) ⭐ 13 | 🐛 9 | 📅 2026-09-14 - A curated list of 100+ Model Context Protocol (MCP) developer tools — SDKs for 15 languages, frameworks, inspectors, testing and security scanners, proxies, gateways, hosting, and templates for building MCP servers and clients.
-* [awesome-hermes-agent](https://github.com/Anil-matcha/awesome-hermes-agent) ⭐ 9 | 🐛 8 | 📅 2026-10-04 - A curated list of skills, plugins, tools, integrations, and resources for Hermes Agent by Nous Research.
+* [awesome-hermes-agent](https://github.com/Anil-matcha/awesome-hermes-agent) ⭐ 10 | 🐛 8 | 📅 2026-10-04 - A curated list of skills, plugins, tools, integrations, and resources for Hermes Agent by Nous Research.
 * [awesome-interface-agents](https://github.com/lectrician1/awesome-interface-agents) ⭐ 9 | 🐛 1 | 📅 2025-03-07 - List of AI tools that can interact with user interfaces.
 * [awesome-agentic-knowledge-base](https://github.com/irresi/awesome-agentic-knowledge-base) ⭐ 8 | 🐛 2 | 🌐 Shell | 📅 2026-05-14 - Empirical map of 46 trending AI agent repos: storage, memory, MCP, retrieval — what they actually use, ranked by adoption.
 * [awesome-github-agentic-ai](https://github.com/sk3pp3r/awesome-github-agentic-ai) ⭐ 8 | 🐛 0 | 📅 2026-10-13 - GitHub Certified: Agentic AI Developer (GH-600) — curated resources, labs, prompts, tools, architectures, and real-world workflows for building, orchestrating, evaluating, and governing AI agents with GitHub Copilot and modern SDLC practices.
-* [awesome-llm-tools](https://github.com/dr-saad-la/awesome-llm-tools) ⭐ 8 | 🐛 9 | 🌐 Python | 📅 2026-04-09 - Large Language Model Frameworks curated List.
+* [awesome-llm-tools](https://github.com/dr-saad-la/awesome-llm-tools) ⭐ 8 | 🐛 10 | 🌐 Python | 📅 2026-04-09 - Large Language Model Frameworks curated List.
 * [awesome-agentic-evolution](https://github.com/yuxinglu613/awesome-agentic-evolution) ⭐ 5 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-02 - From self-improving agents to co-evolving, open-ended agent ecosystems.
 * [awesome\_ai\_resources](https://github.com/maverickg59/awesome_ai_resources) ⭐ 3 | 🐛 1 | 📅 2026-02-10 - A curated list of resources tailored towards AI Engineers.
 * [awesome-agentic-ai](https://github.com/mlnjsh/awesome-agentic-ai) ⭐ 2 | 🐛 3 | 📅 2026-03-25 - A curated list of Agentic AI frameworks, papers, tools, and resources for building autonomous AI agents.
@@ -1985,115 +1986,115 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Artificial Intelligence Topic Lists
 
-* [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 97,672 | 🐛 4,956 | 📅 2026-11-06 - A collection of MCP servers.
-* [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) ⭐ 30,919 | 🐛 1,299 | 📅 2026-08-21 - A list of AI autonomous agents.
-* [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 16,831 | 🐛 81 | 🌐 Python | 📅 2026-08-15 - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
-* [Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 9,341 | 🐛 23 | 📅 2026-10-10 - A curated list of awesome embedded programming.
-* [ai-collection](https://github.com/ai-collection/ai-collection) ⭐ 9,285 | 🐛 30 | 📅 2026-11-04 - The Generative AI Landscape - A Collection of Awesome Generative AI Applications.
-* [awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) ⭐ 6,588 | 🐛 1,767 | 📅 2025-12-31 - A curated list of Artificial Intelligence Top Tools.
+* [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 97,689 | 🐛 5,042 | 📅 2026-11-06 - A collection of MCP servers.
+* [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) ⭐ 30,933 | 🐛 1,307 | 📅 2026-08-21 - A list of AI autonomous agents.
+* [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 16,836 | 🐛 79 | 🌐 Python | 📅 2026-08-15 - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
+* [Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded) ⭐ 9,343 | 🐛 23 | 📅 2026-10-10 - A curated list of awesome embedded programming.
+* [ai-collection](https://github.com/ai-collection/ai-collection) ⭐ 9,283 | 🐛 30 | 📅 2026-11-04 - The Generative AI Landscape - A Collection of Awesome Generative AI Applications.
+* [awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) ⭐ 6,589 | 🐛 1,777 | 📅 2025-12-31 - A curated list of Artificial Intelligence Top Tools.
 * [awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) ⭐ 5,790 | 🐛 33 | 📅 2025-07-16 - 🔥 Awesome list of resources on Web Development.
 * [awesome-mlops](https://github.com/kelvins/awesome-mlops) ⭐ 5,319 | 🐛 121 | 🌐 Python | 📅 2026-10-30 - :sunglasses: A curated list of awesome MLOps tools.
-* [awesome-notebooklm-prompts](https://github.com/serenakeyitan/awesome-notebooklm-prompts) ⭐ 4,810 | 🐛 2 | 📅 2026-06-19 - A curated collection of the strongest NotebookLM slide prompts sourced from the real creative underground . Your go-to resource for AI powerpoint :P.
-* [Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List) ⭐ 4,661 | 🐛 24 | 🌐 Shell | 📅 2026-11-12 - 📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.
-* [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) ⭐ 4,567 | 🐛 12 | 📅 2024-03-31 - Curated tutorials and resources for Large Language Models, AI Painting, and more.
+* [awesome-notebooklm-prompts](https://github.com/serenakeyitan/awesome-notebooklm-prompts) ⭐ 4,811 | 🐛 2 | 📅 2026-06-19 - A curated collection of the strongest NotebookLM slide prompts sourced from the real creative underground . Your go-to resource for AI powerpoint :P.
+* [Awesome-OSINT-List](https://github.com/Astrosp/Awesome-OSINT-List) ⭐ 4,664 | 🐛 25 | 🌐 Shell | 📅 2026-11-12 - 📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.
+* [Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) ⭐ 4,568 | 🐛 12 | 📅 2024-03-31 - Curated tutorials and resources for Large Language Models, AI Painting, and more.
 * [Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) ⭐ 3,783 | 🐛 12 | 📅 2026-01-26 - Curated tutorials and resources for Large Language Models, Text2SQL, Text2DSL、Text2API、Text2Vis and more.
-* [awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning) ⭐ 3,706 | 🐛 11 | 🌐 HTML | 📅 2024-05-07 - Here you can get all the Quantum Machine learning Basics, Algorithms ,Study Materials ,Projects and the descriptions of the projects around the web.
+* [awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning) ⭐ 3,706 | 🐛 10 | 🌐 HTML | 📅 2024-05-07 - Here you can get all the Quantum Machine learning Basics, Algorithms ,Study Materials ,Projects and the descriptions of the projects around the web.
 * [Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM) ⭐ 3,457 | 🐛 25 | 📅 2026-05-20 - \[TMLR] A curated list of language modeling researches for code (and other software engineering activities), plus related datasets.
 * [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) ⭐ 2,433 | 🐛 7 | 📅 2026-09-17 - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI.
-* [awesome-startup](https://github.com/KrishMunot/awesome-startup) ⭐ 2,402 | 🐛 61 | 📅 2026-08-26 - :sunglasses: All the required resources to build your own startup.
+* [awesome-startup](https://github.com/KrishMunot/awesome-startup) ⭐ 2,402 | 🐛 62 | 📅 2026-08-26 - :sunglasses: All the required resources to build your own startup.
 * [awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) ⭐ 2,120 | 🐛 10 | 📅 2024-10-15 - A curated list of awesome GPTs in the GPT Store.
-* [awesome-LangGraph](https://github.com/vonzosten/awesome-LangGraph) ⭐ 2,043 | 🐛 49 | 🌐 JavaScript | 📅 2026-10-15 - An index of the LangChain + LangGraph ecosystem: concepts, projects, tools, templates, and guides for LLM & multi-agent apps.
-* [Awesome-Jailbreak-on-LLMs](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs) ⭐ 1,951 | 🐛 0 | 📅 2026-11-08 - Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting jailbreak methods on LLMs. It contains papers, codes, datasets, evaluations, and analyses.
-* [indie-hacker-tools-plus](https://github.com/XiaomingX/indie-hacker-tools-plus) ⭐ 1,934 | 🐛 121 | 📅 2026-11-13 - 为独立开发者准备的精选技术栈和工具仓库来了！这里有你最需要的工具，帮你提升开发效率、节约成本，最重要的是——这些工具都是市场上热门的，经过验证的。🚀A curated collection of tech stacks and tools tailored for independent developers is here! these are proven, popular tools widely used in the industry. 🚀.
+* [awesome-LangGraph](https://github.com/vonzosten/awesome-LangGraph) ⭐ 2,042 | 🐛 50 | 🌐 JavaScript | 📅 2026-10-15 - An index of the LangChain + LangGraph ecosystem: concepts, projects, tools, templates, and guides for LLM & multi-agent apps.
+* [Awesome-Jailbreak-on-LLMs](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs) ⭐ 1,967 | 🐛 0 | 📅 2026-11-08 - Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting jailbreak methods on LLMs. It contains papers, codes, datasets, evaluations, and analyses.
+* [indie-hacker-tools-plus](https://github.com/XiaomingX/indie-hacker-tools-plus) ⭐ 1,935 | 🐛 122 | 📅 2026-11-14 - 为独立开发者准备的精选技术栈和工具仓库来了！这里有你最需要的工具，帮你提升开发效率、节约成本，最重要的是——这些工具都是市场上热门的，经过验证的。🚀A curated collection of tech stacks and tools tailored for independent developers is here! these are proven, popular tools widely used in the industry. 🚀.
 * [awesome-AI-books](https://github.com/zslucky/awesome-AI-books) ⭐ 1,840 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-07-07 - Some awesome AI related books and pdfs for learning and downloading, also apply some playground models for learning.
-* [awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) ⭐ 1,822 | 🐛 40 | 📅 2022-12-03 - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
+* [awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) ⭐ 1,821 | 🐛 41 | 📅 2022-12-03 - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
 * [acu](https://github.com/trycua/acu) ⭐ 1,810 | 🐛 19 | 📅 2025-09-26 - A curated list of resources about AI agents for Computer Use, including research papers, projects, frameworks, and tools.
-* [Awesome-AISourceHub](https://github.com/AmbroseX/Awesome-AISourceHub) ⭐ 1,800 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-19 - 本仓库收集AI科技领域高质量信息源。 可以起到一个同步信息源的作用，避免信息差和信息茧房。.
-* [free-for-life](https://github.com/wdhdev/free-for-life) ⭐ 1,795 | 🐛 18 | 🌐 HTML | 📅 2026-11-04 - A huge list of great stuff you can get for free!
+* [Awesome-AISourceHub](https://github.com/AmbroseX/Awesome-AISourceHub) ⭐ 1,800 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-19 - 本仓库收集AI科技领域高质量信息源。 可以起到一个同步信息源的作用，避免信息差和信息茧房。.
+* [free-for-life](https://github.com/wdhdev/free-for-life) ⭐ 1,798 | 🐛 20 | 🌐 HTML | 📅 2026-11-04 - A huge list of great stuff you can get for free!
 * [yt-channels-DS-AI-ML-CS](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS) ⭐ 1,733 | 🐛 1 | 📅 2026-07-19 - A comprehensive list of 180+ YouTube Channels for Data Science, Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc.
 * [awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) ⭐ 1,722 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-09-13 - Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
-* [awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) ⭐ 1,517 | 🐛 2 | 🌐 HTML | 📅 2026-11-06 - List of software that allows searching the web with the assistance of AI:.
+* [awesome-ai-web-search](https://github.com/felladrin/awesome-ai-web-search) ⭐ 1,519 | 🐛 2 | 🌐 HTML | 📅 2026-11-06 - List of software that allows searching the web with the assistance of AI:.
 * [awesome-engineering-articles](https://github.com/ashishps1/awesome-engineering-articles) ⭐ 1,490 | 🐛 0 | 📅 2026-03-01 - A curated collection of 300+ engineering blog articles from top tech companies. Learn how the best engineering teams solve real-world problems at scale.
 * [awesome-artificial-intelligence-regulation](https://github.com/ethicalml/awesome-artificial-intelligence-regulation) ⭐ 1,487 | 🐛 4 | 📅 2026-11-13 - This repository aims to map the ecosystem of artificial intelligence guidelines, principles, codes of ethics, standards, regulation and beyond.
-* [awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists) ⭐ 1,404 | 🐛 2 | 📅 2025-12-04 - A curated collection of top-tier penetration testing tools and productivity utilities across multiple domains. Join us to explore, contribute, and enhance your hacking toolkit!
-* [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) ⭐ 1,360 | 🐛 36 | 🌐 Python | 📅 2026-11-06 - DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.
+* [awesome-hacking-lists](https://github.com/taielab/awesome-hacking-lists) ⭐ 1,405 | 🐛 2 | 📅 2025-12-04 - A curated collection of top-tier penetration testing tools and productivity utilities across multiple domains. Join us to explore, contribute, and enhance your hacking toolkit!
+* [awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) ⭐ 1,361 | 🐛 40 | 🌐 Python | 📅 2026-11-06 - DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.
 * [awesome-conformal-prediction](https://github.com/valeman/awesome-conformal-prediction) ⭐ 1,341 | 🐛 6 | 📅 2026-11-05 - A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.
 * [awesome-ai-papers](https://github.com/aimerou/awesome-ai-papers) ⭐ 1,317 | 🐛 5 | 📅 2025-07-01 - A curated list of the most impressive AI papers.
-* [lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) ⭐ 1,250 | 🐛 245 | 🌐 TypeScript | 📅 2026-10-15 - 🤖 / 🏪 Agent Index - This is the agent index for LobeChat. It accesses index.json from this repository to display a list of available agents for LobeChat to the agent market.
-* [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) ⭐ 1,240 | 🐛 313 | 📅 2026-07-09 - A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents.
-* [site-for-developers](https://github.com/currenjin/site-for-developers) ⭐ 1,208 | 🐛 8 | 🌐 Python | 📅 2026-11-12 - 🌎💎 개발자들의 첫 번째 북마크.
-* [free-ai-tools](https://github.com/shaikhwarsi/free-ai-tools) ⭐ 1,099 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-11 - Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps.
-* [awesome-llm-role-playing-with-persona](https://github.com/neph0s/awesome-llm-role-playing-with-persona) ⭐ 1,089 | 🐛 12 | 📅 2026-06-19 - Awesome-llm-role-playing-with-persona: a curated list of resources for large language models for role-playing with assigned personas.
-* [awesome-ai-tools-for-game-dev](https://github.com/simoninithomas/awesome-ai-tools-for-game-dev) ⭐ 1,064 | 🐛 46 | 📅 2024-11-19 - A curated list of awesome AI tools for game developers.
-* [awesome-devops-mcp-servers](https://github.com/rohitg00/awesome-devops-mcp-servers) ⭐ 1,032 | 🐛 147 | 📅 2026-05-12 - A curated list of awesome MCP servers focused on DevOps tools and capabilities.
+* [lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) ⭐ 1,249 | 🐛 245 | 🌐 TypeScript | 📅 2026-10-15 - 🤖 / 🏪 Agent Index - This is the agent index for LobeChat. It accesses index.json from this repository to display a list of available agents for LobeChat to the agent market.
+* [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) ⭐ 1,240 | 🐛 314 | 📅 2026-07-09 - A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents.
+* [site-for-developers](https://github.com/currenjin/site-for-developers) ⭐ 1,209 | 🐛 9 | 🌐 Python | 📅 2026-11-12 - 🌎💎 개발자들의 첫 번째 북마크.
+* [free-ai-tools](https://github.com/shaikhwarsi/free-ai-tools) ⭐ 1,101 | 🐛 33 | 🌐 TypeScript | 📅 2026-10-11 - Curated list of free and low cost AI tools, LLM APIs, IDEs, agents, and infrastructure for building real AI apps.
+* [awesome-llm-role-playing-with-persona](https://github.com/neph0s/awesome-llm-role-playing-with-persona) ⭐ 1,090 | 🐛 12 | 📅 2026-06-19 - Awesome-llm-role-playing-with-persona: a curated list of resources for large language models for role-playing with assigned personas.
+* [awesome-ai-tools-for-game-dev](https://github.com/simoninithomas/awesome-ai-tools-for-game-dev) ⭐ 1,065 | 🐛 46 | 📅 2024-11-19 - A curated list of awesome AI tools for game developers.
+* [awesome-devops-mcp-servers](https://github.com/rohitg00/awesome-devops-mcp-servers) ⭐ 1,032 | 🐛 149 | 📅 2026-05-12 - A curated list of awesome MCP servers focused on DevOps tools and capabilities.
 * [awesome-game-ai](https://github.com/datamllab/awesome-game-ai) ⭐ 986 | 🐛 8 | 📅 2024-06-26 - Awesome Game AI materials of Multi-Agent Reinforcement Learning.
 * [awesome-cs-books](https://github.com/cosen1024/awesome-cs-books) ⭐ 907 | 🐛 3 | 📅 2021-08-29 - 计算机优质电子书整理，并且附带pdf下载链接，包括C，C++，Java，Python，Java，Linux，Go，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等.
 * [Awesome-AI](https://github.com/re50urces/Awesome-AI) ⭐ 904 | 🐛 104 | 📅 2024-08-05 - A curated list of awesome things related to artificial intelligence tools.
 * [awesome-machine-learning](https://github.com/onmyway133/awesome-machine-learning) ⭐ 814 | 🐛 2 | 📅 2026-10-27 - 🎰 A curated list of machine learning resources, preferably CoreML.
-* [awesome-ai-osint](https://github.com/ubikron/awesome-ai-osint) ⭐ 803 | 🐛 13 | 📅 2026-05-05 - A list of articles, videos, and tools related to the use of AI for OSINT.
+* [awesome-ai-osint](https://github.com/ubikron/awesome-ai-osint) ⭐ 802 | 🐛 13 | 📅 2026-05-05 - A list of articles, videos, and tools related to the use of AI for OSINT.
 * [awesome-ai-coding](https://github.com/wsxiaoys/awesome-ai-coding) ⭐ 769 | 🐛 65 | 📅 2026-03-02 - Awesome AI Coding.
 * [awesome-ai-data-guided-projects](https://github.com/youssefhosni/awesome-ai-data-guided-projects) ⭐ 721 | 🐛 2 | 📅 2024-05-05 - A curated list of data science & AI guided projects to start building your portfolio.
-* [awesome-quant-ai](https://github.com/leoncuhk/awesome-quant-ai) ⭐ 669 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2026-10-24 - A curated list of awesome resources for quantitative investment and trading strategies focusing on artificial intelligence and machine learning applications in finance.
+* [awesome-quant-ai](https://github.com/leoncuhk/awesome-quant-ai) ⭐ 670 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2026-10-24 - A curated list of awesome resources for quantitative investment and trading strategies focusing on artificial intelligence and machine learning applications in finance.
 * [awesome-RK3588](https://github.com/choushunn/awesome-RK3588) ⭐ 617 | 🐛 7 | 📅 2025-12-07 - Useful resources for developing with the RK3588. :rocket:.
-* [awesome-ai-tools](https://github.com/eudk/awesome-ai-tools) ⭐ 614 | 🐛 553 | 📅 2026-06-07 - 🔴 VERY LARGE AI TOOL LIST! 🔴 Curated list of AI Tools - Updated 2026.
-* [awesome-ltx2](https://github.com/wildminder/awesome-ltx2) ⭐ 602 | 🐛 2 | 📅 2026-11-04 - All available LTX-2 models, encoders, workflows, LoRAs for ComfyUI.
+* [awesome-ai-tools](https://github.com/eudk/awesome-ai-tools) ⭐ 614 | 🐛 557 | 📅 2026-06-07 - 🔴 VERY LARGE AI TOOL LIST! 🔴 Curated list of AI Tools - Updated 2026.
+* [awesome-ltx2](https://github.com/wildminder/awesome-ltx2) ⭐ 602 | 🐛 3 | 📅 2026-11-13 - All available LTX-2 models, encoders, workflows, LoRAs for ComfyUI.
 * [awesome-CoreML-models](https://github.com/SwiftBrain/awesome-CoreML-models) ⭐ 588 | 🐛 4 | 📅 2019-12-07 - Collection of models for Core ML.
 * [Awesome-GPT4o-Image-Prompts](https://github.com/ImgEdify/Awesome-GPT4o-Image-Prompts) ⭐ 587 | 🐛 2 | 🌐 HTML | 📅 2025-05-15 - 📚 GPT4o Prompts Dictionary | Curated Collection of AI Image Generation Prompts.
-* [awesome-coderabbit](https://github.com/coderabbitai/awesome-coderabbit) ⭐ 576 | 🐛 14 | 📅 2026-09-29 - Official awesome-list of CodeRabbit Starters & Resources ⚡️.
-* [awesome-agi-agents](https://github.com/yzfly/awesome-agi-agents) ⭐ 571 | 🐛 7 | 📅 2026-11-01 - 🤖 Awesome list of AGI Agents. Agents 精选资源合集.
+* [awesome-coderabbit](https://github.com/coderabbitai/awesome-coderabbit) ⭐ 578 | 🐛 14 | 📅 2026-09-29 - Official awesome-list of CodeRabbit Starters & Resources ⚡️.
+* [awesome-agi-agents](https://github.com/yzfly/awesome-agi-agents) ⭐ 571 | 🐛 0 | 📅 2026-11-14 - 🤖 Awesome list of AGI Agents. Agents 精选资源合集.
 * [awesome-ai-extensions](https://github.com/kklt92/awesome-ai-extensions) ⭐ 533 | 🐛 17 | 📅 2026-04-08 - A curated list of AI-powered browser extensions, plugins, and add-ons.
-* [awesome-llms-fine-tuning](https://github.com/Curated-Awesome-Lists/awesome-llms-fine-tuning) ⭐ 532 | 🐛 13 | 📅 2026-09-04 - Explore a comprehensive collection of resources, tutorials, papers, tools, and best practices for fine-tuning Large Language Models (LLMs). Perfect for ML practitioners and researchers!
-* [awesome-gemini-3-prompts](https://github.com/youmind-openlab/awesome-gemini-3-prompts) ⭐ 522 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-13 - ♊ 50+ selected Gemini prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library.
+* [awesome-llms-fine-tuning](https://github.com/Curated-Awesome-Lists/awesome-llms-fine-tuning) ⭐ 533 | 🐛 13 | 📅 2026-09-04 - Explore a comprehensive collection of resources, tutorials, papers, tools, and best practices for fine-tuning Large Language Models (LLMs). Perfect for ML practitioners and researchers!
+* [awesome-gemini-3-prompts](https://github.com/youmind-openlab/awesome-gemini-3-prompts) ⭐ 523 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-14 - ♊ 50+ selected Gemini prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library.
 * [awesome-ai-music-generation](https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation) ⭐ 507 | 🐛 38 | 📅 2026-09-04 - A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.
-* [ai-catalog](https://github.com/mehmetkahya0/ai-catalog) ⭐ 504 | 🐛 15 | 🌐 HTML | 📅 2026-11-11 - Huge AI models catalog. A curated list of AI tools, platforms, and resources across various domains.
+* [ai-catalog](https://github.com/mehmetkahya0/ai-catalog) ⭐ 505 | 🐛 13 | 🌐 HTML | 📅 2026-11-13 - Huge AI models catalog. A curated list of AI tools, platforms, and resources across various domains.
 * [redis-ai-resources](https://github.com/redis-developer/redis-ai-resources) ⭐ 499 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-10-29 - ✨ A curated list of awesome community resources, integrations, and examples of Redis in the AI ecosystem.
 * [awesome-chemistry-datasets](https://github.com/kjappelbaum/awesome-chemistry-datasets) ⭐ 429 | 🐛 22 | 📅 2026-09-01 - Overview of datasets for ML in chemistry.
 * [awesome-ai-newsletters](https://github.com/alternbits/awesome-ai-newsletters) ⭐ 407 | 🐛 50 | 📅 2026-07-04 - A curated list of top best AI Related Newsletters and ai agents newsletters.
 * [awesome-cs-tutorial](https://github.com/sanbuphy/awesome-cs-tutorial) ⭐ 378 | 🐛 0 | 📅 2025-05-18 - 计算机基础、人工智能学习工具、技巧合集 | A collection of ComputerScience and DeepLearning tutorial and tools.
-* [awesome-ai-tools](https://github.com/pingan8787/awesome-ai-tools) ⭐ 370 | 🐛 260 | 📅 2026-11-07 - Finding the AI tools you need!
-* [awesome-ai-market-maps](https://github.com/joylarkin/awesome-ai-market-maps) ⭐ 353 | 🐛 3 | 🌐 Python | 📅 2026-11-12 - An Awesome List of 500+ AI Market Maps from 2026 and 2025.
-* [awesome-ai-tools](https://github.com/tankvn/awesome-ai-tools) ⭐ 353 | 🐛 116 | 📅 2026-09-12 - A curated list of 7766 awesome AI tools.
+* [awesome-ai-tools](https://github.com/pingan8787/awesome-ai-tools) ⭐ 371 | 🐛 262 | 📅 2026-11-07 - Finding the AI tools you need!
+* [awesome-ai-market-maps](https://github.com/joylarkin/awesome-ai-market-maps) ⭐ 355 | 🐛 3 | 🌐 Python | 📅 2026-11-13 - An Awesome List of 500+ AI Market Maps from 2026 and 2025.
+* [awesome-ai-tools](https://github.com/tankvn/awesome-ai-tools) ⭐ 353 | 🐛 118 | 📅 2026-09-12 - A curated list of 7766 awesome AI tools.
 * [awesome-ai-coding-techniques](https://github.com/inmve/awesome-ai-coding-techniques) ⭐ 352 | 🐛 18 | 📅 2026-11-12 - Practical techniques for coding with ai assistants (Claude Code, Codex CLI, Cursor, GitHub Copilot, etc). Available in: English • Español • Deutsch • Français • 日本語.
 * [awesome-synthetic-datasets](https://github.com/davanstrien/awesome-synthetic-datasets) ⭐ 343 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-11-04 - Awesome synthetic (text) datasets.
 * [awesome-fairness-in-ai](https://github.com/datamllab/awesome-fairness-in-ai) ⭐ 341 | 🐛 6 | 📅 2023-09-15 - A curated list of awesome Fairness in AI resources.
-* [awesome-vibe-coding-resources](https://github.com/acvnace/awesome-vibe-coding-resources) ⭐ 332 | 🐛 28 | 📅 2026-11-12 - A curated list of awesome resources for vibe coding.
-* [lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) ⭐ 303 | 🐛 73 | 🌐 TypeScript | 📅 2026-10-15 - 🧩 / 🏪 Plugin Index - This is the plugin index for LobeChat. It accesses index.json from this repository to display a list of available plugins for LobeChat to the user.
-* [awesome-ml-gen-ai-elixir](https://github.com/georgeguimaraes/awesome-ml-gen-ai-elixir) ⭐ 297 | 🐛 1 | 📅 2026-10-20 - A curated list of Machine Learning libraries and resources for the Elixir programming language.
-* [awesome-llm-services](https://github.com/av/awesome-llm-services) ⭐ 280 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-12 - A list of self-hostable LLM services.
+* [awesome-vibe-coding-resources](https://github.com/acvnace/awesome-vibe-coding-resources) ⭐ 332 | 🐛 29 | 📅 2026-11-12 - A curated list of awesome resources for vibe coding.
+* [lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) ⭐ 302 | 🐛 73 | 🌐 TypeScript | 📅 2026-10-15 - 🧩 / 🏪 Plugin Index - This is the plugin index for LobeChat. It accesses index.json from this repository to display a list of available plugins for LobeChat to the user.
+* [awesome-ml-gen-ai-elixir](https://github.com/georgeguimaraes/awesome-ml-gen-ai-elixir) ⭐ 296 | 🐛 1 | 📅 2026-10-20 - A curated list of Machine Learning libraries and resources for the Elixir programming language.
+* [awesome-llm-services](https://github.com/av/awesome-llm-services) ⭐ 280 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-14 - A list of self-hostable LLM services.
 * [awesome-2026-ai-machine-learning-1000projects](https://github.com/0voice/awesome-2026-ai-machine-learning-1000projects) ⭐ 269 | 🐛 1 | 📅 2026-03-23 - Thousands of machine learning projects covering all scenarios: getting started, improvement, graduation projects, and job interviews.
-* [awesome-devins](https://github.com/e2b-dev/awesome-devins) ⭐ 259 | 🐛 9 | 📅 2026-08-21 - Awesome Devin-inspired AI agents.
-* [collective-ai-tools](https://github.com/hanishrao/collective-ai-tools) ⭐ 258 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-11 - Search across curated tools, MCP servers, prompts, skills, and trending repos, one query, every corner of the ecosystem.
-* [awesome-ai-directory](https://github.com/iamcorey/awesome-ai-directory) ⭐ 256 | 🐛 52 | 📅 2026-02-27 - AI资源工具导航站收录 / Find all the best AI directories.
+* [awesome-devins](https://github.com/e2b-dev/awesome-devins) ⭐ 260 | 🐛 9 | 📅 2026-08-21 - Awesome Devin-inspired AI agents.
+* [collective-ai-tools](https://github.com/hanishrao/collective-ai-tools) ⭐ 258 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-11 - Search across curated tools, MCP servers, prompts, skills, and trending repos, one query, every corner of the ecosystem.
+* [awesome-ai-directory](https://github.com/iamcorey/awesome-ai-directory) ⭐ 257 | 🐛 52 | 📅 2026-02-27 - AI资源工具导航站收录 / Find all the best AI directories.
 * [awesome-ai-agents-2026](https://github.com/zijian-ni/awesome-ai-agents-2026) ⭐ 250 | 🐛 1 | 🌐 Python | 📅 2026-11-01 - 🤖 A curated list of AI Agent frameworks, tools, platforms, and resources for 2026 — the year agents went mainstream.
-* [awesome-dronecraft](https://github.com/ntakouris/awesome-dronecraft) ⭐ 238 | 🐛 1 | 📅 2026-06-18 - Resources to fully understand how autonomous drones work. This is manually curated, pre-chatgpt.
+* [awesome-dronecraft](https://github.com/ntakouris/awesome-dronecraft) ⭐ 239 | 🐛 1 | 📅 2026-06-18 - Resources to fully understand how autonomous drones work. This is manually curated, pre-chatgpt.
 * [awesome-ai-safety](https://github.com/giskard-ai/awesome-ai-safety) ⭐ 228 | 🐛 23 | 📅 2025-04-14 - 📚 A curated list of papers & technical articles on AI Quality & Safety.
 * [awesome-neuromorphic-hw](https://github.com/open-neuromorphic/awesome-neuromorphic-hw) ⭐ 226 | 🐛 2 | 📅 2023-11-04 - Repository collecting papers about neuromorphic hardware, such as ASIC and FPGA implementations of SNNs and stuff.
-* [awesome-ai-tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) ⭐ 218 | 🐛 0 | 🌐 Python | 📅 2026-11-09 - A curated list on AI token economics: what tokens cost, where they get wasted, and how to cut the bill. Tools, benchmarks, papers, and copy-paste configs for the token economy of LLMs and coding agents.
+* [awesome-ai-tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) ⭐ 219 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - A curated list on AI token economics: what tokens cost, where they get wasted, and how to cut the bill. Tools, benchmarks, papers, and copy-paste configs for the token economy of LLMs and coding agents.
 * [awesome-algorand](https://github.com/awesome-algorand/awesome-algorand) ⭐ 217 | 🐛 5 | 🌐 Python | 📅 2026-10-15 - ⚡A curated list of awesome resources related to the Ⱥlgorand Blockchain ⛓.
-* [awesome-voice-typing](https://github.com/primaprashant/awesome-voice-typing) ⭐ 217 | 🐛 2 | 🌐 Python | 📅 2026-11-13 - Curated list of open-source speech-to-text and voice typing tools for Linux, macOS, Windows, Android, and iOS. Offline, local, and cloud.
+* [awesome-voice-typing](https://github.com/primaprashant/awesome-voice-typing) ⭐ 217 | 🐛 2 | 🌐 Python | 📅 2026-11-14 - Curated list of open-source speech-to-text and voice typing tools for Linux, macOS, Windows, Android, and iOS. Offline, local, and cloud.
 * [awesome-mind-network](https://github.com/mind-network/awesome-mind-network) ⭐ 209 | 🐛 1 | 📅 2025-12-24 - List of Codes by Mind Network.
 * [awesome-khmer-language](https://github.com/seanghay/awesome-khmer-language) ⭐ 207 | 🐛 1 | 🌐 Python | 📅 2026-11-09 - A large collection of Khmer language resources. Khmer is a language used by Cambodia.
 * [awesome-ai4lam](https://github.com/AI4LAM/awesome-ai4lam) ⭐ 195 | 🐛 97 | 🌐 SCSS | 📅 2024-06-17 - A list of awesome AI in libraries, archives, and museum collections from around the world 🕶️.
 * [awesome-a2a](https://github.com/pab1it0/awesome-a2a) ⭐ 191 | 🐛 55 | 📅 2026-11-04 - Agent2Agent (A2A) – awesome A2A agents, tools, servers & clients, all in one place.
-* [awesome-cyber-ai-arsenal](https://github.com/pazo01/awesome-cyber-ai-arsenal) ⭐ 186 | 🐛 3 | 📅 2026-10-29 - A curated collection of offensive, defensive and AI/LLM security tools.
-* [awesome-webmcp](https://github.com/webfuse-com/awesome-webmcp) ⭐ 174 | 🐛 17 | 📅 2026-10-09 - A curated list of awesome things related to the WebMCP W3C standard.
-* [Awesome-Physical-AI](https://github.com/natnew/Awesome-Physical-AI) ⭐ 173 | 🐛 12 | 🌐 MDX | 📅 2026-11-01 - A curated list of Robotics + AI resources to learn, build, deploy, and stay current in Physical AI / Embodied AI. 🌟 Star if you like it!
+* [awesome-cyber-ai-arsenal](https://github.com/pazo01/awesome-cyber-ai-arsenal) ⭐ 186 | 🐛 4 | 📅 2026-10-29 - A curated collection of offensive, defensive and AI/LLM security tools.
+* [awesome-webmcp](https://github.com/webfuse-com/awesome-webmcp) ⭐ 175 | 🐛 17 | 📅 2026-10-09 - A curated list of awesome things related to the WebMCP W3C standard.
+* [Awesome-Physical-AI](https://github.com/natnew/Awesome-Physical-AI) ⭐ 174 | 🐛 12 | 🌐 MDX | 📅 2026-11-01 - A curated list of Robotics + AI resources to learn, build, deploy, and stay current in Physical AI / Embodied AI. 🌟 Star if you like it!
 * [awesome-AI-tutorials-surveys](https://github.com/qingsongedu/awesome-AI-tutorials-surveys) ⭐ 170 | 🐛 0 | 📅 2023-02-10 - A professional list of Tutorials and Surveys on DL, ML, DM, CV, NLP, Speech in top AI conferences and journals.
-* [awesome-security-vul-llm](https://github.com/xu-xiang/awesome-security-vul-llm) ⭐ 166 | 🐛 2 | 📅 2024-01-05 - 本项目通过大模型联动爬虫，检索GitHub上所有存有有价值漏洞信息与漏洞POC或规则信息的项目，并自动识别项目的目录结构、Readme信息后进行总结分析并分类，所汇总的项目可以帮助安全行业从业者收集漏洞信息、POC信息、规则等。.
+* [awesome-security-vul-llm](https://github.com/xu-xiang/awesome-security-vul-llm) ⭐ 165 | 🐛 2 | 📅 2024-01-05 - 本项目通过大模型联动爬虫，检索GitHub上所有存有有价值漏洞信息与漏洞POC或规则信息的项目，并自动识别项目的目录结构、Readme信息后进行总结分析并分类，所汇总的项目可以帮助安全行业从业者收集漏洞信息、POC信息、规则等。.
 * [awesome-ai-cybersecurity](https://github.com/elniak/awesome-ai-cybersecurity) ⭐ 164 | 🐛 12 | 📅 2026-10-29 - Welcome to the ultimate list of resources for AI in cybersecurity. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.
 * [GPA-LM](https://github.com/BAAI-Agents/GPA-LM) ⭐ 161 | 🐛 1 | 📅 2024-09-03 - This repo is a live list of papers on game playing and large multimodality model - "A Survey on Game Playing Agents and Large Models: Methods, Applications, and Challenges".
-* [AwesomeResponsibleAI](https://github.com/AthenaCore/AwesomeResponsibleAI) ⭐ 158 | 🐛 56 | 📅 2026-11-04 - A curated list of awesome academic research, books, code of ethics, courses, databases, data sets, frameworks, institutes, maturity models, newsletters, principles, podcasts, regulations, reports, responsible scale policies, tools and standards related to Responsible, Trustworthy, and Human-Centered AI.
-* [Awesome-AI-For-Security](https://github.com/AmanPriyanshu/Awesome-AI-For-Security) ⭐ 155 | 🐛 6 | 📅 2026-10-05 - A curated list of tools, papers, and datasets for applying AI to cybersecurity tasks. This list primarily focuses on modern AI technologies like Large Language Models (LLMs), Agents, and Multi-Modal systems and their applications in security operations.
+* [AwesomeResponsibleAI](https://github.com/AthenaCore/AwesomeResponsibleAI) ⭐ 158 | 🐛 55 | 📅 2026-11-04 - A curated list of awesome academic research, books, code of ethics, courses, databases, data sets, frameworks, institutes, maturity models, newsletters, principles, podcasts, regulations, reports, responsible scale policies, tools and standards related to Responsible, Trustworthy, and Human-Centered AI.
+* [Awesome-AI-For-Security](https://github.com/AmanPriyanshu/Awesome-AI-For-Security) ⭐ 156 | 🐛 7 | 📅 2026-10-05 - A curated list of tools, papers, and datasets for applying AI to cybersecurity tasks. This list primarily focuses on modern AI technologies like Large Language Models (LLMs), Agents, and Multi-Modal systems and their applications in security operations.
 * [awesome-ai-models](https://github.com/alternbits/awesome-ai-models) ⭐ 151 | 🐛 1 | 📅 2024-08-14 - A curated list of top AI models and LLMs.
 * [Awesome-LLM-Red-Teaming](https://github.com/user1342/Awesome-LLM-Red-Teaming) ⭐ 148 | 🐛 13 | 📅 2025-09-04 - A curated list of awesome LLM Red Teaming training, resources, and tools.
 * [awesome-AI-kubernetes](https://github.com/CognonicLabs/awesome-AI-kubernetes) ⭐ 147 | 🐛 5 | 📅 2024-07-19 - :snowflake: :whale: Awesome tools and libs for AI, Deep Learning, Machine Learning, Computer Vision, Data Science, Data Analytics and Cognitive Computing that are baked in the oven to be Native on Kubernetes and Docker with Python, R, Scala, Java, C#, Go, Julia, C++ etc.
 * [awesome-data-valuation](https://github.com/daviddao/awesome-data-valuation) ⭐ 145 | 🐛 0 | 📅 2026-08-14 - 💱 A curated list of data valuation (DV) to design your next data marketplace.
-* [awesome-ai-repositories](https://github.com/altengineer/awesome-ai-repositories) ⭐ 141 | 🐛 13 | 📅 2025-03-20 - A curated list of open source repositories for AI Engineers.
+* [awesome-ai-repositories](https://github.com/altengineer/awesome-ai-repositories) ⭐ 140 | 🐛 12 | 📅 2025-03-20 - A curated list of open source repositories for AI Engineers.
 * [awesome-ai-research-intern-list](https://github.com/frankaging/awesome-ai-research-intern-list) ⭐ 138 | 🐛 2 | 📅 2023-10-06 - List of AI Internships.
 * [awesome-alternative-uis-for-comfyui](https://github.com/light-and-ray/awesome-alternative-uis-for-comfyui) ⭐ 136 | 🐛 15 | 📅 2026-10-31 - Collection of UIs for ComfyUI.
-* [awesome-mcp-servers](https://github.com/ever-works/awesome-mcp-servers) ⭐ 134 | 🐛 167 | 📅 2026-08-04 - A curated list of the best MCP Servers, featuring top solutions, libraries, tools, and more. -.
+* [awesome-mcp-servers](https://github.com/ever-works/awesome-mcp-servers) ⭐ 135 | 🐛 168 | 📅 2026-11-13 - A curated list of the best MCP Servers, featuring top solutions, libraries, tools, and more. -.
 * [awesome-openclaw-skills-CN](https://github.com/AIPMAndy/awesome-openclaw-skills-CN) ⭐ 131 | 🐛 4 | 📅 2026-11-12 - 🇨🇳 中文开发者友好的 OpenClaw Skills 精选 | 含国产模型接入指南（DeepSeek/Qwen/GLM/Moonshot）| 2868+ Skills 分类整理.
-* [awesome-ai-web-scraping](https://github.com/h4ckf0r0day/awesome-ai-web-scraping) ⭐ 130 | 🐛 37 | 📅 2026-05-18 - A curated list of AI-powered web scraping tools, LLM-friendly crawlers, MCP servers, and infrastructure for turning the web into data.
+* [awesome-ai-web-scraping](https://github.com/h4ckf0r0day/awesome-ai-web-scraping) ⭐ 130 | 🐛 38 | 📅 2026-05-18 - A curated list of AI-powered web scraping tools, LLM-friendly crawlers, MCP servers, and infrastructure for turning the web into data.
 * [awesome-data-temporality](https://github.com/daefresh/awesome-data-temporality) ⭐ 125 | 🐛 3 | 📅 2022-12-24 - A curated list to help you manage temporal data across many modalities 🚀.
 * [awesome-robotics-ai-companies](https://github.com/balloch/awesome-robotics-ai-companies) ⭐ 122 | 🐛 1 | 📅 2025-03-17 - A living list of important industry innovators in the Robotics and AI space.
 * [awesome-data-science-resources](https://github.com/tirendazacademy/awesome-data-science-resources) ⭐ 121 | 🐛 4 | 📅 2026-11-02 - Resources about data science, machine learning, deep learning, data engineering, and SQL.
@@ -2101,37 +2102,37 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-generative-ai-companies](https://github.com/AlexChalakov/awesome-generative-ai-companies) ⭐ 120 | 🐛 3 | 📅 2024-11-29 - A curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount.
 * [awesome-php-ml](https://github.com/apphp/awesome-php-ml) ⭐ 117 | 🐛 0 | 🌐 PHP | 📅 2026-11-12 - The most comprehensive curated list of Machine Learning, Artificial Intelligence, NLP, LLM, and Data Science libraries for PHP.
 * [awesome-green-ai](https://github.com/samuelrince/awesome-green-ai) ⭐ 116 | 🐛 6 | 📅 2026-05-05 - A curated list of awesome Green AI resources and tools to assess and reduce the environmental impacts of using and deploying AI.
-* [awesome-jev](https://github.com/AppitStudio/awesome-jev) ⭐ 115 | 🐛 3 | 🌐 Python | 📅 2026-11-13 - Curated Jev resources and runnable examples for typed AI decisions.
-* [awesome-ai-api-proxy](https://github.com/howardpen9/awesome-ai-api-proxy) ⭐ 104 | 🐛 77 | 🌐 Python | 📅 2026-11-08 - One key. Every model. Anywhere. — A curated map of AI API relay stations & LLM gateways.
+* [awesome-jev](https://github.com/AppitStudio/awesome-jev) ⭐ 115 | 🐛 3 | 🌐 Python | 📅 2026-11-14 - Curated Jev resources and runnable examples for typed AI decisions.
+* [awesome-ai-api-proxy](https://github.com/howardpen9/awesome-ai-api-proxy) ⭐ 104 | 🐛 76 | 🌐 Python | 📅 2026-11-08 - One key. Every model. Anywhere. — A curated map of AI API relay stations & LLM gateways.
 * [awesome-language-model-analysis](https://github.com/Furyton/awesome-language-model-analysis) ⭐ 103 | 🐛 12 | 🌐 Python | 📅 2026-07-29 - This paper list focuses on the theoretical and empirical analysis of language models, especially large language models (LLMs). The papers in this list investigate the learning behavior, generalization ability, and other properties of language models through theoretical analysis, empirical analysis, or a combination of both.
 * [awesome-webnn](https://github.com/webmachinelearning/awesome-webnn) ⭐ 103 | 🐛 0 | 📅 2026-11-12 - ⚡Delightful WebNN resources, curated list of awesome things around WebNN ecosystem.😎.
-* [awesome-ai-news](https://github.com/getstream/awesome-ai-news) ⭐ 102 | 🐛 4 | 📅 2026-11-11 - Keep track of what has happened in AI this month. Discover the best AI/LLM resources and news for this month.
+* [awesome-ai-news](https://github.com/getstream/awesome-ai-news) ⭐ 102 | 🐛 4 | 📅 2026-11-13 - Keep track of what has happened in AI this month. Discover the best AI/LLM resources and news for this month.
 * [awesome-ai-papers](https://github.com/songqiang321/awesome-ai-papers) ⭐ 100 | 🐛 4 | 📅 2026-10-26 - This repository is used to collect papers and code in the field of AI.
 * [awesome-ai-engineering-reads](https://github.com/aipengineer/awesome-ai-engineering-reads) ⭐ 98 | 🐛 1 | 📅 2024-02-29 - Essential reads for every AI engineer interested in building AI apps.
-* [awesome-ai-research-tools](https://github.com/0x11c11e/awesome-ai-research-tools) ⭐ 91 | 🐛 43 | 📅 2026-11-12 - A curated list of AI tools specifically designed to assist in research activities, including tools for literature reviews, citation management, data analysis, and more. This repository is intended for researchers, students, and professionals who want to leverage AI to enhance their research workflows.
-* [student-gpt-tools](https://github.com/bydeng01/student-gpt-tools) ⭐ 88 | 🐛 7 | 📅 2026-11-12 - AI tools collection for students and researchers. 学生和研究人员的AI工具合集。विद्यार्थियों और शोधकर्ताओं के लिए एआई टूल्स संग्रह।.
-* [awesome-mcp-servers](https://github.com/sagargupta16/awesome-mcp-servers) ⭐ 88 | 🐛 51 | 🌐 Python | 📅 2026-11-13 - A curated list of MCP (Model Context Protocol) servers, tools, frameworks, and resources.
+* [awesome-mcp-servers](https://github.com/sagargupta16/awesome-mcp-servers) ⭐ 93 | 🐛 54 | 🌐 Python | 📅 2026-11-14 - A curated list of MCP (Model Context Protocol) servers, tools, frameworks, and resources.
+* [awesome-ai-research-tools](https://github.com/0x11c11e/awesome-ai-research-tools) ⭐ 91 | 🐛 44 | 📅 2026-11-12 - A curated list of AI tools specifically designed to assist in research activities, including tools for literature reviews, citation management, data analysis, and more. This repository is intended for researchers, students, and professionals who want to leverage AI to enhance their research workflows.
+* [student-gpt-tools](https://github.com/bydeng01/student-gpt-tools) ⭐ 89 | 🐛 7 | 📅 2026-11-12 - AI tools collection for students and researchers. 学生和研究人员的AI工具合集。विद्यार्थियों और शोधकर्ताओं के लिए एआई टूल्स संग्रह।.
 * [awesome-ora](https://github.com/ora-io/awesome-ora) ⭐ 85 | 🐛 2 | 📅 2025-03-12 - A curated list of awesome ORA ecosystem.
 * [Awesome-Google-Gemini-AI](https://github.com/Curated-Awesome-Lists/Awesome-Google-Gemini-AI) ⭐ 81 | 🐛 1 | 📅 2026-09-04 - Gemini AI, Google's latest and greatest, surpasses its predecessor, even outshining GPT-4. It's the newest iteration in Google's lineup of AI models, excelling in various tasks. With Nano, Pro, and the upcoming Ultra versions, it's designed for diverse user needs.
 * [awesome-education-llm](https://github.com/geralt-targaryen/awesome-education-llm) ⭐ 80 | 🐛 3 | 📅 2024-09-13 - A curated list of LLM researches and applications in education.
 * [top-pharma50](https://github.com/servierhub/top-pharma50) ⭐ 77 | 🐛 0 | 🌐 Makefile | 📅 2024-06-09 - Top open source software from the top 50 pharmaceutical companies.
 * [awesome-article-recomm](https://github.com/apachecn/awesome-article-recomm) ⭐ 76 | 🐛 1 | 🌐 Shell | 📅 2020-09-17 - 优质博文推荐计划.
-* [awesome-remote-mcp-servers](https://github.com/sylviangth/awesome-remote-mcp-servers) ⭐ 74 | 🐛 258 | 🌐 JavaScript | 📅 2026-04-05 - A curated list of Hosted & Managed Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
-* [awesome-genai-cyberhub](https://github.com/Ashfaaq98/awesome-genai-cyberhub) ⭐ 67 | 🐛 0 | 📅 2026-11-11 - A curated list of LLM driven Cyber security Resources.
+* [awesome-remote-mcp-servers](https://github.com/sylviangth/awesome-remote-mcp-servers) ⭐ 74 | 🐛 259 | 🌐 JavaScript | 📅 2026-04-05 - A curated list of Hosted & Managed Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
+* [awesome-genai-cyberhub](https://github.com/Ashfaaq98/awesome-genai-cyberhub) ⭐ 67 | 🐛 0 | 📅 2026-11-13 - A curated list of LLM driven Cyber security Resources.
 * [awesome-llm-explainability](https://github.com/koo-ec/awesome-llm-explainability) ⭐ 67 | 🐛 1 | 📅 2025-06-25 - A curated list of explainability-related papers, articles, and resources focused on Large Language Models (LLMs). This repository aims to provide researchers, practitioners, and enthusiasts with insights into the explainability implications, challenges, and advancements surrounding these powerful models.
 * [awesome-ai](https://github.com/benben-miao/awesome-ai) ⭐ 66 | 🐛 10 | 📅 2024-10-13 - Awesome AI Chat (ChatGPT4.) , Code (GitHub Copilot.), Read (ChatPDF.), Paint (Midjourney.), Write (NotionAI.), Audio (Adobe Podcast.), Video (Nova AI.), etc.
 * [ml-engineering-blogs](https://github.com/primaprashant/ml-engineering-blogs) ⭐ 64 | 🐛 0 | 📅 2025-04-26 - 📚 Curated list of machine learning engineering blogs.
-* [awesome-grok-imagine-prompts](https://github.com/youmind-openlab/awesome-grok-imagine-prompts) ⭐ 61 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-13 - 🎬 Curated Grok Imagine (xAI) video generation prompts — cinematic, action, anime, product, meme styles. Includes prompt engineering tips, style guides, and creative video workflows.
+* [awesome-grok-imagine-prompts](https://github.com/youmind-openlab/awesome-grok-imagine-prompts) ⭐ 62 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-14 - 🎬 Curated Grok Imagine (xAI) video generation prompts — cinematic, action, anime, product, meme styles. Includes prompt engineering tips, style guides, and creative video workflows.
 * [awesome-ai-best-papers](https://github.com/shunk031/awesome-ai-best-papers) ⭐ 59 | 🐛 1 | 🌐 Python | 📅 2026-10-08 - A curated list of famous CV/NLP/ML/AI best papers, inspired by Best Paper Awards in Computer Science (since 1996).
 * [awesome-serverless-gpu](https://github.com/viktorfa/awesome-serverless-gpu) ⭐ 58 | 🐛 4 | 📅 2025-03-26 - Curated list of services and platforms for serverless GPU and AI inference.
-* [awesome-gpt-image-2-prompts](https://github.com/atlascloudai/awesome-gpt-image-2-prompts) ⭐ 57 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-13 - Awesome GPT Image 2 Prompts.
+* [awesome-gpt-image-2-prompts](https://github.com/atlascloudai/awesome-gpt-image-2-prompts) ⭐ 57 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-14 - Awesome GPT Image 2 Prompts.
 * [blog](https://github.com/cubxxw/blog) ⭐ 53 | 🐛 11 | 🌐 JavaScript | 📅 2026-11-13 - 顶级审美的个人博客！！！写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文.
 * [awesome-adk](https://github.com/rashraj/awesome-adk) ⭐ 51 | 🐛 2 | 📅 2025-07-06 - A curated list of awesome resources, tools, libraries, tutorials, and references for Google Application Development Kit (ADK).
-* [awesome-comfyui](https://github.com/jalberty2018/awesome-comfyui) ⭐ 51 | 🐛 0 | 📅 2026-11-13 - A collection of awesome custom nodes for ComfyUI.
+* [awesome-comfyui](https://github.com/jalberty2018/awesome-comfyui) ⭐ 51 | 🐛 0 | 📅 2026-11-14 - A collection of awesome custom nodes for ComfyUI.
 * [awesome-ai-tools](https://github.com/ai-tools-inc/awesome-ai-tools) ⭐ 48 | 🐛 52 | 📅 2024-08-25 - A curated list of awesome AI tools to automate your workflows and 10x your output.
-* [awesome-ai-coding](https://github.com/dalisoft/awesome-ai-coding) ⭐ 47 | 🐛 0 | 📅 2026-11-07 - List of AI-powered code editor and IDE's sorted by minimal price.
+* [awesome-ai-coding](https://github.com/dalisoft/awesome-ai-coding) ⭐ 47 | 🐛 3 | 📅 2026-11-13 - List of AI-powered code editor and IDE's sorted by minimal price.
+* [awesome-terminals-ai](https://github.com/bnlnpps/awesome-terminals-ai) ⭐ 45 | 🐛 21 | 📅 2026-04-01 - A curated collection of AI-powered tools for terminal.
 * [awesome-llama-resources](https://github.com/MIBlue119/awesome-llama-resources) ⭐ 44 | 🐛 1 | 📅 2024-09-07 - Just collections about Llama2.
-* [awesome-terminals-ai](https://github.com/bnlnpps/awesome-terminals-ai) ⭐ 44 | 🐛 21 | 📅 2026-04-01 - A curated collection of AI-powered tools for terminal.
 * [Ultimate-AI-Resources](https://github.com/DhanushNehru/Ultimate-AI-Resources) ⭐ 44 | 🐛 13 | 🌐 JavaScript | 📅 2026-10-25 - 🤖 Your Complete AI Toolkit | 500+ Resources | Trending Tools, Hands-On Guides, Interview Prep & Learning Roadmap | From Beginner to Expert.
 * [awesome-github-copilot](https://github.com/program247365/awesome-github-copilot) ⭐ 43 | 🐛 1 | 📅 2023-01-30 - A curated list of awesome things regarding GitHub CoPilot.
 * [Awesome-Auto-GPT](https://github.com/Curated-Awesome-Lists/Awesome-Auto-GPT) ⭐ 41 | 🐛 2 | 📅 2023-10-17 - A curated list of awesome projects related to AutoGPT, an autonomous AI agent that can perform tasks independently using ChatGPT.
@@ -2144,38 +2145,38 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-chatgpt-with-ai](https://github.com/xirong/awesome-chatgpt-with-ai) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2024-03-20 - Some materials collected during personal study of AI LLM such as ChatGPT, including a series of prompts with good performance on the internet. 个人学习 chatGPT 等 AI 大模型过程中收集的资料.
 * [allinchatgpt](https://github.com/xiaoqdu/allinchatgpt) ⭐ 34 | 🐛 0 | 📅 2023-05-10 - All in chatgpt,一站式chatgpt资料站，更多的关注ChatGPT+各行业应用。喜欢的，麻烦动动小手点个关注，让我们一起拥抱未来.
 * [awesome-ai-tools-for-game-dev](https://github.com/xiaomingx/awesome-ai-tools-for-game-dev) ⭐ 32 | 🐛 9 | 📅 2026-02-03 - Awesome AI Tools for Game Development: A curated collection of the best AI tools, libraries, and resources to enhance game development workflows. From procedural content generation to NPC behavior, this repository gathers state-of-the-art AI solutions for game developers.
-* [awesome-uncensored-ai-video-models](https://github.com/Anil-matcha/awesome-uncensored-ai-video-models) ⭐ 31 | 🐛 1 | 📅 2026-11-08 - A community-maintained catalog of open, low-filter, and community-reported AI video models, checkpoints, adapters, and endpoints.
+* [awesome-uncensored-ai-video-models](https://github.com/Anil-matcha/awesome-uncensored-ai-video-models) ⭐ 32 | 🐛 1 | 📅 2026-11-08 - A community-maintained catalog of open, low-filter, and community-reported AI video models, checkpoints, adapters, and endpoints.
 * [awesome-ai-mode-api](https://github.com/XueyanZhang/awesome-ai-mode-api) ⭐ 30 | 🐛 6 | 📅 2026-11-05 - A list of awesome AI Model API providers, platforms, projects.
-* [awesome-vector-databases](https://github.com/ever-works/awesome-vector-databases) ⭐ 29 | 🐛 0 | 📅 2026-10-05 - A curated list of vector database solutions, libraries, and resources for AI applications -.
+* [awesome-vector-databases](https://github.com/ever-works/awesome-vector-databases) ⭐ 29 | 🐛 0 | 📅 2026-11-13 - A curated list of vector database solutions, libraries, and resources for AI applications -.
 * [fucking-awesome-ai-tools](https://github.com/correia-jpv/fucking-awesome-ai-tools) ⭐ 29 | 🐛 52 | 📅 2026-11-12 - A curated list of Artificial Intelligence Top Tools. With repository stars⭐ and forks🍴.
 * [awesome-jev](https://github.com/Li-Evan/awesome-jev) ⭐ 29 | 🐛 12 | 🌐 HTML | 📅 2026-11-01 - The most complete gallery of what people build with Jev, TypeSafe's System One model: 3,400+ projects, demos, and write-ups by scenario, each with its original link, image, and description.
 * [ai-audio-tools](https://github.com/theelderemo/ai-audio-tools) ⭐ 28 | 🐛 17 | 🌐 JavaScript | 📅 2026-10-23 - Community list of AI tools for audio and music.
 * [awesome-swarms-list](https://github.com/the-swarm-corporation/awesome-swarms-list) ⭐ 26 | 🐛 1 | 📅 2025-07-13 - A curated list of awesome applications, tools, and resources for the Swarms framework by swarms.ai. Swarms is a powerful, production-grade framework for orchestrating multi-agent AI systems, enabling developers to build everything from simple autonomous agents to complex, collaborative swarms that can solve real-world problems.
-* [aisources](https://github.com/bst04/aisources) ⭐ 25 | 🐛 7 | 📅 2026-10-19 - List of all the AI tools and resources.
-* [awesome-vibe-coding](https://github.com/tysoncung/awesome-vibe-coding) ⭐ 25 | 🐛 33 | 📅 2026-11-13 - 🚀 AI-powered coding assistants and tools for modern developers. Cursor, Copilot, Claude, Windsurf, v0, and 100+ more!
+* [aisources](https://github.com/bst04/aisources) ⭐ 25 | 🐛 8 | 📅 2026-10-19 - List of all the AI tools and resources.
+* [awesome-vibe-coding](https://github.com/tysoncung/awesome-vibe-coding) ⭐ 25 | 🐛 34 | 📅 2026-11-14 - 🚀 AI-powered coding assistants and tools for modern developers. Cursor, Copilot, Claude, Windsurf, v0, and 100+ more!
 * [Awesome-LLM-Productization](https://github.com/oscinis-com/Awesome-LLM-Productization) ⭐ 24 | 🐛 3 | 📅 2025-01-23 - Awesome-LLM-Productization: a curated list of tools/tricks/news/regulations about AI and Large Language Model (LLM) productization.
 * [top-life-sciences](https://github.com/servierhub/top-life-sciences) ⭐ 24 | 🐛 0 | 🌐 Makefile | 📅 2024-06-09 - Top Life Sciences open-source software.
-* [awesome-ai-native](https://github.com/samber/awesome-ai-native) ⭐ 23 | 🐛 12 | 🌐 Astro | 📅 2026-11-03 - A curated list of AI-native products: apps and tools where the LLM is the product itself, not a bolted-on feature.
-* [awesome-ai-tool-list](https://github.com/aitoollist/awesome-ai-tool-list) ⭐ 23 | 🐛 247 | 📅 2025-05-07 - An awesome directory of AI tools. The list here is the data source for the searchable web directory @ . Discover tools to supercharge your AI journey. Star this repo and join the AI revolution!
+* [awesome-ai-native](https://github.com/samber/awesome-ai-native) ⭐ 23 | 🐛 13 | 🌐 Astro | 📅 2026-11-14 - A curated list of AI-native products: apps and tools where the LLM is the product itself, not a bolted-on feature.
+* [awesome-ai-tool-list](https://github.com/aitoollist/awesome-ai-tool-list) ⭐ 23 | 🐛 246 | 📅 2025-05-07 - An awesome directory of AI tools. The list here is the data source for the searchable web directory @ . Discover tools to supercharge your AI journey. Star this repo and join the AI revolution!
 * [awesome-regolo-ai](https://github.com/regolo-ai/awesome-regolo-ai) ⭐ 23 | 🐛 1 | 📅 2026-10-28 - A collection of awesome tools and projects you can use with regolo.ai or that are built around it.
 * [awesome-ai-gtm](https://github.com/hculap/awesome-ai-gtm) ⭐ 22 | 🐛 26 | 🌐 Python | 📅 2026-11-09 - A curated list of AI agents and tools for building autonomous Go-to-Market (GTM) funnels - from ideation to customer success.
 * [awesome-generative-ui](https://github.com/donfungible/awesome-generative-ui) ⭐ 22 | 🐛 1 | 📅 2026-10-27 - Developer resources for building with and learning about generative UI.
 * [awesome-stable-diffusion-webui](https://github.com/Curated-Awesome-Lists/awesome-stable-diffusion-webui) ⭐ 21 | 🐛 0 | 📅 2023-10-17 - A curated list of awesome resources related to Stable Diffusion WebUI, a browser interface based on Gradio library for Stable Diffusion.
 * [skillshare-hub](https://github.com/runkids/skillshare-hub) ⭐ 20 | 🐛 0 | 🌐 Shell | 📅 2026-11-09 - 🗃️ A curated catalog of skillshare skills and a reference for building your own. Create your organization's internal hub.
 * [awesome-manus-replay](https://github.com/agenaiguy/awesome-manus-replay) ⭐ 19 | 🐛 0 | 🌐 HTML | 📅 2025-03-09 - Currently collecting some awesome Manus replays. Feel free to share your use cases.
-* [awesome-mcp-collection](https://github.com/justincache/awesome-mcp-collection) ⭐ 18 | 🐛 45 | 🌐 Python | 📅 2026-11-13 - The most comprehensive, curated collection of MCP servers with ready-to-use configurations.
+* [awesome-mcp-collection](https://github.com/justincache/awesome-mcp-collection) ⭐ 18 | 🐛 46 | 🌐 Python | 📅 2026-11-14 - The most comprehensive, curated collection of MCP servers with ready-to-use configurations.
+* [awesome-uncensored-ai-image-models](https://github.com/Anil-matcha/awesome-uncensored-ai-image-models) ⭐ 18 | 🐛 1 | 📅 2026-11-08 - A community-maintained catalog of open and low-filter AI image models, checkpoints, and local inference resources.
 * [awesome-pinecone](https://github.com/aaronkao/awesome-pinecone) ⭐ 17 | 🐛 3 | 📅 2026-11-04 - A curated list of awesome Pinecone resources, libraries, tools and applications.
 * [awesome-ai-coding-resources](https://github.com/nandhakt/awesome-ai-coding-resources) ⭐ 16 | 🐛 6 | 📅 2025-02-15 - A curated collection of AI coding tools, tutorials, and resources to get started with AI assisted coding.
 * [awesome-ai-spotter](https://github.com/oskar-j/awesome-ai-spotter) ⭐ 16 | 🐛 1 | 📅 2026-09-12 - A curated list of awesome AI countermeasures - tools, models, datasets and research for detecting AI-generated content, from LLM-written text to deepfake images, video and audio.
-* [awesome-uncensored-ai-image-models](https://github.com/Anil-matcha/awesome-uncensored-ai-image-models) ⭐ 16 | 🐛 1 | 📅 2026-11-08 - A community-maintained catalog of open and low-filter AI image models, checkpoints, and local inference resources.
 * [awesome-agents](https://github.com/l-aime/awesome-agents) ⭐ 15 | 🐛 9 | 📅 2025-08-15 - A curated collection of cutting-edge AI agent projects, frameworks, and research papers. This repository aims to catalog innovative implementations, architectural patterns, and emerging best practices in agent-based systems—from autonomous LLM-powered agents to multi-agent collaboration frameworks.
-* [awesome-ai-devtools](https://github.com/yeaight7/awesome-ai-devtools) ⭐ 15 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-03 - The open-source map of the AI developer tooling ecosystem.
+* [awesome-ai-devtools](https://github.com/yeaight7/awesome-ai-devtools) ⭐ 15 | 🐛 26 | 🌐 TypeScript | 📅 2026-11-03 - The open-source map of the AI developer tooling ecosystem.
 * [awesome-ai-system-design](https://github.com/hackthacker-sec/awesome-ai-system-design) ⭐ 14 | 🐛 0 | 📅 2026-05-11 - 800+ real-world ML & LLM system design case studies from 150+ companies Google, Meta, Netflix, Uber, Airbnb & more. Production AI, not theory.
-* [awesome-crypto-mcp-servers](https://github.com/hive-intel/awesome-crypto-mcp-servers) ⭐ 13 | 🐛 37 | 📅 2026-06-04 - Curated list of crypto, Web3, DeFi, wallet, and blockchain MCP servers for AI agents.
+* [awesome-crypto-mcp-servers](https://github.com/hive-intel/awesome-crypto-mcp-servers) ⭐ 13 | 🐛 39 | 📅 2026-06-04 - Curated list of crypto, Web3, DeFi, wallet, and blockchain MCP servers for AI agents.
 * [awesome-ai-coding-agent-tools](https://github.com/namphuongtran/awesome-ai-coding-agent-tools) ⭐ 12 | 🐛 27 | 📅 2026-05-31 - A curated list of tools, libraries, MCP servers, and frameworks that power AI coding agents.
 * [awesome-ai](https://github.com/lemooljiang/awesome-ai) ⭐ 11 | 🐛 14 | 📅 2026-08-08 - Awesome AI Agent, AI tools, AI project, and APP useage.
 * [Awesome-Local-LLM](https://github.com/WaterPistolAI/Awesome-Local-LLM) ⭐ 11 | 🐛 10 | 📅 2024-12-20 - A curated list of resources, libraries, tools, and communities for working with Local Large Language Models (LLMs).
-* [awesome-seedance-2-prompts](https://github.com/atlascloudai/awesome-seedance-2-prompts) ⭐ 11 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-13 - Awesome-seedance-2-prompt.
+* [awesome-seedance-2-prompts](https://github.com/atlascloudai/awesome-seedance-2-prompts) ⭐ 11 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-14 - Awesome-seedance-2-prompt.
 * [awesome-startup-deals](https://github.com/dobroslavradosavljevic/awesome-startup-deals) ⭐ 11 | 🐛 4 | 📅 2026-10-27 - A curated list of awesome deals, discounts, and offers for startups and entrepreneurs.
 * [awesome-ai-for-gui-agents](https://github.com/maxi-w/awesome-ai-for-gui-agents) ⭐ 10 | 🐛 3 | 📅 2024-08-14 - Awesome resources about AI for GUI Agents.
 * [awesome-deep-research](https://github.com/aaronaust1n/awesome-deep-research) ⭐ 10 | 🐛 3 | 📅 2026-09-30 - Awesome Deep Research Implementations.
@@ -2189,21 +2190,21 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-ai](https://github.com/edwardtay/awesome-ai) ⭐ 7 | 🐛 25 | 📅 2026-11-09 - A curated list of 400+ AI APIs, tools, frameworks, and platforms across 40+ categories.
 * [awesome-ai-tools](https://github.com/kahkashanshaik/awesome-ai-tools) ⭐ 7 | 🐛 70 | 📅 2026-11-05 - Perfect for creators, devs & AI lovers. Always updated.
 * [awesome-core-ai-models](https://github.com/amosgyamfi/awesome-core-ai-models) ⭐ 7 | 🐛 0 | 🌐 Swift | 📅 2026-06-25 - Discover Awesome Core AI Models For Any Project.
-* [awesome-happy-horse-prompts](https://github.com/atlascloudai/awesome-happy-horse-prompts) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-13 - Awesome Happy Horse 1.0 Prompts.
-* [awesome-mcp-servers](https://github.com/dhanushnehru/awesome-mcp-servers) ⭐ 7 | 🐛 113 | 📅 2026-11-06 - A curated list of awesome Model Context Protocol (MCP) servers, tools, SDKs and resources for AI assistants like Claude.
+* [awesome-happy-horse-prompts](https://github.com/atlascloudai/awesome-happy-horse-prompts) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-14 - Awesome Happy Horse 1.0 Prompts.
+* [awesome-mcp-servers](https://github.com/dhanushnehru/awesome-mcp-servers) ⭐ 7 | 🐛 114 | 📅 2026-11-06 - A curated list of awesome Model Context Protocol (MCP) servers, tools, SDKs and resources for AI assistants like Claude.
+* [tt-awesome](https://github.com/tenstorrent/tt-awesome) ⭐ 6 | 🐛 5 | 🌐 Python | 📅 2026-11-14 - A curated collection of awesome demos, tools, projects, and resources built by and for the Tenstorrent ecosystem.
 * [awesome-ai-gadgets](https://github.com/tysoncung/awesome-ai-gadgets) ⭐ 6 | 🐛 0 | 📅 2026-01-17 - A curated list of AI-powered gadgets, devices, and hardware for consumers, developers, and makers.
 * [awesome-list](https://github.com/00xZEROx00/awesome-list) ⭐ 6 | 🐛 1 | 🌐 Shell | 📅 2024-11-19 - A curated list of awesome tools, frameworks, utilities, and resources spanning across various categories including development, gaming, privacy, and AI.
 * [awesome-stream](https://github.com/getstream/awesome-stream) ⭐ 6 | 🐛 0 | 📅 2026-10-19 - Official awesome-list of resources, tools, and projects for building with Stream.
-* [tt-awesome](https://github.com/tenstorrent/tt-awesome) ⭐ 5 | 🐛 4 | 🌐 Python | 📅 2026-11-12 - A curated collection of awesome demos, tools, projects, and resources built by and for the Tenstorrent ecosystem.
 * [1gpt](https://github.com/parammittal16/1gpt) ⭐ 5 | 🐛 0 | 🌐 HTML | 📅 2023-07-05 - Best GPT tools collection over the internet 👀.
 * [awesome-ai-api-projects](https://github.com/JuncongHe/awesome-ai-api-projects) ⭐ 5 | 🐛 0 | 📅 2026-06-19 - A list of projects that can use various ai api 可以使用ai api的各种项目列表.
 * [awesome-ai-coding](https://github.com/shalk/awesome-ai-coding) ⭐ 5 | 🐛 9 | 📅 2026-07-15 - A curated list of AI-powered coding tools, libraries, and resources for developers - from code completion to testing, review, and deployment.
-* [awesome-ai-tools](https://github.com/shahedbd/awesome-ai-tools) ⭐ 5 | 🐛 15 | 🌐 Python | 📅 2026-10-26 - A curated collection of the best AI tools, platforms, and resources for developers, creators, and businesses.
+* [awesome-ai-tools](https://github.com/shahedbd/awesome-ai-tools) ⭐ 5 | 🐛 16 | 🌐 Python | 📅 2026-10-26 - A curated collection of the best AI tools, platforms, and resources for developers, creators, and businesses.
 * [awesome-cpu-first-ai](https://github.com/ranjithrajv/awesome-cpu-first-ai) ⭐ 5 | 🐛 14 | 🌐 Python | 📅 2026-11-09 - Curated, evidence-backed list of runtimes, formats & tools for running AI inference on CPU — start with CPU, justify the GPU.
 * [awesome-free-ai-apis](https://github.com/basilahamed/awesome-free-ai-apis) ⭐ 5 | 🐛 0 | 📅 2026-06-18 - ⭐ A curated collection of AI APIs that provide free credits, free tiers, or developer trials. Perfect for developers, startups, indie hackers, and AI builders to experiment and build AI-powered applications.
 * [awesome-smol](https://github.com/afondiel/awesome-smol) ⭐ 5 | 🐛 1 | 📅 2024-12-20 - A curated list of small foundation models (SFMs) designed to run locally on Edge devices.
 * [top-pharma-fr](https://github.com/servierhub/top-pharma-fr) ⭐ 5 | 🐛 0 | 🌐 Makefile | 📅 2024-06-09 - Top open source software from French pharmaceutical companies.
-* [awesome-agent-infra](https://github.com/shenli/awesome-agent-infra) ⭐ 4 | 🐛 17 | 📅 2026-09-02 - Curated infrastructure resources for building production AI agents: runtimes, sandboxes, workspaces, tool protocols, security, observability, and evaluation.
+* [awesome-agent-infra](https://github.com/shenli/awesome-agent-infra) ⭐ 4 | 🐛 16 | 📅 2026-09-02 - Curated infrastructure resources for building production AI agents: runtimes, sandboxes, workspaces, tool protocols, security, observability, and evaluation.
 * [awesome-ai](https://github.com/digidai/awesome-ai) ⭐ 4 | 🐛 12 | 🌐 Shell | 📅 2026-02-07 - 🤖 750+ AI tools across 50+ categories. Chat, Image, Video, Code, Music, Enterprise & more. Updated daily. 精选AI工具库，持续更新。.
 * [awesome-ai-drug-repurposing](https://github.com/everycure-org/awesome-ai-drug-repurposing) ⭐ 4 | 🐛 0 | 📅 2026-10-25 - Collection of awesome drug repurposing publication leveraging ML and AI.
 * [awesome-claude-mcp-servers](https://github.com/kuberwastaken/awesome-claude-mcp-servers) ⭐ 4 | 🐛 13 | 🌐 JavaScript | 📅 2026-07-01 - A curated, searchable catalog of Model Context Protocol (MCP) servers for Claude — Desktop, Code, and API.
@@ -2218,6 +2219,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [Indie-Hacker-Right-Tools](https://github.com/Mr-JoE1/Indie-Hacker-Right-Tools) ⭐ 3 | 🐛 4 | 🌐 Python | 📅 2025-05-22 - As an indie hacker, solo developer, or niche micro SaaS creator, you know how crucial it is to have the right tools to boost your productivity, save costs, and ensure your project's success.
 * [awesome-ai-crypto-tools](https://github.com/FlipZ3ro/awesome-ai-crypto-tools) ⭐ 2 | 🐛 4 | 📅 2026-06-18 - 🤖⛓️ Curated list of AI-powered tools for crypto trading, analysis, security, and development.
 * [awesome-ai-glossary](https://github.com/cool-runningz/awesome-ai-glossary) ⭐ 2 | 🐛 1 | 📅 2025-04-24 - The AI Glossary for Humans.
+* [awesome-claude-ai](https://github.com/tysoncung/awesome-claude-ai) ⭐ 2 | 🐛 4 | 📅 2026-01-17 - 🤖 A curated list of awesome Claude AI tools, resources, integrations, and applications.
 * [awesome-internet-of-ai-agents](https://github.com/agentoverlay/awesome-internet-of-ai-agents) ⭐ 2 | 🐛 1 | 📅 2025-11-27 - Awesome agentic web.
 * [awesome-mcp-registry](https://github.com/sunnamed434/awesome-mcp-registry) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-11-08 - AI-curated, self-updating directory of MCP servers. Discovered from GitHub & the official registry, analyzed and ranked by AI weekly.
 * [awesome-whatsapp-channels](https://github.com/coderrakeshsharma/awesome-whatsapp-channels) ⭐ 2 | 🐛 0 | 📅 2025-06-06 - 📱 Curated list of educational and career-focused WhatsApp channels on programming, AI, tech, and more.
@@ -2226,10 +2228,9 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-ai-lead-generation](https://github.com/supersynergy/awesome-ai-lead-generation) ⭐ 1 | 🐛 1 | 📅 2026-11-13 - A curated list of AI-powered tools for automated lead generation, prospecting, and sales intelligence.
 * [awesome-ai-skills](https://github.com/rafsilva85/awesome-ai-skills) ⭐ 1 | 🐛 0 | 📅 2026-03-25 - 🤖 A curated list of the best AI agent skills, plugins, and extensions. Skills are reusable packages that give AI coding agents specialized expertise.
 * [awesome-ai-tools](https://github.com/qwertyu-alex/awesome-ai-tools) ⭐ 1 | 🐛 10 | 📅 2025-05-25 - A curated list of AI tools for writing, image generation, coding, research, automation, productivity, and more. Perfect for creators, developers, and anyone looking to use AI in practical, everyday ways.
-* [awesome-claude-ai](https://github.com/tysoncung/awesome-claude-ai) ⭐ 1 | 🐛 4 | 📅 2026-01-17 - 🤖 A curated list of awesome Claude AI tools, resources, integrations, and applications.
 * [awesome-multi-agent-papers](https://github.com/vchaitanyachowdari/awesome-multi-agent-papers) ⭐ 1 | 🐛 2 | 📅 2025-10-04 - A Compilation of the best Multi Agent Papers.
 * [best-of-ai-open-source](https://github.com/itadori91/best-of-ai-open-source) ⭐ 1 | 🐛 0 | 📅 2025-09-07 - Curated collection of 150+ exceptional open-source AI projects with a combined 3M+ stars!
-* [jevsome-projects](https://github.com/ozers/jevsome-projects) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-12 - Open-source projects that provably call Jev, TypeSafe AI's System One model. Every entry links to the line of code that proves it. Refreshed daily.
+* [jevsome-projects](https://github.com/ozers/jevsome-projects) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-13 - Open-source projects that provably call Jev, TypeSafe AI's System One model. Every entry links to the line of code that proves it. Refreshed daily.
 * [ontosight](https://github.com/innoplexus-opensource/ontosight) ⭐ 1 | 🐛 0 | 📅 2025-01-24 - Your AI Research Assistant.
 * [awesome-ai-driven-development](https://github.com/josedacosta/awesome-ai-driven-development) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-19 - 🤖 A list of the best tools, libraries, frameworks, and resources for AI-Driven Development.
 * [awesome-ai-mexico](https://github.com/manduks/awesome-ai-mexico) ⭐ 0 | 🐛 1 | 📅 2026-03-20 - Curated list of AI tools, resources, and companies for businesses in Mexico and LATAM. Herramientas de IA para empresas mexicanas.
@@ -2255,14 +2256,14 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### AI Agent Topic Lists
 
-* [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,716 | 🐛 22 | 🌐 MDX | 📅 2026-10-31 - 🗂 The essential checklist for modern web development, for humans and AI agents.
+* [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,729 | 🐛 22 | 🌐 MDX | 📅 2026-10-31 - 🗂 The essential checklist for modern web development, for humans and AI agents.
 * [anything\_about\_game](https://github.com/killop/anything_about_game) ⭐ 4,200 | 🐛 1 | 📅 2026-11-12 - A wonderful list of Game Development resources.
 * [claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh) ⭐ 909 | 🐛 3 | 🌐 Python | 📅 2026-11-11 - 面向中文开发者的 Claude Code Skills / Agents / Plugins 精选与原创技能库｜按场景分类｜复制即装｜持续更新.
-* [Awesome-Agent-Memory](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) ⭐ 712 | 🐛 10 | 🌐 Python | 📅 2026-11-09 - Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.
-* [awesome-ai-leaderboard](https://github.com/SAILResearch/awesome-ai-leaderboard) ⭐ 384 | 🐛 0 | 📅 2026-11-13 - A curated list of awesome leaderboard-oriented resources for AI domain.
+* [Awesome-Agent-Memory](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) ⭐ 712 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - Curated systems, benchmarks, and papers etc. on memory for LLMs/MLLMs --- long-term context, retrieval, and reasoning.
+* [awesome-ai-leaderboard](https://github.com/SAILResearch/awesome-ai-leaderboard) ⭐ 384 | 🐛 2 | 📅 2026-11-13 - A curated list of awesome leaderboard-oriented resources for AI domain.
 * [awesome-rl-for-agents](https://github.com/necolizer/awesome-rl-for-agents) ⭐ 115 | 🐛 0 | 📅 2026-11-13 - A curated list of reinforcement learning (RL) for agents.
-* [awesome-jev-zh](https://github.com/yzfly/awesome-jev-zh) ⭐ 93 | 🐛 0 | 🌐 HTML | 📅 2026-11-13 - Jev / TypeSafe System One 中文精选列表：官方资料、SDK、爆款应用、Agent 工具、开源复现与独立评测，附中文上手指南，每日自动收录 GitHub 热门项目。.
-* [awesome-molt-ecosystem](https://github.com/eltociear/awesome-molt-ecosystem) ⭐ 67 | 🐛 8 | 🌐 Dockerfile | 📅 2026-11-12 - The brutally honest map of where AI-agent money actually flows. Every number measured, dated, and re-checked — including the ones that turned out to be wrong. Lifetime external income: $2.40. 1 of 18 awesome-list submissions ever merged.
+* [awesome-jev-zh](https://github.com/yzfly/awesome-jev-zh) ⭐ 93 | 🐛 0 | 🌐 HTML | 📅 2026-11-14 - Jev / TypeSafe System One 中文精选列表：官方资料、SDK、爆款应用、Agent 工具、开源复现与独立评测，附中文上手指南，每日自动收录 GitHub 热门项目。.
+* [awesome-molt-ecosystem](https://github.com/eltociear/awesome-molt-ecosystem) ⭐ 68 | 🐛 9 | 🌐 Dockerfile | 📅 2026-11-13 - The brutally honest map of where AI-agent money actually flows. Every number measured, dated, and re-checked — including the ones that turned out to be wrong. Lifetime external income: $2.40. 1 of 18 awesome-list submissions ever merged.
 * [awesome-developer-finance](https://github.com/mrtnrocks/awesome-developer-finance) ⭐ 17 | 🐛 27 | 📅 2026-09-20 - A curated list of awesome OSS, programmable APIs, and autonomous AI agents for developers in finance. Discover resources for quantitative analysis (Quant), algorithmic trading bots, Fintech platforms, LLMs, and portfolio management.
 * [awesome-openclaw-memory](https://github.com/sologuy/awesome-openclaw-memory) ⭐ 9 | 🐛 0 | 📅 2026-03-22 - 🦞 A curated list of memory systems, architectures, skills & best practices in the OpenClaw ecosystem. OpenClaw 记忆系统精选：论文、框架、实现与最佳实践。.
 * [awesome-agent-cli](https://github.com/ariestar/awesome-agent-cli) ⭐ 8 | 🐛 11 | 🌐 Python | 📅 2026-10-06 - Awesome list of agent-ready CLI tools with categories, risks, effects, and guardrails.😎.
@@ -2274,13 +2275,13 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### AI for science Topic Lists
 
-* [awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) ⭐ 2,092 | 🐛 0 | 📅 2026-11-13 - A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.
+* [awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) ⭐ 2,094 | 🐛 2 | 📅 2026-11-13 - A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from physics and chemistry to biology, materials, and beyond.
 * [Awesome-LWMs](https://github.com/jaychempan/Awesome-LWMs) ⭐ 380 | 🐛 1 | 📅 2025-06-23 - A Collection of Awesome Large Weather Models (LWMs) | AI for Earth (AI4Earth) | AI for Science (AI4Science).
 * [awesome-ai4chem](https://github.com/sherrylixuecheng/awesome-ai4chem) ⭐ 49 | 🐛 1 | 📅 2023-05-20 - Awesome AI for chemistry papers.
 
 ### AI Governance Topic Lists
 
-* [awesome-MLSecOps](https://github.com/RiccardoBiosas/awesome-MLSecOps) ⭐ 491 | 🐛 32 | 🌐 Astro | 📅 2026-11-09 - A curated list of MLSecOps tools and resources for securing machine learning and AI systems - adversarial ML defense, LLM security, AI red teaming, model scanning, supply-chain protection, and MLOps pipeline security.
+* [awesome-MLSecOps](https://github.com/RiccardoBiosas/awesome-MLSecOps) ⭐ 492 | 🐛 33 | 🌐 Astro | 📅 2026-11-09 - A curated list of MLSecOps tools and resources for securing machine learning and AI systems - adversarial ML defense, LLM security, AI red teaming, model scanning, supply-chain protection, and MLOps pipeline security.
 * [awesome-eu-ai-act](https://github.com/morganrcu/awesome-eu-ai-act) ⭐ 31 | 🐛 9 | 📅 2026-09-26 - A curated list of tools, frameworks, standards, and resources for EU AI Act compliance and AI governance.
 * [awesome-grc-ai](https://github.com/ethanolivertroy/awesome-grc-ai) ⭐ 25 | 🐛 25 | 🌐 Python | 📅 2026-02-16 - Curated list of AI + GRC resources: AI governance frameworks and AI-powered compliance tools.
 * [ai-llmops-index](https://github.com/alpha-one-index/ai-llmops-index) - Comprehensive LLMOps reference index: observability platforms, inference cost intelligence, failure mode taxonomy, stack compatibility matrices, and regulatory compliance mapping for LLMs in production.
@@ -2293,7 +2294,7 @@ Last generated: 2026-11-12, 10396 lists.
 ### Algorithm Topic Lists
 
 * [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) ⭐ 14,402 | 🐛 30 | 📅 2024-12-08 - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources.
-* [awesome-algorithms-education](https://github.com/gaerae/awesome-algorithms-education) ⭐ 912 | 🐛 3 | 📅 2026-10-28 - A curated list to learning and practicing about algorithm.
+* [awesome-algorithms-education](https://github.com/gaerae/awesome-algorithms-education) ⭐ 913 | 🐛 3 | 📅 2026-10-28 - A curated list to learning and practicing about algorithm.
 * [awesome-differential-privacy](https://github.com/menisadi/awesome-differential-privacy) ⭐ 330 | 🐛 0 | 📅 2026-10-09 - List of differential-privacy related resources.
 * [Develop-Source](https://github.com/yuchuangu85/Develop-Source) ⭐ 317 | 🐛 1 | 🌐 Shell | 📅 2026-10-24 - Open source for developer.(Include：Java, Android, Algorithm, iOS, macOS, ect).
 * [awesome-data-science-viz](https://github.com/quantmind/awesome-data-science-viz) ⭐ 184 | 🐛 3 | 📅 2022-11-29 - :boom: :chart\_with\_upwards\_trend: A curated list of data science, analysis and visualization tools.
@@ -2308,21 +2309,21 @@ Last generated: 2026-11-12, 10396 lists.
 
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome) ⭐ 9,827 | 🐛 1 | 🌐 Makefile | 📅 2026-11-09 - A collection of android security related resources.
 * [Android\_Data](https://github.com/Freelander/Android_Data) ⭐ 8,970 | 🐛 10 | 🌐 Java | 📅 2024-01-15 - Some Android learning materials, hoping to help you learn Android development.
-* [awesome-free-apps](https://github.com/axorax/awesome-free-apps) ⭐ 8,053 | 🐛 192 | 🌐 JavaScript | 📅 2026-11-11 - Curated list of the best free apps for PC and mobile.
+* [awesome-free-apps](https://github.com/axorax/awesome-free-apps) ⭐ 8,057 | 🐛 196 | 🌐 JavaScript | 📅 2026-11-11 - Curated list of the best free apps for PC and mobile.
 * [kmp-awesome](https://github.com/terrakok/kmp-awesome) ⭐ 5,912 | 🐛 26 | 📅 2026-10-26 - An awesome list that curates the best Kotlin Multiplatform libraries, tools and more.
-* [material-you-app-list](https://github.com/nyas1/material-you-app-list) ⭐ 5,272 | 🐛 76 | 📅 2026-11-07 - 🍦 A well organized & frequently updated collection of apps that support material you design.
+* [material-you-app-list](https://github.com/nyas1/material-you-app-list) ⭐ 5,273 | 🐛 78 | 📅 2026-11-07 - 🍦 A well organized & frequently updated collection of apps that support material you design.
 * [awesome-android-interview](https://github.com/jsonchao/awesome-android-interview) ⭐ 4,614 | 🐛 13 | 📅 2026-04-20 - :fire: A awesome android expert interview questions and answers（continuous updating .）.
-* [awesome-computer-science-opportunities](https://github.com/anu0012/awesome-computer-science-opportunities) ⭐ 4,189 | 🐛 16 | 📅 2024-06-10 - An awesome list of events and fellowship opportunities for Computer Science students.
-* [awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) ⭐ 3,958 | 🐛 62 | 📅 2026-08-27 - :house::information\_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
-* [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) ⭐ 3,579 | 🐛 15 | 📅 2024-03-01 - An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
-* [awesome-frida](https://github.com/dweinstein/awesome-frida) ⭐ 3,559 | 🐛 5 | 📅 2026-10-22 - Awesome Frida - A curated list of Frida resources (.
+* [awesome-computer-science-opportunities](https://github.com/anu0012/awesome-computer-science-opportunities) ⭐ 4,188 | 🐛 16 | 📅 2024-06-10 - An awesome list of events and fellowship opportunities for Computer Science students.
+* [awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) ⭐ 3,959 | 🐛 62 | 📅 2026-08-27 - :house::information\_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
+* [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) ⭐ 3,579 | 🐛 16 | 📅 2024-03-01 - An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
+* [awesome-frida](https://github.com/dweinstein/awesome-frida) ⭐ 3,560 | 🐛 5 | 📅 2026-10-22 - Awesome Frida - A curated list of Frida resources (.
 * [awesome-android-notebook](https://github.com/jsonchao/awesome-android-notebook) ⭐ 3,406 | 🐛 5 | 📅 2026-04-20 - :computer: A complete plan for better android developers.（continuous updating .）.
 * [awesome-android-performance](https://github.com/Juude/awesome-android-performance) ⭐ 2,892 | 🐛 1 | 📅 2019-05-07 - Android performance optimization tutorials, videos and tools list(Android性能优化视频，文档以及工具).
 * [awesome-android-complete-reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference) ⭐ 2,860 | 🐛 7 | 🌐 Java | 📅 2026-01-28 - Here I list down all of the high-quality blogs that I publish on my website.
 * [Awesome-WanAndroid](https://github.com/JsonChao/Awesome-WanAndroid) ⭐ 2,712 | 🐛 38 | 🌐 Java | 📅 2026-04-20 - :zap:致力于打造一款极致体验的 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n.
 * [awesome-android-learning-resources](https://github.com/androiddevnotes/awesome-android-learning-resources) ⭐ 1,958 | 🐛 12 | 🌐 Kotlin | 📅 2024-05-11 - 👓 A curated list of awesome android learning resources for android app developers.
 * [Awesome-Android-TV-FOSS-Apps](https://github.com/Generator/Awesome-Android-TV-FOSS-Apps) ⭐ 1,676 | 🐛 6 | 📅 2026-11-10 - A curated list of FOSS Android TV apps.
-* [awesome-jetpack-compose-learning-resources](https://github.com/androiddevnotes/awesome-jetpack-compose-learning-resources) ⭐ 1,521 | 🐛 6 | 🌐 Kotlin | 📅 2024-06-13 - 👓 A continuously updated list of learning Jetpack Compose for Android apps.
+* [awesome-jetpack-compose-learning-resources](https://github.com/androiddevnotes/awesome-jetpack-compose-learning-resources) ⭐ 1,522 | 🐛 6 | 🌐 Kotlin | 📅 2024-06-13 - 👓 A continuously updated list of learning Jetpack Compose for Android apps.
 * [awesome-tensorflow-lite](https://github.com/margaretmz/awesome-tensorflow-lite) ⭐ 1,399 | 🐛 2 | 📅 2022-03-01 - An awesome list of TensorFlow Lite models, samples, tutorials, tools and learning resources.
 * [awesome-awesomeness-zh\_CN](https://github.com/justjavac/awesome-awesomeness-zh_CN) ⭐ 1,398 | 🐛 5 | 🌐 JavaScript | 📅 2016-04-18 - 一份关于“资料汇总”的汇总。.
 * [MobileHackersWeapons](https://github.com/hahwul/MobileHackersWeapons) ⭐ 1,312 | 🐛 2 | 🌐 Ruby | 📅 2026-03-01 - Mobile Hacker's Weapons / A collection of cool tools used by Mobile hackers. Happy hacking , Happy bug-hunting.
@@ -2331,7 +2332,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-foss-android-apps](https://github.com/ivon852/awesome-foss-android-apps) ⭐ 478 | 🐛 9 | 📅 2026-07-29 - Awesome FOSS Android Apps list (Chinese).
 * [react-native-awesome-card-io](https://github.com/Kerumen/react-native-awesome-card-io) ⭐ 459 | 🐛 27 | 🌐 Objective-C | 📅 2023-01-27 - A complete and cross-platform card.io component for React Native (iOS and Android).
 * [awesome-tasker](https://github.com/guifelix/awesome-tasker) ⭐ 401 | 🐛 0 | 📅 2026-04-10 - Carefully curated list of awesome Tasker projects, tutorials and tricks.
-* [awesome-xiaomi-bootloader-unlock](https://github.com/topminipie/awesome-xiaomi-bootloader-unlock) ⭐ 333 | 🐛 1 | 📅 2026-10-08 - Awesome Xiaomi BootLoader Unlock.
+* [awesome-xiaomi-bootloader-unlock](https://github.com/topminipie/awesome-xiaomi-bootloader-unlock) ⭐ 332 | 🐛 1 | 📅 2026-10-08 - Awesome Xiaomi BootLoader Unlock.
 * [awesome-capacitorjs](https://github.com/capawesome-team/awesome-capacitorjs) ⭐ 208 | 🐛 1 | 📅 2026-11-06 - ⚡️ A curated list of awesome things related to Capacitor.
 * [fucking-Awesome-Hacking](https://github.com/Correia-jpv/fucking-Awesome-Hacking) ⭐ 199 | 🐛 1 | 📅 2026-11-12 - A collection of various awesome lists for hackers, pentesters and security researchers. With repository stars⭐ and forks🍴.
 * [awesome-gradient](https://github.com/Gradients/awesome-gradient) ⭐ 162 | 🐛 0 | 📅 2021-05-10 - 😎 A curated list of awesome Gradient frameworks, libraries and software and resources.
@@ -2355,7 +2356,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [Android-Guide](https://github.com/mikeroyal/Android-Guide) ⭐ 37 | 🐛 0 | 🌐 Java | 📅 2022-03-18 - Android Guide.
 * [fucking-android-open-project](https://github.com/Correia-jpv/fucking-android-open-project) ⭐ 29 | 🐛 0 | 📅 2026-11-12 - A categorized collection of Android Open Source Projects, More powerful web version. With repository stars⭐ and forks🍴.
 * [awesome-material-components](https://github.com/webdenim/awesome-material-components) ⭐ 19 | 🐛 0 | 📅 2018-11-02 - A curated list of awesome projects related to Google's Material Design Components.
-* [awesome-project-catalogue](https://github.com/amirisback/awesome-project-catalogue) ⭐ 10 | 🐛 1 | 📅 2022-03-03 - Check this out ! all awesome project from amirisback.
+* [awesome-project-catalogue](https://github.com/amirisback/awesome-project-catalogue) ⭐ 9 | 🐛 1 | 📅 2022-03-03 - Check this out ! all awesome project from amirisback.
 * [awesome-android-accessibility](https://github.com/schulle4u/awesome-android-accessibility) ⭐ 9 | 🐛 1 | 📅 2026-10-31 - Für Blinde und Sehbehinderte zugängliche Android-Apps.
 * [mobile-guide](https://github.com/jerielng/mobile-guide) ⭐ 8 | 🐛 0 | 📅 2022-07-04 - Curated list of resources and tips for aspiring cross-platform mobile developers.
 * [awesome-android](https://github.com/ajay-prabhakar/awesome-android) ⭐ 7 | 🐛 0 | 🌐 Java | 📅 2020-04-30 - This is repository which I played around with android stuff :rocket:.
@@ -2414,7 +2415,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [arctic](https://github.com/zc-alexfan/arctic) ⭐ 532 | 🐛 1 | 🌐 Python | 📅 2026-03-04 - \[CVPR 2023] Official repository for downloading, processing, visualizing, and training models on the ARCTIC dataset.
 * [awesome-web-styling](https://github.com/seungyeub/awesome-web-styling) ⭐ 173 | 🐛 0 | 🌐 CSS | 📅 2022-01-24 - ⭐️ Awesome Web Styling with CSS Animation Effects.
 * [awesome-text-to-motion](https://github.com/zilize/awesome-text-to-motion) ⭐ 107 | 🐛 2 | 🌐 TypeScript | 📅 2025-08-17 - Text-driven human motion generation surveys, datasets and models.
-* [awesome-2d-animation](https://github.com/markmohr/awesome-2d-animation) ⭐ 49 | 🐛 1 | 📅 2026-11-12 - :books: A collection of tools, datasets and papers about inbetweening and 2D animation.
+* [awesome-2d-animation](https://github.com/markmohr/awesome-2d-animation) ⭐ 49 | 🐛 0 | 📅 2026-11-14 - :books: A collection of tools, datasets and papers about inbetweening and 2D animation.
 * [awesome-terminal-art](https://github.com/mcthomas/awesome-terminal-art) ⭐ 34 | 🐛 0 | 📅 2025-10-14 - Scripts or programs that produce static or dynamic terminal emulator visuals.
 * [awesome-3D-drawing](https://github.com/n1ckfg/awesome-3D-drawing) ⭐ 14 | 🐛 0 | 📅 2026-10-22 - Using motion-tracked controllers in XR to create art and animation, combined with ML processing and rendering.
 * [awesome-time-paradox-movies](https://github.com/nikvoronin/awesome-time-paradox-movies) ⭐ 3 | 🐛 0 | 📅 2026-10-22 - A curated list of films that explicitly explore time paradoxes, causality violations, or unconventional time-travel narratives, targeting sci-fi enthusiasts and fans of cerebral storytelling.
@@ -2434,7 +2435,7 @@ Last generated: 2026-11-12, 10396 lists.
 ### Anki Topic Lists
 
 * [awesome-anki](https://github.com/tianshanghong/awesome-anki) ⭐ 2,123 | 🐛 26 | 📅 2026-01-02 - A curated list of awesome Anki add-ons, decks and resources.
-* [awesome-language-learning](https://github.com/Vuizur/awesome-language-learning) ⭐ 236 | 🐛 73 | 📅 2025-10-06 - A curated list of amazing projects that help you learn languages.
+* [awesome-language-learning](https://github.com/Vuizur/awesome-language-learning) ⭐ 237 | 🐛 75 | 📅 2025-10-06 - A curated list of amazing projects that help you learn languages.
 * [awesome-chinese-learning](https://github.com/thomashirtz/awesome-chinese-learning) ⭐ 85 | 🐛 34 | 🌐 HTML | 📅 2024-06-28 - Repository to share curated resources and tips accumulated while studying in China.
 * [apps](https://github.com/awesome-german/apps) ⭐ 3 | 🐛 0 | 📅 2026-10-05 - Mobile and web apps for mastering German vocabulary, grammar, and speaking skills effectively.
 
@@ -2451,16 +2452,16 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### API Topic Lists
 
-* [public-apis](https://github.com/public-apis/public-apis) ⭐ 498,613 | 🐛 2,691 | 🌐 Python | 📅 2026-11-11 - A collective list of free APIs.
-* [API-mega-list](https://github.com/cporter202/API-mega-list) ⭐ 8,376 | 🐛 22 | 🌐 JavaScript | 📅 2026-10-20 - This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period. 💪.
+* [public-apis](https://github.com/public-apis/public-apis) ⭐ 498,866 | 🐛 2,677 | 🌐 Python | 📅 2026-11-13 - A collective list of free APIs.
+* [API-mega-list](https://github.com/cporter202/API-mega-list) ⭐ 8,380 | 🐛 22 | 🌐 JavaScript | 📅 2026-10-20 - This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period. 💪.
 * [awesome-api-devtools](https://github.com/yosriady/awesome-api-devtools) ⭐ 4,015 | 🐛 75 | 📅 2025-12-20 - :books: A collection of useful resources for building RESTful HTTP+JSON APIs.
 * [guides](https://github.com/NARKOZ/guides) ⭐ 2,439 | 🐛 3 | 📅 2025-07-02 - Design and development guides.
-* [awesome-trilium](https://github.com/Nriver/awesome-trilium) ⭐ 971 | 🐛 5 | 📅 2026-11-11 - A collection of interesting Trilium Notes extensions. Including themes, widgets, scripts, API extensions, etc. Trilium插件合集.
+* [awesome-trilium](https://github.com/Nriver/awesome-trilium) ⭐ 972 | 🐛 5 | 📅 2026-11-13 - A collection of interesting Trilium Notes extensions. Including themes, widgets, scripts, API extensions, etc. Trilium插件合集.
 * [awesome-integration](https://github.com/stn1slv/awesome-integration) ⭐ 572 | 🐛 0 | 🌐 Markdown | 📅 2026-11-11 - A curated list of awesome system integration software and resources.
 * [awesome-ocelot](https://github.com/geffzhang/awesome-ocelot) ⭐ 417 | 🐛 1 | 📅 2022-03-28 - A curated list of awesome ocelot books, courses, trainings, conference talks, blogs and most inspiring open source contributors.
 * [awesome-webhooks](https://github.com/realadeel/awesome-webhooks) ⭐ 259 | 🐛 35 | 📅 2026-08-18 - A curated list about real-time webhooks.
 * [awesome-generative-ai-apis](https://github.com/foss42/awesome-generative-ai-apis) ⭐ 230 | 🐛 80 | 🌐 Dart | 📅 2026-09-05 - A curated list of useful Generative AI APIs for developers.
-* [free-ai-bible](https://github.com/abbosaliboev/free-ai-bible) ⭐ 214 | 🐛 17 | 🌐 JavaScript | 📅 2026-10-22 - 🧠 The Ultimate Directory of Free AI APIs & Tools for Developers 2026 — Free LLM APIs, Image Generation, Model Hosting, Local AI. No credit card. No paywall. 700+ resources.
+* [free-ai-bible](https://github.com/abbosaliboev/free-ai-bible) ⭐ 216 | 🐛 17 | 🌐 JavaScript | 📅 2026-10-22 - 🧠 The Ultimate Directory of Free AI APIs & Tools for Developers 2026 — Free LLM APIs, Image Generation, Model Hosting, Local AI. No credit card. No paywall. 700+ resources.
 * [awesome-vikadata](https://github.com/vikadata/awesome-vikadata) ⭐ 127 | 🐛 3 | 📅 2023-05-30 - 🙀 A list of awesome projects / resources / SDKs / frameworks that make Vikadata even more awesome. 🤪.
 * [awesome-fintech](https://github.com/jplock/awesome-fintech) ⭐ 112 | 🐛 1 | 📅 2026-11-11 - Curated list of awesome Fintech startup companies.
 * [awesome-thai-library](https://github.com/xbklairith/awesome-thai-library) ⭐ 64 | 🐛 1 | 📅 2026-06-14 - แหล่งรวม library ไทยๆ เกี่ยวกับ "ประเทศไทย" และ "ภาษาไทย" - Delightful Thai packages and resources.
@@ -2473,7 +2474,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [Awesome-API-Provider](https://github.com/ekaone/Awesome-API-Provider) ⭐ 11 | 🐛 0 | 📅 2021-07-19 - 🔥🚀 Collection API list, start from: 📚 books, 📆 calendar, 👨‍💼 business, 🎸 musics, 🎮 games, 🐜 animals, 👩‍⚕️ health, 🗺 map and so much more 👌👍.
 * [awesome-list-for-developers](https://github.com/davesimoes/awesome-list-for-developers) ⭐ 11 | 🐛 1 | 📅 2024-05-10 - :octocat: A curated list of various topics related to development for the open source community⚡️.
 * [awesome-api-documentation-tools](https://github.com/furudo-erika/awesome-api-documentation-tools) ⭐ 10 | 🐛 1 | 📅 2026-10-18 - A Collection of Awesome API Documentation Tools.
-* [awesome-abliterated-llms](https://github.com/Anil-matcha/awesome-abliterated-llms) ⭐ 5 | 🐛 1 | 📅 2026-11-10 - Developer guide to deployed abliterated LLM endpoints on Muapi, with model comparisons and API examples.
+* [awesome-abliterated-llms](https://github.com/Anil-matcha/awesome-abliterated-llms) ⭐ 6 | 🐛 1 | 📅 2026-11-10 - Developer guide to deployed abliterated LLM endpoints on Muapi, with model comparisons and API examples.
 * [awesome-services](https://github.com/Alex1990/awesome-services) ⭐ 5 | 🐛 2 | 📅 2025-04-26 - A collection of the services which participate in application construction.
 * [awesome-bruno](https://github.com/ludovicobesana/awesome-bruno) ⭐ 4 | 🐛 1 | 📅 2026-10-26 - A curated list of awesome tools, utils and projects using Bruno.
 * [awesome-api-wrappers](https://github.com/api-wrappers/awesome-api-wrappers) ⭐ 2 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-19 - Curated list of high-quality API wrapper libraries across languages, ecosystems, and domains.
@@ -2493,26 +2494,26 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### App Topic Lists
 
-* [awesome-mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 118,416 | 🐛 2,113 | 🌐 Swift | 📅 2026-11-13 -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
-* [awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) ⭐ 5,673 | 🐛 2 | 🌐 Python | 📅 2026-11-13 - Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS/visionOS）.
+* [awesome-mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 118,492 | 🐛 2,133 | 🌐 Swift | 📅 2026-11-14 -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+* [awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) ⭐ 5,677 | 🐛 3 | 🌐 Python | 📅 2026-11-13 - Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS/visionOS）.
 * [awesome-oneplus-3t](https://github.com/huihut/awesome-oneplus-3t) ⭐ 71 | 🐛 0 | 📅 2019-12-14 - 一加 3T ROM、内核（Kernel）、固件（Firmware）、Recovery、框架（Framework）、软件（APP）.
 * [awesome-sleek-design](https://github.com/anmitalidev/awesome-sleek-design) ⭐ 2 | 🐛 0 | 📅 2026-10-28 - A comprehensive collection of Human Interface Guidelines, Design Systems, frameworks, and tools for designers and developers who want to create clean, minimalistic, and sophisticated user interfaces.
 
 ### AppImage Topic Lists
 
-* [awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage) ⭐ 614 | 🐛 13 | 📅 2025-12-07 - Lovingly crafted AppImage tools and resources.
+* [awesome-appimage](https://github.com/AppImageCommunity/awesome-appimage) ⭐ 615 | 🐛 15 | 📅 2025-12-07 - Lovingly crafted AppImage tools and resources.
 
 ### Apple Topic Lists
 
-* [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) ⭐ 7,074 | 🐛 16 | 🌐 Python | 📅 2025-06-17 - Largest list of models for Core ML (for iOS 11+).
+* [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) ⭐ 7,075 | 🐛 16 | 🌐 Python | 📅 2025-06-17 - Largest list of models for Core ML (for iOS 11+).
 * [awesome-swift-korean-lecture](https://github.com/ClintJang/awesome-swift-korean-lecture) ⭐ 1,336 | 🐛 0 | 🌐 Swift | 📅 2023-12-22 - 훌륭한 Swift 세션 동영상(강좌), 한글 자막있는 혹은 한국어 강의 정보 링크 모음 (Awesome Swift Korean lecture information).
-* [aprenda-swift](https://github.com/CodandoApple/aprenda-swift) ⭐ 1,036 | 🐛 2 | 🌐 Swift | 📅 2026-11-10 - Uma lista de conteúdos para você aprender Swift.
+* [aprenda-swift](https://github.com/CodandoApple/aprenda-swift) ⭐ 1,037 | 🐛 2 | 🌐 Swift | 📅 2026-11-10 - Uma lista de conteúdos para você aprender Swift.
 * [awesome-ios-developer](https://github.com/jphong1111/awesome-ios-developer) ⭐ 847 | 🐛 12 | 🌐 Swift | 📅 2026-10-04 - List of awesome iOS & Swift stuff!
 * [Awesome-RealityKit](https://github.com/divalue/Awesome-RealityKit) ⭐ 366 | 🐛 3 | 📅 2024-05-23 - Awesome projects and resources about RealityKit.
 * [Awesome-Vision-Pro](https://github.com/jtmuller5/Awesome-Vision-Pro) ⭐ 215 | 🐛 3 | 📅 2026-09-10 - Collection of apps, developer resources, communities, and articles related to the Apple Vision Pro.
 * [fucking-awesome-macOS](https://github.com/Correia-jpv/fucking-awesome-macOS) ⭐ 91 | 🐛 12 | 📅 2026-11-12 -  A curated list of awesome applications, softwares, tools and shiny things for macOS. With up-to-date repository stars⭐ and forks🍴.
 * [awesome-apple-security](https://github.com/BlackSquirrelz/awesome-apple-security) ⭐ 88 | 🐛 0 | 📅 2026-10-22 - Curated list of tools, techniques and resources related to Apple Security (macOS, iOS, iPadOS, tvOS, watchOS) aimed to help people with an interest in Apple related security topics to get a hold in this field, and for professionals to discover / explore other resources.
-* [fucking-awesome-mac](https://github.com/correia-jpv/fucking-awesome-mac) ⭐ 72 | 🐛 6 | 🌐 Swift | 📅 2026-11-12 -  Now we have become very big, Different from the original idea. Collect premium software in various categories. With repository stars⭐ and forks🍴.
+* [fucking-awesome-mac](https://github.com/correia-jpv/fucking-awesome-mac) ⭐ 72 | 🐛 6 | 🌐 Swift | 📅 2026-11-14 -  Now we have become very big, Different from the original idea. Collect premium software in various categories. With repository stars⭐ and forks🍴.
 * [Xcode-Guide](https://github.com/mikeroyal/Xcode-Guide) ⭐ 47 | 🐛 0 | 🌐 Swift | 📅 2024-01-04 - Xcode Guide.
 * [macOS-iOS-iPadOS-Guide](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide) ⭐ 32 | 🐛 0 | 🌐 Shell | 📅 2022-02-09 - macOS/iOS/iPadOS Guide.
 * [awesome-core-ai](https://github.com/john-rocky/awesome-core-ai) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-11-11 - Curated resources for Apple's Core AI: official documentation, model downloads, Swift packages, sample apps, benchmarks and practical learning material for on-device AI on iPhone and Mac.
@@ -2530,7 +2531,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Arduino Topic Lists
 
-* [awesome-esp](https://github.com/agucova/awesome-esp) ⭐ 2,808 | 🐛 42 | 📅 2026-05-09 - 📶 A curated list of awesome ESP8266/32 projects and code.
+* [awesome-esp](https://github.com/agucova/awesome-esp) ⭐ 2,809 | 🐛 42 | 📅 2026-05-09 - 📶 A curated list of awesome ESP8266/32 projects and code.
 * [awesome-2d-lidars](https://github.com/kaiaai/awesome-2d-lidars) ⭐ 135 | 🐛 1 | 📅 2026-07-06 - Awesome 2D LiDAR list - specs, protocols, wiring, code, identification photos/videos, performance evaluations.
 * [awesome-adafruitio](https://github.com/adafruit/awesome-adafruitio) ⭐ 97 | 🐛 1 | 📅 2022-02-20 - A curated list of awesome Adafruit IO guides, videos, libraries, frameworks, software and resources.
 * [awesome-arduino](https://github.com/m8/awesome-arduino) ⭐ 76 | 🐛 2 | 📅 2021-10-15 - A curated list of awesome Arduino tools and projects.
@@ -2541,8 +2542,8 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Art Topic Lists
 
-* [magictools](https://github.com/ellisonleao/magictools) ⭐ 17,767 | 🐛 48 | 🌐 Markdown | 📅 2026-11-12 - :video\_game: :pencil: A list of Game Development resources to make magic happen.
-* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,592 | 🐛 32 | 🌐 HTML | 📅 2026-07-21 - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
+* [magictools](https://github.com/ellisonleao/magictools) ⭐ 17,773 | 🐛 46 | 🌐 Markdown | 📅 2026-11-13 - :video\_game: :pencil: A list of Game Development resources to make magic happen.
+* [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,594 | 🐛 32 | 🌐 HTML | 📅 2026-07-21 - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 * [awesome-machine-learning-art](https://github.com/vibertthio/awesome-machine-learning-art) ⭐ 721 | 🐛 3 | 📅 2020-12-11 - :robot::art::guitar:A curated list of awesome projects, works, people, articles, and resource for creating art (including music) with machine learning. It's machine learning art.
 * [awesome-self-reference](https://github.com/aztek/awesome-self-reference) ⭐ 270 | 🐛 2 | 📅 2024-10-02 - A curated list of examples of self-reference in art, science, and technology.
 * [awesome-creative-tech-events](https://github.com/danvoyce/awesome-creative-tech-events) ⭐ 216 | 🐛 11 | 📅 2023-02-03 - A curated list of awesome creative tech events from around the world.
@@ -2569,8 +2570,8 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Assembly Topic Lists
 
-* [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) ⭐ 2,840 | 🐛 4 | 📅 2025-09-19 - Collection of resources spanning key areas of Computer Science.
-* [awesome-lockfree](https://github.com/rigtorp/awesome-lockfree) ⭐ 2,077 | 🐛 0 | 📅 2026-10-05 - A collection of resources on wait-free and lock-free programming.
+* [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) ⭐ 2,841 | 🐛 4 | 📅 2025-09-19 - Collection of resources spanning key areas of Computer Science.
+* [awesome-lockfree](https://github.com/rigtorp/awesome-lockfree) ⭐ 2,078 | 🐛 0 | 📅 2026-10-05 - A collection of resources on wait-free and lock-free programming.
 * [awesome-coco](https://github.com/dougmasten/awesome-coco) ⭐ 94 | 🐛 0 | 🌐 Just | 📅 2026-06-25 - A curated list of awesome Tandy Color Computer development tools, software and resources.
 * [awesome-bytecode](https://github.com/artpar/awesome-bytecode) ⭐ 20 | 🐛 0 | 📅 2023-11-08 - Awesome list for binary.
 
@@ -2578,8 +2579,8 @@ Last generated: 2026-11-12, 10396 lists.
 
 * [awesome-jev](https://github.com/heyjunpenn/awesome-jev) ⭐ 1,074 | 🐛 1 | 🌐 Astro | 📅 2026-11-12 - A verified, community-maintained catalog of 962 open-source projects built with Jev.
 * [marvelorder](https://github.com/ThatGuySam/marvelorder) ⭐ 57 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-23 - Keeps track of previous and upcoming Marvel Movies and Series ordered by release, chronologically, by Official Disney+ In Universe Timeline, and more.
-* [awesome-emdash](https://github.com/bearboy80/awesome-emdash) ⭐ 16 | 🐛 2 | 🌐 Python | 📅 2026-11-09 - Awesome EmDash — curated plugins, templates & resources / EmDash 插件、模板与资源精选列表.
-* [stars](https://github.com/jameswlane/stars) ⭐ 16 | 🐛 0 | 📅 2026-11-12 - A curated list of my GitHub stars.
+* [awesome-emdash](https://github.com/bearboy80/awesome-emdash) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2026-11-14 - Awesome EmDash — curated plugins, templates & resources / EmDash 插件、模板与资源精选列表.
+* [stars](https://github.com/jameswlane/stars) ⭐ 16 | 🐛 0 | 📅 2026-11-13 - A curated list of my GitHub stars.
 * [Awesome-Astro-Integrations](https://github.com/RichLewis007/Awesome-Astro-Integrations) ⭐ 10 | 🐛 2 | 🌐 HTML | 📅 2026-03-23 - Best Astro web framework extensions and plugins that add new features and behaviors for your Astro web framework projects with only a few lines of code, including compatibility with other tools and UI frameworks like React, Vue, Svelte, and Tailwind CSS.
 
 ### Astronomy Topic Lists
@@ -2598,7 +2599,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### AT Protocol Topic Lists
 
-* [awesome-atproto](https://github.com/atblueprints/awesome-atproto) ⭐ 83 | 🐛 10 | 📅 2026-09-14 - A curated list of awesome AT Protocol resources.
+* [awesome-atproto](https://github.com/atblueprints/awesome-atproto) ⭐ 84 | 🐛 10 | 📅 2026-09-14 - A curated list of awesome AT Protocol resources.
 
 ### Auth0 Topic Lists
 
@@ -2607,7 +2608,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Authentication Topic Lists
 
-* [Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) ⭐ 23,544 | 🐛 74 | 🌐 Dockerfile | 📅 2025-06-27 - Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
+* [Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) ⭐ 23,554 | 🐛 74 | 🌐 Dockerfile | 📅 2025-06-27 - Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
 * [awesome-medusajs](https://github.com/adrien2p/awesome-medusajs) ⭐ 637 | 🐛 7 | 📅 2025-12-09 - A curated list of awesome resources related to MedusaJS 😎.
 * [awesome-auth](https://github.com/casdoor/awesome-auth) ⭐ 551 | 🐛 0 | 📅 2026-11-02 - Awesome list for authentication and authorization.
 * [awesome-authentication](https://github.com/gitcommitshow/awesome-authentication) ⭐ 139 | 🐛 0 | 📅 2020-08-10 - Resources to learn and implement authentication in your application.
@@ -2624,15 +2625,15 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Automation Topic Lists
 
-* [Compose-Examples](https://github.com/Haxxnet/Compose-Examples) ⭐ 7,412 | 🐛 3 | 📅 2026-11-12 - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
-* [awesome-arr](https://github.com/Ravencentric/awesome-arr) ⭐ 4,491 | 🐛 11 | 📅 2026-10-13 - A collection of \*arrs and related stuff.
-* [awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) ⭐ 4,066 | 🐛 50 | 🌐 HTML | 📅 2026-11-04 - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
+* [Compose-Examples](https://github.com/Haxxnet/Compose-Examples) ⭐ 7,413 | 🐛 3 | 📅 2026-11-12 - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
+* [awesome-arr](https://github.com/Ravencentric/awesome-arr) ⭐ 4,497 | 🐛 12 | 📅 2026-10-13 - A collection of \*arrs and related stuff.
+* [awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) ⭐ 4,068 | 🐛 50 | 🌐 HTML | 📅 2026-11-04 - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 * [alfred-workflows](https://github.com/gendotnew/alfred-workflows) ⭐ 2,782 | 🐛 4 | 📅 2026-05-01 - Amazing Alfred Workflows.
 * [alfred-workflows](https://github.com/linsa-io/alfred-workflows) ⭐ 2,782 | 🐛 4 | 📅 2026-05-01 - Amazing Alfred Workflows.
 * [awesome-git-hooks](https://github.com/compscilauren/awesome-git-hooks) ⭐ 1,195 | 🐛 24 | 🌐 Shell | 📅 2026-03-25 - :anchor: A curated list of awesome git hooks.
 * [awesome-weekly-robotics](https://github.com/msadowski/awesome-weekly-robotics) ⭐ 1,071 | 🐛 12 | 📅 2026-05-31 - A list of projects that were or will be featured in Weekly Robotics newsletter.
-* [awesome-browser-automation](https://github.com/angrykoala/awesome-browser-automation) ⭐ 657 | 🐛 24 | 📅 2026-11-12 - Curated list of awesome browser automation tools and resources.
-* [awesome-microsoft-copilot-prompts](https://github.com/kesslernity/awesome-microsoft-copilot-prompts) ⭐ 583 | 🐛 0 | 📅 2026-11-03 - The definitive Microsoft 365 Copilot prompt library for business teams. 573 prompts for Office apps, Copilot Studio, security operations, and enterprise deployment.
+* [awesome-browser-automation](https://github.com/angrykoala/awesome-browser-automation) ⭐ 657 | 🐛 25 | 📅 2026-11-12 - Curated list of awesome browser automation tools and resources.
+* [awesome-microsoft-copilot-prompts](https://github.com/kesslernity/awesome-microsoft-copilot-prompts) ⭐ 584 | 🐛 0 | 📅 2026-11-03 - The definitive Microsoft 365 Copilot prompt library for business teams. 573 prompts for Office apps, Copilot Studio, security operations, and enterprise deployment.
 * [awesome-systools](https://github.com/Spacial/awesome-systools) ⭐ 217 | 🐛 11 | 📅 2026-10-09 - Awesome Systools is a collection of sysadmins daily handy tools.
 * [awesome-ai-pulse-georgia](https://github.com/tornikebolokadze1-cyber/awesome-ai-pulse-georgia) ⭐ 158 | 🐛 39 | 🌐 TypeScript | 📅 2026-11-09 - A curated collection of cutting-edge AI agent frameworks, developer tools, and automation resources — by AI Pulse Georgia.
 * [awesome-testing-blogs](https://github.com/ChristoWolf/awesome-testing-blogs) ⭐ 119 | 🐛 10 | 🌐 Markdown | 📅 2026-10-12 - An awesome, curated list of various software testing related blogs and similar resources.
@@ -2640,7 +2641,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-testing](https://github.com/crazy-canux/awesome-testing) ⭐ 77 | 🐛 7 | 🌐 Python | 📅 2026-06-23 - Software Testing for QA.
 * [awesome-automations](https://github.com/arsenic-atg/awesome-automations) ⭐ 62 | 🐛 21 | 🌐 C++ | 📅 2026-07-29 - A repository Full of 😎interesting Automations.
 * [Awesome-Binary-Analysis-Automation](https://github.com/user1342/Awesome-Binary-Analysis-Automation) ⭐ 62 | 🐛 3 | 📅 2024-04-21 - A curated list of awesome binary analysis automation training, resources, and tools.
-* [awesome-grok-bot](https://github.com/Anil-matcha/awesome-grok-bot) ⭐ 61 | 🐛 7 | 📅 2026-09-20 - A curated list of ready-to-use Grok bot templates across productivity, sales, marketing, ops, success, and personal workflows.
+* [awesome-grok-bot](https://github.com/Anil-matcha/awesome-grok-bot) ⭐ 62 | 🐛 7 | 📅 2026-09-20 - A curated list of ready-to-use Grok bot templates across productivity, sales, marketing, ops, success, and personal workflows.
 * [Autonomous-Systems-Guide](https://github.com/mikeroyal/Autonomous-Systems-Guide) ⭐ 55 | 🐛 0 | 🌐 Python | 📅 2022-01-09 - Autonomous Systems Guide.
 * [awesome-claude-code-hooks](https://github.com/ithiria894/awesome-claude-code-hooks) ⭐ 31 | 🐛 17 | 📅 2026-03-24 - Curated collection of Claude Code hooks for event-driven automation.
 * [IoT-Guide](https://github.com/mikeroyal/IoT-Guide) ⭐ 31 | 🐛 0 | 🌐 Shell | 📅 2022-02-06 - IoT Guide.
@@ -2668,11 +2669,11 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### AwesomeWM Topic Lists
 
-* [awesome-rices](https://github.com/zemmsoares/awesome-rices) ⭐ 1,387 | 🐛 0 | 📅 2026-09-22 - A curated list of awesome unix user rices!
+* [awesome-rices](https://github.com/zemmsoares/awesome-rices) ⭐ 1,388 | 🐛 0 | 📅 2026-09-22 - A curated list of awesome unix user rices!
 
 ### Amazon Web Services Topic Lists
 
-* [awesome-aws](https://github.com/donnemartin/awesome-aws) ⭐ 14,198 | 🐛 109 | 🌐 Python | 📅 2024-03-12 - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.
+* [awesome-aws](https://github.com/donnemartin/awesome-aws) ⭐ 14,199 | 🐛 108 | 🌐 Python | 📅 2024-03-12 - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.
 * [awesome-ecs](https://github.com/nathanpeck/awesome-ecs) ⭐ 2,900 | 🐛 6 | 📅 2024-03-15 - A curated list of awesome ECS guides, development tools, and resources.
 * [awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) ⭐ 2,519 | 🐛 26 | 📅 2026-03-17 - 🛡️ Awesome Cloud Security Resources ⚔️.
 * [awesome-layers](https://github.com/mthenw/awesome-layers) ⭐ 2,265 | 🐛 10 | 📅 2024-04-25 - Λ A curated list of awesome AWS Lambda Layers. Sponsored by.
@@ -2689,13 +2690,13 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-opensearch](https://github.com/bigdataboutique/awesome-opensearch) ⭐ 55 | 🐛 2 | 📅 2026-01-04 - A curated list of links and resources for OpenSearch. Maintained by the folks @ BigData Boutique (makers of Pulse AI SRE for OpenSearch).
 * [awesome-aws-research](https://github.com/randyridgley/awesome-aws-research) ⭐ 45 | 🐛 0 | 📅 2021-10-12 - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources for Academic Researchers new to AWS.
 * [awesome-object-storage](https://github.com/mixpeek/awesome-object-storage) ⭐ 38 | 🐛 11 | 📅 2026-05-21 - A curated, opinionated guide to S3-compatible object storage — 21 providers, pricing, features, gotchas, and an interactive comparison tool.
-* [fucking-awesome-aws](https://github.com/correia-jpv/fucking-awesome-aws) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-11-12 - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome. With repository stars⭐ and forks🍴.
+* [fucking-awesome-aws](https://github.com/correia-jpv/fucking-awesome-aws) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-11-14 - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome. With repository stars⭐ and forks🍴.
 * [AWSome-websites](https://github.com/StanForever/AWSome-websites) ⭐ 10 | 🐛 0 | 📅 2024-12-24 - A curated list of awesome websites which are related to Amazon Web Services (AWS).
 * [awesome-ec2-spot](https://github.com/nadaahm/awesome-ec2-spot) ⭐ 8 | 🐛 0 | 📅 2021-10-06 - A curated list of awesome AWS EC2 Spot related updates, open source repos, guides, blogs, and other resources.
 
 ### Azure Topic Lists
 
-* [awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture) ⭐ 1,735 | 🐛 0 | 📅 2026-11-05 - AWESOME-Azure-Architecture -.
+* [awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture) ⭐ 1,737 | 🐛 0 | 📅 2026-11-05 - AWESOME-Azure-Architecture -.
 * [awesome-azure-policy](https://github.com/globalbao/awesome-azure-policy) ⭐ 553 | 🐛 0 | 📅 2026-11-10 - A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Policy - by @JesseLoudon.
 * [awesome-azure](https://github.com/kristofferandreasen/awesome-azure) ⭐ 458 | 🐛 8 | 🌐 PowerShell | 📅 2023-02-02 - A Curated List of Azure Resources. The list provides you with enough resources to get a full overview of the services in Azure and get started with cloud computing.
 * [AWESOME-Azure-Bicep](https://github.com/ElYusubov/AWESOME-Azure-Bicep) ⭐ 445 | 🐛 6 | 📅 2026-11-03 - A curated list of blogs, videos, tutorials, code, tools, scripts, and anything useful to help you learn Azure Bicep - by @ElYusubov, @johnlokerse and @lukemurraynz.
@@ -2710,16 +2711,16 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Azure DevOps Topic Lists
 
-* [awesome-azure-devops](https://github.com/johnlokerse/awesome-azure-devops) ⭐ 157 | 🐛 9 | 📅 2026-05-20 - An awesome list of Azure DevOps content created by Microsoft or the Community!
+* [awesome-azure-devops](https://github.com/johnlokerse/awesome-azure-devops) ⭐ 157 | 🐛 10 | 📅 2026-05-20 - An awesome list of Azure DevOps content created by Microsoft or the Community!
 * [awesome-azure-devops](https://github.com/martcus/awesome-azure-devops) ⭐ 7 | 🐛 4 | 📅 2025-11-28 - A curated list of awesome resource for azure devops.
 
 ### Back end Topic Lists
 
-* [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) ⭐ 75,684 | 🐛 32 | 📅 2026-01-04 - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems.
-* [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) ⭐ 43,349 | 🐛 26 | 🌐 Java | 📅 2026-11-01 - Learn System Design concepts and prepare for interviews using free resources.
-* [backend-cheats](https://github.com/cheatsnake/backend-cheats) ⭐ 5,275 | 🐛 4 | 📅 2025-02-02 - 📃 White paper for Backend developers.
+* [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) ⭐ 75,715 | 🐛 32 | 📅 2026-01-04 - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems.
+* [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) ⭐ 43,370 | 🐛 26 | 🌐 Java | 📅 2026-11-01 - Learn System Design concepts and prepare for interviews using free resources.
+* [backend-cheats](https://github.com/cheatsnake/backend-cheats) ⭐ 5,279 | 🐛 4 | 📅 2025-02-02 - 📃 White paper for Backend developers.
 * [awesome-backend](https://github.com/zhashkevych/awesome-backend) ⭐ 3,507 | 🐛 12 | 📅 2026-04-17 - 🚀 A curated and opinionated list of resources (English & Russian) for Backend developers | Структурированный список ресурсов для изучения Backend разработки.
-* [devmap](https://github.com/zualex/devmap) ⭐ 2,254 | 🐛 0 | 📅 2021-09-06 - Карта развития веб-разработчика.
+* [devmap](https://github.com/zualex/devmap) ⭐ 2,253 | 🐛 0 | 📅 2021-09-06 - Карта развития веб-разработчика.
 * [roadmap-java-sng](https://github.com/borymskyi/roadmap-java-sng) ⭐ 194 | 🐛 4 | 📅 2026-03-23 - 🚀Структурированный список ресурсов для изучения Java.
 * [awesome-web-you-should-know](https://github.com/freyhill/awesome-web-you-should-know) ⭐ 166 | 🐛 3 | 📅 2022-03-06 - 🌎awesome web you should know.
 * [awesome\_dart\_frog](https://github.com/dart-frog-dev/awesome_dart_frog) ⭐ 132 | 🐛 0 | 📅 2026-02-08 - An awesome repo with Dart Frog articles, tutorials, plugins, and more!
@@ -2733,7 +2734,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Bash Topic Lists
 
-* [Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) ⭐ 4,172 | 🐛 1 | 📅 2026-01-07 - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources.
+* [Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) ⭐ 4,171 | 🐛 1 | 📅 2026-01-07 - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources.
 * [awesome-terminals](https://github.com/cdleon/awesome-terminals) ⭐ 3,056 | 🐛 65 | 📅 2026-10-19 - Terminal Emulators.
 * [awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks) ⭐ 988 | 🐛 4 | 🌐 Shell | 📅 2026-01-19 - 😎 A collection of awesome Git Hooks.
 * [awesome-for-oneliner](https://github.com/sheepla/awesome-for-oneliner) ⭐ 157 | 🐛 0 | 📅 2024-08-18 - 🐚 A list of useful commands in the Unix shell one liner.
@@ -2750,14 +2751,14 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Binance Topic Lists
 
-* [awesome-crypto](https://github.com/itgoyo/awesome-crypto) ⭐ 1,098 | 🐛 20 | 📅 2026-10-30 - 币圈导航虚拟加密货币资源大全，手动整理的全网最全虚拟货币学习资料，涵盖了中心化交易所（如欧易OKX、币安Binance、Gate.io）、NFT市场、DeFi工具、加密钱包、巨鲸追踪和数据分析等，帮助用户轻松导航加密货币世界。涉及币圈导航、虚拟货币、交易所返佣、Web3.0等内容本指南将持续更新，力求保持最新、最全面的币圈信息，币圈导航祝各位早点财务自由。👉 [www.0xnav.com](http://www.0xnav.com).
+* [awesome-crypto](https://github.com/itgoyo/awesome-crypto) ⭐ 1,099 | 🐛 20 | 📅 2026-10-30 - 币圈导航虚拟加密货币资源大全，手动整理的全网最全虚拟货币学习资料，涵盖了中心化交易所（如欧易OKX、币安Binance、Gate.io）、NFT市场、DeFi工具、加密钱包、巨鲸追踪和数据分析等，帮助用户轻松导航加密货币世界。涉及币圈导航、虚拟货币、交易所返佣、Web3.0等内容本指南将持续更新，力求保持最新、最全面的币圈信息，币圈导航祝各位早点财务自由。👉 [www.0xnav.com](http://www.0xnav.com).
 * [awesome-crypto](https://github.com/fundgao/awesome-crypto) ⭐ 34 | 🐛 3 | 🌐 Rust | 📅 2026-03-08 - 基于starknet空投资格，现创建一个世界级项目，用于领取后面项目的空投资格。Based on the starknet air investment qualification, a world-class project is now created to receive the air investment qualification for subsequent projects.
 * [awesome-crypto](https://github.com/okay456okay/awesome-crypto) ⭐ 21 | 🐛 1 | 📅 2025-09-24 - 加密货币（币圈）资源大全，从入门到进阶，求精不求多，持续更新.
 
 ### Bioinformatics Topic Lists
 
-* [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,364 | 🐛 57 | 📅 2026-09-27 - A curated list of awesome Bioinformatics libraries and software.
-* [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,892 | 🐛 9 | 📅 2026-11-07 - Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.
+* [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,365 | 🐛 58 | 📅 2026-09-27 - A curated list of awesome Bioinformatics libraries and software.
+* [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) ⭐ 3,893 | 🐛 8 | 📅 2026-11-13 - Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.
 * [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) ⭐ 896 | 🐛 36 | 📅 2024-03-15 - A curated list of Cheminformatics libraries and software.
 * [awesome-bioie](https://github.com/caufieldjh/awesome-bioie) ⭐ 473 | 🐛 8 | 📅 2026-05-26 - 🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP).
 * [Awesome-Bioinformatics-Benchmarks](https://github.com/j-andrews7/Awesome-Bioinformatics-Benchmarks) ⭐ 368 | 🐛 29 | 📅 2026-02-26 - A curated and summarized list of bioinformatics bench-marking papers and resources.
@@ -2785,7 +2786,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 * [awesome-coins](https://github.com/Zheaoli/awesome-coins) ⭐ 4,123 | 🐛 23 | 📅 2023-07-20 - ₿ A guide (for humans!) to cryto-currencies and their algos.
 * [ultimate-defi-research-base](https://github.com/OffcierCia/ultimate-defi-research-base) ⭐ 2,244 | 🐛 3 | 📅 2026-03-14 - Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request.
-* [On-Chain-Investigations-Tools-List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List) ⭐ 1,988 | 🐛 23 | 📅 2026-06-03 - Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals! PRs are welcome! If any tool is missing - please open PR!
+* [On-Chain-Investigations-Tools-List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List) ⭐ 1,989 | 🐛 23 | 📅 2026-06-03 - Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals! PRs are welcome! If any tool is missing - please open PR!
 * [web3](https://github.com/life-itself/web3) ⭐ 1,945 | 🐛 38 | 🌐 HTML | 📅 2026-08-07 - Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.
 * [awesome-cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics) ⭐ 1,772 | 🐛 3 | 📅 2024-06-17 - An awesome curated list of Cryptoeconomic research and learning materials.
 * [Blockchain-Development-Resources](https://github.com/frankiefab100/Blockchain-Development-Resources) ⭐ 1,575 | 🐛 15 | 🌐 Markdown | 📅 2025-02-02 - The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol.
@@ -2798,7 +2799,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-ordinals](https://github.com/neu-fi/awesome-ordinals) ⭐ 188 | 🐛 10 | 📅 2024-07-13 - A curated list of ordinals and inscriptions ecosystem.
 * [awesome-bitvm](https://github.com/Rsync25/awesome-bitvm) ⭐ 114 | 🐛 0 | 📅 2025-08-04 - A curated list of resources around BitVM.
 * [awesome-nwc](https://github.com/getalby/awesome-nwc) ⭐ 98 | 🐛 3 | 📅 2026-11-09 - Curated list of awesome projects implementing Nostr Wallet Connect (NWC).
-* [awesome-web3-resources](https://github.com/twf-nikhila/awesome-web3-resources) ⭐ 69 | 🐛 15 | 📅 2026-03-25 - 😎 Awesome resource related to Web3 (Courses, Tools, YouTube vidoes, Job-Board & more).
+* [awesome-web3-resources](https://github.com/twf-nikhila/awesome-web3-resources) ⭐ 69 | 🐛 16 | 📅 2026-03-25 - 😎 Awesome resource related to Web3 (Courses, Tools, YouTube vidoes, Job-Board & more).
 * [awesome-op-cat](https://github.com/scrypt-inc/awesome-op-cat) ⭐ 60 | 🐛 0 | 📅 2026-09-23 - A curated list of awesome things related to OP\_CAT 🐱 on #bitcoin.
 * [Blockchain-Guide](https://github.com/mikeroyal/Blockchain-Guide) ⭐ 48 | 🐛 0 | 🌐 C++ | 📅 2022-04-28 - Blockchain Guide.
 * [awesome-distributed-computing-projects](https://github.com/en3r0/awesome-distributed-computing-projects) ⭐ 45 | 🐛 0 | 📅 2026-09-30 - This is a list of Free Software which contribute resources to a distributed network.
@@ -2833,19 +2834,19 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Blockchain Topic Lists
 
-* [DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,897 | 🐛 13 | 🌐 Python | 📅 2026-11-03 - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
+* [DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,898 | 🐛 13 | 🌐 Python | 📅 2026-11-03 - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
 * [awesome-blockchains](https://github.com/openblockchains/awesome-blockchains) ⭐ 3,781 | 🐛 7 | 🌐 Ruby | 📅 2023-02-10 - A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-). Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized.
-* [awesome-blockchain](https://github.com/yjjnls/awesome-blockchain) ⭐ 3,644 | 🐛 6 | 🌐 Go | 📅 2026-11-10 - ⚡️Curated list of resources for the development and applications of blockchain.
-* [Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) ⭐ 1,900 | 🐛 2 | 📅 2026-08-16 - Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.
+* [awesome-blockchain](https://github.com/yjjnls/awesome-blockchain) ⭐ 3,644 | 🐛 7 | 🌐 Go | 📅 2026-11-10 - ⚡️Curated list of resources for the development and applications of blockchain.
+* [Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) ⭐ 1,901 | 🐛 2 | 📅 2026-08-16 - Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.
 * [awesome-decentralized-finance](https://github.com/ong/awesome-decentralized-finance) ⭐ 1,672 | 🐛 89 | 📅 2026-01-14 - A curated list of awesome decentralized finance projects.
 * [web3-awesome](https://github.com/fltenwall/web3-awesome) ⭐ 1,424 | 🐛 7 | 🌐 HTML | 📅 2024-11-01 - Web3百科全书👏🏻 打造 web3 全球第一中文资源.
 * [awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) ⭐ 1,378 | 🐛 0 | 🌐 HTML | 📅 2026-11-09 - 📚 菜鸟成长手册🚀 CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡.
 * [awesome-blockchain-ai](https://github.com/steven2358/awesome-blockchain-ai) ⭐ 1,161 | 🐛 43 | 📅 2026-02-06 - A curated list of Blockchain projects for Artificial Intelligence and Machine Learning.
 * [awesome-blockchain](https://github.com/bitmasterv/awesome-blockchain) ⭐ 1,075 | 🐛 6 | 📅 2018-12-14 - 区块链白皮书、书籍、交易所、币种、自媒体等资源汇总 💯.
-* [awesome-account-abstraction](https://github.com/4337Mafia/awesome-account-abstraction) ⭐ 1,024 | 🐛 859 | 📅 2026-06-09 - 📖 A curated list of resources dedicated to Account Abstraction (EIP-4337).
-* [awesome-list-rpc-nodes-providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers) ⭐ 917 | 🐛 1,353 | 📅 2025-08-28 - A curated list of awesome Node providers and public RPC endpoints for Ethereum, BSC, Gnosis (xDAI), Fantom, Avalanche, KuCoin, Fuse, Harmony, Tezos, IoTeX, Arbitrum, Optimism and more :).
+* [awesome-account-abstraction](https://github.com/4337Mafia/awesome-account-abstraction) ⭐ 1,024 | 🐛 860 | 📅 2026-06-09 - 📖 A curated list of resources dedicated to Account Abstraction (EIP-4337).
+* [awesome-list-rpc-nodes-providers](https://github.com/arddluma/awesome-list-rpc-nodes-providers) ⭐ 917 | 🐛 1,354 | 📅 2025-08-28 - A curated list of awesome Node providers and public RPC endpoints for Ethereum, BSC, Gnosis (xDAI), Fantom, Avalanche, KuCoin, Fuse, Harmony, Tezos, IoTeX, Arbitrum, Optimism and more :).
 * [awesome-web3](https://github.com/ahmet/awesome-web3) ⭐ 909 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-09 - A curated list of awesome Web3 resources, libraries, tools and more.
-* [awesome-internet-computer](https://github.com/dfinity/awesome-internet-computer) ⭐ 899 | 🐛 3 | 📅 2026-11-12 - A curated list of awesome projects and resources relating to the Internet Computer Protocol.
+* [awesome-internet-computer](https://github.com/dfinity/awesome-internet-computer) ⭐ 899 | 🐛 2 | 📅 2026-11-13 - A curated list of awesome projects and resources relating to the Internet Computer Protocol.
 * [awesome-blockchain](https://github.com/imbaniac/awesome-blockchain) ⭐ 895 | 🐛 22 | 📅 2024-04-02 - Curated list of blockchain services and exchanges 🔥🏦🔥🏦🔥🏦🔥.
 * [awesome-substrate](https://github.com/polkadot-developers/awesome-substrate) ⭐ 777 | 🐛 21 | 📅 2024-04-20 - A curated list of awesome projects and resources related to the Substrate blockchain development framework.
 * [awesome-openzeppelin](https://github.com/OpenZeppelin/awesome-openzeppelin) ⭐ 764 | 🐛 4 | 📅 2023-02-08 - Blockchain educational resources curated by the OpenZeppelin team.
@@ -2853,8 +2854,8 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-cosmos](https://github.com/cosmos/awesome-cosmos) ⭐ 602 | 🐛 13 | 📅 2026-04-13 - Collection of Cosmos related resources.
 * [awesome-cryptokitties-bubble](https://github.com/cryptocopycats/awesome-cryptokitties-bubble) ⭐ 523 | 🐛 0 | 🌐 Ruby | 📅 2021-04-21 - Awesome CryptoKitties Bubble (Anno 2017) - Yes, Cute Little Cartoon Cats on the Blockchain! - Digital collectibles secured on a distributed public database w/ crypto hashes. Learn by Example from the Real World - Buy! Sell! Hodl! Sire!
 * [awesome-zero-knowledge](https://github.com/odradev/awesome-zero-knowledge) ⭐ 365 | 🐛 2 | 📅 2025-09-02 - A curated list of Zero Knowledge links, mostly focusing on blockchain.
+* [awesome-audits-checklists](https://github.com/tradmod/awesome-audits-checklists) ⭐ 335 | 🐛 2 | 📅 2026-02-04 - A curated list of smart contracts security audits checklists and resources.
 * [awesome-layer-2](https://github.com/Awesome-Layer-2/awesome-layer-2) ⭐ 335 | 🐛 4 | 📅 2020-09-05 - All the layer 2 projects.
-* [awesome-audits-checklists](https://github.com/tradmod/awesome-audits-checklists) ⭐ 334 | 🐛 2 | 📅 2026-02-04 - A curated list of smart contracts security audits checklists and resources.
 * [awesome-supply-chain](https://github.com/Funkmyster/awesome-supply-chain) ⭐ 300 | 🐛 12 | 📅 2023-10-28 - A curated list of awesome supply chain blogs, podcasts, standards, projects, and examples.
 * [Library-of-Ethereum](https://github.com/ArpitIngle/Library-of-Ethereum) ⭐ 277 | 🐛 4 | 📅 2023-12-26 - Curated Collection of Ethereum Ecosystem Resources.
 * [awesome-finance-mcp](https://github.com/blockrunai/awesome-finance-mcp) ⭐ 261 | 🐛 78 | 📅 2026-09-05 - A curated list of MCP servers for AI finance agents.
@@ -2864,7 +2865,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-stellar](https://github.com/stellar/awesome-stellar) ⭐ 194 | 🐛 12 | 📅 2026-02-23 - 👨‍🚀 A curated list of Stellar applications, blog posts, educational resources, tools, and more.
 * [awesome-decentralized-database](https://github.com/recallnet/awesome-decentralized-database) ⚠️ Archived - A curated list of awesome decentralized databases and related resources.
 * [awesome-desci](https://github.com/DeSciWorldDAO/awesome-desci) ⭐ 128 | 🐛 1 | 📅 2026-05-22 - A curated list of awesome DeSci resources, projects, events, articles and more.
-* [awesome-depin](https://github.com/iotexproject/awesome-depin) ⭐ 125 | 🐛 9 | 📅 2026-10-21 - A curated list of all DePIN research, projects and resources.
+* [awesome-depin](https://github.com/iotexproject/awesome-depin) ⭐ 125 | 🐛 11 | 📅 2026-10-21 - A curated list of all DePIN research, projects and resources.
 * [awesome-blinks](https://github.com/solana-developers/awesome-blinks) ⭐ 121 | 🐛 5 | 📅 2024-08-03 - Awesome Blinks and Solana Actions - Looking for Blink ideas? Check out the Ideas discussion board too.
 * [awesome-blockchain](https://github.com/hitripod/awesome-blockchain) ⭐ 120 | 🐛 6 | 📅 2023-03-31 - Curated list of blockchain, Awesome Awesomeness.
 * [awesome-cryptopunks-bubble](https://github.com/cryptopunksnotdead/awesome-cryptopunks-bubble) ⭐ 120 | 🐛 0 | 📅 2024-04-16 - Awesome Matt & John's® Punks Bubble (Anno 2021) - Modern 24x24 Pixel Crypto Art on the Blockchain since 2017 - 10 000 Unique Collectible Characters Generated Algorithmically ++ Bonus: Inside the Matt & John's® CryptoPunksMarket Contract Service And More.
@@ -2904,11 +2905,11 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-hive](https://github.com/ecency/awesome-hive) ⭐ 21 | 🐛 4 | 📅 2026-10-26 - Awesome hive blockchain services, libraries, applications and resources.
 * [awesome\_eos](https://github.com/SheldonHH/awesome_eos) ⭐ 21 | 🐛 0 | 📅 2018-02-17 - General Catalog for EOS resources.
 * [Awesome-JAM](https://github.com/DrEverr/Awesome-JAM) ⭐ 18 | 🐛 0 | 📅 2026-09-25 - Awesome JAM - Curated list of JAM resources, tools, SDKs, tutorials, videos, and articles.
-* [awesome-web3-data](https://github.com/droodotfoo/awesome-web3-data) ⭐ 18 | 🐛 12 | 🌐 INI | 📅 2026-10-28 - Web3 data resources.
+* [awesome-web3-data](https://github.com/droodotfoo/awesome-web3-data) ⭐ 18 | 🐛 2 | 🌐 INI | 📅 2026-11-14 - Web3 data resources.
 * [awesome-blockchain](https://github.com/cyberFund/awesome-blockchain) ⭐ 16 | 🐛 3 | 📅 2017-05-15 - :page\_facing\_up: A curated list of blockchain projects.
 * [awesome-smart-contract-development](https://github.com/naszam/awesome-smart-contract-development) ⭐ 15 | 🐛 3 | 📅 2023-03-31 - :dark\_sunglasses: A curated list of awesome resources for ethereum smart contract development.
 * [awesome-aeternity](https://github.com/aeternity/awesome-aeternity) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-08-12 - A curated list of resources for the æternity blockchain.
-* [gold-402](https://github.com/Haustorium12/gold-402) ⭐ 12 | 🐛 4 | 🌐 Python | 📅 2026-11-13 - The gold standard for x402 resources. 459 curated entries, every one checked by hand.
+* [gold-402](https://github.com/Haustorium12/gold-402) ⭐ 12 | 🐛 7 | 🌐 Python | 📅 2026-11-13 - The gold standard for x402 resources. 459 curated entries, every one checked by hand.
 * [awesome-digital-assets](https://github.com/larsulbricht/awesome-digital-assets) ⭐ 11 | 🐛 16 | 📅 2026-04-07 - Collection of high-quality resources on blockchain, tokenization, and DLT-based capital markets (EU-Focus).
 * [awesome-ethereum-dev](https://github.com/Shubham0850/awesome-ethereum-dev) ⭐ 10 | 🐛 0 | 📅 2023-05-04 - A curated list of resources for learning Ethereum development.
 * [awesome-gear-protocol](https://github.com/gear-tech/awesome-gear-protocol) ⭐ 8 | 🐛 0 | 📅 2025-10-03 - Awesome Gear Protocol & Vara Network: standards, SDKs, Sails, tools, examples, wallets, explorers, docs.
@@ -2946,8 +2947,8 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Boilerplate Topic Lists
 
-* [awesome-opensource-boilerplates](https://github.com/einguterwaran/awesome-opensource-boilerplates) ⭐ 1,990 | 🐛 1 | 📅 2026-10-18 - A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.
-* [awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) ⭐ 397 | 🐛 1 | 📅 2026-11-12 - Awesome Streaming Tools.
+* [awesome-opensource-boilerplates](https://github.com/einguterwaran/awesome-opensource-boilerplates) ⭐ 1,991 | 🐛 1 | 📅 2026-10-18 - A curated list of production-ready and free SaaS boilerplates and starter templates. Build your next software-as-a-service project with battle-tested open source foundations.
+* [awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) ⭐ 397 | 🐛 0 | 📅 2026-11-13 - Awesome Streaming Tools.
 * [fucking-build-your-own-x](https://github.com/Correia-jpv/fucking-build-your-own-x) ⭐ 29 | 🐛 0 | 🌐 Markdown | 📅 2026-11-12 - Master programming by recreating your favorite technologies from scratch. With repository stars⭐ and forks🍴.
 
 ### BOINC Topic Lists
@@ -2966,11 +2967,11 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Bot Topic Lists
 
-* [discord-api-libs](https://github.com/apacheli/discord-api-libs) ⭐ 275 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-13 - List of open-source Discord API Libraries.
+* [discord-api-libs](https://github.com/apacheli/discord-api-libs) ⭐ 275 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-14 - List of open-source Discord API Libraries.
 * [awesome-telegram-bot](https://github.com/fwolf/awesome-telegram-bot) ⭐ 129 | 🐛 6 | 📅 2017-11-20 - Manual picked bot of Telegram.
 * [awesome-bot-telegram-indonesia](https://github.com/telegrambotindonesia/awesome-bot-telegram-indonesia) ⭐ 24 | 🐛 1 | 📅 2022-04-09 - Awesome Bot Telegram Indonesia.
 * [BotList](https://github.com/ShivangKakkar/BotList) ⭐ 20 | 🐛 0 | 📅 2025-06-10 -
-* [awesome-discord-bot-tools](https://github.com/shitcorp/awesome-discord-bot-tools) ⭐ 11 | 🐛 1 | 📅 2024-12-22 - A curated collection of tools for developers working on Discord bots.
+* [awesome-discord-bot-tools](https://github.com/shitcorp/awesome-discord-bot-tools) ⭐ 11 | 🐛 2 | 📅 2024-12-22 - A curated collection of tools for developers working on Discord bots.
 * [awesome-matrix-bots](https://github.com/cyb3rko/awesome-matrix-bots) ⭐ 4 | 🐛 1 | 📅 2026-07-26 - A list of Matrix bots, bridges and related things.
 * [awesome-web-scraping](https://github.com/lukas-bear/awesome-web-scraping) ⭐ 1 | 🐛 3 | 📅 2025-02-07 - Best scraping tools collection in town. Find everything you need for scraping, crawling, and processing data from the web.
 
@@ -2981,13 +2982,13 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Bug Bounty Topic Lists
 
-* [awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) ⭐ 11,501 | 🐛 18 | 🌐 Shell | 📅 2026-11-12 - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more.
-* [awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools) ⭐ 6,476 | 🐛 2 | 📅 2026-11-01 - A curated list of various bug bounty tools.
-* [Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups) ⭐ 6,190 | 🐛 12 | 🌐 Python | 📅 2023-08-06 - A curated list of bugbounty writeups (Bug type wise) , inspired from.
-* [WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) ⭐ 5,109 | 🐛 5 | 🌐 Ruby | 📅 2026-09-07 - ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting.
+* [awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) ⭐ 11,506 | 🐛 17 | 🌐 Shell | 📅 2026-11-13 - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more.
+* [awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools) ⭐ 6,480 | 🐛 2 | 📅 2026-11-01 - A curated list of various bug bounty tools.
+* [Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups) ⭐ 6,191 | 🐛 12 | 🌐 Python | 📅 2023-08-06 - A curated list of bugbounty writeups (Bug type wise) , inspired from.
+* [WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) ⭐ 5,112 | 🐛 5 | 🌐 Ruby | 📅 2026-09-07 - ⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting.
 * [awesome-vulnerable-apps](https://github.com/vavkamil/awesome-vulnerable-apps) ⭐ 1,511 | 🐛 2 | 📅 2026-10-14 - Awesome Vulnerable Applications.
-* [netlas-cookbook](https://github.com/netlas-io/netlas-cookbook) ⭐ 904 | 🐛 0 | 🌐 Python | 📅 2026-09-18 - The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.
-* [awesome-mcp-security](https://github.com/puliczek/awesome-mcp-security) ⭐ 747 | 🐛 303 | 📅 2026-03-03 - 🔥🔒 Awesome MCP (Model Context Protocol) Security 🖥️.
+* [netlas-cookbook](https://github.com/netlas-io/netlas-cookbook) ⭐ 906 | 🐛 0 | 🌐 Python | 📅 2026-09-18 - The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.
+* [awesome-mcp-security](https://github.com/puliczek/awesome-mcp-security) ⭐ 747 | 🐛 306 | 📅 2026-03-03 - 🔥🔒 Awesome MCP (Model Context Protocol) Security 🖥️.
 * [awesome-cicd-attacks](https://github.com/TupleType/awesome-cicd-attacks) ⭐ 642 | 🐛 2 | 📅 2026-06-02 - Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.
 * [awesome-cybersec](https://github.com/dhotrey/awesome-cybersec) ⭐ 195 | 🐛 1 | 📅 2026-11-03 - A collection of awesome platforms, blogs, documents, books, resources and cool stuff about security.
 * [Awesome-HTTPRequestSmuggling](https://github.com/chenjj/Awesome-HTTPRequestSmuggling) ⭐ 128 | 🐛 0 | 📅 2022-09-06 - A curated list of awesome blogs and tools about HTTP request smuggling attacks. Feel free to contribute! 🍻.
@@ -3000,11 +3001,11 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### C Topic Lists
 
-* [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) ⭐ 51,357 | 🐛 546 | 📅 2026-10-31 - 🚀 Awesome list of open source applications for macOS.
+* [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) ⭐ 51,370 | 🐛 560 | 📅 2026-10-31 - 🚀 Awesome list of open source applications for macOS.
 * [awesome-c](https://github.com/uhub/awesome-c) ⭐ 2,248 | 🐛 0 | 📅 2026-11-12 - A curated list of awesome C frameworks, libraries and software.
 * [awesome\_c-cpp\_projects](https://github.com/0voice/awesome_c-cpp_projects) ⭐ 1,525 | 🐛 0 | 🌐 C++ | 📅 2025-08-08 - 2025年 最新收录整理 500+ 个高质量的 C/C++ 项目，包括但不限于核心开发、基础工具、系统与并发、系统编程、图形处理、网络通信、数据处理、应用框架、开源工具、嵌入式开发等多个领域。适合学习、参考和实战。.
-* [awesome-quantdev-learn](https://github.com/0voice/awesome-quantdev-learn) ⭐ 1,199 | 🐛 2 | 📅 2025-07-04 - 本仓库面向所有对量化分析或开发感兴趣的量化交易从业者，提供系统性学习量化开发的技术路线，从数据获取、策略开发、回测系统到实盘部署。.
-* [awesome-n64-development](https://github.com/command-tab/awesome-n64-development) ⭐ 588 | 🐛 6 | 🌐 Python | 📅 2026-11-02 - A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more.
+* [awesome-quantdev-learn](https://github.com/0voice/awesome-quantdev-learn) ⭐ 1,202 | 🐛 2 | 📅 2025-07-04 - 本仓库面向所有对量化分析或开发感兴趣的量化交易从业者，提供系统性学习量化开发的技术路线，从数据获取、策略开发、回测系统到实盘部署。.
+* [awesome-n64-development](https://github.com/command-tab/awesome-n64-development) ⭐ 589 | 🐛 6 | 🌐 Python | 📅 2026-11-02 - A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more.
 * [awesome-voip](https://github.com/onmyway133/awesome-voip) ⭐ 340 | 🐛 0 | 📅 2026-11-06 - 🤙Learning VoIP, RTP, pjsip and SIP.
 * [awesome-ebooks](https://github.com/LaicZhang/awesome-ebooks) ⭐ 101 | 🐛 0 | 📅 2024-07-13 - 收录开源的经典技术书籍 PDF 文件及相关网站，持续更新中.
 * [awesome-audio-plugin-framework](https://github.com/Tremus/awesome-audio-plugin-framework) ⭐ 51 | 🐛 0 | 🌐 C | 📅 2025-11-19 - Curated list of small C/C++ libraries for building your own custom audio plugin framework.
@@ -3029,50 +3030,50 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Chaos Engineering Topic Lists
 
-* [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) ⭐ 6,697 | 🐛 76 | 📅 2023-12-28 - A curated list of Chaos Engineering resources.
+* [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering) ⭐ 6,697 | 🐛 75 | 📅 2023-12-28 - A curated list of Chaos Engineering resources.
 * [awesome-ai-sre](https://github.com/agamm/awesome-ai-sre) ⭐ 146 | 🐛 10 | 📅 2026-09-23 - A curated list of 100+ AI-powered tools, platforms, and resources for Site Reliability Engineering (SRE) — agents, incident management, observability, AIOps, chaos engineering, and more.
 * [awesome-chaos-engineering](https://github.com/adriannovegil/awesome-chaos-engineering) ⭐ 48 | 🐛 1 | 🌐 Makefile | 📅 2026-10-17 - Awesome chaos engineering page.
 
 ### Chat Bot Topic Lists
 
-* [bots](https://github.com/hackerkid/bots) ⭐ 1,581 | 🐛 10 | 📅 2024-02-23 - :zap: Tools for building bots.
+* [bots](https://github.com/hackerkid/bots) ⭐ 1,582 | 🐛 10 | 📅 2024-02-23 - :zap: Tools for building bots.
+* [awesome-ai-companion](https://github.com/DasterProkio/awesome-ai-companion) ⭐ 1,213 | 🐛 7 | 🌐 HTML | 📅 2026-11-07 - Open-source AI companions, desktop pets, long-term memory & proactive chat. 人机恋开源项目大全。让你的家机能够脱离官端自主存在，拥有记忆和主动性。.
 * [Awesome-AI-GPTs](https://github.com/EmbraceAGI/Awesome-AI-GPTs) ⭐ 1,208 | 🐛 1 | 📅 2026-08-25 - Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking.
-* [awesome-ai-companion](https://github.com/DasterProkio/awesome-ai-companion) ⭐ 1,208 | 🐛 5 | 🌐 HTML | 📅 2026-11-07 - Open-source AI companions, desktop pets, long-term memory & proactive chat. 人机恋开源项目大全。让你的家机能够脱离官端自主存在，拥有记忆和主动性。.
 * [Awesome-GPTs](https://github.com/lxfater/Awesome-GPTs) ⭐ 1,155 | 🐛 1 | 📅 2023-11-21 - 1000+ GPTs and 10 categories. 80+ Leaked Prompt，Awesome，chatgpt，Ai，prompt.
-* [awesome-gpt](https://github.com/awesome-gptX/awesome-gpt) ⭐ 1,144 | 🐛 31 | 📅 2026-11-13 - 🏆 An awe-inspiring collection of resources, encompassing a wide range of tools, documents, resources, applications, and use cases related to ChatGPT.
+* [awesome-gpt](https://github.com/awesome-gptX/awesome-gpt) ⭐ 1,144 | 🐛 32 | 📅 2026-11-14 - 🏆 An awe-inspiring collection of resources, encompassing a wide range of tools, documents, resources, applications, and use cases related to ChatGPT.
 * [awesome-chatops](https://github.com/exAspArk/awesome-chatops) ⭐ 988 | 🐛 6 | 📅 2021-10-30 - :robot: A collection of awesome things about ChatOps – managing operations through a chat.
 * [awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh) ⭐ 676 | 🐛 0 | 📅 2023-04-22 - 精选 OpenAI 的 \[ChatGPT]\( 资源清单, 跟随最新资源并添加中文相关Work.
-* [awesome-ai](https://github.com/hades217/awesome-ai) ⭐ 558 | 🐛 65 | 🌐 HTML | 📅 2026-11-13 - A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project).
+* [awesome-ai](https://github.com/hades217/awesome-ai) ⭐ 558 | 🐛 69 | 🌐 HTML | 📅 2026-11-13 - A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project).
 * [Awesome-Multimodal-Chatbot](https://github.com/zjr2000/Awesome-Multimodal-Chatbot) ⭐ 80 | 🐛 2 | 📅 2023-06-18 - Awesome Multimodal Assistant is a curated list of multimodal chatbots/conversational assistants that utilize various modes of interaction, such as text, speech, images, and videos, to provide a seamless and versatile user experience.
 * [awesome-bots](https://github.com/Raniazy/awesome-bots) ⭐ 31 | 🐛 0 | 📅 2019-01-15 - An Awesome repository around Bots.
 * [awesome-ai-tools](https://github.com/tejasrsuthar/awesome-ai-tools) ⭐ 13 | 🐛 38 | 📅 2025-08-17 - AI Tools Knowledgebase.
-* [awesome-chatbot](https://github.com/dalisoft/awesome-chatbot) ⭐ 5 | 🐛 0 | 📅 2026-10-24 - List of awesome AI Chat-bots.
+* [awesome-chatbot](https://github.com/dalisoft/awesome-chatbot) ⭐ 6 | 🐛 0 | 📅 2026-10-24 - List of awesome AI Chat-bots.
 
 ### ChatGPT Topic Lists
 
-* [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) ⭐ 21,359 | 🐛 128 | 🌐 Python | 📅 2025-06-23 - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
-* [awesome-prompts](https://github.com/ai-boost/awesome-prompts) ⭐ 9,235 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
-* [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) ⭐ 8,210 | 🐛 161 | 📅 2025-10-15 - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3.
-* [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) ⭐ 6,500 | 🐛 6 | 📅 2026-02-15 - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI \[SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE OF TOO MANY LOW QUALITY SUBMISSIONS].
+* [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) ⭐ 21,363 | 🐛 128 | 🌐 Python | 📅 2025-06-23 - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
+* [awesome-prompts](https://github.com/ai-boost/awesome-prompts) ⭐ 9,239 | 🐛 0 | 🌐 Python | 📅 2026-11-14 - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
+* [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) ⭐ 8,209 | 🐛 161 | 📅 2025-10-15 - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3.
+* [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) ⭐ 6,499 | 🐛 6 | 📅 2026-02-15 - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI \[SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE OF TOO MANY LOW QUALITY SUBMISSIONS].
 * [awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) ⭐ 4,811 | 🐛 8 | 📅 2023-05-03 - A list of totally open alternatives to ChatGPT.
 * [Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) ⭐ 4,208 | 🐛 5 | 📅 2025-06-04 - ChatGPT资料汇总学习，持续更新.
 * [Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) ⭐ 3,714 | 🐛 29 | 📅 2026-04-20 - From Chain-of-Thought prompting to OpenAI o1 and DeepSeek-R1 🍓.
-* [Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) ⭐ 3,477 | 🐛 1 | 🌐 Python | 📅 2026-11-13 - Curated list of awesome GPTs 👍.
+* [Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) ⭐ 3,479 | 🐛 1 | 🌐 Python | 📅 2026-11-14 - Curated list of awesome GPTs 👍.
 * [awesome-llm-kg](https://github.com/rmanluo/awesome-llm-kg) ⭐ 2,620 | 🐛 5 | 📅 2025-05-02 - Awesome papers about unifying LLMs and KGs.
 * [awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) ⭐ 2,419 | 🐛 53 | 📅 2026-07-15 - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
 * [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) ⭐ 2,260 | 🐛 74 | 📅 2025-04-30 - Awesome things about LLM-powered agents. Papers / Repos / Blogs / .
-* [awesome-ai-agents-2026](https://github.com/caramaschiHG/awesome-ai-agents-2026) ⭐ 2,086 | 🐛 511 | 📅 2026-06-10 - 🤖 The most comprehensive list of AI agents, frameworks & tools in 2026. 300+ resources · 20+ categories · Updated monthly.
+* [awesome-ai-agents-2026](https://github.com/caramaschiHG/awesome-ai-agents-2026) ⭐ 2,087 | 🐛 517 | 📅 2026-06-10 - 🤖 The most comprehensive list of AI agents, frameworks & tools in 2026. 300+ resources · 20+ categories · Updated monthly.
 * [awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt) ⭐ 1,953 | 🐛 12 | 📅 2024-03-25 - ⚡ Everything about ChatGPT.
 * [awesome-segment-anything](https://github.com/hedlen/awesome-segment-anything) ⭐ 1,697 | 🐛 0 | 📅 2026-04-26 - Tracking and collecting papers/projects/others related to Segment Anything.
 * [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) ⭐ 1,647 | 🐛 26 | 🌐 Python | 📅 2026-02-23 - A curated list of awesome resources, tools, and other shiny things for LLM prompt engineering.
 * [awesome-gpts](https://github.com/taranjeet/awesome-gpts) ⭐ 1,380 | 🐛 5 | 📅 2024-04-21 - Collection of all the GPTs created by the community.
 * [awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) ⭐ 1,152 | 🐛 3 | 📅 2024-10-27 - A curated list of NLP resources focused on Transformer networks, attention mechanism, GPT, BERT, ChatGPT, LLMs, and transfer learning.
-* [awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) ⭐ 1,040 | 🐛 92 | 🌐 Python | 📅 2026-11-13 - A curated list of the best awesome AI plugins for AI assistants including Claude Code, OpenAI Codex / ChatGPT, Gemini, Antigravity, Pi / Oh My Pi, Grok, OpenCodek DSH, Kimi and More.
+* [awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins) ⭐ 1,043 | 🐛 91 | 🌐 Python | 📅 2026-11-14 - A curated list of the best awesome AI plugins for AI assistants including Claude Code, OpenAI Codex / ChatGPT, Gemini, Antigravity, Pi / Oh My Pi, Grok, OpenCodek DSH, Kimi and More.
 * [Awesome-LLM-Uncertainty-Reliability-Robustness](https://github.com/jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness) ⭐ 840 | 🐛 5 | 📅 2026-11-07 - Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models.
 * [awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset) ⭐ 773 | 🐛 0 | 🌐 Python | 📅 2026-10-27 - Unlock the Power of LLM: Explore These Datasets to Train Your Own ChatGPT!
 * [awesome-instruction-datasets](https://github.com/jianzhnie/awesome-instruction-datasets) ⭐ 753 | 🐛 1 | 📅 2026-06-17 - A collection of awesome-prompt-datasets, awesome-instruction-dataset, to train ChatLLM such as chatgpt 收录各种各样的指令数据集, 用于训练 ChatLLM 模型。.
 * [awesome-chatgpt](https://github.com/eason-dev/awesome-chatgpt) ⭐ 731 | 🐛 17 | 📅 2024-04-06 - Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。.
-* [awesome-llm-eval](https://github.com/onejune2018/awesome-llm-eval) ⭐ 659 | 🐛 76 | 📅 2025-11-24 - Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs. 一个由工具、基准/数据、演示、排行榜和大模型等组成的精选列表，主要面向基础大模型评测，旨在探求生成式AI的技术边界.
+* [awesome-llm-eval](https://github.com/onejune2018/awesome-llm-eval) ⭐ 659 | 🐛 77 | 📅 2025-11-24 - Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs. 一个由工具、基准/数据、演示、排行榜和大模型等组成的精选列表，主要面向基础大模型评测，旨在探求生成式AI的技术边界.
 * [Awesome-AGI](https://github.com/EmbraceAGI/Awesome-AGI) ⭐ 582 | 🐛 6 | 📅 2026-10-15 - A curated list of awesome AGI frameworks, software and resources.
 * [awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) ⭐ 578 | 🐛 4 | 📅 2023-09-12 - Selected ChatGPT demos, tools, articles, and more ✨.
 * [LM-reasoning](https://github.com/jeffhj/LM-reasoning) ⭐ 570 | 🐛 6 | 📅 2023-11-13 - This repository contains a collection of papers and resources on Reasoning in Large Language Models.
@@ -3080,7 +3081,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [Awesome-instruction-tuning](https://github.com/zhilizju/Awesome-instruction-tuning) ⭐ 345 | 🐛 1 | 🌐 Python | 📅 2023-06-12 - A curated list of awesome instruction tuning datasets, models, papers and repositories.
 * [awesome-ai](https://github.com/cssmagic/awesome-ai) ⭐ 307 | 🐛 1 | 📅 2026-11-12 - 收集分享 AI 大型语言模型 (LLM)、AI 辅助编程、AI 绘画等领域的常用资料，探索生成式人工智能的应用与开发。.
 * [awesome-ai-images-prompts](https://github.com/dongyubin/awesome-ai-images-prompts) ⭐ 298 | 🐛 9 | 📅 2026-10-07 - 2026年9月更新，精选适用于 GPT Image 2、2.5、Gemini Nano-banana Pro Image Prompts、即梦、豆包 Seedream 4.0、Hunyuan 3.0、ChatGPT-4o、Grok Image、FLUX、Ideogram、Imagen、Leonardo Ai、Midjourney、Seedance 2.0等AI生图大模型的提示词.
-* [Awesome-AI-Image-Prompts](https://github.com/devanshug2307/Awesome-AI-Image-Prompts) ⭐ 295 | 🐛 2 | 📅 2026-08-08 - 1,000+ curated AI image prompts, including copy-ready JSON prompts for OpenAI image tools, product photography, portraits, character design, and more.
+* [Awesome-AI-Image-Prompts](https://github.com/devanshug2307/Awesome-AI-Image-Prompts) ⭐ 296 | 🐛 2 | 📅 2026-08-08 - 1,000+ curated AI image prompts, including copy-ready JSON prompts for OpenAI image tools, product photography, portraits, character design, and more.
 * [awesome-gptimage2](https://github.com/xianyu110/awesome-gptimage2) ⭐ 287 | 🐛 1 | 🌐 HTML | 📅 2026-10-08 - GPT Image 2 中文提示词实战手册（本站）。最新 Images 2.5 玩法请看 awesome-gpt-image2.5：.
 * [awesome-autonomous-gpt](https://github.com/ScarletPan/awesome-autonomous-gpt) ⭐ 282 | 🐛 11 | 📅 2023-12-29 - A curated list of awesome projects and resources related to autonomous AI agents.
 * [awesome-snn](https://github.com/coderonion/awesome-snn) ⭐ 241 | 🐛 0 | 📅 2024-10-01 - 🔥🔥🔥A collection of some awesome public SNN(Spiking Neural Network) projects.
@@ -3088,7 +3089,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-prompt-engineering-zh-cn](https://github.com/yunwei37/awesome-prompt-engineering-zh-cn) ⭐ 171 | 🐛 3 | 🌐 Python | 📅 2026-02-13 - 这个资源库包含了为 Prompt 工程手工整理的资源中文清单，重点是GPT、ChatGPT、PaLM 等（自动持续更新）.
 * [awesome-object-detection-datasets](https://github.com/coderonion/awesome-object-detection-datasets) ⭐ 146 | 🐛 0 | 📅 2025-01-07 - A collection of some awesome public object detection and recognition datasets.
 * [Awesome-LLM-Self-Consistency](https://github.com/SuperBruceJia/Awesome-LLM-Self-Consistency) ⭐ 132 | 🐛 0 | 📅 2025-07-20 - Awesome LLM Self-Consistency: a curated list of Self-consistency in Large Language Models.
-* [awesome-ai-eval](https://github.com/vvkmnn/awesome-ai-eval) ⭐ 127 | 🐛 12 | 📅 2026-11-01 - ☑️ A curated list of tools, methods & platforms for evaluating AI reliability in real applications.
+* [awesome-ai-eval](https://github.com/vvkmnn/awesome-ai-eval) ⭐ 127 | 🐛 13 | 📅 2026-11-01 - ☑️ A curated list of tools, methods & platforms for evaluating AI reliability in real applications.
 * [Generative\_KG\_Construction\_Papers](https://github.com/zjunlp/Generative_KG_Construction_Papers) ⭐ 112 | 🐛 0 | 📅 2023-07-11 - \[EMNLP 2022] Generative Knowledge Graph Construction: A Review.
 * [awesome-gpt](https://github.com/Tungtono/awesome-gpt) ⭐ 42 | 🐛 3 | 📅 2023-05-04 - A curated list of awesome ChatGPT-related applications, software, tools, resources.
 * [fucking-awesome-chatgpt](https://github.com/Correia-jpv/fucking-awesome-chatgpt) ⭐ 40 | 🐛 4 | 📅 2026-11-12 - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3. With repository stars⭐ and forks🍴.
@@ -3096,7 +3097,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [Awesome-Open-domain-Dialogue-Models](https://github.com/cingtiye/Awesome-Open-domain-Dialogue-Models) ⭐ 37 | 🐛 1 | 📅 2023-03-21 - Awesome Open-domain Dialogue Models，高质量开放域对话模型集合.
 * [awesome\_chatgpt\_ch](https://github.com/u2takey/awesome_chatgpt_ch) ⭐ 29 | 🐛 0 | 📅 2023-03-19 - Chatgpt 项目、中文站点、资源收集.
 * [awesome-sentiment-attitude-extraction](https://github.com/nicolay-r/awesome-sentiment-attitude-extraction) ⭐ 19 | 🐛 3 | 📅 2026-03-23 - A curated list of awesome sentiment analysis studies, in which attitude corresponds to the text position conveyed by Subject towards other Object mentioned in text such as: entities, events, etc.
-* [awesome-chatgpt-apps](https://github.com/rdmgator12/awesome-chatgpt-apps) ⭐ 18 | 🐛 20 | 📅 2026-07-02 - A comprehensive directory of every app in OpenAI's official ChatGPT Apps Directory — 330 verified Apps SDK / MCP integrations, organized by category with descriptions and use cases.
+* [awesome-chatgpt-apps](https://github.com/rdmgator12/awesome-chatgpt-apps) ⭐ 18 | 🐛 21 | 📅 2026-07-02 - A comprehensive directory of every app in OpenAI's official ChatGPT Apps Directory — 330 verified Apps SDK / MCP integrations, organized by category with descriptions and use cases.
 * [awesome-gpt-image2.5](https://github.com/xianyu110/awesome-gpt-image2.5) ⭐ 17 | 🐛 0 | 🌐 HTML | 📅 2026-10-05 - 精选 ChatGPT Images 2.5 / GPT-Image-2.5（Flare · Sunburst · Sketch）好玩用法画廊、可抄 prompt 与评测 · 在线试用 gptimage2.asia.
 * [awesome-chatgpt](https://github.com/Magicking/awesome-chatgpt) ⭐ 15 | 🐛 1 | 📅 2022-12-12 - Awesome ChatGPT list of projects and informations.
 * [awesome-gpt-store](https://github.com/chaozh/awesome-gpt-store) ⭐ 13 | 🐛 1 | 📅 2023-12-04 - A place to find all Custom Stores and OpenAI store for ChatGPT and related apps.
@@ -3115,12 +3116,12 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### ChatGPT API Topic Lists
 
-* [awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) ⭐ 6,454 | 🐛 59 | 🌐 Python | 📅 2026-03-23 - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
+* [awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) ⭐ 6,452 | 🐛 59 | 🌐 Python | 📅 2026-03-23 - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 
 ### Cheat sheet Topic Lists
 
-* [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) ⭐ 8,679 | 🐛 12 | 🌐 Python | 📅 2026-11-05 - :beers: awesome cheatsheet.
-* [awesome-redteam-cheatsheet](https://github.com/ristbs/awesome-redteam-cheatsheet) ⭐ 1,307 | 🐛 1 | 📅 2023-12-28 - Red Team Cheatsheet in constant expansion.
+* [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) ⭐ 8,680 | 🐛 12 | 🌐 Python | 📅 2026-11-05 - :beers: awesome cheatsheet.
+* [awesome-redteam-cheatsheet](https://github.com/ristbs/awesome-redteam-cheatsheet) ⭐ 1,308 | 🐛 1 | 📅 2023-12-28 - Red Team Cheatsheet in constant expansion.
 * [reading-material](https://github.com/agrim123/reading-material) ⭐ 240 | 🐛 3 | 📅 2026-03-08 - List of some useful blogs, books, courses, papers etc. :books:.
 * [Awesome-AI](https://github.com/VidyasagarMSC/Awesome-AI) ⭐ 153 | 🐛 1 | 📅 2024-03-31 - The guide to master Artificial Intelligence (machine learning & deep learning) from beginner to advance.
 * [awesome-ctf-cheatsheet](https://github.com/uppusaikiran/awesome-ctf-cheatsheet) ⭐ 147 | 🐛 0 | 📅 2025-04-29 - CTF Cheatsheet.
@@ -3143,18 +3144,18 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Chrome Topic Lists
 
-* [awesome-startpage](https://github.com/jnmcfly/awesome-startpage) ⭐ 1,332 | 🐛 13 | 📅 2026-10-19 - This is a carefully compiled list of remarkable projects with the focus on startpages.
-* [chrome-extensions](https://github.com/linsa-io/chrome-extensions) ⭐ 482 | 🐛 76 | 📅 2026-03-03 - Awesome Chrome Extensions.
+* [awesome-startpage](https://github.com/jnmcfly/awesome-startpage) ⭐ 1,334 | 🐛 13 | 📅 2026-10-19 - This is a carefully compiled list of remarkable projects with the focus on startpages.
+* [chrome-extensions](https://github.com/linsa-io/chrome-extensions) ⭐ 482 | 🐛 78 | 📅 2026-03-03 - Awesome Chrome Extensions.
 * [awesome-custom-search-engines](https://github.com/davzoku/awesome-custom-search-engines) ⭐ 152 | 🐛 3 | 📅 2023-09-04 - 🏃💨 List of custom search engines & shortcuts to improve your daily workflow.
 * [awesome-bookmarks](https://github.com/awesome-wiki/awesome-bookmarks) ⭐ 64 | 🐛 3 | 📅 2023-12-16 - 书签「利器」收集 🍪🍿 Wiki 在线阅读👉.
-* [fucking-awesome-chrome-devtools](https://github.com/correia-jpv/fucking-awesome-chrome-devtools) ⭐ 24 | 🐛 1 | 📅 2026-11-12 - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem. With repository stars⭐ and forks🍴.
+* [fucking-awesome-chrome-devtools](https://github.com/correia-jpv/fucking-awesome-chrome-devtools) ⭐ 24 | 🐛 1 | 📅 2026-11-14 - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem. With repository stars⭐ and forks🍴.
 * [awesome-chrome-plugins](https://github.com/yingLanNull/awesome-chrome-plugins) ⭐ 13 | 🐛 1 | 📅 2019-03-07 - Awesome Chrome Plugins.
 * [awesome](https://github.com/mxvish/awesome) ⭐ 6 | 🐛 2 | 📅 2026-10-22 - 😎Awesome projects.
 * [awesome-webext-dev](https://github.com/davestewart/awesome-webext-dev) ⭐ 6 | 🐛 0 | 📅 2024-03-11 - List of resources for web extension development.
 
 ### Chrome extension Topic Lists
 
-* [ideas-for-projects-people-would-use](https://github.com/Divide-By-0/ideas-for-projects-people-would-use) ⭐ 2,228 | 🐛 19 | 📅 2026-09-09 - Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase if marketed correctly, as I am surely not the only one with these problems.
+* [ideas-for-projects-people-would-use](https://github.com/Divide-By-0/ideas-for-projects-people-would-use) ⭐ 2,232 | 🐛 19 | 📅 2026-09-09 - Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase if marketed correctly, as I am surely not the only one with these problems.
 * [awesome](https://github.com/FightingDesign/awesome) ⭐ 46 | 🐛 1 | 📅 2023-11-04 - 💡 令人惊叹的一些前端资源、工具包等汇总。（💡 Amazing summary of some front-end resources, toolkits, etc.）.
 * [extensions](https://github.com/davzoku/extensions) ⭐ 3 | 🐛 0 | 📅 2025-04-24 - ⚡⚙️ A curated collection of custom-built and community-sourced extensions / plugins for Chrome, VSCode, Obsidian, and Raycast that I used daily for personal productivity.
 
@@ -3170,12 +3171,12 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### CircuitPython Topic Lists
 
-* [awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython) ⭐ 750 | 🐛 5 | 📅 2025-07-21 - A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
+* [awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython) ⭐ 750 | 🐛 3 | 📅 2026-11-13 - A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
 * [awesome-macropad](https://github.com/prcutler/awesome-macropad) ⭐ 368 | 🐛 0 | 📅 2026-07-06 - A curated list of awesome applications, macros, 3D printed cases, guides, and more for the Adafruit rp2040 MacroPad.
 
 ### Citizen science Topic Lists
 
-* [citizen-science](https://github.com/dylanrees/citizen-science) ⭐ 337 | 🐛 5 | 📅 2026-04-28 - 🔬 A repository of resources related to citizen, community-based and/or non-institutional science.
+* [citizen-science](https://github.com/dylanrees/citizen-science) ⭐ 336 | 🐛 5 | 📅 2026-04-28 - 🔬 A repository of resources related to citizen, community-based and/or non-institutional science.
 * [awesome-crowds](https://github.com/suchow/awesome-crowds) ⭐ 52 | 🐛 5 | 📅 2018-01-20 - A curated list of awesome resources on crowdsourcing, human computation, and online behavioral experiments.
 * [awesome-citizen-science-nl](https://github.com/sodascience/awesome-citizen-science-nl) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2021-05-04 - A curated list of awesome Citizen Science Projects in the Netherlands.
 * [awesome-citizen-science](https://github.com/civic-interconnect/awesome-citizen-science) ⭐ 8 | 🐛 6 | 📅 2025-10-23 - A curated list of high-quality, open, and impactful citizen science platforms, tools, and projects for educators, students, developers, and anyone seeking meaningful ways to contribute to scientific research.
@@ -3186,27 +3187,27 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Claude Topic Lists
 
-* [awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) ⭐ 15,798 | 🐛 935 | 📅 2026-04-28 - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code.
-* [awesome-mcp-zh](https://github.com/yzfly/awesome-mcp-zh) ⭐ 7,831 | 🐛 122 | 📅 2026-11-01 - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients.
-* [awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) ⭐ 2,836 | 🐛 431 | 🌐 JavaScript | 📅 2026-05-12 - The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, and more.
-* [awesome-claude](https://github.com/webfuse-com/awesome-claude) ⭐ 1,719 | 🐛 306 | 🌐 TypeScript | 📅 2026-09-30 - A curated list of awesome things related to Anthropic Claude.
-* [awesome-ai-tools-for-ui](https://github.com/maxbogo/awesome-ai-tools-for-ui) ⭐ 1,033 | 🐛 13 | 📅 2026-11-03 - Curated list of awesome AI tools to build beautiful UI/UX.
-* [awesome-ralph](https://github.com/snwfdhmp/awesome-ralph) ⭐ 935 | 🐛 5 | 📅 2026-11-08 - A curated list of resources about Ralph, the AI coding technique that runs AI coding agents in automated loops until specifications are fulfilled.
-* [awesome-claude](https://github.com/JSONbored/awesome-claude) ⭐ 309 | 🐛 79 | 🌐 MDX | 📅 2026-11-03 - HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP package.
-* [awesome-context-engineering](https://github.com/yzfly/awesome-context-engineering) ⭐ 228 | 🐛 17 | 📅 2026-11-01 - A curated collection of resources, papers, tools, and best practices for Context Engineering in AI agents and Large Language Models (LLMs).
-* [awesome-claude-code-and-skills](https://github.com/GetBindu/awesome-claude-code-and-skills) ⭐ 210 | 🐛 30 | 📅 2026-11-08 - A collection of Claude Skills.
-* [awesome-claude-skills](https://github.com/Chat2AnyLLM/awesome-claude-skills) ⭐ 154 | 🐛 7 | 🌐 Python | 📅 2026-11-13 - A curated list of awesome claude skills.
-* [awesome-claude-plugins](https://github.com/chat2anyllm/awesome-claude-plugins) ⭐ 118 | 🐛 3 | 🌐 Shell | 📅 2026-11-09 - A curated list of awesome claude marketplaces and plugins.
-* [Awesome-MCP-Servers](https://github.com/AIAnytime/Awesome-MCP-Servers) ⭐ 84 | 🐛 139 | 🌐 Python | 📅 2026-11-12 - A curated directory of Model Context Protocol (MCP) servers, plus runnable reference implementations in Python.
+* [awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) ⭐ 15,812 | 🐛 938 | 📅 2026-04-28 - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code.
+* [awesome-mcp-zh](https://github.com/yzfly/awesome-mcp-zh) ⭐ 7,832 | 🐛 5 | 📅 2026-11-14 - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients.
+* [awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) ⭐ 2,839 | 🐛 434 | 🌐 JavaScript | 📅 2026-05-12 - The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, and more.
+* [awesome-claude](https://github.com/webfuse-com/awesome-claude) ⭐ 1,720 | 🐛 306 | 🌐 TypeScript | 📅 2026-09-30 - A curated list of awesome things related to Anthropic Claude.
+* [awesome-ai-tools-for-ui](https://github.com/maxbogo/awesome-ai-tools-for-ui) ⭐ 1,034 | 🐛 13 | 📅 2026-11-03 - Curated list of awesome AI tools to build beautiful UI/UX.
+* [awesome-ralph](https://github.com/snwfdhmp/awesome-ralph) ⭐ 936 | 🐛 5 | 📅 2026-11-08 - A curated list of resources about Ralph, the AI coding technique that runs AI coding agents in automated loops until specifications are fulfilled.
+* [awesome-claude](https://github.com/JSONbored/awesome-claude) ⭐ 310 | 🐛 79 | 🌐 MDX | 📅 2026-11-03 - HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP package.
+* [awesome-context-engineering](https://github.com/yzfly/awesome-context-engineering) ⭐ 228 | 🐛 0 | 📅 2026-11-14 - A curated collection of resources, papers, tools, and best practices for Context Engineering in AI agents and Large Language Models (LLMs).
+* [awesome-claude-code-and-skills](https://github.com/GetBindu/awesome-claude-code-and-skills) ⭐ 210 | 🐛 31 | 📅 2026-11-08 - A collection of Claude Skills.
+* [awesome-claude-skills](https://github.com/Chat2AnyLLM/awesome-claude-skills) ⭐ 154 | 🐛 8 | 🌐 Python | 📅 2026-11-14 - A curated list of awesome claude skills.
+* [awesome-claude-plugins](https://github.com/chat2anyllm/awesome-claude-plugins) ⭐ 118 | 🐛 4 | 🌐 Shell | 📅 2026-11-09 - A curated list of awesome claude marketplaces and plugins.
+* [Awesome-MCP-Servers](https://github.com/AIAnytime/Awesome-MCP-Servers) ⭐ 84 | 🐛 150 | 🌐 Python | 📅 2026-11-13 - A curated directory of Model Context Protocol (MCP) servers, plus runnable reference implementations in Python.
 * [understand-quickly](https://github.com/looptech-ai/understand-quickly) ⭐ 48 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-17 - Public registry of code-knowledge graphs for AI agents. Awesome-list 2.0: pointers to schema-validated content, not just links.
 * [awesome-claude-skills](https://github.com/kenryu42/awesome-claude-skills) ⭐ 32 | 🐛 31 | 📅 2025-11-06 - Awesome list for Claude Skills — a reusable, filesystem-based resources that provide Claude with domain-specific expertise developed by Anthropic.
-* [awesome-claude-skills-zh](https://github.com/shishirui/awesome-claude-skills-zh) ⭐ 25 | 🐛 15 | 📅 2026-05-20 - 中文社区优先的 Claude skills 精选收录 · A Chinese-first curated list of Claude skills.
-* [awesome-claude-plugins](https://github.com/rdmgator12/awesome-claude-plugins) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2026-11-02 - Community-maintained directory of plugins in Anthropic's official Claude Plugins catalog — 333 plugins (skills, MCP servers, slash commands, sub-agents, hooks) for Claude Code and Cowork. Not affiliated with Anthropic.
-* [awesome-agent-skills](https://github.com/junminhong/awesome-agent-skills) ⭐ 19 | 🐛 47 | 📅 2026-11-13 - A curated list of agent skills, resources, and tools for building customizable AI workflows (Claude Code, Codex, Kiro-CLI).
-* [awesome-agent-skills](https://github.com/jqueryscript/awesome-agent-skills) ⭐ 13 | 🐛 8 | 📅 2026-11-10 - A curated list of high-star Agent Skills on GitHub for coding agents and AI workflows.
+* [awesome-claude-skills-zh](https://github.com/shishirui/awesome-claude-skills-zh) ⭐ 26 | 🐛 15 | 📅 2026-05-20 - 中文社区优先的 Claude skills 精选收录 · A Chinese-first curated list of Claude skills.
+* [awesome-claude-plugins](https://github.com/rdmgator12/awesome-claude-plugins) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-11-02 - Community-maintained directory of plugins in Anthropic's official Claude Plugins catalog — 333 plugins (skills, MCP servers, slash commands, sub-agents, hooks) for Claude Code and Cowork. Not affiliated with Anthropic.
+* [awesome-agent-skills](https://github.com/junminhong/awesome-agent-skills) ⭐ 19 | 🐛 49 | 📅 2026-11-13 - A curated list of agent skills, resources, and tools for building customizable AI workflows (Claude Code, Codex, Kiro-CLI).
+* [awesome-agent-skills](https://github.com/jqueryscript/awesome-agent-skills) ⭐ 13 | 🐛 10 | 📅 2026-11-10 - A curated list of high-star Agent Skills on GitHub for coding agents and AI workflows.
 * [awesome-openclaw-roles](https://github.com/serenakeyitan/awesome-openclaw-roles) ⭐ 10 | 🐛 4 | 📅 2026-03-04 - A curated list of OpenClaw skills organized by professional role — marketing, engineering, finance, social media, design, sales, operations, and research.
 * [awesome-claude-code-hooks](https://github.com/loqimean/awesome-claude-code-hooks) ⭐ 7 | 🐛 16 | 📅 2026-11-11 - A curated list of hooks, guides, and tools for Claude Code hooks (PreToolUse, PostToolUse, SessionStart, Notification, Stop, and more).
-* [Awesome-MCP-Servers-directory](https://github.com/habitoai/Awesome-MCP-Servers-directory) ⭐ 6 | 🐛 36 | 📅 2025-03-24 - A comprehensive collection of Model Context Protocol (MCP) servers categorized by functionality. This repository helps developers and AI enthusiasts discover and utilize the wide array of available MCP servers for various applications.
+* [Awesome-MCP-Servers-directory](https://github.com/habitoai/Awesome-MCP-Servers-directory) ⭐ 7 | 🐛 36 | 📅 2025-03-24 - A comprehensive collection of Model Context Protocol (MCP) servers categorized by functionality. This repository helps developers and AI enthusiasts discover and utilize the wide array of available MCP servers for various applications.
 * [awesome-claude-multi-agent](https://github.com/yigtwxx/awesome-claude-multi-agent) ⭐ 3 | 🐛 3 | 🌐 Shell | 📅 2026-10-04 - A curated list of frameworks, patterns, and research for orchestrating multi-agent systems built on Claude, including subagent collections and primary sources from Anthropic.
 * [awesome-agentic-coding](https://github.com/supersynergy/awesome-agentic-coding) ⭐ 1 | 🐛 2 | 🌐 Shell | 📅 2026-11-13 - Turn Claude Code into a failsafe, token-efficient, one-shot coding machine. 50+ tools, 7 skills, 5 hooks, 3 agents, 9 deep-dive guides. 1-click setup.
 * [awesome-geo-resources](https://github.com/yan253319066/awesome-geo-resources) ⭐ 1 | 🐛 3 | 📅 2026-07-05 - Awesome list of GEO, AI Visibility, AI Search, AEO, llms.txt, and AI citation resources.
@@ -3214,34 +3215,35 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Claude Code Topic Lists
 
-* [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) ⭐ 57,903 | 🐛 1,278 | 🌐 Python | 📅 2026-11-13 - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins.
-* [awesome-claude-design](https://github.com/VoltAgent/awesome-claude-design) ⭐ 4,518 | 🐛 1 | 📅 2026-06-20 - Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.
+* [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) ⭐ 57,968 | 🐛 1,278 | 🌐 Python | 📅 2026-11-14 - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins.
+* [awesome-claude-design](https://github.com/VoltAgent/awesome-claude-design) ⭐ 4,534 | 🐛 1 | 📅 2026-06-20 - Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.
 * [awesome-autoresearch](https://github.com/webfuse-com/awesome-autoresearch) ⭐ 2,591 | 🐛 13 | 📅 2026-09-21 - A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.
-* [awesome-seedance](https://github.com/learnprompt/awesome-seedance) ⭐ 2,523 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-13 - 🎬 Evidence-led Seedance 2.5 / 2.0 prompt library: 600+ cases traced to original posts, 260+ cross-model retest runs with public verdicts, 25 copy-ready templates, 50+ installable AI-video Skills. Synced daily from goodcase.ai. EN / 中文 / 日本語.
-* [awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) ⭐ 1,860 | 🐛 219 | 🌐 Python | 📅 2026-07-14 - A curated list of awesome LLM and AI Agent Skills, resources and tools for customising AI Agent workflows - that works with Claude Code, Codex, Gemini CLI and your custom AI Agents.
-* [awesome-claude-design](https://github.com/rohitg00/awesome-claude-design) ⭐ 1,225 | 🐛 6 | 📅 2026-04-23 - Claude Design DESIGN.md prompts by aesthetic family, remix recipes, skills, video teardowns, X signal, honest community takes.
+* [awesome-seedance](https://github.com/learnprompt/awesome-seedance) ⭐ 2,534 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-14 - 🎬 Evidence-led Seedance 2.5 / 2.0 prompt library: 600+ cases traced to original posts, 260+ cross-model retest runs with public verdicts, 25 copy-ready templates, 50+ installable AI-video Skills. Synced daily from goodcase.ai. EN / 中文 / 日本語.
+* [awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) ⭐ 1,863 | 🐛 221 | 🌐 Python | 📅 2026-07-14 - A curated list of awesome LLM and AI Agent Skills, resources and tools for customising AI Agent workflows - that works with Claude Code, Codex, Gemini CLI and your custom AI Agents.
+* [awesome-claude-design](https://github.com/rohitg00/awesome-claude-design) ⭐ 1,228 | 🐛 6 | 📅 2026-04-23 - Claude Design DESIGN.md prompts by aesthetic family, remix recipes, skills, video teardowns, X signal, honest community takes.
 * [awesome-autoresearch](https://github.com/wecoai/awesome-autoresearch) ⭐ 1,077 | 🐛 4 | 📅 2026-07-30 - Curated list of AutoResearch use cases with optimization traces and open source implementations.
-* [awesome-codex-cli](https://github.com/RoggeOhta/awesome-codex-cli) ⭐ 574 | 🐛 497 | 📅 2026-09-06 - Curated list of 150+ tools, skills, subagents & plugins for OpenAI Codex CLI.
-* [awesome-claude-code](https://github.com/jqueryscript/awesome-claude-code) ⭐ 551 | 🐛 787 | 📅 2026-11-10 - A curated list of awesome tools, IDE integrations, frameworks, and other resources for developers working with Anthropic's Claude Code.
-* [awesome-claude-code](https://github.com/LangGPT/awesome-claude-code) ⭐ 274 | 🐛 139 | 📅 2026-05-24 - Awesome Claude Code Resources, Projects、Prompts、Agents、Commands，everything about claude code! Claude Code 精选资源列表 （by 云中江树）.
-* [awesome-jev-typesafe](https://github.com/valentynkit/awesome-jev-typesafe) ⭐ 190 | 🐛 19 | 🌐 JavaScript | 📅 2026-11-12 - Typed decisions with TypeSafe's Jev, the first System One model.
+* [awesome-codex-cli](https://github.com/RoggeOhta/awesome-codex-cli) ⭐ 575 | 🐛 504 | 📅 2026-09-06 - Curated list of 150+ tools, skills, subagents & plugins for OpenAI Codex CLI.
+* [awesome-claude-code](https://github.com/jqueryscript/awesome-claude-code) ⭐ 551 | 🐛 796 | 📅 2026-11-10 - A curated list of awesome tools, IDE integrations, frameworks, and other resources for developers working with Anthropic's Claude Code.
+* [awesome-claude-code](https://github.com/LangGPT/awesome-claude-code) ⭐ 274 | 🐛 140 | 📅 2026-05-24 - Awesome Claude Code Resources, Projects、Prompts、Agents、Commands，everything about claude code! Claude Code 精选资源列表 （by 云中江树）.
+* [awesome-jev-typesafe](https://github.com/valentynkit/awesome-jev-typesafe) ⭐ 190 | 🐛 19 | 🌐 JavaScript | 📅 2026-11-13 - Typed decisions with TypeSafe's Jev, the first System One model.
 * [trending-claude-skills](https://github.com/linny006/trending-claude-skills) ⭐ 136 | 🐛 4 | 🌐 Python | 📅 2026-11-02 - Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes.
 * [awesome-claude-code-workflows](https://github.com/ithiria894/awesome-claude-code-workflows) ⭐ 135 | 🐛 26 | 📅 2026-03-28 - Curated workflow recipes that combine hooks, MCP servers, skills, agents, and CLAUDE.md to automate real Claude Code tasks.
+* [awesome-ai-built-games](https://github.com/lappemic/awesome-ai-built-games) ⭐ 125 | 🐛 32 | 📅 2026-10-29 - A curated list of vibe-coded games: playable games built with AI coding agents like Claude Code, Cursor, Codex, Gemini and Grok, with Three.js, Phaser, Godot and more.
 * [awesome-vibecoded-apps](https://github.com/levz0r/awesome-vibecoded-apps) ⭐ 55 | 🐛 0 | 🌐 Python | 📅 2026-11-02 - Real apps built with vibe coding: curated examples made with Claude Code, Cursor, Lovable and more. Live, link-checked list at vibecodedapps.dev.
-* [lit-review-agent-tools](https://github.com/brycewang-stanford/lit-review-agent-tools) ⭐ 51 | 🐛 4 | 🌐 Python | 📅 2026-11-09 - 🤖 The strongest curated list of open-source AI-agent tools for literature review — 70+ tools across 11 categories (Claude Code skills, deep research, MCP servers, PDF parsing, systematic review). 面向智能体文献综述的最强工具大全。.
+* [lit-review-agent-tools](https://github.com/brycewang-stanford/lit-review-agent-tools) ⭐ 52 | 🐛 4 | 🌐 Python | 📅 2026-11-09 - 🤖 The strongest curated list of open-source AI-agent tools for literature review — 70+ tools across 11 categories (Claude Code skills, deep research, MCP servers, PDF parsing, systematic review). 面向智能体文献综述的最强工具大全。.
 * [awesome-claude-code-security](https://github.com/efij/awesome-claude-code-security) ⭐ 41 | 🐛 31 | 📅 2026-03-12 - A awesome curated list of security resources, hardening tools, threat research, and governance frameworks specifically for Claude Code.
 * [awesome-ai-media-skills-cn](https://github.com/juneyaooo/awesome-ai-media-skills-cn) ⭐ 34 | 🐛 6 | 📅 2026-11-03 - AI 视频与自媒体领域的 Claude Code skills、Openclaw skills, MCP 服务器、AI Agent 能力精选合集 — 涵盖视频生成、多平台运营、内容自动化等。.
-* [awesome-skills-plugins-for-students](https://github.com/studentsuite/awesome-skills-plugins-for-students) ⭐ 32 | 🐛 34 | 🌐 JavaScript | 📅 2026-11-06 - A curated list of Claude Code, Cursor, and Copilot skills and plugins built for students: IB, IGCSE, college-bound, and anyone studying with an AI coding agent at their side.
-* [awesome-llm-token-reduction](https://github.com/congvmit/awesome-llm-token-reduction) ⭐ 11 | 🐛 3 | 📅 2026-06-13 - A curated list of techniques, tools, and research for reducing LLM token usage. Optimize context for Claude Code, Copilot, Cursor, and Aider.
+* [awesome-skills-plugins-for-students](https://github.com/studentsuite/awesome-skills-plugins-for-students) ⭐ 34 | 🐛 34 | 🌐 JavaScript | 📅 2026-11-06 - A curated list of Claude Code, Cursor, and Copilot skills and plugins built for students: IB, IGCSE, college-bound, and anyone studying with an AI coding agent at their side.
+* [awesome-llm-token-reduction](https://github.com/congvmit/awesome-llm-token-reduction) ⭐ 12 | 🐛 3 | 📅 2026-06-13 - A curated list of techniques, tools, and research for reducing LLM token usage. Optimize context for Claude Code, Copilot, Cursor, and Aider.
 * [awesome-claude-code](https://github.com/onmyway133/awesome-claude-code) ⭐ 7 | 🐛 9 | 📅 2026-09-14 - Awesome tools, skills, scripts to use with Claude Code.
 * [awesome-claude-code](https://github.com/hztbuaa/awesome-claude-code) ⭐ 5 | 🐛 9 | 📅 2026-02-20 - A curated list of awesome tools, skills, MCP servers, tips, and resources for Claude Code.
 * [awesome-ai-rules](https://github.com/shumatsumonobu/awesome-ai-rules) ⭐ 1 | 🐛 0 | 📅 2026-07-16 - Curated AI editor rule files from real-world projects — compare how top repos configure Cursor, Claude Code, Copilot & more.
-* [awesome-ai-coding-kr](https://github.com/hgko1207/awesome-ai-coding-kr) ⭐ 0 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-13 - 직접 써본 AI 코딩 도구를 솔직한 한국어 평과 함께 모은, 자동으로 안 썩게 관리되는 큐레이션.
+* [awesome-ai-coding-kr](https://github.com/hgko1207/awesome-ai-coding-kr) ⭐ 0 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-14 - 직접 써본 AI 코딩 도구를 솔직한 한국어 평과 함께 모은, 자동으로 안 썩게 관리되는 큐레이션.
 
 ### Command-line interface Topic Lists
 
-* [nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) ⭐ 4,145 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-08 - The largest Node.js CLI Apps best practices list ✨.
-* [awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) ⭐ 2,681 | 🐛 384 | 🌐 Python | 📅 2026-11-10 - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files.
+* [nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) ⭐ 4,143 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-08 - The largest Node.js CLI Apps best practices list ✨.
+* [awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) ⭐ 2,681 | 🐛 392 | 🌐 Python | 📅 2026-11-10 - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files.
 * [awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) ⭐ 1,219 | 🐛 8 | 🌐 HTML | 📅 2026-08-14 - Collection of tools to build beautiful command line interface in different languages.
 * [awesome-fetch](https://github.com/beucismis/awesome-fetch) ⭐ 604 | 🐛 8 | 🌐 Python | 📅 2026-10-04 - A curated collection of command-line fetch tools.
 * [awesome-toolkits](https://github.com/reyronald/awesome-toolkits) ⭐ 552 | 🐛 3 | 📅 2019-12-22 - A curated list of open source, high-quality, popular and well maintained "zero-configuration" (#0CJS) toolkits.
@@ -3251,18 +3253,18 @@ Last generated: 2026-11-12, 10396 lists.
 * [fucking-awesome-cli-apps](https://github.com/Correia-jpv/fucking-awesome-cli-apps) ⭐ 56 | 🐛 6 | 🌐 Shell | 📅 2026-11-12 - 🖥 📊 🕹 🛠 A curated list of command line apps. With up-to-date repository stars⭐ and forks🍴.
 * [awesome-product-cli](https://github.com/progrmoiz/awesome-product-cli) ⭐ 39 | 🐛 6 | 📅 2026-03-25 - A curated list of command-line interfaces for SaaS products — making every product accessible to AI agents and developers.
 * [orm-awesome](https://github.com/oreillymedia/orm-awesome) ⭐ 19 | 🐛 0 | 📅 2022-04-01 - O'Reilly Awesome List.
-* [awesome-terminal-aesthetics](https://github.com/kud/awesome-terminal-aesthetics) ⭐ 14 | 🐛 1 | 📅 2026-11-12 - ✨ A curated list of tools and frameworks that make the terminal genuinely beautiful.
+* [awesome-terminal-aesthetics](https://github.com/kud/awesome-terminal-aesthetics) ⭐ 14 | 🐛 1 | 📅 2026-11-13 - ✨ A curated list of tools and frameworks that make the terminal genuinely beautiful.
 * [awesome-cli](https://github.com/onmyway133/awesome-cli) ⭐ 7 | 🐛 1 | 📅 2026-03-26 - Awesome cli tools.
-* [awesome](https://github.com/nxame/awesome) ⭐ 5 | 🐛 0 | 📅 2026-11-10 - My starred awesome repos.
+* [awesome](https://github.com/nxame/awesome) ⭐ 5 | 🐛 0 | 📅 2026-11-14 - My starred awesome repos.
 * [awesome-ascii-apps](https://github.com/johnxie/awesome-ascii-apps) - Curated open-source ASCII UI/UX apps, generators, editors, and frameworks.
 * [awesome-cli-agentic-tools](https://github.com/spfunctions/awesome-cli-agentic-tools) - Curated list of CLI tools for AI agents. Prediction markets, agent frameworks, coding agents, browser agents, developer CLIs.
 
 ### Climate change Topic Lists
 
-* [open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) ⭐ 2,585 | 🐛 97 | 📅 2026-11-12 - A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.
+* [open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) ⭐ 2,585 | 🐛 96 | 📅 2026-11-12 - A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.
 * [awesome-earth](https://github.com/philsturgeon/awesome-earth) ⭐ 1,426 | 🐛 22 | 🌐 JavaScript | 📅 2026-01-30 - "What can I do about the climate crisis?" Here are 326 things you can do.
 * [awesome-sustainability-jobs](https://github.com/pogopaule/awesome-sustainability-jobs) ⭐ 517 | 🐛 3 | 🌐 Python | 📅 2026-10-13 - Dev jobs in the sustainability sector - be part of the solution, not the problem.
-* [awesome-clean-tech](https://github.com/nglgzz/awesome-clean-tech) ⭐ 477 | 🐛 19 | 📅 2026-03-13 - A community curated list of awesome clean tech companies.
+* [awesome-clean-tech](https://github.com/nglgzz/awesome-clean-tech) ⭐ 478 | 🐛 19 | 📅 2026-03-13 - A community curated list of awesome clean tech companies.
 * [awesome-forests](https://github.com/blutjens/awesome-forests) ⭐ 386 | 🐛 10 | 📅 2025-08-01 - 🌳 A curated list of ground-truth forest datasets for the machine learning and forestry community.
 * [Awesome-Foundation-Models-for-Weather-and-Climate](https://github.com/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate) ⭐ 298 | 🐛 0 | 📅 2025-02-03 - A comprehesive survey about foundation models for weather and cliamte data understanding.
 * [awesome-sustainable-finance](https://github.com/open-risk/awesome-sustainable-finance) ⭐ 87 | 🐛 3 | 📅 2026-11-11 - A curated list of sustainable finance resources (software, data and more).
@@ -3282,12 +3284,12 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Cloudflare Topic Lists
 
-* [awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) ⭐ 1,287 | 🐛 67 | 📅 2026-01-29 - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
-* [awesome-cloudflare-selfhosted](https://github.com/theoephraim/awesome-cloudflare-selfhosted) ⭐ 1,267 | 🐛 30 | 🌐 JavaScript | 📅 2026-11-01 - 🍊☁️ Open-source\* apps that replace SaaS product + tools, running in your own Cloudflare account.
+* [awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) ⭐ 1,288 | 🐛 67 | 📅 2026-01-29 - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
+* [awesome-cloudflare-selfhosted](https://github.com/theoephraim/awesome-cloudflare-selfhosted) ⭐ 1,268 | 🐛 32 | 🌐 JavaScript | 📅 2026-11-01 - 🍊☁️ Open-source\* apps that replace SaaS product + tools, running in your own Cloudflare account.
 
 ### Content Management System Topic Lists
 
-* [awesome-open-source-systems](https://github.com/ishanvyas22/awesome-open-source-systems) ⭐ 686 | 🐛 14 | 📅 2026-06-04 - :sunglasses: A curated list of awesome Free Open Source Softwares(FOSS).
+* [awesome-open-source-systems](https://github.com/ishanvyas22/awesome-open-source-systems) ⭐ 685 | 🐛 14 | 📅 2026-06-04 - :sunglasses: A curated list of awesome Free Open Source Softwares(FOSS).
 * [awesome-headless-cms](https://github.com/n370/awesome-headless-cms) ⭐ 238 | 🐛 16 | 📅 2026-04-06 - An awesome list of headless / decoupled CMS resources.
 * [awesome-grav](https://github.com/getgrav/awesome-grav) ⭐ 135 | 🐛 0 | 📅 2019-03-09 - A curated list of awesome stuff to do with Grav.
 * [noPress](https://github.com/CodinCat/noPress) ⭐ 105 | 🐛 0 | 📅 2024-01-10 - A collection of CMSs and Static Site Generators.
@@ -3298,8 +3300,8 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Code Topic Lists
 
-* [awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources) ⭐ 3,039 | 🐛 2 | 📅 2026-10-21 - Deep Learning and deep reinforcement learning research papers and some codes.
-* [Awesome-Deepfakes-Detection](https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection) ⭐ 1,852 | 🐛 20 | 📅 2025-09-02 - A list of tools, papers and code related to Deepfake Detection.
+* [awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources) ⭐ 3,039 | 🐛 1 | 📅 2026-11-14 - Deep Learning and deep reinforcement learning research papers and some codes.
+* [Awesome-Deepfakes-Detection](https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection) ⭐ 1,853 | 🐛 20 | 📅 2025-09-02 - A list of tools, papers and code related to Deepfake Detection.
 * [awesome-CARLA](https://github.com/Amin-Tgz/awesome-CARLA) ⭐ 916 | 🐛 0 | 📅 2026-09-28 - 👉 CARLA resources such as tutorial, blog, code and etc.
 * [Awesome-Denoise](https://github.com/oneTaken/Awesome-Denoise) ⭐ 506 | 🐛 0 | 📅 2024-04-08 - One-paper-one-short-contribution-summary of all latest image/burst/video Denoising papers with code & citation published in top conference and journal.
 * [awesome-woocommerce](https://github.com/lukecav/awesome-woocommerce) ⭐ 447 | 🐛 7 | 📅 2022-11-16 - Plugins and code snippets to improve your WooCommerce store.
@@ -3311,7 +3313,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Code quality Topic Lists
 
-* [static-analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,891 | 🐛 1 | 🌐 Rust | 📅 2026-11-12 - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+* [static-analysis](https://github.com/analysis-tools-dev/static-analysis) ⭐ 14,892 | 🐛 1 | 🌐 Rust | 📅 2026-11-12 - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 * [awesome-guidelines](https://github.com/Kristories/awesome-guidelines) ⭐ 11,260 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-28 - Programming style, best practices, and coding conventions.
 * [fucking-static-analysis](https://github.com/correia-jpv/fucking-static-analysis) ⭐ 27 | 🐛 3 | 🌐 Rust | 📅 2026-11-12 - ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more. With repository stars⭐ and forks🍴.
 * [fucking-awesome-guidelines](https://github.com/Correia-jpv/fucking-awesome-guidelines) ⭐ 16 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-12 - A curated list of high quality coding style conventions and standards. With repository stars⭐ and forks🍴.
@@ -3328,7 +3330,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Common Lisp Topic Lists
 
-* [awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,994 | 🐛 46 | 🌐 Makefile | 📅 2026-11-04 - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
+* [awesome-cl](https://github.com/CodyReichert/awesome-cl) ⭐ 2,995 | 🐛 46 | 🌐 Makefile | 📅 2026-11-04 - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
 * [awesome-cl-software](https://github.com/azzamsa/awesome-cl-software) ⭐ 400 | 🐛 2 | 📅 2026-06-20 - List of awesome application software built with Common Lisp.
 * [awesome-common-lisp-learning](https://github.com/GustavBertram/awesome-common-lisp-learning) ⭐ 248 | 🐛 1 | 📅 2023-10-04 - A curated list of awesome Common Lisp learning resources.
 
@@ -3342,7 +3344,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-compilers](https://github.com/aalhour/awesome-compilers) ⭐ 9,955 | 🐛 69 | 📅 2024-05-26 - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes.
 * [awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers) ⭐ 2,797 | 🐛 5 | 📅 2024-10-19 - A list of awesome compiler projects and papers for tensor computation and deep learning.
 * [awesome-machine-learning-in-compilers](https://github.com/zwang4/awesome-machine-learning-in-compilers) ⭐ 1,707 | 🐛 0 | 📅 2026-08-26 - Must read research papers and links to tools and datasets that are related to using machine learning for compilers and systems optimisation.
-* [awesome-typescript-compilers](https://github.com/JohnDeved/awesome-typescript-compilers) ⭐ 61 | 🐛 0 | 📅 2026-11-12 - A curated list of awesome TypeScript compilers, transpilers and runtimes.
+* [awesome-typescript-compilers](https://github.com/JohnDeved/awesome-typescript-compilers) ⭐ 61 | 🐛 0 | 📅 2026-11-14 - A curated list of awesome TypeScript compilers, transpilers and runtimes.
 * [awesome-compilers](https://github.com/hummanta/awesome-compilers) ⭐ 29 | 🐛 0 | 📅 2026-10-23 - An opinionated list of awesome compiler frameworks, libraries, software and resources.
 * [awesome-polyglot](https://github.com/lxsmnsyc/awesome-polyglot) ⭐ 8 | 🐛 0 | 📅 2020-02-01 - 😎 A curated list of libraries/tools that compiles a given language to other languages.
 * [awesome-modern-compiler](https://github.com/yilingqinghan/awesome-modern-compiler) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2025-07-07 - Curated learning portal for compiler enthusiasts and systems programmers—featuring tutorials, academic resources, expert profiles, project showcases and interactive tools around modern compilation technologies.
@@ -3354,18 +3356,18 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Computer science Topic Lists
 
-* [computer-science](https://github.com/ossu/computer-science) ⭐ 211,045 | 🐛 29 | 🌐 HTML | 📅 2026-11-09 - 🎓 Path to a free self-taught education in Computer Science!
-* [papers-we-love](https://github.com/papers-we-love/papers-we-love) ⭐ 111,466 | 🐛 4 | 🌐 Shell | 📅 2026-10-28 - Papers from the computer science community to read and discuss.
-* [awesome-courses](https://github.com/prakhar1989/awesome-courses) ⭐ 72,825 | 🐛 66 | 📅 2023-05-04 - :books: List of awesome university courses for learning Computer Science!
-* [ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao) ⭐ 21,037 | 🐛 10 | 📅 2026-05-20 - 🎓 Um caminho para a educação autodidata em Ciência da Computação!
-* [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) ⭐ 14,552 | 🐛 33 | 🌐 JavaScript | 📅 2024-11-09 - :books: Find your next book to read!
-* [awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) ⭐ 2,221 | 🐛 2 | 📅 2024-07-10 - Collection of advice for prospective and current PhD students.
+* [computer-science](https://github.com/ossu/computer-science) ⭐ 211,071 | 🐛 29 | 🌐 HTML | 📅 2026-11-09 - 🎓 Path to a free self-taught education in Computer Science!
+* [papers-we-love](https://github.com/papers-we-love/papers-we-love) ⭐ 111,491 | 🐛 4 | 🌐 Shell | 📅 2026-10-28 - Papers from the computer science community to read and discuss.
+* [awesome-courses](https://github.com/prakhar1989/awesome-courses) ⭐ 72,856 | 🐛 67 | 📅 2023-05-04 - :books: List of awesome university courses for learning Computer Science!
+* [ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao) ⭐ 21,041 | 🐛 10 | 📅 2026-05-20 - 🎓 Um caminho para a educação autodidata em Ciência da Computação!
+* [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) ⭐ 14,555 | 🐛 33 | 🌐 JavaScript | 📅 2024-11-09 - :books: Find your next book to read!
+* [awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) ⭐ 2,222 | 🐛 2 | 📅 2024-07-10 - Collection of advice for prospective and current PhD students.
 * [computer-book-list](https://github.com/Kalmaegi/computer-book-list) ⭐ 1,959 | 🐛 2 | 📅 2022-10-21 - 一个综合了豆瓣，goodreads综合评分的计算机书籍书单.
 * [awesome-naming](https://github.com/gruhn/awesome-naming) ⭐ 1,457 | 🐛 0 | 📅 2026-09-17 - A curated list for when naming things is done right.
 * [awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) ⭐ 1,241 | 🐛 0 | 🌐 Python | 📅 2026-10-23 - Math & CS awesome List, distinguished by proof and logic technique.
 * [my-cs-degree](https://github.com/logancyang/my-cs-degree) ⭐ 881 | 🐛 0 | 📅 2021-06-23 - A CS degree with a focus on full-stack ML engineering, 2020.
-* [awesome-thesis](https://github.com/awesome-thesis/awesome-thesis) ⭐ 663 | 🐛 5 | 📅 2026-03-05 - A curated list of practical tips and tricks to help you achieve an awesome CS master thesis \[WIP] - contributions are welcome.
-* [Awesome-CS-OpenCourse](https://github.com/0voice/Awesome-CS-OpenCourse) ⭐ 650 | 🐛 0 | 📅 2025-10-27 - 2025 精选｜全球顶尖高校计算机科学免费公开课合集！MIT、斯坦福等名校核心课全收录，从入门到进阶覆盖算法、AI、操作系统，助力高效提升技能。.
+* [awesome-thesis](https://github.com/awesome-thesis/awesome-thesis) ⭐ 663 | 🐛 6 | 📅 2026-03-05 - A curated list of practical tips and tricks to help you achieve an awesome CS master thesis \[WIP] - contributions are welcome.
+* [Awesome-CS-OpenCourse](https://github.com/0voice/Awesome-CS-OpenCourse) ⭐ 649 | 🐛 0 | 📅 2025-10-27 - 2025 精选｜全球顶尖高校计算机科学免费公开课合集！MIT、斯坦福等名校核心课全收录，从入门到进阶覆盖算法、AI、操作系统，助力高效提升技能。.
 * [awesome-full-stack-machine-learning-courses](https://github.com/leehanchung/awesome-full-stack-machine-learning-courses) ⭐ 537 | 🐛 9 | 🌐 JavaScript | 📅 2026-06-22 - Curated list of publicly accessible machine learning engineering courses from CalTech, Columbia, Berkeley, MIT, and Stanford.
 * [awesome-learning-resources](https://github.com/csr632/awesome-learning-resources) ⭐ 429 | 🐛 1 | 📅 2023-06-30 - 收集最优质的学习资料。专治“学习资料不足恐惧症”。.
 * [awesome-courses](https://github.com/fffaraz/awesome-courses) ⚠️ Archived - List of free online programming/CS courses \[Massive Open Online Courses].
@@ -3391,9 +3393,9 @@ Last generated: 2026-11-12, 10396 lists.
 * [MY-COMPUTER-SCIENCE-CURRICULUM](https://github.com/farhankarim/MY-COMPUTER-SCIENCE-CURRICULUM) ⭐ 20 | 🐛 0 | 📅 2018-10-08 - This repository consists of free online courses you can take which are equivalent to a bachelors degree in Karachi.
 * [resources](https://github.com/zavsievich/resources) ⭐ 19 | 🐛 4 | 📅 2025-07-23 - Learning resources to develop skills across the frontend and related areas. PR's are welcome!
 * [awesome-articles](https://github.com/daveads/awesome-articles) ⭐ 17 | 🐛 0 | 📅 2021-07-15 - List of awesome-articles.
-* [awesome-basics](https://github.com/cyberlytics/awesome-basics) ⭐ 14 | 🐛 0 | 📅 2026-11-12 - Digitaler Ressourcen-Pool für Informatik/KI.
+* [awesome-basics](https://github.com/cyberlytics/awesome-basics) ⭐ 15 | 🐛 0 | 📅 2026-11-12 - Digitaler Ressourcen-Pool für Informatik/KI.
 * [Awesome-Online-Web-Development-Courses-List](https://github.com/leocaseiro/Awesome-Online-Web-Development-Courses-List) ⭐ 14 | 🐛 1 | 📅 2018-02-23 - The Definitive List of Online Web Development Courses.
-* [awesome-thesis-tools](https://github.com/cyberlytics/awesome-thesis-tools) ⭐ 11 | 🐛 1 | 📅 2026-11-12 - Werkzeuge zur Anfertigung von Abschlussarbeiten in Informatik/KI.
+* [awesome-thesis-tools](https://github.com/cyberlytics/awesome-thesis-tools) ⭐ 11 | 🐛 2 | 📅 2026-11-12 - Werkzeuge zur Anfertigung von Abschlussarbeiten in Informatik/KI.
 * [awesome-software-engineering-tools](https://github.com/cyberlytics/awesome-software-engineering-tools) ⭐ 9 | 🐛 0 | 📅 2026-11-12 - Werkzeuge für Softwareentwicklung.
 * [free-computer-science-resources](https://github.com/getvmio/free-computer-science-resources) ⭐ 9 | 🐛 0 | 📅 2025-05-01 - Computer Science Free Resources | This repo collects 75 of free resources for Computer Science. 💻 Explore the foundations of computing with our Computer Science Hub! This repository features a curated collection of free educational resources covering various CS topics. With an interactive online .
 * [full-stack-dev-career-path](https://github.com/fractal-academy/full-stack-dev-career-path) ⭐ 8 | 🐛 0 | 📅 2021-07-08 - 🔥 Детальна інструкція для тих, хто хоче увійти в ІТ самостійно та стати full stack розробником.
@@ -3409,7 +3411,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Computer vision Topic Lists
 
-* [awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml) ⭐ 6,955 | 🐛 15 | 📅 2024-08-20 - Reading list for research topics in multimodal machine learning.
+* [awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml) ⭐ 6,958 | 🐛 15 | 📅 2024-08-20 - Reading list for research topics in multimodal machine learning.
 * [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning) ⭐ 6,448 | 🐛 3 | 📅 2026-02-24 - A curated list of awesome self-supervised methods.
 * [Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) ⭐ 5,047 | 🐛 24 | 📅 2024-07-30 - An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites.
 * [awesome\_3DReconstruction\_list](https://github.com/openMVG/awesome_3DReconstruction_list) ⭐ 4,441 | 🐛 6 | 📅 2021-10-12 - A curated list of papers & resources linked to 3D reconstruction from images.
@@ -3442,7 +3444,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [Awesome-Skeleton-based-Action-Recognition](https://github.com/niais/Awesome-Skeleton-based-Action-Recognition) ⭐ 685 | 🐛 3 | 🌐 HTML | 📅 2023-04-18 - Skeleton-based Action Recognition.
 * [awesome-holistic-3d](https://github.com/holistic-3d/awesome-holistic-3d) ⭐ 652 | 🐛 1 | 📅 2021-02-20 - A list of papers and resources (data,code,etc) for holistic 3D reconstruction in computer vision.
 * [awesome-optical-flow](https://github.com/hzwer/awesome-optical-flow) ⭐ 649 | 🐛 0 | 📅 2024-11-11 - This is a list of awesome paper about optical flow and related work.
-* [Awesome-Parameter-Efficient-Transfer-Learning](https://github.com/synbol/Awesome-Parameter-Efficient-Transfer-Learning) ⭐ 589 | 🐛 16 | 📅 2025-12-10 - Collection of awesome parameter-efficient fine-tuning resources.
+* [Awesome-Parameter-Efficient-Transfer-Learning](https://github.com/synbol/Awesome-Parameter-Efficient-Transfer-Learning) ⭐ 591 | 🐛 16 | 📅 2025-12-10 - Collection of awesome parameter-efficient fine-tuning resources.
 * [awesome-panoptic-segmentation](https://github.com/Angzz/awesome-panoptic-segmentation) ⭐ 558 | 🐛 2 | 📅 2020-08-25 - Panoptic Segmentation Resources List.
 * [awesome-computer-vision-models](https://github.com/gmalivenko/awesome-computer-vision-models) ⭐ 545 | 🐛 1 | 📅 2021-05-09 - A list of popular deep learning models related to classification, segmentation and detection problems.
 * [awesome-state-of-depth-completion](https://github.com/alexklwong/awesome-state-of-depth-completion) ⭐ 521 | 🐛 0 | 📅 2025-03-16 - Current state of supervised and unsupervised depth completion methods.
@@ -3473,14 +3475,14 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-human-activity-recognition](https://github.com/Leooo-Huang/awesome-human-activity-recognition) ⭐ 231 | 🐛 1 | 🌐 Python | 📅 2026-11-11 - Always up-to-date, most comprehensive HAR resource — continuously scanned and auto-updated from Papers with Code. 53 datasets integrated across all modalities.
 * [Awesome-Transformer-in-Medical-Imaging](https://github.com/xmindflow/Awesome-Transformer-in-Medical-Imaging) ⭐ 227 | 🐛 0 | 📅 2023-11-10 - \[MedIA Journal] An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites.
 * [Awesome-Person-Re-Identification](https://github.com/FDU-VTS/Awesome-Person-Re-Identification) ⭐ 205 | 🐛 0 | 📅 2021-12-15 - Awesome Person Re-Identification.
-* [awesome-3D-scene-graphs](https://github.com/DennisRotondi/awesome-3D-scene-graphs) ⭐ 182 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-09 - Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!
+* [awesome-3D-scene-graphs](https://github.com/DennisRotondi/awesome-3D-scene-graphs) ⭐ 182 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-13 - Awesome 3D Scene Graphs: a curated list of 3D scene graph generation and related resources! Now with a companion website to explore the literature!
 * [awesome-image-rectification](https://github.com/bchao1/awesome-image-rectification) ⭐ 180 | 🐛 2 | 📅 2021-04-22 - 📝 A curated list of image rectification papers.
 * [awesome-video-self-supervised-learning](https://github.com/Malitha123/awesome-video-self-supervised-learning) ⭐ 176 | 🐛 0 | 🌐 HTML | 📅 2026-11-03 - A curated list of awesome self-supervised learning methods in videos.
 * [Awesome-Mixup](https://github.com/Westlake-AI/Awesome-Mixup) ⭐ 170 | 🐛 0 | 📅 2024-10-14 - \[Survey] Awesome List of Mixup Augmentation and Beyond (.
 * [awesome-adaptive-computation](https://github.com/koayon/awesome-adaptive-computation) ⭐ 164 | 🐛 1 | 📅 2025-01-01 - A curated reading list of research in Adaptive Computation, Inference-Time Computation & Mixture of Experts (MoE).
 * [awesome-ai-services](https://github.com/sekwiatkowski/awesome-ai-services) ⭐ 162 | 🐛 1 | 🌐 Java | 📅 2018-06-25 - An overview of the AI-as-a-service landscape.
 * [awesome-holography](https://github.com/bchao1/awesome-holography) ⭐ 152 | 🐛 2 | 📅 2023-03-04 - A curated list of resources on holographic displays.
-* [awesome-mixture-of-experts-papers](https://github.com/arpita8/awesome-mixture-of-experts-papers) ⭐ 146 | 🐛 0 | 📅 2024-08-21 - Survey: A collection of AWESOME papers and resources on the latest research in Mixture of Experts.
+* [awesome-mixture-of-experts-papers](https://github.com/arpita8/awesome-mixture-of-experts-papers) ⭐ 147 | 🐛 0 | 📅 2024-08-21 - Survey: A collection of AWESOME papers and resources on the latest research in Mixture of Experts.
 * [awesome-papers](https://github.com/murufeng/awesome-papers) ⭐ 145 | 🐛 0 | 📅 2020-07-08 - 机器学习，深度学习，自然语言处理，计算机视觉方面的顶级期刊会议论文集.
 * [awesome-yolo](https://github.com/srebroa/awesome-yolo) ⭐ 110 | 🐛 0 | 📅 2026-02-14 - :rocket: :star: The list of the most popular YOLO algorithms - awesome YOLO.
 * [SecondaryAwesomeCollection](https://github.com/DeepTecher/SecondaryAwesomeCollection) ⭐ 95 | 🐛 0 | 📅 2019-07-14 - 收集深度学习相关的awesome 资源列表,欢迎补充.
@@ -3508,7 +3510,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [Awesome-Deblurring-Resources](https://github.com/kawchar85/Awesome-Deblurring-Resources) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-09-30 - A curated list of research papers and datasets related to image and video deblurring.
 * [awesome\_glc](https://github.com/lingyzhu0101/awesome_glc) ⭐ 14 | 🐛 1 | 📅 2026-05-09 - \[Paper List‘25] Paper list of Generative Image Compression (GIC), Generative Video Compression (GVC), Extreme Learned Image Compression (ELIC), and Extreme Learned Video Compression (ELVC) for Human Vision and Machine Vision.
 * [graphics-and-vision-well-explained](https://github.com/mwtarnowski/graphics-and-vision-well-explained) ⭐ 14 | 🐛 0 | 📅 2021-11-22 - A list of high-quality Computer Graphics & Computer Vision learning resources.
-* [really-awesome-sfda](https://github.com/prasannapulakurthi/really-awesome-sfda) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-10-27 - Really Awesome Source-free Domain Adaptation: papers, code, datasets, benchmarks, and tutorials.
+* [really-awesome-sfda](https://github.com/prasannapulakurthi/really-awesome-sfda) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-10-27 - Really Awesome Source-free Domain Adaptation: papers, code, datasets, benchmarks, and tutorials.
 * [awesome-cv](https://github.com/mucozcan/awesome-cv) ⭐ 11 | 🐛 0 | 📅 2022-08-01 - Collection of useful sources that related to computer vision mostly.
 * [awesome-human-pose-estimation](https://github.com/umitkacar/awesome-human-pose-estimation) ⭐ 10 | 🐛 2 | 📅 2025-11-17 - 🏃 Curated list of awesome human pose estimation papers, datasets, frameworks and tools. Deep learning approaches for 2D/3D pose estimation.
 * [awesome-computer-vision-tools](https://github.com/mawady/awesome-computer-vision-tools) ⭐ 9 | 🐛 0 | 📅 2026-10-24 - Curated tools for the full CV pipeline: training, data augmentation, experiment tracking, inference, edge deployment, and MLOps.
@@ -3554,12 +3556,12 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Coq Topic Lists
 
-* [awesome-coq](https://github.com/rocq-community/awesome-coq) ⭐ 396 | 🐛 10 | 📅 2026-06-05 - A curated list of awesome Coq libraries, plugins, tools, verification projects, and resources \[maintainer=@palmskog].
+* [awesome-coq](https://github.com/rocq-community/awesome-coq) ⭐ 395 | 🐛 10 | 📅 2026-06-05 - A curated list of awesome Coq libraries, plugins, tools, verification projects, and resources \[maintainer=@palmskog].
 * [awesome-provable](https://github.com/awesomo4000/awesome-provable) ⭐ 229 | 🐛 1 | 📅 2021-12-12 - A curated set of links to formal methods involving provable code.
 
 ### Cordova Topic Lists
 
-* [quasar-awesome](https://github.com/quasarframework/quasar-awesome) ⭐ 1,871 | 🐛 10 | 📅 2026-09-16 - 🎉 A list of awesome things related to Quasar.
+* [quasar-awesome](https://github.com/quasarframework/quasar-awesome) ⭐ 1,872 | 🐛 10 | 📅 2026-09-16 - 🎉 A list of awesome things related to Quasar.
 * [awesome-cordova](https://github.com/busterc/awesome-cordova) ⭐ 309 | 🐛 0 | 🌐 Ruby | 📅 2019-10-25 - :iphone: A curated list of amazingly awesome Cordova libraries, resources and shiny things.
 * [awesome-cordova-plugins](https://github.com/rdn87/awesome-cordova-plugins) ⭐ 39 | 🐛 2 | 📅 2018-05-30 - A curated list of awesome Cordova Apache Plugins.
 
@@ -3578,10 +3580,10 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### C++ Topic Lists
 
-* [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) ⭐ 13,192 | 🐛 0 | 🌐 HTML | 📅 2026-10-05 - A collection of resources on modern C++.
-* [MultiplayerNetworkingResources](https://github.com/0xFA11/MultiplayerNetworkingResources) ⭐ 8,790 | 🐛 6 | 🌐 C | 📅 2026-08-27 - A curated list of Multiplayer Game Network Programming Resources.
-* [awesome-quant](https://github.com/thuquant/awesome-quant) ⭐ 5,723 | 🐛 30 | 📅 2026-11-12 - 中国的Quant相关资源索引.
-* [Campus\_recruitment\_interview\_questions](https://github.com/0voice/Campus_recruitment_interview_questions) ⭐ 4,067 | 🐛 66 | 📅 2025-07-16 - 2025 最新校招面试题合集， 面向 2026 届应届生，全网最全整理！收录 1000+道真实面试题以及面经，涵盖阿里、腾讯、字节、美团、百度、华为、小米、英伟达、微软、米哈游等百家大中小厂。每题配备视频解析 or 文字讲解，持续更新中，助力拿下 Dream Offer！.
+* [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) ⭐ 13,191 | 🐛 0 | 🌐 HTML | 📅 2026-10-05 - A collection of resources on modern C++.
+* [MultiplayerNetworkingResources](https://github.com/0xFA11/MultiplayerNetworkingResources) ⭐ 8,792 | 🐛 6 | 🌐 C | 📅 2026-08-27 - A curated list of Multiplayer Game Network Programming Resources.
+* [awesome-quant](https://github.com/thuquant/awesome-quant) ⭐ 5,726 | 🐛 30 | 📅 2026-11-12 - 中国的Quant相关资源索引.
+* [Campus\_recruitment\_interview\_questions](https://github.com/0voice/Campus_recruitment_interview_questions) ⭐ 4,066 | 🐛 66 | 📅 2025-07-16 - 2025 最新校招面试题合集， 面向 2026 届应届生，全网最全整理！收录 1000+道真实面试题以及面经，涵盖阿里、腾讯、字节、美团、百度、华为、小米、英伟达、微软、米哈游等百家大中小厂。每题配备视频解析 or 文字讲解，持续更新中，助力拿下 Dream Offer！.
 * [awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) ⭐ 3,922 | 🐛 13 | 📅 2023-11-20 - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
 * [awesome-cpp](https://github.com/uhub/awesome-cpp) ⭐ 1,202 | 🐛 0 | 📅 2026-10-13 - A curated list of awesome C++ frameworks, libraries and software.
 * [awesome-distributed-system-projects](https://github.com/roma-glushko/awesome-distributed-system-projects) ⭐ 1,144 | 🐛 5 | 📅 2024-04-30 - 🚀 List of distributed system projects for inspiration and learning to build distributed services from real world examples.
@@ -3598,18 +3600,18 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Crawler Topic Lists
 
-* [awesome-crawler](https://github.com/BruceDone/awesome-crawler) ⭐ 7,367 | 🐛 40 | 📅 2024-06-16 - A collection of awesome web crawler,spider in different languages.
-* [awesome-ai-reverse](https://github.com/darbra/awesome-ai-reverse) ⭐ 1,010 | 🐛 1 | 📅 2026-09-29 - Ai reverse 一把梭.
+* [awesome-crawler](https://github.com/BruceDone/awesome-crawler) ⭐ 7,370 | 🐛 40 | 📅 2024-06-16 - A collection of awesome web crawler,spider in different languages.
+* [awesome-ai-reverse](https://github.com/darbra/awesome-ai-reverse) ⭐ 1,011 | 🐛 1 | 📅 2026-09-29 - Ai reverse 一把梭.
 * [awesome-python-primer](https://github.com/zkqiang/awesome-python-primer) ⭐ 214 | 🐛 0 | 🌐 Python | 📅 2022-07-27 - 自学入门 Python 优质中文资源索引，包含 书籍 / 文档 / 视频，适用于 爬虫 / Web / 数据分析 / 机器学习 方向.
 * [awesome-digital-preservation](https://github.com/ruarxive/awesome-digital-preservation) ⭐ 39 | 🐛 2 | 📅 2026-10-22 - Awesome list dedicated to digital and data preservation tools, sources, services and so on.
 
 ### Cryptocurrency Topic Lists
 
-* [financial-machine-learning](https://github.com/firmai/financial-machine-learning) ⭐ 8,838 | 🐛 18 | 🌐 Python | 📅 2025-01-03 - A curated list of practical financial machine learning tools and applications.
-* [awesome-deep-trading](https://github.com/cbailes/awesome-deep-trading) ⭐ 2,066 | 🐛 17 | 📅 2023-08-08 - List of awesome resources for machine learning-based algorithmic trading.
+* [financial-machine-learning](https://github.com/firmai/financial-machine-learning) ⭐ 8,839 | 🐛 18 | 🌐 Python | 📅 2025-01-03 - A curated list of practical financial machine learning tools and applications.
+* [awesome-deep-trading](https://github.com/cbailes/awesome-deep-trading) ⭐ 2,067 | 🐛 17 | 📅 2023-08-08 - List of awesome resources for machine learning-based algorithmic trading.
 * [awesome\_osint\_blockchain\_analysis](https://github.com/aaarghhh/awesome_osint_blockchain_analysis) ⭐ 376 | 🐛 5 | 📅 2026-11-02 - A list of useful Crypto resources for OSINT investigations.
 * [awesome-cryptoeconomics](https://github.com/L4ventures/awesome-cryptoeconomics) ⭐ 344 | 🐛 1 | 📅 2018-07-31 - 📚 A curated collection of links for cryptoeconomists.
-* [learn-crypto-trading.github.io](https://github.com/learn-crypto-trading/learn-crypto-trading.github.io) ⭐ 230 | 🐛 8 | 🌐 JavaScript | 📅 2023-04-12 - Valuable sources for TA, FA, Algorithmic \ Quant Trading.
+* [learn-crypto-trading.github.io](https://github.com/learn-crypto-trading/learn-crypto-trading.github.io) ⭐ 231 | 🐛 8 | 🌐 JavaScript | 📅 2023-04-12 - Valuable sources for TA, FA, Algorithmic \ Quant Trading.
 * [Awesome](https://github.com/Am0rphous/Awesome) ⭐ 182 | 🐛 4 | 🌐 Shell | 📅 2026-11-08 - Awesome collection of resources 😎 Work in progress🔥.
 * [awesome-airdrops](https://github.com/tpoonach/awesome-airdrops) ⭐ 29 | 🐛 0 | 📅 2018-03-12 - Referral Free Airdrop Links for Getting free Crypto Coins.
 * [banano-awesome](https://github.com/zh/banano-awesome) ⭐ 25 | 🐛 0 | 📅 2026-03-09 - BANANO currency related resources - documents, sites, projects etc.
@@ -3636,7 +3638,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 * [awesome-roslyn](https://github.com/ironcev/awesome-roslyn) ⭐ 735 | 🐛 14 | 📅 2024-01-16 - Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source generators.
 * [awesome-maui](https://github.com/MahmudX/awesome-maui) ⭐ 259 | 🐛 2 | 📅 2024-10-31 - A collection of awesome libraries, tools, frameworks, and samples for DotNet MAUI.
-* [dotnet-ai-resources](https://github.com/jmatthiesen/dotnet-ai-resources) ⭐ 144 | 🐛 3 | 📅 2025-02-14 - A collection of resources available to .NET developers working with AI.
+* [dotnet-ai-resources](https://github.com/jmatthiesen/dotnet-ai-resources) ⭐ 145 | 🐛 3 | 📅 2025-02-14 - A collection of resources available to .NET developers working with AI.
 * [RSCG\_Examples](https://github.com/ignatandrei/RSCG_Examples) ⭐ 129 | 🐛 46 | 🌐 HTML | 📅 2026-11-02 - Roslyn Source Code Generators with Examples.
 * [awesome-mixed-reality](https://github.com/saurabhchalke/awesome-mixed-reality) ⭐ 85 | 🐛 0 | 📅 2025-03-07 - 🌟 A curated list of awesome resources for Mixed Reality development.
 * [dotnet-guide](https://github.com/mikeroyal/dotnet-guide) ⭐ 15 | 🐛 1 | 🌐 C# | 📅 2022-01-03 - .NET/.NET Core Guide.
@@ -3645,26 +3647,26 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### CSS Topic Lists
 
-* [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) ⭐ 17,395 | 🐛 1 | 📅 2026-10-13 - 🎮 The only Front-End Performance Checklist that runs faster than the others.
-* [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) ⭐ 15,232 | 🐛 0 | 📅 2026-10-27 - 😎 Awesome things related to Tailwind CSS.
+* [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) ⭐ 17,396 | 🐛 1 | 📅 2026-10-13 - 🎮 The only Front-End Performance Checklist that runs faster than the others.
+* [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) ⭐ 15,233 | 🐛 0 | 📅 2026-10-27 - 😎 Awesome things related to Tailwind CSS.
 * [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) ⭐ 9,593 | 🐛 4 | 🌐 CSS | 📅 2026-11-07 - List of awesome CSS frameworks in 2026.
 * [frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) ⭐ 7,437 | 🐛 19 | 🌐 Astro | 📅 2026-11-10 - 💼 A curated list of talks and articles about real world frontend development.
-* [awesome-css](https://github.com/awesome-css-group/awesome-css) ⭐ 5,662 | 🐛 33 | 📅 2024-10-30 - :art: A curated contents of amazing CSS :).
+* [awesome-css](https://github.com/awesome-css-group/awesome-css) ⭐ 5,663 | 🐛 33 | 📅 2024-10-30 - :art: A curated contents of amazing CSS :).
 * [must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) ⭐ 4,879 | 🐛 0 | 📅 2026-09-24 - CSS talks you have to see covering CSS Grid, flexbox, custom variables, performance, frameworks, tooling, and more! 📺.
 * [channels](https://github.com/andrew--r/channels) ⭐ 4,479 | 🐛 4 | 📅 2021-10-01 - 📺 A collection of useful YouTube channels for JavaScript developers and web designers.
 * [awesome-css-learning](https://github.com/micromata/awesome-css-learning) ⭐ 3,876 | 🐛 9 | 📅 2026-02-01 - A tiny list limited to the best CSS Learning Resources.
-* [Awesome-JavaScript-Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews) ⭐ 3,744 | 🐛 11 | 🌐 JavaScript | 📅 2024-02-29 - Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :).
+* [Awesome-JavaScript-Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews) ⭐ 3,744 | 🐛 12 | 🌐 JavaScript | 📅 2024-02-29 - Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :).
 * [frontendDaily](https://github.com/kujian/frontendDaily) ⭐ 2,386 | 🐛 1,618 | 🌐 HTML | 📅 2026-08-11 - 前端开发博客，分享互联网最精彩的前端技术，欢迎关注我微信公众号：前端开发博客，回复 1024，领取前端进阶资料包，回复 加群，与大神一起交流学习。.
 * [awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) ⭐ 1,894 | 🐛 2 | 📅 2026-09-08 - 🇧🇷 A collection of amazing open source projects built by brazilian developers.
 * [awesome-spinners](https://github.com/yangshun/awesome-spinners) ⭐ 1,424 | 🐛 2 | 🌐 JavaScript | 📅 2022-02-07 - 💫 A curated collection of dazzling web spinners.
 * [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox) ⭐ 1,266 | 🐛 4 | 📅 2023-09-07 - :eyeglasses: A curated list of CSS Flexible Box Layout Module or only Flexbox.
-* [awesome-design-systems](https://github.com/klaufel/awesome-design-systems) ⭐ 909 | 🐛 0 | 📅 2026-11-10 - 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
-* [awesome-frontend-dev](https://github.com/filimonovalexey/awesome-frontend-dev) ⭐ 607 | 🐛 7 | 📅 2025-05-06 - Подборка полезных материалов для начинающих веб-разработчиков!
+* [awesome-design-systems](https://github.com/klaufel/awesome-design-systems) ⭐ 910 | 🐛 0 | 📅 2026-11-10 - 📒 A curated list of bookmarks, resources and articles about design systems focused on developers.
+* [awesome-frontend-dev](https://github.com/filimonovalexey/awesome-frontend-dev) ⭐ 606 | 🐛 7 | 📅 2025-05-06 - Подборка полезных материалов для начинающих веб-разработчиков!
 * [expert-css](https://github.com/Allyhere/expert-css) ⭐ 328 | 🐛 0 | 📅 2023-03-09 - Repositório contendo materiais de estudo de CSS avançado.
 * [awesome-bitrix](https://github.com/awesomebitrix/awesome-bitrix) ⭐ 302 | 🐛 7 | 📅 2023-04-12 - Потрясающий Битрикс - полезные статьи о настройке и разработке 1C-Bitrix и Bitrix 24, а также компоненты и модули, php и JavaScript библиотеки.
-* [awesome-webdev-resources](https://github.com/itzashoffcl/awesome-webdev-resources) ⭐ 231 | 🐛 24 | 📅 2024-11-22 - A curated list of useful websites and resources for web developers.
+* [awesome-webdev-resources](https://github.com/itzashoffcl/awesome-webdev-resources) ⭐ 231 | 🐛 25 | 📅 2024-11-22 - A curated list of useful websites and resources for web developers.
 * [awesome-web-development](https://github.com/nepaul/awesome-web-development) ⭐ 207 | 🐛 13 | 📅 2025-03-22 - 🧡 A curated list of awesome web development resources.
-* [guiadoprogramador](https://github.com/vncsmnl/guiadoprogramador) ⭐ 194 | 🐛 1 | 📅 2026-11-02 - 📖 Guia Definitivo de Programação.
+* [guiadoprogramador](https://github.com/vncsmnl/guiadoprogramador) ⭐ 194 | 🐛 2 | 📅 2026-11-02 - 📖 Guia Definitivo de Programação.
 * [self-taught-developer](https://github.com/SyedUmairCodes/self-taught-developer) ⭐ 179 | 🐛 0 | 📅 2025-07-13 - Free and high-quality resources for self-taught developers!
 * [TreehouseShow](https://github.com/MHM5000/TreehouseShow) ⭐ 169 | 🐛 0 | 📅 2020-09-06 - TeamTreeHouse's Weekly show notes.
 * [fe-awesome-demos](https://github.com/awesome-vault/fe-awesome-demos) ⭐ 147 | 🐛 18 | 🌐 JavaScript | 📅 2023-01-03 - ✨前端入门demos集合.
@@ -3680,8 +3682,8 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-project-ideas](https://github.com/GoldenIdeas/awesome-project-ideas) ⭐ 29 | 🐛 0 | 📅 2022-02-27 - A Collection of Really Good App Ideas For Web Developers.
 * [awesome-frontend-learning-resource](https://github.com/Jacky-Summer/awesome-frontend-learning-resource) ⭐ 26 | 🐛 0 | 📅 2023-03-02 - 📒 收集整理前端优质文章、学习工具与网站、优质信息源推荐，持续更新.
 * [awesome](https://github.com/mdn/awesome) ⭐ 21 | 🐛 0 | 📅 2025-11-18 - A curated list of awesome projects powered by (and powering) MDN Web Docs.
-* [fucking-awesome-css](https://github.com/correia-jpv/fucking-awesome-css) ⭐ 10 | 🐛 1 | 📅 2026-11-12 - 🎨 A curated contents of amazing CSS :) With repository stars⭐ and forks🍴.
-* [fucking-awesome-sass](https://github.com/correia-jpv/fucking-awesome-sass) ⭐ 10 | 🐛 0 | 📅 2026-11-12 - 🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources. With repository stars⭐ and forks🍴.
+* [fucking-awesome-css](https://github.com/correia-jpv/fucking-awesome-css) ⭐ 10 | 🐛 1 | 📅 2026-11-14 - 🎨 A curated contents of amazing CSS :) With repository stars⭐ and forks🍴.
+* [fucking-awesome-sass](https://github.com/correia-jpv/fucking-awesome-sass) ⭐ 10 | 🐛 0 | 📅 2026-11-14 - 🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources. With repository stars⭐ and forks🍴.
 * [Awesome-Palette-Choice](https://github.com/dogfuntom/Awesome-Palette-Choice) ⭐ 6 | 🐛 7 | 📅 2025-01-14 - A list of color palette generator (semi-automatic, AI-powered, and the rest).
 * [fucking-awesome-css-frameworks](https://github.com/Correia-jpv/fucking-awesome-css-frameworks) ⭐ 6 | 🐛 0 | 🌐 CSS | 📅 2026-11-12 - List of awesome CSS frameworks. With repository stars⭐ and forks🍴.
 * [frontend-focus](https://github.com/lio-zero/frontend-focus) ⭐ 4 | 🐛 0 | 📅 2023-12-15 - :newspaper: Focus on front-end hot news.
@@ -3692,7 +3694,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### CSV Topic Lists
 
-* [awesomeCSV](https://github.com/secretGeek/awesomeCSV) ⭐ 959 | 🐛 61 | 🌐 PowerShell | 📅 2026-06-11 - 🕶️A curated list of awesome tools for dealing with CSV.
+* [awesomeCSV](https://github.com/secretGeek/awesomeCSV) ⭐ 959 | 🐛 62 | 🌐 PowerShell | 📅 2026-06-11 - 🕶️A curated list of awesome tools for dealing with CSV.
 
 ### CUDA Topic Lists
 
@@ -3700,12 +3702,12 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-cuda-and-hpc](https://github.com/coderonion/awesome-cuda-and-hpc) ⭐ 525 | 🐛 6 | 📅 2025-08-02 - 🚀🚀🚀 This repository lists some awesome public CUDA, cuda-python, cuBLAS, cuDNN, CUTLASS, TensorRT, TensorRT-LLM, Triton, TVM, MLIR, PTX and High Performance Computing (HPC) projects.
 * [gpu-guide](https://github.com/mikeroyal/gpu-guide) ⭐ 340 | 🐛 0 | 🌐 Shell | 📅 2022-02-01 - Graphics Processing Unit (GPU) Architecture Guide.
 * [Awesome-LLM4Kernel](https://github.com/kcxain/Awesome-LLM4Kernel) ⭐ 83 | 🐛 0 | 🌐 HTML | 📅 2026-03-31 - LLM4Kernel: A Survey of Large Language Models for GPU Kernel Development.
-* [CUDA-Guide](https://github.com/mikeroyal/CUDA-Guide) ⭐ 79 | 🐛 0 | 🌐 Cuda | 📅 2024-01-04 - CUDA Guide.
+* [CUDA-Guide](https://github.com/mikeroyal/CUDA-Guide) ⭐ 80 | 🐛 0 | 🌐 Cuda | 📅 2024-01-04 - CUDA Guide.
 * [awesome-dl-development](https://github.com/jason-cs18/awesome-dl-development) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-07-18 - A collection of deep learning development (notes, courses, papers and tools).
 
 ### Cursor Topic Lists
 
-* [awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) ⭐ 2,282 | 🐛 616 | 📅 2026-09-18 - A curated list of AI-powered coding tools.
+* [awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) ⭐ 2,283 | 🐛 621 | 📅 2026-09-18 - A curated list of AI-powered coding tools.
 * [awesome-devtools](https://github.com/devtoolsd/awesome-devtools) ⭐ 690 | 🐛 319 | 📅 2025-10-12 - A curated list of awesome developer tools and services — from cloud platforms and IDEs to AI-powered coding assistants and productivity utilities.
 * [awesome-grok-bot-plugins](https://github.com/rdmgator12/awesome-grok-bot-plugins) - A directory of plugins in Grok Bot's in-app marketplace: 219 Cursor Marketplace listings from the 2026-08-12 catalog capture, organized by category with descriptions and use cases.
 
@@ -3716,43 +3718,43 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Cybersecurity Topic Lists
 
-* [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,561 | 🐛 117 | 📅 2026-10-13 - A curated list of tools for incident response.
-* [osint\_stuff\_tool\_collection](https://github.com/cipher387/osint_stuff_tool_collection) ⭐ 9,139 | 🐛 3 | 📅 2026-11-13 - A collection of several hundred online tools for OSINT.
-* [Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) ⭐ 6,611 | 🐛 30 | 📅 2024-07-21 - A curated list of GPT agents for cybersecurity.
-* [awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) ⭐ 6,606 | 🐛 139 | 📅 2026-11-12 - A collection of awesome security hardening guides, tools and other resources.
-* [awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) ⭐ 5,650 | 🐛 91 | 📅 2024-07-15 - :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
-* [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) ⭐ 4,776 | 🐛 7 | 📅 2026-05-30 - 🚗 A curated list of resources for learning about vehicle security and car hacking.
-* [awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) ⭐ 3,889 | 🐛 34 | 🌐 Shell | 📅 2026-08-29 - OSINT & recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics & more.
+* [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,563 | 🐛 118 | 📅 2026-10-13 - A curated list of tools for incident response.
+* [osint\_stuff\_tool\_collection](https://github.com/cipher387/osint_stuff_tool_collection) ⭐ 9,162 | 🐛 2 | 📅 2026-11-13 - A collection of several hundred online tools for OSINT.
+* [Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) ⭐ 6,610 | 🐛 30 | 📅 2024-07-21 - A curated list of GPT agents for cybersecurity.
+* [awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) ⭐ 6,608 | 🐛 139 | 📅 2026-11-12 - A collection of awesome security hardening guides, tools and other resources.
+* [awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) ⭐ 5,652 | 🐛 92 | 📅 2024-07-15 - :computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
+* [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) ⭐ 4,777 | 🐛 7 | 📅 2026-05-30 - 🚗 A curated list of resources for learning about vehicle security and car hacking.
+* [awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) ⭐ 3,899 | 🐛 34 | 🌐 Shell | 📅 2026-08-29 - OSINT & recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics & more.
 * [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) ⭐ 3,057 | 🐛 0 | 📅 2026-10-18 - Awesome Node.js Security resources.
 * [cybersources](https://github.com/bst04/cybersources) ⭐ 2,487 | 🐛 23 | 📅 2026-10-19 - A curated list of cybersecurity tools and resources.
-* [awesome-cloud-security](https://github.com/teamssix/awesome-cloud-security) ⭐ 2,127 | 🐛 3 | 📅 2024-10-28 - Awesome cloud security 收集一些国内外不错的云安全资源，该项目主要面向国内的安全人员.
-* [Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets) ⭐ 2,102 | 🐛 15 | 📅 2024-03-02 - A curated list of amazingly awesome Cybersecurity datasets.
-* [awesome-soc](https://github.com/cyb3rxp/awesome-soc) ⭐ 1,920 | 🐛 19 | 📅 2026-11-02 - A curated knowledge base to build, run and mature a SOC (including CSIRT).
+* [awesome-cloud-security](https://github.com/teamssix/awesome-cloud-security) ⭐ 2,128 | 🐛 3 | 📅 2024-10-28 - Awesome cloud security 收集一些国内外不错的云安全资源，该项目主要面向国内的安全人员.
+* [Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets) ⭐ 2,103 | 🐛 17 | 📅 2024-03-02 - A curated list of amazingly awesome Cybersecurity datasets.
+* [awesome-soc](https://github.com/cyb3rxp/awesome-soc) ⭐ 1,922 | 🐛 19 | 📅 2026-11-13 - A curated knowledge base to build, run and mature a SOC (including CSIRT).
 * [awesome-executable-packing](https://github.com/packing-box/awesome-executable-packing) ⭐ 1,641 | 🐛 0 | 📅 2026-10-10 - A curated list of awesome resources related to executable packing.
 * [awesome-anti-forensic](https://github.com/shadawck/awesome-anti-forensic) ⭐ 1,058 | 🐛 5 | 🌐 HTML | 📅 2023-11-27 - Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general that makes changes to a system for the purposes of hiding information.
-* [awesome-cybersecurity-blueteam-cn](https://github.com/satan1a/awesome-cybersecurity-blueteam-cn) ⭐ 979 | 🐛 0 | 🌐 HTML | 📅 2023-12-03 - 网络安全 · 攻防对抗 · 蓝队清单，中文版.
-* [Awesome-AI-Security](https://github.com/TalEliyahu/Awesome-AI-Security) ⭐ 911 | 🐛 42 | 📅 2026-07-18 - Curated resources, research, and tools for securing AI systems.
+* [awesome-cybersecurity-blueteam-cn](https://github.com/satan1a/awesome-cybersecurity-blueteam-cn) ⭐ 980 | 🐛 0 | 🌐 HTML | 📅 2023-12-03 - 网络安全 · 攻防对抗 · 蓝队清单，中文版.
+* [Awesome-AI-Security](https://github.com/TalEliyahu/Awesome-AI-Security) ⭐ 911 | 🐛 43 | 📅 2026-07-18 - Curated resources, research, and tools for securing AI systems.
 * [awesome-ios-security](https://github.com/Cy-clon3/awesome-ios-security) ⭐ 680 | 🐛 4 | 📅 2024-01-05 - A curated list of awesome iOS application security resources.
 * [All-In-One-CyberSecurity-Resources](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources) ⭐ 617 | 🐛 4 | 📅 2024-08-09 - List of CyberSecurity Resources and some different Sub-Domains of CyberSecurity.
 * [Awesome-hacking-tools](https://github.com/awake1t/Awesome-hacking-tools) ⭐ 549 | 🐛 1 | 🌐 Python | 📅 2022-05-21 - 收集网上好用、实用的红蓝对抗武器。从资产扫描、泄漏扫描、信息收集、漏洞扫描、SRC批量挖掘、内网渗透、应急响应等等工具。 大部分我都用过、部分会写上自己的感想与建议，希望对你有帮助.
-* [Awesome-Offensive-AI-Agentic-Landscape](https://github.com/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape) ⭐ 456 | 🐛 0 | 📅 2026-09-10 - This document curates open-source projects, academic papers, capability benchmarks, and commercial solutions (international & China) in AI penetration testing, LLM red teaming, autonomous offensive agents, and vulnerability discovery—aimed at helping researchers, security engineers, and enterprise decision-makers quickly form a holistic view.
+* [Awesome-Offensive-AI-Agentic-Landscape](https://github.com/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape) ⭐ 459 | 🐛 0 | 📅 2026-09-10 - This document curates open-source projects, academic papers, capability benchmarks, and commercial solutions (international & China) in AI penetration testing, LLM red teaming, autonomous offensive agents, and vulnerability discovery—aimed at helping researchers, security engineers, and enterprise decision-makers quickly form a holistic view.
 * [guia-ackercode](https://github.com/alestanalves/guia-ackercode) ⭐ 398 | 🐛 6 | 📅 2025-07-12 - Guia Acker Code de Programação e Hacking.
 * [Awesome-LLM4Security](https://github.com/liu673/Awesome-LLM4Security) ⭐ 360 | 🐛 7 | 📅 2026-08-11 - This project aims to consolidate and share high-quality resources and tools across the cybersecurity domain.
 * [awesome-laws](https://github.com/threekiii/awesome-laws) ⭐ 259 | 🐛 0 | 📅 2026-01-05 - 一个网络安全相关法律法规、安全政策、国家标准、行业标准知识库。A knowledge base of cybersecurity policies, laws, guidelines, and technical standards.
 * [awesome-sec-challenges](https://github.com/mikeprivette/awesome-sec-challenges) ⭐ 214 | 🐛 1 | 📅 2024-11-06 - A curated list of Awesome Security Challenges.
 * [awesome-recon-tools](https://github.com/servicelogon/awesome-recon-tools) ⭐ 185 | 🐛 12 | 📅 2026-08-22 - A compiled list of tools for reconnaissance and footprinting.
 * [awesome-wifi-security](https://github.com/edelahozuah/awesome-wifi-security) ⭐ 177 | 🐛 3 | 📅 2019-04-10 - A collection of awesome resources related to 802.11 security, tools and other things.
+* [awesome-cybersecurity-learning-resources](https://github.com/jassics/awesome-cybersecurity-learning-resources) ⭐ 163 | 🐛 7 | 📅 2026-10-11 - Learning resources for cybersecurity including YouTube, GitHub, books, videos, courses, labs, articles etc. at one place.
 * [recommendations-for-engineers](https://github.com/pyxelr/recommendations-for-engineers) ⭐ 163 | 🐛 1 | 📅 2026-10-13 - 📚 All of my recommendations for aspiring engineers in a single place, coming from various areas of interest.
-* [awesome-cybersecurity-learning-resources](https://github.com/jassics/awesome-cybersecurity-learning-resources) ⭐ 161 | 🐛 7 | 📅 2026-10-11 - Learning resources for cybersecurity including YouTube, GitHub, books, videos, courses, labs, articles etc. at one place.
 * [awesome-cybersecurity](https://github.com/Annsec/awesome-cybersecurity) ⭐ 159 | 🐛 3 | 📅 2026-10-07 - Curated list of awesome cybersecurity companies and solutions.
 * [awesome-security-feed](https://github.com/mrtouch93/awesome-security-feed) ⭐ 151 | 🐛 4 | 📅 2022-11-20 - A semi-curated list of Security Feeds.
-* [awesome-deception](https://github.com/tracebit-com/awesome-deception) ⭐ 133 | 🐛 1 | 📅 2026-10-22 - An awesome collection of articles, papers, conferences, guides, and tools relating to deception in cybersecurity.
+* [awesome-deception](https://github.com/tracebit-com/awesome-deception) ⭐ 133 | 🐛 0 | 📅 2026-11-13 - An awesome collection of articles, papers, conferences, guides, and tools relating to deception in cybersecurity.
 * [awesome-compliance](https://github.com/getprobo/awesome-compliance) ⭐ 115 | 🐛 59 | 🌐 Astro | 📅 2026-01-15 - A curated list of tools, frameworks, and resources for IT compliance, security standards, and regulatory requirements.
 * [awesome-cyber](https://github.com/landoncrabtree/awesome-cyber) ⭐ 113 | 🐛 4 | 📅 2024-12-20 - A curated list of tools useful within the field of cyber security, for both blue and red team operations.
 * [awesome-openbsd-desktop](https://github.com/raffaelschneider/awesome-openbsd-desktop) ⭐ 99 | 🐛 0 | 📅 2026-01-02 - A curated list of awesome applications, software, tools, and resources for using OpenBSD as a daily driver.
 * [awesome-soc-analyst](https://github.com/st0pp3r/awesome-soc-analyst) ⭐ 96 | 🐛 4 | 🌐 HTML | 📅 2026-10-13 - Online resources related to SOC Analysts. Incident investigation reference material, blogs, newsletters, good reads, books, trainings, podcasts, Twitter/X accounts and a set of tools relevant to the role of SOC analyst.
 * [awesome-practice-projects](https://github.com/labex-labs/awesome-practice-projects) ⭐ 89 | 🐛 0 | 📅 2026-07-01 - Guided programming projects for practical skill building by LabEx.
-* [awesome-iot-and-hardware-security](https://github.com/kayranfatih/awesome-iot-and-hardware-security) ⭐ 74 | 🐛 0 | 📅 2026-11-10 - A collection of awesome tools, books, resources, software, documents and cool stuff about IoT and HW security.
+* [awesome-iot-and-hardware-security](https://github.com/kayranfatih/awesome-iot-and-hardware-security) ⭐ 75 | 🐛 0 | 📅 2026-11-10 - A collection of awesome tools, books, resources, software, documents and cool stuff about IoT and HW security.
 * [free-cybersecurity-resources](https://github.com/getvmio/free-cybersecurity-resources) ⭐ 72 | 🐛 0 | 📅 2025-05-01 - Cybersecurity Free Resources | This repo collects 14 of free resources for Cybersecurity. 🛡️ Arm yourself with knowledge from our Cybersecurity Arsenal! This repository houses an extensive collection of free resources and interactive online environments. Essential for anyone looking to enhance th.
 * [awesome-hacking-with-ai](https://github.com/frangelbarrera/awesome-hacking-with-ai) ⭐ 48 | 🐛 4 | 🌐 Python | 📅 2026-11-09 - A curated, evidence-led guide to AI for security and security for AI. Defensive research, agent safety, MCP security, AI red-teaming and evaluation, authorized testing workflows, and detection engineering.
 * [awesome-lol](https://github.com/danzek/awesome-lol) ⭐ 46 | 🐛 0 | 📅 2026-05-01 - Living off the Land (LOL) attack techniques, tools, and defender resources.
@@ -3791,11 +3793,11 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### data Topic Lists
 
-* [awesome-bigdata](https://github.com/oxnr/awesome-bigdata) ⭐ 14,735 | 🐛 4 | 📅 2026-11-06 - A curated list of awesome big data frameworks, ressources and other awesomeness.
+* [awesome-bigdata](https://github.com/oxnr/awesome-bigdata) ⭐ 14,736 | 🐛 0 | 📅 2026-11-13 - A curated list of awesome big data frameworks, ressources and other awesomeness.
 * [awesome-public-real-time-datasets](https://github.com/bytewax/awesome-public-real-time-datasets) ⭐ 2,974 | 🐛 14 | 📅 2026-10-22 - A list of publicly available datasets with real-time data maintained by the team at bytewax.io.
-* [awesome-data](https://github.com/akfamily/awesome-data) ⭐ 708 | 🐛 1 | 📅 2026-11-07 - Awesome-data shows most interesting data-source around the financial world!
+* [awesome-data](https://github.com/akfamily/awesome-data) ⭐ 709 | 🐛 2 | 📅 2026-11-07 - Awesome-data shows most interesting data-source around the financial world!
 * [urban-and-regional-planning-resources](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources) ⭐ 373 | 🐛 6 | 📅 2026-11-05 - Community list of data & technology resources concerning the built environment and communities. 🏙️🌳🚌🚦🗺️.
-* [awesome-colour](https://github.com/colour-science/awesome-colour) ⭐ 325 | 🐛 5 | 🌐 Python | 📅 2026-11-09 - Curated list of awesome colour science resources 😎.
+* [awesome-colour](https://github.com/colour-science/awesome-colour) ⭐ 325 | 🐛 6 | 🌐 Python | 📅 2026-11-09 - Curated list of awesome colour science resources 😎.
 * [awesome-opendata-rus](https://github.com/infoculture/awesome-opendata-rus) ⭐ 228 | 🐛 2 | 📅 2021-12-16 - Opendata resources in Russian / Открытые данные на русском языке.
 * [awesome-brazil-data](https://github.com/juliohm/awesome-brazil-data) ⭐ 211 | 🐛 0 | 📅 2026-10-25 - Curated list of Brazilian datasets for anyone interested in studying the country.
 * [awesome-zarr](https://github.com/dahnj/awesome-zarr) ⭐ 94 | 🐛 2 | 📅 2024-06-14 - 🎀 Awesome Zarr resources.
@@ -3803,8 +3805,8 @@ Last generated: 2026-11-12, 10396 lists.
 * [data-tools](https://github.com/victorcouste/data-tools) ⭐ 90 | 🐛 8 | 📅 2023-08-22 - Data Tools Subjective List.
 * [awesome-democracy-data](https://github.com/andrewcstewart/awesome-democracy-data) ⭐ 88 | 🐛 26 | 🌐 HTML | 📅 2022-02-17 - A curated list of awesome data sources related to elections, electoral reforms, and democratic political systems.
 * [awesome-qlik](https://github.com/ambster-public/awesome-qlik) ⭐ 79 | 🐛 1 | 📅 2019-11-15 - A curated list of awesome Qlik extensions and resources for Qlik Sense and QlikView.
+* [awesome-geospatial-data-sources](https://github.com/iamtekson/awesome-geospatial-data-sources) ⭐ 75 | 🐛 4 | 📅 2026-11-02 - This is the repo for open source geospatial data download sites.
 * [awesome-data-journalism](https://github.com/jwyg/awesome-data-journalism) ⭐ 74 | 🐛 8 | 📅 2024-03-03 - List of publicly available, free/open source and open access resources for learning and doing data journalism.
-* [awesome-geospatial-data-sources](https://github.com/iamtekson/awesome-geospatial-data-sources) ⭐ 74 | 🐛 4 | 📅 2026-11-02 - This is the repo for open source geospatial data download sites.
 * [awesome-json-next](https://github.com/json-next/awesome-json-next) ⭐ 72 | 🐛 2 | 📅 2021-02-23 - A Collection of What's Next for Awesome JSON (JavaScript Object Notation) for Structured (Meta) Data in Text - JSON5, HJSON, HanSON, TJSON, SON, CSON, USON, JSONX/JSON11 & Many More.
 * [run-a-data-team](https://github.com/sbalnojan/run-a-data-team) ⭐ 66 | 🐛 0 | 📅 2024-05-07 - A guide for leading a data (engineering) team.
 * [awesome-feeds](https://github.com/DongjunLee/awesome-feeds) ⭐ 40 | 🐛 2 | 📅 2024-12-28 - A curated list of tech, machine learning, biz and etc. feeds.
@@ -3820,7 +3822,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Data analysis Topic Lists
 
-* [Awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,373 | 🐛 26 | 📅 2026-11-08 - Long list of geospatial tools and resources.
+* [Awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,374 | 🐛 28 | 📅 2026-11-08 - Long list of geospatial tools and resources.
 * [awesome-business-intelligence](https://github.com/thenaturalist/awesome-business-intelligence) ⭐ 2,339 | 🐛 34 | 📅 2024-08-21 - Actively curated list of awesome BI tools. PRs welcome!
 * [awesome-data-agents](https://github.com/hkustdial/awesome-data-agents) ⭐ 800 | 🐛 0 | 🌐 Python | 📅 2026-11-08 - Continuously updated paper list on advancements in Data Agents. Companion repo to our paper "A Survey of Data Agents: Emerging Paradigm or Overstated Hype?".
 * [machine-learning-resources](https://github.com/datascienceid/machine-learning-resources) ⭐ 446 | 🐛 7 | 📅 2023-03-23 - A curated list of awesome machine learning frameworks, libraries, courses, books and many more.
@@ -3835,18 +3837,18 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Data Science Topic Lists
 
-* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 30,323 | 🐛 1 | 📅 2026-11-10 - :memo: An awesome Data Science repository to learn and apply for real world problems.
-* [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) ⭐ 4,695 | 🐛 16 | 📅 2026-11-13 - A curated list of awesome Jupyter projects, libraries and resources.
-* [football\_analytics](https://github.com/eddwebster/football_analytics) ⭐ 2,856 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2025-10-09 - 📊⚽ A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated list of publicly available resources published by the football analytics community.
+* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 30,330 | 🐛 1 | 📅 2026-11-10 - :memo: An awesome Data Science repository to learn and apply for real world problems.
+* [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) ⭐ 4,696 | 🐛 16 | 📅 2026-11-14 - A curated list of awesome Jupyter projects, libraries and resources.
+* [football\_analytics](https://github.com/eddwebster/football_analytics) ⭐ 2,857 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2025-10-09 - 📊⚽ A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated list of publicly available resources published by the football analytics community.
 * [awesome-fraud-detection-papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) ⭐ 1,843 | 🐛 2 | 🌐 Python | 📅 2026-01-05 - A curated list of data mining papers about fraud detection.
-* [StarryDivineSky](https://github.com/wuwenjie1992/StarryDivineSky) ⭐ 954 | 🐛 1 | 📅 2026-11-01 - 精选了10K+项目，包括机器学习、深度学习、NLP、GNN、推荐系统、生物医药、机器视觉、前后端开发等内容。Selected more than 10k+ projects, including machine learning, deep learning, NLP, GNN, recommendation system, biomedicine, machine vision, etc. Let more excellent projects be discovered by people. Continue to update! Welcome to star!
+* [StarryDivineSky](https://github.com/wuwenjie1992/StarryDivineSky) ⭐ 954 | 🐛 0 | 📅 2026-11-01 - 精选了10K+项目，包括机器学习、深度学习、NLP、GNN、推荐系统、生物医药、机器视觉、前后端开发等内容。Selected more than 10k+ projects, including machine learning, deep learning, NLP, GNN, recommendation system, biomedicine, machine vision, etc. Let more excellent projects be discovered by people. Continue to update! Welcome to star!
 * [awesome-learn-datascience](https://github.com/siboehm/awesome-learn-datascience) ⭐ 802 | 🐛 9 | 📅 2024-06-07 - :chart\_with\_upwards\_trend: Curated list of resources to help you get started with Data Science.
 * [awesome-r-learning-resources](https://github.com/iamericfletcher/awesome-r-learning-resources) ⭐ 670 | 🐛 0 | 📅 2026-10-19 - A curated collection of free resources to help deepen your understanding of the R programming language. Updated regularly. Contributions encouraged via pull request (see contributing.md).
 * [awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers) ⭐ 548 | 🐛 0 | 🌐 MATLAB | 📅 2026-10-07 - This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.
 * [DMG-Data-Science-Awesome](https://github.com/multigroupco/DMG-Data-Science-Awesome) ⭐ 529 | 🐛 0 | 📅 2026-05-11 - Source for Who're Interested in Data!
 * [Data-Science](https://github.com/ElizaLo/Data-Science) ⭐ 413 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07 - Projects and awesome list for all Data Science fields.
 * [awesome-h2o](https://github.com/h2oai/awesome-h2o) ⭐ 394 | 🐛 1 | 📅 2023-05-18 - A curated list of research, applications and projects built using the H2O Machine Learning platform.
-* [data-science-learning-path](https://github.com/data-folks/data-science-learning-path) ⭐ 381 | 🐛 5 | 📅 2021-10-24 - Data Science Learning Path - A complete guide to learn data science for beginners.
+* [data-science-learning-path](https://github.com/data-folks/data-science-learning-path) ⭐ 383 | 🐛 5 | 📅 2021-10-24 - Data Science Learning Path - A complete guide to learn data science for beginners.
 * [awesome-arcgis-developers](https://github.com/Esri/awesome-arcgis-developers) ⭐ 336 | 🐛 10 | 📅 2026-04-14 - A curated list of resources to help you with ArcGIS development, APIs, SDKs, tools, and location services.
 * [Data-Engineering-Roadmap](https://github.com/ErdemOzgen/Data-Engineering-Roadmap) ⭐ 265 | 🐛 7 | 🌐 Java | 📅 2026-07-01 - Roadmap for Data Engineering.
 * [awesome-code-benchmark](https://github.com/tongye98/awesome-code-benchmark) ⭐ 250 | 🐛 1 | 📅 2026-09-16 - A comprehensive code domain benchmark review of LLM researches.
@@ -3871,7 +3873,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-pdf](https://github.com/OneOffTech/awesome-pdf) ⭐ 32 | 🐛 109 | 📅 2026-07-26 - A curated list of amazingly libraries, services and resources to work with PDF files.
 * [awesome-stem-academy](https://github.com/tapyu/awesome-stem-academy) ⭐ 27 | 🐛 0 | 📅 2026-10-06 - An awesome list of academic resources for STEM (Science, Technology, Engineering, Mathematics) organized by subjects.
 * [awesome-data-science](https://github.com/m-muecke/awesome-data-science) ⭐ 22 | 🐛 0 | 📅 2026-03-14 - Data science and programming resources for daily work.
-* [fucking-awesome-machine-learning](https://github.com/correia-jpv/fucking-awesome-machine-learning) ⭐ 18 | 🐛 3 | 🌐 Python | 📅 2026-11-12 - A curated list of awesome Machine Learning frameworks, libraries and software. With repository stars⭐ and forks🍴.
+* [fucking-awesome-machine-learning](https://github.com/correia-jpv/fucking-awesome-machine-learning) ⭐ 18 | 🐛 3 | 🌐 Python | 📅 2026-11-14 - A curated list of awesome Machine Learning frameworks, libraries and software. With repository stars⭐ and forks🍴.
 * [data-engineering-collection](https://github.com/exajobs/data-engineering-collection) ⭐ 17 | 🐛 0 | 📅 2022-01-20 - A collection of awesome software, libraries, Learning Tutorials, documents, books, resources and interesting stuff about Big Data Science & Engineering.
 * [awesome-data-science](https://github.com/sayantansatpati/awesome-data-science) ⭐ 16 | 🐛 2 | 📅 2022-11-29 - Laundry List of Data Science / ML /AI resources available online.
 * [Jupyter-Guide](https://github.com/mikeroyal/Jupyter-Guide) ⭐ 15 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-01-12 - Jupyter Guide.
@@ -3891,7 +3893,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Data structures Topic Lists
 
-* [awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) ⭐ 18,102 | 🐛 29 | 🌐 Java | 📅 2026-06-06 - Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.
+* [awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) ⭐ 18,105 | 🐛 29 | 🌐 Java | 📅 2026-06-06 - Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.
 * [awesome-python-resources](https://github.com/HanXinzi-AI/awesome-python-resources) ⭐ 181 | 🐛 112 | 📅 2024-06-06 - A collection of awesome Python open-source libraries & tools. 热门实用的Python开源库和工具集合.
 * [You-Dont-Know-X](https://github.com/ythecombinator/You-Dont-Know-X) ⭐ 158 | 🐛 0 | 📅 2019-06-27 - 🙈 curated list of inspiring resources which show you don't know that much about something you thought you knew.
 * [awesome-dsa](https://github.com/otabek-kholmirzaev/awesome-dsa) ⭐ 69 | 🐛 0 | 📅 2025-03-07 - A 𝗿𝗼𝗮𝗱𝗺𝗮𝗽 for data structures and algorithms with comprehensive tutorials & practice resources.
@@ -3903,7 +3905,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Data visualization Topic Lists
 
-* [go-recipes](https://github.com/nikolaydubina/go-recipes) ⭐ 4,808 | 🐛 31 | 🌐 Go | 📅 2026-10-16 - 🦩 Tools for Go projects.
+* [go-recipes](https://github.com/nikolaydubina/go-recipes) ⭐ 4,807 | 🐛 31 | 🌐 Go | 📅 2026-10-16 - 🦩 Tools for Go projects.
 * [awesome-dataviz](https://github.com/hal9ai/awesome-dataviz) ⭐ 4,460 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-11 - A curated list of awesome data visualization libraries and resources.
 * [awesome-ggplot2](https://github.com/erikgahner/awesome-ggplot2) ⭐ 1,764 | 🐛 0 | 📅 2026-11-12 - A curated list of awesome ggplot2 tutorials, packages etc.
 * [awesome-frontend-gis](https://github.com/joewdavies/awesome-frontend-gis) ⭐ 885 | 🐛 16 | 📅 2026-09-29 - Geospatial resources for web development :earth\_africa: 🗺️.
@@ -3918,16 +3920,16 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Database Topic Lists
 
-* [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,184 | 🐛 132 | 📅 2026-11-05 - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql.
-* [awesome-database-learning](https://github.com/pingcap/awesome-database-learning) ⭐ 11,254 | 🐛 17 | 📅 2024-08-29 - A list of learning materials to understand databases internals.
-* [awesome-db-tools](https://github.com/mgramin/awesome-db-tools) ⭐ 5,362 | 🐛 213 | 📅 2026-10-03 - Everything that makes working with databases easier.
+* [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,185 | 🐛 135 | 📅 2026-11-05 - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql.
+* [awesome-database-learning](https://github.com/pingcap/awesome-database-learning) ⭐ 11,256 | 🐛 17 | 📅 2024-08-29 - A list of learning materials to understand databases internals.
+* [awesome-db-tools](https://github.com/mgramin/awesome-db-tools) ⭐ 5,362 | 🐛 214 | 📅 2026-10-03 - Everything that makes working with databases easier.
 * [awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) ⭐ 1,644 | 🐛 0 | 📅 2026-11-08 - Awesome materials about database development.
 * [Awesome-LLM-based-Text2SQL](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL) ⭐ 1,379 | 🐛 2 | 📅 2026-08-03 - \[TKDE2025] Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on large language model-based text-to-SQL.
 * [game-datasets](https://github.com/leomaurodesenv/game-datasets) ⭐ 1,146 | 🐛 8 | 📅 2026-10-25 - :video\_game: A curated list of awesome game datasets, and tools to artificial intelligence in games.
-* [awesome-database-design](https://github.com/sujeet-agrahari/awesome-database-design) ⭐ 843 | 🐛 3 | 📅 2026-10-04 - :zap: A collection of resources and tutorials to design a better database schema.
+* [awesome-database-design](https://github.com/sujeet-agrahari/awesome-database-design) ⭐ 844 | 🐛 3 | 📅 2026-10-04 - :zap: A collection of resources and tutorials to design a better database schema.
 * [awesome-wp-speed-up](https://github.com/lukecav/awesome-wp-speed-up) ⭐ 676 | 🐛 6 | 📅 2025-04-08 - Plugins and resources to speed up and optimize your WordPress site.
 * [awesome-database-testing](https://github.com/zhangysh1995/awesome-database-testing) ⭐ 171 | 🐛 0 | 📅 2025-06-23 - 数据库测试资料 This repo is a collection of resources on testing database systems.
-* [awesome-olap](https://github.com/samber/awesome-olap) ⭐ 152 | 🐛 11 | 🌐 Astro | 📅 2026-11-08 - 🧊 A curated list of OLAP databases, data lake tools, columnar engines, and analytics frameworks for data engineers.
+* [awesome-olap](https://github.com/samber/awesome-olap) ⭐ 152 | 🐛 11 | 🌐 Astro | 📅 2026-11-14 - 🧊 A curated list of OLAP databases, data lake tools, columnar engines, and analytics frameworks for data engineers.
 * [awesome-olap-paper](https://github.com/Wind-Gone/awesome-olap-paper) ⭐ 132 | 🐛 0 | 📅 2026-08-15 - Paper related to OLAP database systems.
 * [SQL-NoSQL-Guide](https://github.com/mikeroyal/SQL-NoSQL-Guide) ⭐ 78 | 🐛 0 | 🌐 Go | 📅 2024-01-04 - SQL/NoSQL DB Guide. Learn about SQL/NoSQL databases & Distributed Systems.
 * [awesome-databases](https://github.com/penberg/awesome-databases) ⭐ 61 | 🐛 2 | 📅 2023-03-27 - Databases are awesome! 🕶.
@@ -3939,20 +3941,20 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### DataOps Topic Lists
 
-* [awesome-data-catalogs](https://github.com/opendatadiscovery/awesome-data-catalogs) ⭐ 1,083 | 🐛 15 | 📅 2025-08-14 - 📙 Awesome Data Catalogs and Observability Platforms.
+* [awesome-data-catalogs](https://github.com/opendatadiscovery/awesome-data-catalogs) ⭐ 1,084 | 🐛 15 | 📅 2025-08-14 - 📙 Awesome Data Catalogs and Observability Platforms.
 * [awesome-dataops](https://github.com/kelvins/awesome-dataops) ⭐ 247 | 🐛 3 | 🌐 Python | 📅 2026-10-29 - :sunglasses: A curated list of awesome DataOps tools.
 
 ### dataset Topic Lists
 
 * [awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) ⭐ 9,385 | 🐛 7 | 📅 2023-03-13 - Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas.
-* [awesome-pretrained-chinese-nlp-models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models) ⭐ 5,617 | 🐛 5 | 🌐 Python | 📅 2026-08-30 - Awesome Pretrained Chinese NLP Models，高质量中文预训练模型&大模型&多模态模型&大语言模型集合.
-* [Awesome-Domain-LLM](https://github.com/luban-agi/Awesome-Domain-LLM) ⭐ 2,582 | 🐛 1 | 📅 2023-12-26 - 收集和梳理垂直领域的开源模型、数据集及评测基准。.
-* [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,372 | 🐛 2 | 📅 2026-09-09 - A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.
+* [awesome-pretrained-chinese-nlp-models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models) ⭐ 5,618 | 🐛 5 | 🌐 Python | 📅 2026-08-30 - Awesome Pretrained Chinese NLP Models，高质量中文预训练模型&大模型&多模态模型&大语言模型集合.
+* [Awesome-Domain-LLM](https://github.com/luban-agi/Awesome-Domain-LLM) ⭐ 2,580 | 🐛 1 | 📅 2023-12-26 - 收集和梳理垂直领域的开源模型、数据集及评测基准。.
+* [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,373 | 🐛 2 | 📅 2026-09-09 - A comprehensive and up-to-date compilation of datasets, tools, methods, review papers, and competitions for remote sensing change detection.
 * [awesome-radar-perception](https://github.com/ZHOUYI1023/awesome-radar-perception) ⭐ 1,902 | 🐛 9 | 📅 2025-04-05 - A curated list of radar datasets, detection, tracking and fusion.
 * [awesome-biomechanics](https://github.com/modenaxe/awesome-biomechanics) ⭐ 1,034 | 🐛 217 | 📅 2026-04-10 - A curated, public list of resources for biomechanics and human motion analysis: datasets, processing tools, software for simulation, educational videos, lectures, etc.
 * [awesome-face](https://github.com/polarisZhao/awesome-face) ⭐ 916 | 🐛 3 | 📅 2019-08-27 - 😎 face releated algorithm, dataset and paper.
 * [awesome-segmentation-saliency-dataset](https://github.com/lartpang/awesome-segmentation-saliency-dataset) ⭐ 645 | 🐛 2 | 📅 2026-09-15 - A collection of some datasets for segmentation / saliency detection. Welcome to PR.:smile:.
-* [Awesome-Traffic-Agent-Trajectory-Prediction](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction) ⭐ 531 | 🐛 1 | 📅 2025-12-30 - This is a list of papers related to traffic agent trajectory prediction.
+* [Awesome-Traffic-Agent-Trajectory-Prediction](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction) ⭐ 532 | 🐛 1 | 📅 2025-12-30 - This is a list of papers related to traffic agent trajectory prediction.
 * [Vehicle\_reID-Collection](https://github.com/layumi/Vehicle_reID-Collection) ⭐ 520 | 🐛 2 | 📅 2025-03-13 - :red\_car: the collection of vehicle re-ID papers, datasets. :red\_car:.
 * [awesome-msr](https://github.com/dspinellis/awesome-msr) ⭐ 496 | 🐛 0 | 📅 2026-06-01 - A curated repository of software engineering repository mining data sets.
 * [Awesome-Table-Recognition](https://github.com/cv-small-snails/Awesome-Table-Recognition) ⭐ 406 | 🐛 2 | 📅 2024-12-12 - A curated list of resources dedicated to table recognition.
@@ -3960,9 +3962,9 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-italian-public-datasets](https://github.com/italia/awesome-italian-public-datasets) ⭐ 339 | 🐛 13 | 📅 2023-10-16 - A selection of interesting Open dataset from the Italian Public Administration and Civic Data use cases.
 * [awesome-hungarian-nlp](https://github.com/oroszgy/awesome-hungarian-nlp) ⭐ 287 | 🐛 0 | 📅 2026-10-21 - A curated list of NLP resources for Hungarian.
 * [Awesome-InverseRendering](https://github.com/tkuri/Awesome-InverseRendering) ⭐ 236 | 🐛 0 | 📅 2026-10-10 - List of awesome papers on Intrinsic Decomposition & Inverse Rendering.
-* [turkish-nlp-resources](https://github.com/agmmnn/turkish-nlp-resources) ⭐ 189 | 🐛 1 | 📅 2026-11-05 - 🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish Natural Language Processing.
+* [turkish-nlp-resources](https://github.com/agmmnn/turkish-nlp-resources) ⭐ 190 | 🐛 1 | 📅 2026-11-05 - 🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish Natural Language Processing.
 * [awesome-object-detection-in-aerial-images](https://github.com/visionxiang/awesome-object-detection-in-aerial-images) ⭐ 162 | 🐛 0 | 📅 2025-07-04 - A curated list of awesome resources for generic object detection in aerial images.
-* [Awesome-TCM-LLM](https://github.com/tyang816/Awesome-TCM-LLM) ⭐ 138 | 🐛 0 | 🌐 Python | 📅 2026-11-12 - 开源中医大模型、数据、新闻、专利合集 (Open-source Traditional Chinese Medical Large Language Models, Datasets, News and Patents hub.).
+* [Awesome-TCM-LLM](https://github.com/tyang816/Awesome-TCM-LLM) ⭐ 138 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - 开源中医大模型、数据、新闻、专利合集 (Open-source Traditional Chinese Medical Large Language Models, Datasets, News and Patents hub.).
 * [awesome-satellite-network](https://github.com/liuwei-network/awesome-satellite-network) ⭐ 124 | 🐛 1 | 🌐 SCSS | 📅 2026-10-28 - A curated collection of papers, open-source systems, datasets, testbeds, and tools for satellite networking and non-terrestrial networks.
 * [awesome-scene-text-detection](https://github.com/Charmve/awesome-scene-text-detection) ⭐ 91 | 🐛 0 | 📅 2024-05-27 - Tracking the latest progress in Scene Text Detection and Recognition: Must-read papers well organized with code and dataset.
 * [awesome-iran-opendata](https://github.com/alirezach/awesome-iran-opendata) ⭐ 73 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - A repo to introduce website that share Data and Dataset about Iran \[Useful for Journalist and Researchers].
@@ -3981,27 +3983,27 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Deep learning Topic Lists
 
-* [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,193 | 🐛 92 | 📅 2025-05-26 - A curated list of awesome Deep Learning tutorials, projects and communities.
-* [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,207 | 🐛 38 | 🌐 TeX | 📅 2024-01-18 - The most cited deep learning papers.
-* [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) ⭐ 18,358 | 🐛 48 | 📅 2024-06-12 - Machine learning and deep learning tutorials, articles and other resources.
+* [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,195 | 🐛 92 | 📅 2025-05-26 - A curated list of awesome Deep Learning tutorials, projects and communities.
+* [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,208 | 🐛 38 | 🌐 TeX | 📅 2024-01-18 - The most cited deep learning papers.
+* [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) ⭐ 18,360 | 🐛 48 | 📅 2024-06-12 - Machine learning and deep learning tutorials, articles and other resources.
 * [awesome-RLHF](https://github.com/opendilab/awesome-RLHF) ⭐ 4,437 | 🐛 12 | 📅 2026-05-20 - A curated list of reinforcement learning with human feedback resources (continually updated).
-* [Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) ⭐ 4,132 | 🐛 28 | 📅 2025-05-21 - Quant/Algorithm trading resources with an emphasis on Machine Learning.
+* [Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) ⭐ 4,136 | 🐛 28 | 📅 2025-05-21 - Quant/Algorithm trading resources with an emphasis on Machine Learning.
 * [awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation) ⭐ 3,920 | 🐛 2 | 📅 2026-10-26 - Awesome Knowledge Distillation.
 * [awesome-ml-courses](https://github.com/luspr/awesome-ml-courses) ⭐ 3,117 | 🐛 5 | 📅 2024-12-12 - Awesome free machine learning and AI courses with video lectures.
-* [awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) ⭐ 3,001 | 🐛 9 | 🌐 TeX | 📅 2023-12-15 - List of articles related to deep learning applied to music.
-* [Awesome-Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring) ⭐ 2,922 | 🐛 1 | 📅 2025-06-29 - A curated list of resources for Image and Video Deblurring.
+* [awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) ⭐ 3,003 | 🐛 9 | 🌐 TeX | 📅 2023-12-15 - List of articles related to deep learning applied to music.
 * [awesome-anomaly-detection](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,921 | 🐛 10 | 📅 2022-09-20 - A curated list of awesome anomaly detection resources.
-* [Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising) ⭐ 2,635 | 🐛 1 | 🌐 Python | 📅 2026-09-19 - Awesome Deep Learning papers for industrial Search, Recommendation and Advertisement. They focus on Embedding, Matching, Pre-Ranking, Ranking, Post Ranking, Relevance, LLM and RL. Please cite our paper "Deep Learning to Rank in Industrial Search Engines, Recommender Systems, and Online Advertising - An Overview and New Perspectives" (TOIS 2026).
+* [Awesome-Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring) ⭐ 2,921 | 🐛 1 | 📅 2025-06-29 - A curated list of resources for Image and Video Deblurring.
+* [Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising) ⭐ 2,635 | 🐛 1 | 🌐 Python | 📅 2026-11-13 - Awesome Deep Learning papers for industrial Search, Recommendation and Advertisement. They focus on Embedding, Matching, Pre-Ranking, Ranking, Post Ranking, Relevance, LLM and RL. Please cite our paper "Deep Learning to Rank in Industrial Search Engines, Recommender Systems, and Online Advertising - An Overview and New Perspectives" (TOIS 2026).
 * [awesome-deep-text-detection-recognition](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition) ⭐ 2,532 | 🐛 10 | 📅 2021-08-10 - A curated list of resources for text detection/recognition (optical character recognition ) with deep learning methods.
 * [Awesome-AutoDL](https://github.com/D-X-Y/Awesome-AutoDL) ⭐ 2,353 | 🐛 2 | 🌐 Python | 📅 2022-09-26 - Automated Deep Learning: Neural Architecture Search Is Not the End (a curated list of AutoDL resources and an in-depth analysis).
 * [Awesome-Graph-Neural-Networks](https://github.com/TrustAGI-Lab/Awesome-Graph-Neural-Networks) ⭐ 2,313 | 🐛 7 | 📅 2023-12-29 - Paper Lists for Graph Neural Networks.
 * [Awesome-Rust-MachineLearning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning) ⭐ 2,264 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25 - This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, etc. 🦀.
 * [awesome-jax](https://github.com/n2cholas/awesome-jax) ⭐ 2,176 | 🐛 25 | 📅 2026-01-20 - JAX - A curated list of resources.
 * [Awesome-Diffusion-Models-in-Medical-Imaging](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging) ⭐ 2,116 | 🐛 2 | 📅 2025-11-17 - Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal).
-* [awesome-world-models](https://github.com/leofan90/awesome-world-models) ⭐ 2,058 | 🐛 2 | 🌐 Python | 📅 2026-11-03 - A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.
-* [Awesome-Dataset-Distillation](https://github.com/Guang000/Awesome-Dataset-Distillation) ⭐ 1,983 | 🐛 0 | 🌐 HTML | 📅 2026-11-02 - A curated list of awesome papers on dataset distillation and related applications.
+* [awesome-world-models](https://github.com/leofan90/awesome-world-models) ⭐ 2,058 | 🐛 1 | 🌐 Python | 📅 2026-11-13 - A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.
+* [Awesome-Dataset-Distillation](https://github.com/Guang000/Awesome-Dataset-Distillation) ⭐ 1,982 | 🐛 0 | 🌐 HTML | 📅 2026-11-02 - A curated list of awesome papers on dataset distillation and related applications.
 * [awesome-backbones](https://github.com/fafa-dl/awesome-backbones) ⭐ 1,952 | 🐛 9 | 🌐 Python | 📅 2025-01-17 - Integrate deep learning models for image classification | Backbone learning/comparison/magic modification project.
-* [awesome-diarization](https://github.com/wq2012/awesome-diarization) ⭐ 1,916 | 🐛 7 | 📅 2026-10-26 - A curated list of awesome Speaker Diarization papers, libraries, datasets, and other resources.
+* [awesome-diarization](https://github.com/wq2012/awesome-diarization) ⭐ 1,917 | 🐛 8 | 📅 2026-10-26 - A curated list of awesome Speaker Diarization papers, libraries, datasets, and other resources.
 * [awesome-deep-learning-resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) ⭐ 1,822 | 🐛 15 | 📅 2024-01-18 - Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier.
 * [awesome-AIOps](https://github.com/linjinjin123/awesome-AIOps) ⭐ 1,755 | 🐛 15 | 📅 2024-05-27 - AIOps学习资料汇总，欢迎一起补全这个仓库，欢迎star.
 * [awesome-self-supervised-gnn](https://github.com/ChandlerBang/awesome-self-supervised-gnn) ⭐ 1,727 | 🐛 1 | 🌐 Python | 📅 2024-02-02 - Papers about pretraining and self-supervised learning on Graph Neural Networks (GNN).
@@ -4009,11 +4011,11 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-AI-for-time-series-papers](https://github.com/qingsongedu/awesome-AI-for-time-series-papers) ⭐ 1,636 | 🐛 3 | 📅 2024-04-06 - A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.
 * [Deep-Learning-for-Medical-Applications](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications) ⭐ 1,616 | 🐛 2 | 🌐 TeX | 📅 2022-04-01 - Deep Learning Papers on Medical Image Analysis.
 * [awesome-neural-ode](https://github.com/Zymrael/awesome-neural-ode) ⭐ 1,552 | 🐛 3 | 📅 2024-09-13 - A collection of resources regarding the interplay between differential equations, deep learning, dynamical systems, control and numerical methods.
-* [awesome-document-understanding](https://github.com/tstanislawek/awesome-document-understanding) ⭐ 1,546 | 🐛 16 | 📅 2023-06-02 - A curated list of resources for Document Understanding (DU) topic.
+* [awesome-document-understanding](https://github.com/tstanislawek/awesome-document-understanding) ⭐ 1,547 | 🐛 16 | 📅 2023-06-02 - A curated list of resources for Document Understanding (DU) topic.
 * [awesome-imbalanced-learning](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning) ⭐ 1,532 | 🐛 2 | 📅 2026-06-09 - 😎 Everything about class-imbalanced/long-tail learning: papers, codes, frameworks, and libraries | 有关类别不平衡/长尾学习的一切：论文、代码、框架与库.
 * [awesome-graph-self-supervised-learning](https://github.com/LirongWu/awesome-graph-self-supervised-learning) ⭐ 1,434 | 🐛 0 | 📅 2024-08-15 - Code for TKDE paper "Self-supervised learning on graphs: Contrastive, generative, or predictive".
 * [Awesome-TensorFlow-Chinese](https://github.com/fendouai/Awesome-TensorFlow-Chinese) ⭐ 1,386 | 🐛 0 | 🌐 Python | 📅 2026-07-28 - Awesome-TensorFlow-Chinese，TensorFlow 中文资源精选，官方网站，安装教程，入门教程，视频教程，实战项目，学习路径。QQ群：167122861，公众号：磐创AI，微信群二维码：.
-* [awesome-seml](https://github.com/SE-ML/awesome-seml) ⭐ 1,376 | 🐛 9 | 📅 2024-03-26 - A curated list of articles that cover the software engineering best practices for building machine learning applications.
+* [awesome-seml](https://github.com/SE-ML/awesome-seml) ⭐ 1,377 | 🐛 9 | 📅 2024-03-26 - A curated list of articles that cover the software engineering best practices for building machine learning applications.
 * [awesome-contrastive-self-supervised-learning](https://github.com/asheeshcric/awesome-contrastive-self-supervised-learning) ⭐ 1,311 | 🐛 2 | 📅 2024-09-10 - A comprehensive list of awesome contrastive self-supervised learning papers.
 * [awesome-face](https://github.com/becauseofAI/awesome-face) ⭐ 1,294 | 🐛 2 | 🌐 HTML | 📅 2022-06-03 - An awesome face technology repository.
 * [awesome-relation-extraction](https://github.com/roomylee/awesome-relation-extraction) ⭐ 1,226 | 🐛 3 | 📅 2022-01-27 - 📖 A curated list of awesome resources dedicated to Relation Extraction, one of the most important tasks in Natural Language Processing (NLP).
@@ -4028,7 +4030,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-active-learning](https://github.com/baifanxxx/awesome-active-learning) ⭐ 810 | 🐛 4 | 📅 2026-03-26 - A curated list of awesome Active Learning.
 * [Awesome-RGBT-Fusion](https://github.com/yuanmaoxun/Awesome-RGBT-Fusion) ⭐ 778 | 🐛 0 | 📅 2026-10-15 - A collection of deep learning based RGB-T-Fusion methods, codes, and datasets. The main directions involved are Multispectral Pedestrian Detection, RGB-T Aerial Object Detection, RGB-T Semantic Segmentation, RGB-T Crowd Counting, RGB-T Fusion Tracking.
 * [awesome-emdl](https://github.com/csarron/awesome-emdl) ⭐ 769 | 🐛 2 | 📅 2023-03-14 - Embedded and mobile deep learning research resources.
-* [awesome-ai-summerschool](https://github.com/hazratali/awesome-ai-summerschool) ⭐ 750 | 🐛 0 | 📅 2026-11-05 - An awesome list of summer schools on Artificial Intelligence, Machine Learning, and Healthcare.
+* [awesome-ai-summerschool](https://github.com/hazratali/awesome-ai-summerschool) ⭐ 750 | 🐛 0 | 📅 2026-11-13 - An awesome list of summer schools on Artificial Intelligence, Machine Learning, and Healthcare.
 * [awesome-monte-carlo-tree-search-papers](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) ⭐ 717 | 🐛 0 | 🌐 Python | 📅 2026-01-13 - A curated list of Monte Carlo tree search papers with implementations.
 * [Awesome-DynamicGraphLearning](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning) ⭐ 713 | 🐛 3 | 🌐 Shell | 📅 2025-06-04 - Awesome papers about machine learning (deep learning) on dynamic (temporal) graphs (networks / knowledge graphs).
 * [awesome-nlp-sentiment-analysis](https://github.com/haiker2011/awesome-nlp-sentiment-analysis) ⭐ 697 | 🐛 0 | 📅 2020-11-06 - :book: 收集NLP领域相关的数据集、论文、开源实现，尤其是情感分析、情绪原因识别、评价对象和评价词抽取方面。.
@@ -4050,15 +4052,15 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome\_imputation](https://github.com/wenjiedu/awesome_imputation) ⭐ 428 | 🐛 2 | 🌐 Python | 📅 2026-08-03 - Awesome Deep Learning for Time-Series Imputation, including an unmissable paper and tool list about applying neural networks to impute incomplete time series containing NaN missing values/data.
 * [Awesome-Information-Bottleneck](https://github.com/ZIYU-DEEP/Awesome-Information-Bottleneck) ⭐ 403 | 🐛 0 | 📅 2026-02-12 - This is a curated list for Information Bottleneck Principle, in memory of Professor Naftali Tishby.
 * [Awesome-Shadow-Removal](https://github.com/GuoLanqing/Awesome-Shadow-Removal) ⭐ 401 | 🐛 12 | 📅 2025-04-22 - Collection of recent shadow removal works, including papers, codes, datasets, and metrics.
-* [awesome-trustworthy-deep-learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) ⭐ 395 | 🐛 0 | 📅 2026-11-08 - A curated list of trustworthy deep learning papers. Continually updating.
+* [awesome-trustworthy-deep-learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) ⭐ 394 | 🐛 0 | 📅 2026-11-08 - A curated list of trustworthy deep learning papers. Continually updating.
 * [NLP101](https://github.com/Huffon/NLP101) ⭐ 393 | 🐛 1 | 📅 2021-05-12 - NLP 101: a resource repository for Deep Learning and Natural Language Processing.
 * [awesome-self-supervised-learning-for-graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs) ⭐ 391 | 🐛 0 | 📅 2022-10-25 - A curated list for awesome self-supervised learning for graphs.
 * [Awesome-Differential-Privacy-and-Meachine-Learning](https://github.com/JeffffffFu/Awesome-Differential-Privacy-and-Meachine-Learning) ⭐ 385 | 🐛 1 | 🌐 Python | 📅 2025-09-02 - Differentially private federated learning: A systematic review (ACM Survey); Adap dp-fl: Differentially private federated learning with adaptive noise (TrustCom'2022).
 * [embedded-ai.bi-weekly](https://github.com/ysh329/embedded-ai.bi-weekly) ⭐ 384 | 🐛 5 | 📅 2022-07-01 - Weekly report and awesome list of embedded-ai.
 * [awesome-machine-learning-robotics](https://github.com/Phylliade/awesome-machine-learning-robotics) ⭐ 383 | 🐛 0 | 📅 2019-08-26 - A curated list of resources about Machine Learning for Robotics.
 * [awesome-forgetting-in-deep-learning](https://github.com/ennengyang/awesome-forgetting-in-deep-learning) ⭐ 370 | 🐛 0 | 📅 2026-01-27 - A Comprehensive Survey of Forgetting in Deep Learning Beyond Continual Learning. TPAMI, 2024.
-* [ai4artists](https://github.com/jonathandinu/ai4artists) ⭐ 366 | 🐛 3 | 📅 2024-06-21 - A list of AI Art courses, tools, libraries, people, and places.
-* [awesome-free-deep-learning-papers](https://github.com/HFTrader/awesome-free-deep-learning-papers) ⭐ 357 | 🐛 1 | 📅 2026-03-03 - Free deep learning papers.
+* [ai4artists](https://github.com/jonathandinu/ai4artists) ⭐ 365 | 🐛 3 | 📅 2024-06-21 - A list of AI Art courses, tools, libraries, people, and places.
+* [awesome-free-deep-learning-papers](https://github.com/HFTrader/awesome-free-deep-learning-papers) ⭐ 358 | 🐛 1 | 📅 2026-03-03 - Free deep learning papers.
 * [awesome-gans-and-deepfakes](https://github.com/enochkan/awesome-gans-and-deepfakes) ⭐ 352 | 🐛 1 | 📅 2020-11-13 - A curated list of GAN & Deepfake papers and repositories.
 * [awesome-deep-learning-and-machine-learning-questions](https://github.com/bat67/awesome-deep-learning-and-machine-learning-questions) ⭐ 332 | 🐛 0 | 📅 2019-06-04 - 【不定期更新】收集整理的一些网站中（如知乎、Quora、Reddit、Stack Exchange等）与深度学习、机器学习、强化学习、数据科学相关的有价值的问题.
 * [awesome-machine-learning-jupyter-notebooks-for-colab](https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab) ⭐ 326 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-10-15 - A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory.
@@ -4066,15 +4068,15 @@ Last generated: 2026-11-12, 10396 lists.
 * [Awesome-Transformer-based-SLAM](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM) ⭐ 316 | 🐛 0 | 📅 2026-11-02 - Paper Survey for Transformer-based SLAM.
 * [awesome-machine-learning-startups-berlin](https://github.com/jrieke/awesome-machine-learning-startups-berlin) ⭐ 310 | 🐛 2 | 🌐 Python | 📅 2022-12-08 - 🤖 A curated list of machine learning & artificial intelligence startups in Berlin (Germany).
 * [awesome-3dgs-slam](https://github.com/kwanwaipang/awesome-3dgs-slam) ⭐ 299 | 🐛 1 | 📅 2026-02-18 - Paper Survey for 3DGS SLAM.
-* [awesome-distributed-ml](https://github.com/Shenggan/awesome-distributed-ml) ⭐ 280 | 🐛 0 | 📅 2024-10-08 - A curated list of awesome projects and papers for distributed training or inference.
-* [Awesome-Earth-Artificial-Intelligence](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence) ⭐ 255 | 🐛 0 | 📅 2026-10-13 - A curated list of Earth Science's Artificial Intelligence (AI) tutorials, notebooks, software, datasets, courses, books, video lectures and papers. Contributions most welcome.
+* [awesome-distributed-ml](https://github.com/Shenggan/awesome-distributed-ml) ⭐ 279 | 🐛 0 | 📅 2024-10-08 - A curated list of awesome projects and papers for distributed training or inference.
+* [Awesome-Earth-Artificial-Intelligence](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence) ⭐ 255 | 🐛 1 | 📅 2026-10-13 - A curated list of Earth Science's Artificial Intelligence (AI) tutorials, notebooks, software, datasets, courses, books, video lectures and papers. Contributions most welcome.
 * [Awesome-Decision-Making-Reinforcement-Learning](https://github.com/jiachenli94/Awesome-Decision-Making-Reinforcement-Learning) ⭐ 244 | 🐛 0 | 📅 2020-08-26 - A selection of state-of-the-art research materials on decision making and motion planning.
 * [Awesome-Implicit-Neural-Representations-in-Medical-imaging](https://github.com/xmindflow/Awesome-Implicit-Neural-Representations-in-Medical-imaging) ⭐ 241 | 🐛 1 | 📅 2023-12-06 - \[ICCV 2023] A curated list of resources on implicit neural representations in Medical Imaging.
 * [awesome-foundation-models-on-graphs](https://github.com/zehong-wang/awesome-foundation-models-on-graphs) ⭐ 232 | 🐛 0 | 📅 2025-07-10 - A collection of graph foundation models including papers, codes, and datasets.
 * [Awesome-model-inversion-attack](https://github.com/AndrewZhou924/Awesome-model-inversion-attack) ⭐ 225 | 🐛 0 | 📅 2026-08-25 - \[arXiv:2411.10023] "Model Inversion Attacks: A Survey of Approaches and Countermeasures".
-* [Awesome-Text-to-Speech](https://github.com/ishandutta2007/Awesome-Text-to-Speech) ⭐ 224 | 🐛 8 | 📅 2026-11-07 - 🎤 A curated list of the latest and most influential tools, models, and resources in the Text-to-Speech sector. 🌟 Star if you like it! 🌟.
+* [Awesome-Text-to-Speech](https://github.com/ishandutta2007/Awesome-Text-to-Speech) ⭐ 224 | 🐛 9 | 📅 2026-11-07 - 🎤 A curated list of the latest and most influential tools, models, and resources in the Text-to-Speech sector. 🌟 Star if you like it! 🌟.
 * [Awesome-Learning-based-VO-VIO](https://github.com/KwanWaiPang/Awesome-Learning-based-VO-VIO) ⭐ 221 | 🐛 0 | 📅 2026-11-01 - Paper Survey for Learning-based Odometry.
-* [awesome-diffusion](https://github.com/cobanov/awesome-diffusion) ⭐ 219 | 🐛 2 | 📅 2026-10-20 - A curated list of awesome Diffusion notebooks, tools, software, tutorials and resources.
+* [awesome-diffusion](https://github.com/cobanov/awesome-diffusion) ⭐ 219 | 🐛 0 | 📅 2026-11-14 - A curated list of awesome Diffusion notebooks, tools, software, tutorials and resources.
 * [awesome-self-supervised-learning-for-tabular-data](https://github.com/wwweiwei/awesome-self-supervised-learning-for-tabular-data) ⭐ 214 | 🐛 0 | 📅 2026-04-13 - A collection of research materials on SSL for non-sequential tabular data (SSL4NSTD).
 * [awesome-deep-time-series-representations](https://github.com/itouchz/awesome-deep-time-series-representations) ⭐ 211 | 🐛 0 | 📅 2026-08-16 - \[ACM CSUR] A curated list of papers on universal representation learning for time series.
 * [awesome-adapter-resources](https://github.com/calpt/awesome-adapter-resources) ⭐ 204 | 🐛 2 | 🌐 Python | 📅 2024-05-04 - Collection of Tools and Papers related to Adapters / Parameter-Efficient Transfer Learning/ Fine-Tuning.
@@ -4090,7 +4092,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-datasets-hub](https://github.com/ahammadmejbah/awesome-datasets-hub) ⭐ 150 | 🐛 2 | 📅 2026-06-20 - A curated collection of datasets for Large Language Models (LLMs), covering medical AI, NLP, multimodal learning, instruction tuning, reasoning, code generation, and evaluation benchmarks.
 * [awesome-NILM-with-code](https://github.com/zhgqcn/awesome-NILM-with-code) ⭐ 150 | 🐛 0 | 📅 2026-09-15 - A repository of awesome Non-Intrusive Load Monitoring(NILM) with code.
 * [awesome-distribution-shift](https://github.com/weitianxin/awesome-distribution-shift) ⭐ 132 | 🐛 1 | 📅 2023-08-05 - A curated list of papers and resources about the distribution shift in machine learning.
-* [Awesome-EdgeAI](https://github.com/wangxb96/Awesome-EdgeAI) ⭐ 120 | 🐛 3 | 🌐 TeX | 📅 2026-11-13 - Resources of our survey paper "Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies".
+* [Awesome-EdgeAI](https://github.com/wangxb96/Awesome-EdgeAI) ⭐ 120 | 🐛 3 | 🌐 Python | 📅 2026-11-13 - Resources of our survey paper "Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies".
 * [marbert](https://github.com/UBC-NLP/marbert) ⭐ 120 | 🐛 4 | 📅 2021-09-02 - UBC ARBERT and MARBERT Deep Bidirectional Transformers for Arabic.
 * [awesome-rl](https://github.com/dbobrenko/awesome-rl) ⭐ 119 | 🐛 0 | 📅 2023-10-29 - Awesome RL: Papers, Books, Codes, Benchmarks.
 * [awesome-ai-brain-computer-interface](https://github.com/atonkamanda/awesome-ai-brain-computer-interface) ⭐ 115 | 🐛 0 | 📅 2024-11-02 - Must-read papers on machine learning, deep learning, reinforcement learning and other learning methods for brain-computer interfaces.
@@ -4135,8 +4137,8 @@ Last generated: 2026-11-12, 10396 lists.
 * [Deep-Learning](https://github.com/ElizaLo/Deep-Learning) ⭐ 26 | 🐛 0 | 📅 2021-12-12 - Implementation of Deep Learning Algorithms and useful information (courses, books, videos, etc.).
 * [awesome-generative-models](https://github.com/Franceshe/awesome-generative-models) ⭐ 25 | 🐛 0 | 📅 2021-05-27 - A collection of awesome generative model papers, frameworks, libraries, software and resources for text, image, video, animation, code generation.
 * [awesome-semantic-segmentation](https://github.com/damminhtien/awesome-semantic-segmentation) ⭐ 25 | 🐛 0 | 📅 2026-04-10 - A curated list of resources for semantic image segmentation.
+* [Awesome-Deep-Multi-View-Clustering](https://github.com/jinjiaqi1998/Awesome-Deep-Multi-View-Clustering) ⭐ 23 | 🐛 2 | 📅 2026-09-10 - Awesome Deep Multi-View Clustering is a collection of SOTA, novel deep multi-view clustering methods (papers and codes).
 * [awesome-memory-rl](https://github.com/schatty/awesome-memory-rl) ⭐ 23 | 🐛 0 | 📅 2021-09-05 - A curated list of awesome memory in reinforcement learning research materials.
-* [Awesome-Deep-Multi-View-Clustering](https://github.com/jinjiaqi1998/Awesome-Deep-Multi-View-Clustering) ⭐ 22 | 🐛 2 | 📅 2026-09-10 - Awesome Deep Multi-View Clustering is a collection of SOTA, novel deep multi-view clustering methods (papers and codes).
 * [TensorFlow-Guide](https://github.com/mikeroyal/TensorFlow-Guide) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2022-01-03 - TensorFlow Guide.
 * [awesome-causal-ai](https://github.com/pozapas/awesome-causal-ai) ⭐ 18 | 🐛 1 | 📅 2026-05-13 - A meticulously curated collection of cutting-edge research, frameworks, and methodologies in Causal Artificial Intelligence.
 * [awesome-nca](https://github.com/meclabtuda/awesome-nca) ⭐ 18 | 🐛 4 | 📅 2025-07-15 - A curated list of anything related to Neural Cellular Automata (NCA) research, frameworks and applications.
@@ -4155,7 +4157,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-lf-image-video](https://github.com/asprasan/awesome-lf-image-video) ⭐ 11 | 🐛 0 | 📅 2022-12-14 - List of resources for LF image and video reconstruction.
 * [awesome-gaze-estimation-new](https://github.com/RichardoMrMu/awesome-gaze-estimation-new) ⭐ 10 | 🐛 1 | 📅 2021-07-19 - Material about gaze estimation or gaze tracking for codes, papers and demos.
 * [awesome-ai-tools](https://github.com/ahmedosamamath/awesome-ai-tools) ⭐ 8 | 🐛 20 | 📅 2026-05-27 - A curated collection of AI tools categorized by their different uses, including information on pricing, trial periods, and more.
-* [neural-nets](https://github.com/mlpapers/neural-nets) ⭐ 8 | 🐛 0 | 📅 2026-11-05 - Awesome papers on Neural Networks and Deep Learning.
+* [neural-nets](https://github.com/mlpapers/neural-nets) ⭐ 8 | 🐛 0 | 📅 2026-11-13 - Awesome papers on Neural Networks and Deep Learning.
 * [awesome-biologically-motivated-learning](https://github.com/jsalbert/awesome-biologically-motivated-learning) ⭐ 7 | 🐛 1 | 📅 2021-09-09 - Awesome list of research publications and media on biologically-motivated learning algorithms.
 * [awesome-deep-learning-tools](https://github.com/lijiaqi/awesome-deep-learning-tools) ⭐ 6 | 🐛 0 | 📅 2021-03-06 - Collections of tools for deep learning experiments, e.g., experiments management,.
 * [awesome-deep-model-compression](https://github.com/chadHGY/awesome-deep-model-compression) ⭐ 3 | 🐛 0 | 📅 2021-04-13 - Awesome Deep Model Compression.
@@ -4194,19 +4196,19 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Dependency management Topic Lists
 
-* [awesome-software-supply-chain-security](https://github.com/bureado/awesome-software-supply-chain-security) ⭐ 382 | 🐛 94 | 📅 2026-06-07 - A compilation of resources in the software supply chain security domain, with emphasis on open source.
+* [awesome-software-supply-chain-security](https://github.com/bureado/awesome-software-supply-chain-security) ⭐ 382 | 🐛 96 | 📅 2026-06-07 - A compilation of resources in the software supply chain security domain, with emphasis on open source.
 
 ### Deployment Topic Lists
 
-* [awesome-web-hosting-2026](https://github.com/isoumyadey/awesome-web-hosting-2026) ⭐ 348 | 🐛 20 | 📅 2025-12-30 - The Ultimate Guide to Free Cloud Hosting. Compare 100+ Free Tier vs Paid platforms: Vercel, Netlify, Heroku, AWS, & VPS. Deploy Node.js, Python, Docker, Databases (SQL/NoSQL), & AI Models for free.
+* [awesome-web-hosting-2026](https://github.com/isoumyadey/awesome-web-hosting-2026) ⭐ 349 | 🐛 20 | 📅 2025-12-30 - The Ultimate Guide to Free Cloud Hosting. Compare 100+ Free Tier vs Paid platforms: Vercel, Netlify, Heroku, AWS, & VPS. Deploy Node.js, Python, Docker, Databases (SQL/NoSQL), & AI Models for free.
 * [fucking-awesome-selfhosted](https://github.com/Correia-jpv/fucking-awesome-selfhosted) ⭐ 153 | 🐛 0 | 📅 2026-11-12 - A list of Free Software network services and web applications which can be hosted on your own servers. With repository stars⭐ and forks🍴.
 * [bert-in-production](https://github.com/DomHudson/bert-in-production) ⭐ 95 | 🐛 0 | 📅 2021-04-08 - A collection of resources on using BERT ( ) and related Language Models in production environments.
 * [awesome-minecraft-hostings](https://github.com/dobroslavradosavljevic/awesome-minecraft-hostings) ⭐ 4 | 🐛 4 | 📅 2026-10-27 - A curated list of awesome Minecraft server hosting providers, services, and resources.
 
 ### Design system Topic Lists
 
-* [awesome-design-md](https://github.com/voltagent/awesome-design-md) ⭐ 127,313 | 🐛 303 | 📅 2026-10-28 - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
-* [awesome-design](https://github.com/gztchan/awesome-design) ⭐ 17,771 | 🐛 75 | 📅 2024-07-04 - 🌟 Curated design resources from all over the world.
+* [awesome-design-md](https://github.com/voltagent/awesome-design-md) ⭐ 127,439 | 🐛 303 | 📅 2026-10-28 - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
+* [awesome-design](https://github.com/gztchan/awesome-design) ⭐ 17,777 | 🐛 76 | 📅 2024-07-04 - 🌟 Curated design resources from all over the world.
 * [awesome-design-language-system](https://github.com/DragorWW/awesome-design-language-system) ⭐ 127 | 🐛 1 | 📅 2024-01-30 - List of awesome resources about digital design system.
 * [awesome-russian-design-systems](https://github.com/unchase/awesome-russian-design-systems) ⭐ 19 | 🐛 0 | 📅 2022-01-21 - :blue\_book: Список отечественных и русскоязычных дизайн-систем.
 
@@ -4222,8 +4224,8 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Detection engineering Topic Lists
 
-* [awesome-lists](https://github.com/mthcht/awesome-lists) ⭐ 1,971 | 🐛 34 | 🌐 YARA | 📅 2026-11-13 - Awesome Security lists for SOC/CERT/CTI.
-* [awesome-detection-engineering](https://github.com/infosecB/awesome-detection-engineering) ⭐ 1,395 | 🐛 3 | 📅 2026-10-12 - Detection Engineering is a tactical function of a cybersecurity defense program that involves the design, implementation, and operation of detective controls with the goal of proactively identifying malicious or unauthorized activity before it negatively impacts an individual or an organization.
+* [awesome-lists](https://github.com/mthcht/awesome-lists) ⭐ 1,971 | 🐛 34 | 🌐 YARA | 📅 2026-11-14 - Awesome Security lists for SOC/CERT/CTI.
+* [awesome-detection-engineering](https://github.com/infosecB/awesome-detection-engineering) ⭐ 1,397 | 🐛 4 | 📅 2026-10-12 - Detection Engineering is a tactical function of a cybersecurity defense program that involves the design, implementation, and operation of detective controls with the goal of proactively identifying malicious or unauthorized activity before it negatively impacts an individual or an organization.
 * [ThreatHunting-Keywords](https://github.com/mthcht/ThreatHunting-Keywords) ⭐ 683 | 🐛 3 | 🌐 PowerShell | 📅 2025-08-04 - Awesome list of keywords and artifacts for Threat Hunting sessions.
 * [awesome-detection-engineer](https://github.com/st0pp3r/awesome-detection-engineer) ⭐ 190 | 🐛 2 | 🌐 HTML | 📅 2026-10-22 - Online resources related to Detection Engineering. Detection rules, detection logic, attack samples, detection tests and emulation tools, logging configuration and best practices, event log references, resources, labs, data manipulation online tools, blogs, newsletters, good reads, books, trainings, podcasts, videos and twitter/x accounts.
 
@@ -4238,9 +4240,9 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Development Topic Lists
 
-* [Interview\_Question\_for\_Beginner](https://github.com/jbee37142/Interview_Question_for_Beginner) ⭐ 21,803 | 🐛 4 | 📅 2024-08-09 - :boy: :girl: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space\_invader:.
+* [Interview\_Question\_for\_Beginner](https://github.com/jbee37142/Interview_Question_for_Beginner) ⭐ 21,805 | 🐛 4 | 📅 2024-08-09 - :boy: :girl: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space\_invader:.
 * [Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools) ⭐ 2,481 | 🐛 136 | 📅 2026-11-04 - 收录独立开发、AI出海领域最新、最实用的工具与资源（Build Faster with Better Tools）.
-* [dev-resources](https://github.com/marcelscruz/dev-resources) ⭐ 1,363 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-12 - A collaborative list of resources for developers.
+* [dev-resources](https://github.com/marcelscruz/dev-resources) ⭐ 1,363 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-14 - A collaborative list of resources for developers.
 * [bookmarks](https://github.com/SansGuidon/bookmarks) ⭐ 564 | 🐛 5 | 🌐 Go | 📅 2026-06-14 - :warning: Mirrored from ! :bookmark: +5K awesome resources for geeks and software crafters :beer:.
 * [awesome-standard](https://github.com/standard/awesome-standard) ⭐ 409 | 🐛 1 | 📅 2023-09-16 - Documenting the explosion of packages in the standard ecosystem!
 * [awesome-development-jobs](https://github.com/neutraltone/awesome-development-jobs) ⭐ 251 | 🐛 15 | 📅 2024-01-31 - :office: A collection of links to various job listings websites and helpful resources.
@@ -4250,7 +4252,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-mud](https://github.com/mudcoders/awesome-mud) ⭐ 147 | 🐛 0 | 📅 2026-04-07 - 🖥 A curated list of bookmarks, tools, tutorials, and other cool resources for text-based game developers.
 * [awesome](https://github.com/lencx/awesome) ⭐ 145 | 🐛 1 | 📅 2025-06-12 - 😎 Awesome lists about all kinds of interesting topics.
 * [awesome-shopify](https://github.com/LeCoupa/awesome-shopify) ⭐ 134 | 🐛 8 | 🌐 Shell | 📅 2022-12-30 - 👩‍🎓👨‍🎓 Must-read articles, videos and books for store owners, app and theme developers.
-* [awesome-inspiration](https://github.com/shsfwork/awesome-inspiration) ⭐ 113 | 🐛 2 | 🌐 HTML | 📅 2026-11-12 - A curated collection of the best resources for designers and developers to elevate their projects. Explore inspiration for landing pages, SaaS, components, UX patterns, and much more.
+* [awesome-inspiration](https://github.com/shsfwork/awesome-inspiration) ⭐ 113 | 🐛 1 | 🌐 HTML | 📅 2026-11-13 - A curated collection of the best resources for designers and developers to elevate their projects. Explore inspiration for landing pages, SaaS, components, UX patterns, and much more.
 * [awesome-programmer](https://github.com/dhilipsiva/awesome-programmer) ⭐ 104 | 🐛 0 | 📅 2026-07-09 - A collection of resources to learn from and become a self-taught awesome programmer.
 * [awesome-design-dev](https://github.com/noobnooc/awesome-design-dev) ⭐ 96 | 🐛 1 | 📅 2026-11-09 - 🧑‍💻 Curate awesome design assets for developers.
 * [shopify-development-resources](https://github.com/Elkfox/shopify-development-resources) ⭐ 85 | 🐛 0 | 📅 2018-07-19 - A List of resources for Shopify development.
@@ -4269,11 +4271,11 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### DevOps Topic Lists
 
-* [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 258,101 | 🐛 179 | 📅 2024-11-19 - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-* [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) ⭐ 35,689 | 🐛 0 | 📅 2026-10-22 - A curated list of amazingly awesome open-source sysadmin resources.
-* [awesome-devops](https://github.com/wmariuss/awesome-devops) ⭐ 4,454 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-13 - A curated list of awesome DevOps platforms, tools, practices and resources.
+* [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐ 258,367 | 🐛 180 | 📅 2024-11-19 - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+* [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) ⭐ 35,699 | 🐛 0 | 📅 2026-10-22 - A curated list of amazingly awesome open-source sysadmin resources.
+* [awesome-devops](https://github.com/wmariuss/awesome-devops) ⭐ 4,455 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-14 - A curated list of awesome DevOps platforms, tools, practices and resources.
 * [awesome-ssh](https://github.com/moul/awesome-ssh) ⭐ 2,875 | 🐛 54 | 📅 2023-08-10 - :computer: A curated list of SSH resources.
-* [awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) ⭐ 1,527 | 🐛 30 | 📅 2026-10-26 - A curated list of Site Reliability and Production Engineering Tools.
+* [awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) ⭐ 1,528 | 🐛 30 | 📅 2026-10-26 - A curated list of Site Reliability and Production Engineering Tools.
 * [awesome-open-source-supporters](https://github.com/zachflower/awesome-open-source-supporters) ⭐ 702 | 🐛 1 | 📅 2026-04-07 - ⭐️ A curated list of companies that offer their services for free to Open Source projects.
 * [awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools) ⭐ 680 | 🐛 43 | 🌐 HTML | 📅 2026-09-03 - A curated list of Platform Engineering Tools.
 * [fucking-the-book-of-secret-knowledge](https://github.com/Correia-jpv/fucking-the-book-of-secret-knowledge) ⭐ 324 | 🐛 4 | 📅 2026-11-12 - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. With repository stars⭐ and forks🍴.
@@ -4285,7 +4287,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-istio](https://github.com/mstrYoda/awesome-istio) ⭐ 147 | 🐛 1 | 📅 2026-04-24 - A curated list of Istio related tools, frameworks and articles.
 * [awesome-ai-sre](https://github.com/pavangudiwada/awesome-ai-sre) ⭐ 85 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-12 - AI SRE tools for RCA, Incident Response, Cost-Saving, Infra management, DevOps and more.
 * [awesome-iac-testing](https://github.com/ultral/awesome-iac-testing) ⭐ 76 | 🐛 0 | 📅 2025-01-22 - A list of awesome IaC testing articles, speeches & links. Especially about Ansible.
-* [awesome-developer-conferences](https://github.com/Infrasity-Labs/awesome-developer-conferences) ⭐ 74 | 🐛 8 | 🌐 Python | 📅 2026-11-13 - A daily updated directory of developer, DevRel, cloud native, and platform engineering conferences taking place all over the world, separated by regions. It is an open source repository covering B2B SaaS, DevOps, and API events with dates, formats, and registration links.
+* [awesome-developer-conferences](https://github.com/Infrasity-Labs/awesome-developer-conferences) ⭐ 74 | 🐛 8 | 🌐 Python | 📅 2026-11-14 - A daily updated directory of developer, DevRel, cloud native, and platform engineering conferences taking place all over the world, separated by regions. It is an open source repository covering B2B SaaS, DevOps, and API events with dates, formats, and registration links.
 * [awesome-llm-devops](https://github.com/flavienbwk/awesome-llm-devops) ⭐ 61 | 🐛 2 | 📅 2026-08-11 - A list of DevOps features enabled by awesome LLM software.
 * [awesome-cloud-dx](https://github.com/awesome-cloud-dx/awesome-cloud-dx) ⭐ 55 | 🐛 7 | 📅 2025-01-30 - A list of tools that make developer experience with cloud providers easier.
 * [awesome-devops](https://github.com/mentoriaiac/awesome-devops) ⭐ 55 | 🐛 1 | 📅 2022-10-21 - Lista de materiais sobre tópicos e ferramentas DevOps.
@@ -4310,10 +4312,10 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### DevSecOps Topic Lists
 
-* [DevSecOps](https://github.com/sottlmarek/DevSecOps) ⭐ 6,947 | 🐛 38 | 📅 2026-08-12 - Ultimate DevSecOps library.
+* [DevSecOps](https://github.com/sottlmarek/DevSecOps) ⭐ 6,951 | 🐛 39 | 📅 2026-08-12 - Ultimate DevSecOps library.
 * [awesome-devsecops](https://github.com/devsecops/awesome-devsecops) ⭐ 5,517 | 🐛 99 | 📅 2024-05-11 - An authoritative list of awesome devsecops tools with the help from community experiments and contributions.
-* [DevSecOps](https://github.com/hahwul/DevSecOps) ⭐ 2,180 | 🐛 4 | 🌐 Just | 📅 2026-10-25 - ♾️ Collection and Roadmap for everyone who wants DevSecOps. Hope your DevOps are more safe 😎.
-* [awesome-threat-modelling](https://github.com/hysnsec/awesome-threat-modelling) ⭐ 1,838 | 🐛 26 | 🌐 Dockerfile | 📅 2024-08-02 - A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.
+* [DevSecOps](https://github.com/hahwul/DevSecOps) ⭐ 2,182 | 🐛 5 | 🌐 Just | 📅 2026-10-25 - ♾️ Collection and Roadmap for everyone who wants DevSecOps. Hope your DevOps are more safe 😎.
+* [awesome-threat-modelling](https://github.com/hysnsec/awesome-threat-modelling) ⭐ 1,839 | 🐛 26 | 🌐 Dockerfile | 📅 2024-08-02 - A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.
 * [awesome-devsecops](https://github.com/jakob-pennington/awesome-devsecops) ⭐ 1,761 | 🐛 48 | 📅 2024-08-02 - Curating the best DevSecOps resources and tooling.
 * [awesome-devsecops-russia](https://github.com/Swordfish-Security/awesome-devsecops-russia) ⭐ 364 | 🐛 3 | 📅 2023-09-14 - Awesome DevSecOps на русском языке.
 * [awesome-policy-as-code](https://github.com/hysnsec/awesome-policy-as-code) ⭐ 211 | 🐛 8 | 📅 2023-12-06 - A curated list of policy-as-code resources like blogs, videos, and tools to practice on for learning Policy-as-Code.
@@ -4325,7 +4327,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Digital forensics Topic Lists
 
-* [awesome-forensics](https://github.com/Cugu/awesome-forensics) ⭐ 5,249 | 🐛 18 | 📅 2026-09-26 - ⭐️ A curated list of awesome forensic analysis tools and resources.
+* [awesome-forensics](https://github.com/Cugu/awesome-forensics) ⭐ 5,250 | 🐛 19 | 📅 2026-09-26 - ⭐️ A curated list of awesome forensic analysis tools and resources.
 * [ForensicsTools](https://github.com/mesquidar/ForensicsTools) ⭐ 2,630 | 🐛 3 | 📅 2026-10-30 - A list of free and open forensics analysis tools and other resources.
 * [awesome-memory-forensics](https://github.com/digitalisx/awesome-memory-forensics) ⭐ 580 | 🐛 0 | 📅 2026-10-20 - A curated list of awesome Memory Forensics for DFIR.
 * [awesome-forensicstools](https://github.com/ivbeg/awesome-forensicstools) ⭐ 563 | 🐛 5 | 📅 2020-11-16 - Awesome list of digital forensic tools.
@@ -4350,7 +4352,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 * [awesome-django](https://github.com/shahraizali/awesome-django) ⭐ 1,920 | 🐛 11 | 📅 2026-03-22 - The Best Django Resource, Awesome Django for mature packages.
 * [awesome-django-cn](https://github.com/haiiiiiyun/awesome-django-cn) ⭐ 1,808 | 🐛 2 | 📅 2021-04-07 - Django 优秀资源大全。.
-* [awesome-python-resources](https://github.com/DjangoEx/awesome-python-resources) ⭐ 1,468 | 🐛 11 | 📅 2026-10-16 - Awesome Python Resources.
+* [awesome-python-resources](https://github.com/DjangoEx/awesome-python-resources) ⭐ 1,468 | 🐛 12 | 📅 2026-10-16 - Awesome Python Resources.
 * [awesome-django-admin](https://github.com/originalankur/awesome-django-admin) ⭐ 1,234 | 🐛 2 | 📅 2026-02-24 - Curated List of Awesome Django Admin Panel Articles, Libraries/Packages, Books, Themes, Videos, Resources.
 * [Python-developer-roadmap](https://github.com/ErdemOzgen/Python-developer-roadmap) ⭐ 415 | 🐛 3 | 🌐 Python | 📅 2026-07-01 - Roadmap for becoming Python developer.
 * [awesome-mlops](https://github.com/pythondeveloper6/awesome-mlops) ⭐ 382 | 🐛 6 | 📅 2024-05-07 - All the available resources to master MLOPS from scratch.
@@ -4365,11 +4367,11 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Docker Topic Lists
 
-* [awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,228 | 🐛 80 | 📅 2026-11-12 - :whale: A curated list of Docker resources and projects.
-* [dashy](https://github.com/Lissy93/dashy) ⭐ 26,986 | 🐛 15 | 🌐 Vue | 📅 2026-11-07 - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+* [awesome-docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,234 | 🐛 79 | 📅 2026-11-12 - :whale: A curated list of Docker resources and projects.
+* [dashy](https://github.com/Lissy93/dashy) ⭐ 26,996 | 🐛 15 | 🌐 Vue | 📅 2026-11-13 - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 * [k8s\_awesome\_document](https://github.com/0voice/k8s_awesome_document) ⭐ 1,636 | 🐛 4 | 📅 2024-05-20 - 【2021年新鲜出炉】K8s（Kubernetes）的工程师资料合辑，书籍推荐，面试题，精选文章，开源项目，PPT，视频，大厂资料.
 * [awesome-privilege-escalation](https://github.com/m0nad/awesome-privilege-escalation) ⭐ 1,631 | 🐛 1 | 📅 2026-03-23 - A curated list of awesome privilege escalation.
-* [awesome-swarm](https://github.com/BretFisher/awesome-swarm) ⭐ 753 | 🐛 9 | 📅 2026-08-19 - All the awesome tools, docs, and training on Docker and Mirantis Swarm Mode (SwarmKit).
+* [awesome-swarm](https://github.com/BretFisher/awesome-swarm) ⭐ 753 | 🐛 10 | 📅 2026-08-19 - All the awesome tools, docs, and training on Docker and Mirantis Swarm Mode (SwarmKit).
 * [awesome-cloud-native-security](https://github.com/Metarget/awesome-cloud-native-security) ⭐ 327 | 🐛 6 | 📅 2023-11-04 - Awesome resources about cloud native security 🐿.
 * [awesome-container-security](https://github.com/kai5263499/awesome-container-security) ⭐ 253 | 🐛 1 | 📅 2026-11-05 - Awesome list of resources related to container security.
 * [awesome-testcontainers](https://github.com/collabnix/awesome-testcontainers) ⭐ 67 | 🐛 6 | 📅 2025-11-14 - A Curated List of Testcontainers Resources.
@@ -4377,7 +4379,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [Virtualization-Emulation-Guide](https://github.com/mikeroyal/Virtualization-Emulation-Guide) ⭐ 63 | 🐛 0 | 🌐 C++ | 📅 2022-03-09 - Virtualization/Emulation Guide.
 * [awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) ⭐ 52 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-31 - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记.
 * [awesome-react-redux-saga-boilerplate](https://github.com/prabaprakash/awesome-react-redux-saga-boilerplate) ⭐ 31 | 🐛 18 | 🌐 JavaScript | 📅 2023-03-02 - Well Architect-ed React-Redux-Saga Boilerplate with pre-configured CI/CD & BDD & Unit/E2E Testing for Standard Product Development.
-* [fucking-awesome-docker](https://github.com/correia-jpv/fucking-awesome-docker) ⭐ 23 | 🐛 7 | 📅 2026-11-12 - 🐳 A curated list of Docker resources and projects. With repository stars⭐ and forks🍴.
+* [fucking-awesome-docker](https://github.com/correia-jpv/fucking-awesome-docker) ⭐ 23 | 🐛 7 | 📅 2026-11-14 - 🐳 A curated list of Docker resources and projects. With repository stars⭐ and forks🍴.
 * [awesome-docker](https://github.com/arch3rpro/awesome-docker) ⭐ 20 | 🐛 3 | 📅 2025-05-30 - A collection of Docker resources, including comprehensive tools and best practices for container management, monitoring, security, automation, etc.
 * [awesome](https://github.com/kevinpollet/awesome) ⭐ 10 | 🐛 0 | 📅 2023-06-02 - A curated and updated list of awesome links on the interesting topics and things I have met in my endless developer journey.
 * [docker-free-tutorials](https://github.com/labex-labs/docker-free-tutorials) ⭐ 5 | 🐛 0 | 📅 2025-05-23 - Practice Docker Free Tutorials | This repo collects 41 of free tutorials for Docker. Docker is revolutionizing application deployment and scaling. This Skill Tree offers a systematic way to learn containerization with Docker. Ideal for DevOps beginners, it provides a clear roadmap for understandi.
@@ -4387,7 +4389,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 * [lemonade-stand](https://github.com/nayafia/lemonade-stand) ⭐ 7,705 | 🐛 16 | 📅 2025-08-06 - A handy guide to financial support for open source.
 * [awesome-gbdev](https://github.com/gbdev/awesome-gbdev) ⭐ 4,550 | 🐛 13 | 🌐 JavaScript | 📅 2026-10-26 - A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.
-* [awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing) ⭐ 2,331 | 🐛 29 | 📅 2026-07-22 - :books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.
+* [awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing) ⭐ 2,332 | 🐛 29 | 📅 2026-07-22 - :books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.
 * [awesome-magento2](https://github.com/run-as-root/awesome-magento2) ⭐ 1,177 | 🐛 14 | 🌐 PHP | 📅 2026-11-09 - Curated list of awesome Magento 2 Extensions, Resources and other Highlights.
 * [awesome-writing](https://github.com/jenniferlynparsons/awesome-writing) ⭐ 698 | 🐛 4 | 📅 2021-10-08 - An awesome list of information to help developers write better, kinder, more helpful documentation and learning materials.
 * [awesome-documentation](https://github.com/pengqun/awesome-documentation) ⭐ 188 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-11 - 📃 A curated and up-to-date list of resources on software documentation templates, tools, guides, examples, etc.
@@ -4395,7 +4397,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-wsdev](https://github.com/WonderfulToolchain/awesome-wsdev) ⭐ 99 | 🐛 0 | 🌐 Assembly | 📅 2026-11-10 - A curated list of WonderSwan development resources.
 * [all-about-react](https://github.com/techwards/all-about-react) ⭐ 96 | 🐛 18 | 🌐 JavaScript | 📅 2023-12-15 - A curated list of react blogs, talks, podcast from industry experts.
 * [React-Toolkit](https://github.com/drbarzaga/React-Toolkit) ⭐ 92 | 🐛 1 | 📅 2026-10-25 - The React developer's toolkit curated libraries, tools, and resources.
-* [awesome-ti-docs](https://github.com/TI-Toolkit/awesome-ti-docs) ⭐ 73 | 🐛 0 | 📅 2026-09-29 - A collection of awesome graphing calculator programming resources, documentation, and tools from all over the web, all in one place. Contributions welcome.
+* [awesome-ti-docs](https://github.com/TI-Toolkit/awesome-ti-docs) ⭐ 74 | 🐛 0 | 📅 2026-09-29 - A collection of awesome graphing calculator programming resources, documentation, and tools from all over the web, all in one place. Contributions welcome.
 * [awesome-gamecube-development](https://github.com/command-tab/awesome-gamecube-development) ⭐ 61 | 🐛 0 | 📅 2026-08-22 - WIP: A curated list of Nintendo GameCube development resources including toolchains, documentation, emulators, example code, and more.
 * [awesome-utrecht-university](https://github.com/utrechtuniversity/awesome-utrecht-university) ⭐ 59 | 🐛 2 | 🌐 Python | 📅 2026-09-03 - A curated list of awesome open source projects from Utrecht University.
 * [awesome-documentation](https://github.com/vipulgupta2048/awesome-documentation) ⭐ 57 | 🐛 7 | 📅 2026-03-11 - A curated list of awesome documentation websites ✍️💯.
@@ -4441,31 +4443,31 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### DeepSeek Harness Topic Lists
 
-* [dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) ⭐ 1,505 | 🐛 29 | 🌐 Python | 📅 2026-11-13 - DSH Plugin Radar — open-source ecosystem radar for DeepSeek Harness plugins: continuous discovery (21k+ candidates), k8s runtime validation (13k+ tests), 15-min snapshots; the catalog is a generated artifact — 开源 DSH 插件生态雷达：持续发现 2.1 万+ 候选、k8s 运行级实测 1.3 万+、15 分钟快照；插件目录为自动生成的产物.
-* [awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) ⭐ 432 | 🐛 39 | 🌐 TypeScript | 📅 2026-10-30 - A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh.
+* [dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) ⭐ 1,504 | 🐛 32 | 🌐 Python | 📅 2026-11-14 - DSH Plugin Radar — open-source ecosystem radar for DeepSeek Harness plugins: continuous discovery (21k+ candidates), k8s runtime validation (13k+ tests), 15-min snapshots; the catalog is a generated artifact — 开源 DSH 插件生态雷达：持续发现 2.1 万+ 候选、k8s 运行级实测 1.3 万+、15 分钟快照；插件目录为自动生成的产物.
+* [awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) ⭐ 432 | 🐛 42 | 🌐 TypeScript | 📅 2026-10-30 - A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh.
 * [awesome-deepseek-harness-plugins](https://github.com/imsai-sh/awesome-deepseek-harness-plugins) ⭐ 392 | 🐛 118 | 🌐 JavaScript | 📅 2026-11-13 - DeepSeek Harness plugin store, marketplace and hub — 11,000+ dsh plugins with search, rankings, install commands and a free public API. DeepSeek Harness 插件市场 / 插件商店：自动收集与格式校验，免费搜索 API。deepseek1024.com.
-* [awesome-dsh-plugins](https://github.com/kejixiaoliang/awesome-dsh-plugins) ⭐ 80 | 🐛 88 | 🌐 JavaScript | 📅 2026-11-13 - DeepSeek Harness (DSH) 插件精选目录 — 14 类 280+ 个社区插件，覆盖 MCP / Skill / TUI / 多 Agent / 上下文记忆 / UI 皮肤，点链接直达仓库。Curated directory of dsh plugins for DeepSeek Harness.
-* [dsh-suite](https://github.com/whyihaveyou/dsh-suite) ⭐ 66 | 🐛 30 | 🌐 HTML | 📅 2026-11-13 - The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and scaffolder. DSH 插件活目录：每小时刷新，每日兼容实测，内置插件商店与脚手架。.
-* [dsh-meme-hub](https://github.com/the-beating-light-of-the-nail/dsh-meme-hub) ⭐ 41 | 🐛 1 | 📅 2026-09-08 - 🐋 The meme side of DeepSeek Harness — 贪玩蓝鲸/QQ2006/whale girls/mini-games · A curated tour of the wildest dsh plugins.
-* [awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins) ⭐ 35 | 🐛 11 | 🌐 JavaScript | 📅 2026-11-12 - Spam-filtered, open-data registry of DeepSeek Harness (dsh) plugins, bundles, and skills.
+* [awesome-dsh-plugins](https://github.com/kejixiaoliang/awesome-dsh-plugins) ⭐ 80 | 🐛 90 | 🌐 JavaScript | 📅 2026-11-14 - DeepSeek Harness (DSH) 插件精选目录 — 14 类 280+ 个社区插件，覆盖 MCP / Skill / TUI / 多 Agent / 上下文记忆 / UI 皮肤，点链接直达仓库。Curated directory of dsh plugins for DeepSeek Harness.
+* [dsh-suite](https://github.com/whyihaveyou/dsh-suite) ⭐ 66 | 🐛 30 | 🌐 HTML | 📅 2026-11-14 - The living DeepSeek Harness plugin directory — refreshed hourly, compat-tested daily, with an in-app plugin store and scaffolder. DSH 插件活目录：每小时刷新，每日兼容实测，内置插件商店与脚手架。.
+* [dsh-meme-hub](https://github.com/the-beating-light-of-the-nail/dsh-meme-hub) ⭐ 42 | 🐛 1 | 📅 2026-09-08 - 🐋 The meme side of DeepSeek Harness — 贪玩蓝鲸/QQ2006/whale girls/mini-games · A curated tour of the wildest dsh plugins.
+* [awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins) ⭐ 35 | 🐛 12 | 🌐 JavaScript | 📅 2026-11-13 - Spam-filtered, open-data registry of DeepSeek Harness (dsh) plugins, bundles, and skills.
 * [Oh-My-DSH](https://github.com/NoWint/Oh-My-DSH) ⭐ 24 | 🐛 5 | 🌐 Python | 📅 2026-08-20 - 🐋 Oh-My-DSH — DeepSeek Harness Plugin Ecosystem【每一小时更新】.
-* [awesome-deepseek-harness-plugins](https://github.com/vvlife/awesome-deepseek-harness-plugins) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-11-12 - A curated list of plugins, tools, skins, and extensions for DeepSeek Harness (DSH).
-* [awesome-dsh-themes](https://github.com/dshworks/awesome-dsh-themes) ⭐ 5 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-12 - Registry of DeepSeek Harness (dsh) themes and --dsw-\* token skins. Not affiliated with DeepSeek.
-* [dsh-hub](https://github.com/coderPerseus/dsh-hub) ⭐ 4 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-12 - Discover The Best DSH plugins.
+* [awesome-deepseek-harness-plugins](https://github.com/vvlife/awesome-deepseek-harness-plugins) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - A curated list of plugins, tools, skins, and extensions for DeepSeek Harness (DSH).
+* [awesome-dsh-themes](https://github.com/dshworks/awesome-dsh-themes) ⭐ 5 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-13 - Registry of DeepSeek Harness (dsh) themes and --dsw-\* token skins. Not affiliated with DeepSeek.
+* [dsh-hub](https://github.com/coderPerseus/dsh-hub) ⭐ 4 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-13 - Discover The Best DSH plugins.
 
 ### DeepSeek Harness Plugins Topic Lists
 
-* [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) ⭐ 24,516 | 🐛 457 | 🌐 JavaScript | 📅 2026-11-12 - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表.
-* [awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin) ⭐ 518 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-13 - 30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin` 项目并逐个复核：真实插件分类收录，蹭标签项目剔除。通过场景化分类、精选推荐、热度排行和图文导览，帮你快速看懂每个插件能做什么、适合谁，以及如何开始使用。欢迎 Star ，让好用的插件更快被发现。.
-* [awesome-dsh-plugin](https://github.com/beancookie/awesome-dsh-plugin) ⭐ 194 | 🐛 61 | 🌐 HTML | 📅 2026-11-13 - Awesome DeepSeek Harness (DSH) Plugin.
-* [awesome-DSH-plugin](https://github.com/Alex-Yanggg/awesome-DSH-plugin) ⭐ 103 | 🐛 119 | 🌐 Python | 📅 2026-08-15 - A meticulously curated list of useful plugins, extensions, tools and development resources built for DSH, covering productivity enhancement, functional expansion, debugging utilities and custom development modules.
-* [awesome-dsh-plugin](https://github.com/billLiao/awesome-dsh-plugin) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - A curated list of plugins for DeepSeek Harness (dsh) — 精选 DeepSeek Harness 插件列表.
-* [awesome-dsh-plugins](https://github.com/cccakeee/awesome-dsh-plugins) ⭐ 9 | 🐛 10 | 🌐 Python | 📅 2026-11-12 - A curated, evidence-led directory of DeepSeek Harness (DSH) plugins: verified loadable extensions, skills, and permission-aware installation guidance.
-* [dsh-plugins-hub](https://github.com/TYEclipse/dsh-plugins-hub) ⭐ 2 | 🐛 6 | 📅 2026-11-12 - Independent plugin index for DeepSeek Harness (dsh) — curated directory of community plugins, updated daily.
+* [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) ⭐ 24,616 | 🐛 405 | 🌐 JavaScript | 📅 2026-11-14 - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表.
+* [awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin) ⭐ 519 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-14 - 30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin` 项目并逐个复核：真实插件分类收录，蹭标签项目剔除。通过场景化分类、精选推荐、热度排行和图文导览，帮你快速看懂每个插件能做什么、适合谁，以及如何开始使用。欢迎 Star ，让好用的插件更快被发现。.
+* [awesome-dsh-plugin](https://github.com/beancookie/awesome-dsh-plugin) ⭐ 194 | 🐛 63 | 🌐 HTML | 📅 2026-11-14 - Awesome DeepSeek Harness (DSH) Plugin.
+* [awesome-DSH-plugin](https://github.com/Alex-Yanggg/awesome-DSH-plugin) ⭐ 103 | 🐛 120 | 🌐 Python | 📅 2026-08-15 - A meticulously curated list of useful plugins, extensions, tools and development resources built for DSH, covering productivity enhancement, functional expansion, debugging utilities and custom development modules.
+* [awesome-dsh-plugin](https://github.com/billLiao/awesome-dsh-plugin) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2026-11-14 - A curated list of plugins for DeepSeek Harness (dsh) — 精选 DeepSeek Harness 插件列表.
+* [awesome-dsh-plugins](https://github.com/cccakeee/awesome-dsh-plugins) ⭐ 9 | 🐛 10 | 🌐 Python | 📅 2026-11-14 - A curated, evidence-led directory of DeepSeek Harness (DSH) plugins: verified loadable extensions, skills, and permission-aware installation guidance.
+* [dsh-plugins-hub](https://github.com/TYEclipse/dsh-plugins-hub) ⭐ 2 | 🐛 6 | 📅 2026-11-13 - Independent plugin index for DeepSeek Harness (dsh) — curated directory of community plugins, updated daily.
 
 ### eBPF Topic Lists
 
-* [awesome-ebpf](https://github.com/qmonnet/awesome-ebpf) ⭐ 5,200 | 🐛 8 | 📅 2026-11-11 - A curated list of awesome projects related to eBPF.
+* [awesome-ebpf](https://github.com/qmonnet/awesome-ebpf) ⭐ 5,200 | 🐛 7 | 📅 2026-11-11 - A curated list of awesome projects related to eBPF.
 * [awesome-aya](https://github.com/aya-rs/awesome-aya) ⭐ 203 | 🐛 7 | 📅 2026-08-04 - A curated list of awesome eBPF 🐝 projects using aya-rs and Rust 🦀.
 * [awesome-ebpf-zh](https://github.com/eunomia-bpf/awesome-ebpf-zh) ⭐ 133 | 🐛 0 | 🌐 Python | 📅 2025-08-23 - 与 eBPF 相关的精选项目的中文清单 （自动翻译自.
 * [awesome-cilium](https://github.com/seifrajhi/awesome-cilium) ⭐ 106 | 🐛 0 | 📅 2024-10-22 - A curated list of awesome projects related to cilium.
@@ -4484,7 +4486,7 @@ Last generated: 2026-11-12, 10396 lists.
 ### Edge Computing & AIoT Topic Lists
 
 * [Awesome-Quantization-Papers](https://github.com/Zhen-Dong/Awesome-Quantization-Papers) ⭐ 855 | 🐛 8 | 📅 2025-03-27 - List of papers related to neural network quantization in recent AI conferences and journals.
-* [awesome-edge-computing](https://github.com/qijianpeng/awesome-edge-computing) ⭐ 527 | 🐛 2 | 📅 2026-11-12 - A curated list of awesome edge computing, including Frameworks, Simulators, Tools, etc.
+* [awesome-edge-computing](https://github.com/qijianpeng/awesome-edge-computing) ⭐ 528 | 🐛 2 | 📅 2026-11-13 - A curated list of awesome edge computing, including Frameworks, Simulators, Tools, etc.
 * [awesome-edge-intelligence-collections](https://github.com/fangvv/awesome-edge-intelligence-collections) ⭐ 61 | 🐛 0 | 📅 2021-05-17 - About DNN compression and acceleration on Edge Devices.
 * [awesome-mobile-ai](https://github.com/umitkacar/awesome-mobile-ai) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2025-11-10 - Mobile AI: iOS CoreML, Android TFLite, on-device inference, ONNX, TensorRT, and ML deployment for smartphones.
 
@@ -4494,18 +4496,17 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Education Topic Lists
 
-* [functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) ⭐ 18,742 | 🐛 28 | 🌐 JavaScript | 📅 2026-10-04 - Jargon from the functional programming world in simple terms!
+* [functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) ⭐ 18,744 | 🐛 28 | 🌐 JavaScript | 📅 2026-10-04 - Jargon from the functional programming world in simple terms!
 * [js-must-watch](https://github.com/bolshchikov/js-must-watch) ⭐ 13,650 | 🐛 1 | 📅 2022-01-20 - Must-watch videos about JavaScript.
 * [books](https://github.com/gendotnew/books) ⭐ 7,775 | 🐛 17 | 📅 2026-03-04 - Awesome Books.
 * [books](https://github.com/linsa-io/books) ⭐ 7,775 | 🐛 17 | 📅 2026-03-04 - Awesome Books.
-* [awesome-learn-gamedev](https://github.com/dawdle-deer/awesome-learn-gamedev) ⭐ 3,608 | 🐛 6 | 📅 2026-06-01 - A curated collection of game development learning resources.
 * [courses](https://github.com/gendotnew/courses) ⭐ 1,297 | 🐛 4 | 📅 2022-02-24 - Awesome Courses.
 * [courses](https://github.com/linsa-io/courses) ⭐ 1,297 | 🐛 4 | 📅 2022-02-24 - Awesome Courses.
 * [awesome-educational-games](https://github.com/yrgo/awesome-educational-games) ⭐ 1,207 | 🐛 22 | 📅 2024-04-08 - A curated list of awesome educational games to learn editors, languages, programming, etc.
 * [awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students) ⭐ 773 | 🐛 0 | 🌐 MATLAB | 📅 2026-11-05 - An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.
 * [Awesome-Laravel-Education](https://github.com/fukuball/Awesome-Laravel-Education) ⭐ 399 | 🐛 4 | 🌐 PHP | 📅 2022-09-03 - A curated list of resources for learning about the Laravel PHP Framework.
 * [awesome-symfony-education](https://github.com/pehapkari/awesome-symfony-education) ⭐ 316 | 🐛 1 | 📅 2020-10-08 - Useful sources around Symfony - articles, series and books (not Bundles).
-* [awesome-ai-llm4education](https://github.com/geminilight/awesome-ai-llm4education) ⭐ 224 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-10-23 - Awesome artificial intelligence (AI) and large language model (LLM) for education papers.
+* [awesome-ai-llm4education](https://github.com/geminilight/awesome-ai-llm4education) ⭐ 225 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-10-23 - Awesome artificial intelligence (AI) and large language model (LLM) for education papers.
 * [awesome-agent-learning](https://github.com/artnitolog/awesome-agent-learning) ⭐ 165 | 🐛 11 | 📅 2025-06-15 - Guides, courses & reading lists for learning to build autonomous LLM agents.
 * [awesome-opensource-school](https://github.com/zefanja/awesome-opensource-school) ⭐ 134 | 🐛 7 | 📅 2026-10-22 - Awesome free and open source software (FOSS) for schools.
 * [awesome-learning-collections](https://github.com/johnpaulada/awesome-learning-collections) ⭐ 115 | 🐛 6 | 📅 2023-05-08 - ✨ A curated list of awesome learning collections on various topics.
@@ -4517,11 +4518,11 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-numerics](https://github.com/comp-physics/awesome-numerics) ⭐ 47 | 🐛 0 | 🌐 Makefile | 📅 2023-10-19 - Resources for learning about numerical methods.
 * [awesome-python-learning](https://github.com/skupriienko/awesome-python-learning) ⭐ 47 | 🐛 4 | 📅 2024-06-26 - Python Learning Library.
 * [awesome-deved](https://github.com/kamranayub/awesome-deved) ⭐ 42 | 🐛 2 | 📅 2024-12-21 - DevEd with umami. Awesome List of developer education covering blogs, tutorials, academies, visual essays, games, and more.
-* [awesome-student-resources](https://github.com/studentsuite/awesome-student-resources) ⭐ 38 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-13 - A curated list of the best software, tools, textbooks, channels, and resources for students. IB, IGCSE, SAT, and any student anywhere.
-* [awesome-study-resources](https://github.com/studentsuite/awesome-study-resources) ⭐ 37 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-13 - A curated list of the best exam prep, subject study, and learning-tool resources for students. IB, IGCSE, GCSE, A-Level, AP, SAT, ACT: every entry tagged free, freemium, paid, or open source.
-* [awesome-moodle](https://github.com/moosensei/awesome-moodle) ⭐ 33 | 🐛 3 | 🌐 Python | 📅 2026-11-01 - 🎓 A comprehensive, curated collection of high-quality Moodle resources for educators, developers, and administrators. Features essential plugins, professional themes, development tools, official documentation, and community forums. Designed to support the entire Moodle lifecycle—from installation and customization to deployment and maintenance. 🚀.
+* [awesome-student-resources](https://github.com/studentsuite/awesome-student-resources) ⭐ 39 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-13 - A curated list of the best software, tools, textbooks, channels, and resources for students. IB, IGCSE, SAT, and any student anywhere.
+* [awesome-study-resources](https://github.com/studentsuite/awesome-study-resources) ⭐ 38 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-13 - A curated list of the best exam prep, subject study, and learning-tool resources for students. IB, IGCSE, GCSE, A-Level, AP, SAT, ACT: every entry tagged free, freemium, paid, or open source.
+* [awesome-moodle](https://github.com/moosensei/awesome-moodle) ⭐ 34 | 🐛 3 | 🌐 Python | 📅 2026-11-01 - 🎓 A comprehensive, curated collection of high-quality Moodle resources for educators, developers, and administrators. Features essential plugins, professional themes, development tools, official documentation, and community forums. Designed to support the entire Moodle lifecycle—from installation and customization to deployment and maintenance. 🚀.
 * [awesome-rse-education](https://github.com/hifis-net/awesome-rse-education) ⭐ 18 | 🐛 0 | 📅 2026-09-25 - An awesome list of educational resources for Research Software Engineers and Engineering (RSE).
-* [awesome-study-tools](https://github.com/studyarena-com/awesome-study-tools) ⭐ 9 | 🐛 21 | 🌐 Python | 📅 2026-08-18 - A global, community-curated directory of study and learning tools, organized by category and region.
+* [awesome-study-tools](https://github.com/studyarena-com/awesome-study-tools) ⭐ 9 | 🐛 22 | 🌐 Python | 📅 2026-08-18 - A global, community-curated directory of study and learning tools, organized by category and region.
 * [Awesome-Python-Simulator](https://github.com/panhaiqi/Awesome-Python-Simulator) ⭐ 7 | 🐛 0 | 📅 2025-05-30 - Awesome Python Simulator & Electronic Design Tools(work in progress).
 * [cs-learning-path](https://github.com/Ahmed-Hamdy101/cs-learning-path) ⭐ 2 | 🐛 0 | 📅 2025-11-29 - This Source of High Quality Educations Including Version of Reverse-engineering that would be publish soon.
 * [Interactive-Learning](https://github.com/BlueBoxWare/Interactive-Learning) ⭐ 2 | 🐛 1 | 📅 2026-08-20 - Websites, tutorials and software which allow you to learn tech and science stuff by experimenting, playing and/or interacting.
@@ -4557,11 +4558,11 @@ Last generated: 2026-11-12, 10396 lists.
 ### Elixir Topic Lists
 
 * [phoenix-liveview-counter-tutorial](https://github.com/dwyl/phoenix-liveview-counter-tutorial) ⭐ 424 | 🐛 9 | 🌐 Elixir | 📅 2026-11-02 - 🤯 beginners tutorial building a real time counter in Phoenix + LiveView⚡️ Learn the fundamentals from first principals so you can make something amazing! 🚀.
-* [awesome-programming-presentations](https://github.com/techgaun/awesome-programming-presentations) ⭐ 281 | 🐛 1 | 📅 2023-11-28 - Presentations that programmers should watch.
+* [awesome-programming-presentations](https://github.com/techgaun/awesome-programming-presentations) ⭐ 280 | 🐛 1 | 📅 2023-11-28 - Presentations that programmers should watch.
 * [awesome-fp-jobs](https://github.com/ad-si/awesome-fp-jobs) ⭐ 94 | 🐛 2 | 📅 2026-11-02 - A curated list of awesome functional programming jobs.
 * [awesome-beam-monitoring](https://github.com/opencensus-beam/awesome-beam-monitoring) ⭐ 62 | 🐛 0 | 📅 2019-05-20 - Curated list of awesome BEAM monitoring libraries and resources.
 * [beamtoolbox](https://github.com/szTheory/beamtoolbox) ⭐ 29 | 🐛 0 | 📅 2024-01-23 - Curated BEAM language libraries by category.
-* [awesome-beam](https://github.com/krot3232/awesome-beam) ⭐ 0 | 🐛 0 | 📅 2026-11-13 - A curated list of awesome packages for Erlang, Elixir, and Gleam.
+* [awesome-beam](https://github.com/krot3232/awesome-beam) ⭐ 0 | 🐛 0 | 📅 2026-11-14 - A curated list of awesome packages for Erlang, Elixir, and Gleam.
 
 ### Elm Topic Lists
 
@@ -4574,7 +4575,7 @@ Last generated: 2026-11-12, 10396 lists.
 ### Embeddings Topic Lists
 
 * [awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models) ⭐ 1,859 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2019-04-07 - A curated list of awesome embedding models tutorials, projects and communities.
-* [Awesome-LLM-RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG) ⭐ 1,373 | 🐛 7 | 📅 2026-11-07 - Awesome-LLM-RAG: a curated list of advanced retrieval augmented generation (RAG) in Large Language Models.
+* [Awesome-LLM-RAG](https://github.com/jxzhangjhu/Awesome-LLM-RAG) ⭐ 1,374 | 🐛 7 | 📅 2026-11-14 - Awesome-LLM-RAG: a curated list of advanced retrieval augmented generation (RAG) in Large Language Models.
 * [awesome-embeddings](https://github.com/eifuentes/awesome-embeddings) ⭐ 16 | 🐛 0 | 📅 2022-01-02 - 🪁A curated list of awesome resources around entity embeddings.
 * [awesome-text-embeddings](https://github.com/metawake/awesome-text-embeddings) - A curated list of text embedding models, benchmarks, and tools for semantic search, retrieval, and classification.
 
@@ -4590,19 +4591,19 @@ Last generated: 2026-11-12, 10396 lists.
 ### Emulator Topic Lists
 
 * [awesome-emulators](https://github.com/DerekTurtleRoe/awesome-emulators) ⭐ 770 | 🐛 7 | 📅 2026-11-02 - An awesome list of emulators!
-* [awesome-emulators](https://github.com/alnacle/awesome-emulators) ⭐ 493 | 🐛 7 | 📅 2021-11-25 - A curated list of awesome open source emulators.
+* [awesome-emulators](https://github.com/alnacle/awesome-emulators) ⭐ 494 | 🐛 7 | 📅 2021-11-25 - A curated list of awesome open source emulators.
 * [awesome-chip-8](https://github.com/tobiasvl/awesome-chip-8) ⭐ 257 | 🐛 4 | 📅 2022-12-26 - List of CHIP-8 resources.
 * [awesome-emulators-simulators](https://github.com/mcicolella/awesome-emulators-simulators) ⭐ 218 | 🐛 16 | 📅 2024-10-30 - A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more.
 * [awesome-game-console-development](https://github.com/lebrancconvas/awesome-game-console-development) ⭐ 22 | 🐛 2 | 📅 2025-06-02 - Curated List of Game Console / Gaming Computer Development, Game Console / Gaming Computer Emulator, Hardware and Electronic Engineering Recap, and ROM Development and Hacking stuff.
 
 ### End-to-End Encryption Topic Lists
 
-* [awesome-storage](https://github.com/dalisoft/awesome-storage) ⭐ 269 | 🐛 0 | 📅 2026-11-03 - List of cloud storage providers for individuals and family sorted by minimal plan price.
+* [awesome-storage](https://github.com/dalisoft/awesome-storage) ⭐ 270 | 🐛 2 | 📅 2026-11-13 - List of cloud storage providers for individuals and family sorted by minimal plan price.
 
 ### Entity resolution Topic Lists
 
 * [data-matching-software](https://github.com/J535D165/data-matching-software) ⭐ 407 | 🐛 9 | 📅 2024-02-21 - A list of free data matching and record linkage software.
-* [awesome-entity-resolution](https://github.com/olivierbinette/awesome-entity-resolution) ⭐ 139 | 🐛 6 | 📅 2026-03-24 - List of entity resolution software and resources.
+* [awesome-entity-resolution](https://github.com/olivierbinette/awesome-entity-resolution) ⭐ 140 | 🐛 6 | 📅 2026-03-24 - List of entity resolution software and resources.
 * [awsome-entity-resolution](https://github.com/Evnsn/awsome-entity-resolution) ⭐ 8 | 🐛 0 | 📅 2024-08-16 - A collection of awesome resources regarding Record Linkage.
 
 ### EPICS Topic Lists
@@ -4616,7 +4617,7 @@ Last generated: 2026-11-12, 10396 lists.
 ### Erlang Topic Lists
 
 * [awesome-erlang-cn](https://github.com/hstcscolor/awesome-erlang-cn) ⭐ 167 | 🐛 0 | 📅 2018-09-25 - Erlang资源大全中文版.
-* [awesome-erlang](https://github.com/erlang-punch/awesome-erlang) ⭐ 80 | 🐛 6 | 🌐 Erlang | 📅 2026-11-12 - An (accurate) list of awesome Erlang resources.
+* [awesome-erlang](https://github.com/erlang-punch/awesome-erlang) ⭐ 81 | 🐛 6 | 🌐 Erlang | 📅 2026-11-12 - An (accurate) list of awesome Erlang resources.
 * [awesome-tsung](https://github.com/aliesbelik/awesome-tsung) ⭐ 23 | 🐛 0 | 📅 2026-11-02 - A collection of resources covering all aspects of Tsung usage for load testing.
 
 ### ESLint Topic Lists
@@ -4630,15 +4631,15 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### ESP32 Topic Lists
 
-* [awesome-esp32](https://github.com/s0lness/awesome-esp32) ⭐ 723 | 🐛 2 | 📅 2026-11-12 - Hand-picked ESP32 projects worth building, copying, or watching run.
+* [awesome-esp32](https://github.com/s0lness/awesome-esp32) ⭐ 724 | 🐛 1 | 📅 2026-11-13 - Hand-picked ESP32 projects worth building, copying, or watching run.
 * [Awesome\_Micropython](https://github.com/ikuamike/Awesome_Micropython) ⭐ 16 | 🐛 0 | 📅 2019-06-15 - :books: :page\_facing\_up: List of Awesome Micropython Resources and Tutorials :fire: :tada:.
 
 ### Ethereum Topic Lists
 
 * [awesome-ethereum-security](https://github.com/crytic/awesome-ethereum-security) ⭐ 1,486 | 🐛 43 | 📅 2024-08-20 - A curated list of awesome Ethereum security references.
-* [awesome-ethereum](https://github.com/bekatom/awesome-ethereum) ⭐ 910 | 🐛 38 | 📅 2026-10-01 - :zap: Awesome Ethereum Resources.
+* [awesome-ethereum](https://github.com/bekatom/awesome-ethereum) ⭐ 910 | 🐛 39 | 📅 2026-10-01 - :zap: Awesome Ethereum Resources.
 * [SmartContracts-audit-checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist) ⭐ 802 | 🐛 3 | 📅 2023-10-02 - A checklist of things to look for when auditing Solidity smart contracts.
-* [Awesome-MEV](https://github.com/0xemperor/Awesome-MEV) ⭐ 637 | 🐛 2 | 📅 2023-09-02 - A list of MEV resources with a focus on past research papers/talks.
+* [Awesome-MEV](https://github.com/0xemperor/Awesome-MEV) ⭐ 638 | 🐛 2 | 📅 2023-09-02 - A list of MEV resources with a focus on past research papers/talks.
 * [awesome-uniswap-hooks](https://github.com/fewwwww/awesome-uniswap-hooks) ⭐ 635 | 🐛 16 | 📅 2026-09-15 - A curated list of awesome Uniswap v4 hooks resources.
 * [awesome-buggy-erc20-tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) ⭐ 633 | 🐛 9 | 🌐 Python | 📅 2024-02-15 - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected.
 * [Awesome-Ethereum](https://github.com/ttumiel/Awesome-Ethereum) ⭐ 365 | 🐛 23 | 📅 2024-07-12 - A Curated List of Awesome Ethereum Resources.
@@ -4656,8 +4657,8 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Exploit Topic Lists
 
-* [Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) ⭐ 17,633 | 🐛 40 | 📅 2026-05-21 - A collection of hacking / penetration testing resources to make you better!
-* [bluetoolkit](https://github.com/sgxgsx/bluetoolkit) ⭐ 750 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-08-23 - BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research, penetration testing and bluetooth hacking. We also collected and classified Bluetooth vulnerabilities in an "Awesome Bluetooth Security" way.
+* [Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) ⭐ 17,635 | 🐛 40 | 📅 2026-05-21 - A collection of hacking / penetration testing resources to make you better!
+* [bluetoolkit](https://github.com/sgxgsx/bluetoolkit) ⭐ 748 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-08-23 - BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research, penetration testing and bluetooth hacking. We also collected and classified Bluetooth vulnerabilities in an "Awesome Bluetooth Security" way.
 * [awesome-vm-escape](https://github.com/winmin/awesome-vm-escape) ⭐ 621 | 🐛 0 | 📅 2026-03-18 - Share some useful archives about vm and qemu escape exploit.
 * [awesome-uefi-security](https://github.com/river-li/awesome-uefi-security) ⭐ 240 | 🐛 0 | 📅 2025-09-04 - 👓A collection of papers/tools/exploits for UEFI security.
 * [awesome-iot-security-resource](https://github.com/f1tao/awesome-iot-security-resource) ⭐ 79 | 🐛 2 | 📅 2024-07-15 - Awesome iot exploit resource.
@@ -4672,7 +4673,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Extension Topic Lists
 
-* [awesome-xcode-extensions](https://github.com/theswiftdev/awesome-xcode-extensions) ⭐ 3,227 | 🐛 1 | 🌐 Ruby | 📅 2023-09-24 - Awesome native Xcode extensions.
+* [awesome-xcode-extensions](https://github.com/theswiftdev/awesome-xcode-extensions) ⭐ 3,228 | 🐛 1 | 🌐 Ruby | 📅 2023-09-24 - Awesome native Xcode extensions.
 
 ### Feature Engineering Topic Lists
 
@@ -4694,14 +4695,14 @@ Last generated: 2026-11-12, 10396 lists.
 ### Figma Topic Lists
 
 * [awesome-figma](https://github.com/react-figma/awesome-figma) ⭐ 438 | 🐛 12 | 📅 2024-05-30 - 💡 A curated list of delightful Figma resources.
-* [Design-Resources](https://github.com/SARAH-HADDAD/Design-Resources) ⭐ 60 | 🐛 5 | 📅 2026-11-10 - This repository is a collection of design resources that includes templates, stock photos, icons, fonts, color palettes.
+* [Design-Resources](https://github.com/SARAH-HADDAD/Design-Resources) ⭐ 61 | 🐛 5 | 📅 2026-11-10 - This repository is a collection of design resources that includes templates, stock photos, icons, fonts, color palettes.
 * [awesome-stitch-design](https://github.com/tygwan/awesome-stitch-design) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2026-04-06 - AI-powered UI design tool by Google Labs for generating high-fidelity designs from text prompts, voice input, or hand-drawn sketches.
 
 ### Finance Topic Lists
 
-* [awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) ⭐ 15,331 | 🐛 44 | 🌐 Python | 📅 2026-09-28 - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
+* [awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) ⭐ 15,348 | 🐛 45 | 🌐 Python | 📅 2026-09-28 - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
 * [awesome-financial-nlp](https://github.com/icoxfog417/awesome-financial-nlp) ⭐ 438 | 🐛 3 | 📅 2020-02-01 - Researches for Natural Language Processing for Financial Domain.
-* [awesome-beancount](https://github.com/siddhantgoel/awesome-beancount) ⭐ 391 | 🐛 1 | 🌐 HTML | 📅 2026-11-11 - Awesome Beancount Resources.
+* [awesome-beancount](https://github.com/siddhantgoel/awesome-beancount) ⭐ 392 | 🐛 1 | 🌐 HTML | 📅 2026-11-11 - Awesome Beancount Resources.
 * [awesome-cloud-cost-control](https://github.com/Funkmyster/awesome-cloud-cost-control) ⭐ 45 | 🐛 3 | 📅 2023-10-28 - A curated list of awesome cloud cost control blogs, podcasts, standards, projects, and examples.
 * [awesome-sec-filings](https://github.com/vibeyclaw/awesome-sec-filings) ⭐ 41 | 🐛 26 | 📅 2026-07-04 - A curated list of tools, data sources, libraries, and resources for working with SEC filings (13F, 10-K, 10-Q, 8-K).
 * [awesome-banking-tech](https://github.com/gtonic/awesome-banking-tech) ⭐ 25 | 🐛 3 | 📅 2022-11-25 - A curated list of banking technologies and resources.
@@ -4730,11 +4731,11 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### friendly interactive shell Topic Lists
 
-* [awsm.fish](https://github.com/jorgebucaran/awsm.fish) ⭐ 5,118 | 🐛 21 | 📅 2026-01-25 - A curation of prompts, plugins & other Fish treasures 🐚💎.
+* [awsm.fish](https://github.com/jorgebucaran/awsm.fish) ⭐ 5,117 | 🐛 21 | 📅 2026-01-25 - A curation of prompts, plugins & other Fish treasures 🐚💎.
 
 ### Flask Topic Lists
 
-* [awesome-flask](https://github.com/mjhea0/awesome-flask) ⭐ 1,815 | 🐛 4 | 📅 2026-05-13 - A curated list of awesome things related to Flask.
+* [awesome-flask](https://github.com/mjhea0/awesome-flask) ⭐ 1,814 | 🐛 4 | 📅 2026-05-13 - A curated list of awesome things related to Flask.
 
 ### Flatpak Topic Lists
 
@@ -4744,7 +4745,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Flight Topic Lists
 
-* [awesome-flying-fpv](https://github.com/Matthias84/awesome-flying-fpv) ⭐ 728 | 🐛 7 | 📅 2026-03-06 - Curated list of free software and hardware to build remote controlled copters and planes.
+* [awesome-flying-fpv](https://github.com/Matthias84/awesome-flying-fpv) ⭐ 729 | 🐛 7 | 📅 2026-03-06 - Curated list of free software and hardware to build remote controlled copters and planes.
 
 ### flight-simulator Topic Lists
 
@@ -4761,7 +4762,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Flutter Topic Lists
 
-* [awesome-flutter](https://github.com/Solido/awesome-flutter) ⭐ 61,886 | 🐛 42 | 🌐 Dart | 📅 2026-09-03 - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+* [awesome-flutter](https://github.com/Solido/awesome-flutter) ⭐ 61,897 | 🐛 42 | 🌐 Dart | 📅 2026-09-03 - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 * [awesome-flutter-desktop](https://github.com/leanflutter/awesome-flutter-desktop) ⭐ 1,714 | 🐛 0 | 📅 2025-03-30 - A curated list of awesome things related to Flutter desktop.
 * [awesome-flame](https://github.com/flame-engine/awesome-flame) ⭐ 1,401 | 🐛 4 | 📅 2026-11-03 - An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.
 * [awesome-flutter](https://github.com/nepaul/awesome-flutter) ⭐ 769 | 🐛 0 | 📅 2025-04-13 - 💗 A curated list of awesome Flutter libraries, tools, tutorials, articles and more. All you should know about Flutter development!
@@ -4773,8 +4774,8 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Font Topic Lists
 
-* [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) ⭐ 14,828 | 🐛 146 | 🌐 Ruby | 📅 2026-02-11 - :city\_sunrise: A collection of links for free stock photography, video and Illustration websites.
-* [awesome-product-design](https://github.com/ttt30ga/awesome-product-design) ⭐ 2,762 | 🐛 25 | 📅 2025-09-22 - A collection of bookmarks, resources, articles for product designers.
+* [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) ⭐ 14,835 | 🐛 146 | 🌐 Ruby | 📅 2026-02-11 - :city\_sunrise: A collection of links for free stock photography, video and Illustration websites.
+* [awesome-product-design](https://github.com/ttt30ga/awesome-product-design) ⭐ 2,763 | 🐛 25 | 📅 2025-09-22 - A collection of bookmarks, resources, articles for product designers.
 * [font-awesome-pro](https://github.com/hung1001/font-awesome-pro) ⭐ 218 | 🐛 3 | 🌐 CSS | 📅 2025-03-05 - CDN free for Font Awesome 5 Pro.
 * [typophilia](https://github.com/subidit/typophilia) ⭐ 127 | 🐛 1 | 📅 2025-04-07 - 💝 Trivia about typefaces.
 * [design-heaven](https://github.com/dimitrisraptis96/design-heaven) ⭐ 121 | 🐛 5 | 📅 2023-07-18 - :angel: Stunning open source design resources for designers and developers.
@@ -4790,12 +4791,12 @@ Last generated: 2026-11-12, 10396 lists.
 ### Framework Topic Lists
 
 * [awesome-windows-kernel-security-development](https://github.com/ExpLife0011/awesome-windows-kernel-security-development) ⭐ 2,071 | 🐛 2 | 📅 2022-09-06 - Windows kernel security development.
-* [awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library) ⭐ 1,732 | 🐛 20 | 🌐 JavaScript | 📅 2026-11-07 - Curated list of framework component libraries for UI styles/toolkit.
+* [awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library) ⭐ 1,731 | 🐛 21 | 🌐 JavaScript | 📅 2026-11-07 - Curated list of framework component libraries for UI styles/toolkit.
 * [awesome-haxe-gamedev](https://github.com/Dvergar/awesome-haxe-gamedev) ⭐ 421 | 🐛 0 | 🌐 Haxe | 📅 2023-11-17 - Resources for game development on haxe.
 * [awesome-seed-rs](https://github.com/seed-rs/awesome-seed-rs) ⭐ 230 | 🐛 0 | 📅 2025-01-11 - A curated list of awesome things related to Seed.
 * [web-development-resources](https://github.com/milanaryal/web-development-resources) ⭐ 222 | 🐛 24 | 📅 2024-08-10 - A list of open source front-end tools and resources for web designers and developers.
 * [awesome-framework](https://github.com/framewiki/awesome-framework) ⭐ 143 | 🐛 4 | 📅 2023-10-19 - A COMPLETELY UNOFFICIAL curated list of projects, tools, documentation and resources related to the Framework Laptop.
-* [fucking-awesome-nextjs](https://github.com/correia-jpv/fucking-awesome-nextjs) ⭐ 131 | 🐛 5 | 📅 2026-11-12 - 📔 📚 A curated list of awesome resources : books, videos, articles about using Next.js With repository stars⭐ and forks🍴.
+* [fucking-awesome-nextjs](https://github.com/correia-jpv/fucking-awesome-nextjs) ⭐ 131 | 🐛 5 | 📅 2026-11-14 - 📔 📚 A curated list of awesome resources : books, videos, articles about using Next.js With repository stars⭐ and forks🍴.
 * [awesome-dotnet-core-cn](https://github.com/AvensLab/awesome-dotnet-core-cn) ⭐ 16 | 🐛 0 | 📅 2018-07-14 - .Net Core 类库，工具，框架，软件汇总.
 * [awesome-brisa](https://github.com/brisa-build/awesome-brisa) ⭐ 15 | 🐛 0 | 📅 2025-03-18 - A collection of awesome things regarding Brisa ecosystem.
 * [awesome-adonisjs-packages](https://github.com/NaveenDA/awesome-adonisjs-packages) ⭐ 9 | 🐛 0 | 📅 2022-11-02 - 🎨 A curated list of delightful AdonisJS packages and resources.
@@ -4803,7 +4804,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Front end Topic Lists
 
-* [alternative-front-ends](https://github.com/mendel5/alternative-front-ends) ⭐ 9,256 | 🐛 111 | 📅 2024-08-18 - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.).
+* [alternative-front-ends](https://github.com/mendel5/alternative-front-ends) ⭐ 9,258 | 🐛 111 | 📅 2024-08-18 - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.).
 * [frontend-development](https://github.com/codingknite/frontend-development) ⭐ 2,344 | 🐛 19 | 📅 2024-03-04 - A curated list of resources for Frontend development.
 * [awesome-frontend](https://github.com/syaning/awesome-frontend) ⭐ 703 | 🐛 6 | 📅 2025-04-15 - Awesome frontend, also my collections.
 * [awesome-fe-study-source](https://github.com/KieSun/awesome-fe-study-source) ⭐ 524 | 🐛 0 | 📅 2019-07-02 - :octocat: 获取前端学习资料，随时充电。加入前端学习小组，尽在公众号「前端真好玩」！.
@@ -4840,22 +4841,23 @@ Last generated: 2026-11-12, 10396 lists.
 ### Fuzzing/Fuzz testing Topic Lists
 
 * [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) ⭐ 5,948 | 🐛 12 | 📅 2024-04-03 - A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.
-* [Awesome-Vulnerability-Research](https://github.com/sergey-pronin/Awesome-Vulnerability-Research) ⭐ 1,384 | 🐛 3 | 📅 2020-12-07 - 🦄 A curated list of the awesome resources about the Vulnerability Research.
-* [awesome-fuzzing](https://github.com/cpuu/awesome-fuzzing) ⭐ 1,026 | 🐛 1 | 🌐 Python | 📅 2026-09-14 - A curated list of awesome Fuzzing(or Fuzz Testing) for software security.
+* [Awesome-Vulnerability-Research](https://github.com/sergey-pronin/Awesome-Vulnerability-Research) ⭐ 1,385 | 🐛 3 | 📅 2020-12-07 - 🦄 A curated list of the awesome resources about the Vulnerability Research.
+* [awesome-fuzzing](https://github.com/cpuu/awesome-fuzzing) ⭐ 1,028 | 🐛 2 | 🌐 Python | 📅 2026-09-14 - A curated list of awesome Fuzzing(or Fuzz Testing) for software security.
 * [awesome-rtc-hacking](https://github.com/EnableSecurity/awesome-rtc-hacking) ⭐ 563 | 🐛 0 | 📅 2026-06-30 - A list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE.
 * [fuzzing-tutorial](https://github.com/secnotes/fuzzing-tutorial) ⭐ 406 | 🐛 0 | 🌐 Python | 📅 2026-09-10 - Curated list of classic fuzzing books, papers about fuzzing at information security top conferences over the years, commonly used fuzzing tools, and resources that can help us use fuzzer easily.
 * [evm-fuzzing-resources](https://github.com/perimetersec/evm-fuzzing-resources) ⭐ 257 | 🐛 0 | 📅 2026-07-21 - A curated collection of tools, articles, research, and guides for fuzzing smart contracts on the Ethereum Virtual Machine (EVM).
-* [security-study-tutorial](https://github.com/mykings/security-study-tutorial) ⭐ 93 | 🐛 1 | 📅 2019-11-29 - Summary of online learning materials.
+* [security-study-tutorial](https://github.com/mykings/security-study-tutorial) ⭐ 94 | 🐛 1 | 📅 2019-11-29 - Summary of online learning materials.
 * [awesome-embedded-fuzzing](https://github.com/andreia-oca/awesome-embedded-fuzzing) ⭐ 54 | 🐛 0 | 🌐 Python | 📅 2022-07-05 - A list of resources (papers, books, talks, frameworks, tools) for understanding fuzzing for IoT/embedded devices.
 
 ### Game Development Topic Lists
 
-* [Unreal-Engine-Guide](https://github.com/mikeroyal/Unreal-Engine-Guide) ⭐ 1,534 | 🐛 2 | 🌐 C++ | 📅 2025-06-27 - Unreal Engine 5 Guide. Learn to develop games for Windows, Linux, macOS, iOS, Android, Xbox Series X|S, PlayStation 5, Nintendo Switch.
+* [awesome-gamedev](https://github.com/calinou/awesome-gamedev) ⭐ 3,222 | 🐛 40 | 📅 2026-08-25 - A collection of free software and free culture resources for making amazing games. (mirror).
+* [Unreal-Engine-Guide](https://github.com/mikeroyal/Unreal-Engine-Guide) ⭐ 1,535 | 🐛 2 | 🌐 C++ | 📅 2025-06-27 - Unreal Engine 5 Guide. Learn to develop games for Windows, Linux, macOS, iOS, Android, Xbox Series X|S, PlayStation 5, Nintendo Switch.
 * [awesome-game-engine-dev](https://github.com/stevinz/awesome-game-engine-dev) ⭐ 1,449 | 🐛 5 | 📅 2026-08-17 - Awesome list of resources for Game Engine Development.
 * [Awesome-Game-Analysis](https://github.com/OTFCG/Awesome-Game-Analysis) ⭐ 1,179 | 🐛 1 | 🌐 Python | 📅 2026-04-19 - A comprehensive collection of video game tech analysis resources.
-* [awesome-jsgames](https://github.com/proyecto26/awesome-jsgames) ⭐ 995 | 🐛 21 | 📅 2026-10-25 - A curated list of awesome JavaScript Games 🎮.
-* [awesome-game-design](https://github.com/roobyx/awesome-game-design) ⭐ 715 | 🐛 42 | 📅 2026-10-23 - A comprehensive list of Game Design related learning materials, examples and tools.
-* [Awesome-Gamedev](https://github.com/FronkonGames/Awesome-Gamedev) ⭐ 699 | 🐛 27 | 📅 2026-06-18 - A curated collection of resources to game development.
+* [awesome-jsgames](https://github.com/proyecto26/awesome-jsgames) ⭐ 996 | 🐛 21 | 📅 2026-10-25 - A curated list of awesome JavaScript Games 🎮.
+* [awesome-game-design](https://github.com/roobyx/awesome-game-design) ⭐ 715 | 🐛 43 | 📅 2026-10-23 - A comprehensive list of Game Design related learning materials, examples and tools.
+* [Awesome-Gamedev](https://github.com/FronkonGames/Awesome-Gamedev) ⭐ 699 | 🐛 28 | 📅 2026-06-18 - A curated collection of resources to game development.
 * [Awesome-IDEs](https://github.com/zeelsheladiya/Awesome-IDEs) ⭐ 250 | 🐛 3 | 🌐 Markdown | 📅 2026-10-25 - A curated list of Integrated Development Environments (IDEs) and related tools that can enhance your coding experience and boost your productivity.
 * [awesome-game-production](https://github.com/vhladiienko/awesome-game-production) ⭐ 236 | 🐛 1 | 📅 2026-05-04 - A curated list of awesome resources, related to game production process: books, articles, tools, project management stuff etc.
 * [Metal-Guide](https://github.com/mikeroyal/Metal-Guide) ⭐ 204 | 🐛 0 | 🌐 Swift | 📅 2023-09-23 - Metal Guide.
@@ -4864,7 +4866,8 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-construct](https://github.com/ConstructCommunity/awesome-construct) ⭐ 96 | 🐛 0 | 📅 2025-06-17 - A curated list of tools, tutorials, examples, and much more, for the awesome game development engines Construct 2 and Construct 3.
 * [awesome-game-generation](https://github.com/jingyechen/awesome-game-generation) ⭐ 93 | 🐛 1 | 📅 2026-03-16 - 🕹️ Explore cutting-edge techniques in game generation.
 * [awesome-gamejam](https://github.com/wujood/awesome-gamejam) ⭐ 79 | 🐛 1 | 📅 2024-04-11 - This is a curated list that contains helpful links and resources for game jams and game development.
-* [awesome-gamedev](https://github.com/jamtasticgd/awesome-gamedev) ⭐ 67 | 🐛 2 | 📅 2026-10-30 - A compilation of game dev related media (podcasts, YouTube, article, books, etc.).
+* [awesome-gamedev](https://github.com/jamtasticgd/awesome-gamedev) ⭐ 68 | 🐛 2 | 📅 2026-10-30 - A compilation of game dev related media (podcasts, YouTube, article, books, etc.).
+* [awesome-ai-game-generation](https://github.com/Anil-matcha/awesome-ai-game-generation) ⭐ 57 | 🐛 11 | 📅 2026-09-02 - A curated list of tools, models, research, and resources for generating games with AI.
 * [awesome-torque3d](https://github.com/John3/awesome-torque3d) ⭐ 54 | 🐛 2 | 📅 2022-06-09 - A curated list of Torque3D and related Torque Game Engine resources.
 * [Unity-Guide](https://github.com/mikeroyal/Unity-Guide) ⭐ 53 | 🐛 1 | 🌐 C# | 📅 2024-01-04 - Unity Engine Guide.
 * [Blender-Guide](https://github.com/mikeroyal/Blender-Guide) ⭐ 51 | 🐛 0 | 🌐 Python | 📅 2022-03-06 - Blender Guide.
@@ -4903,29 +4906,29 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Generative AI Topic Lists
 
-* [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) ⭐ 30,254 | 🐛 6 | 🌐 HTML | 📅 2026-11-02 - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
-* [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,831 | 🐛 1,357 | 📅 2026-10-30 - A curated list of modern Generative Artificial Intelligence projects and services.
-* [awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) ⭐ 3,575 | 🐛 421 | 📅 2025-12-18 - A curated list of Generative AI tools, works, models, and references.
-* [awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) ⭐ 1,447 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-09 - 日本語LLMまとめ - Overview of Japanese LLMs.
+* [awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) ⭐ 30,265 | 🐛 6 | 🌐 HTML | 📅 2026-11-02 - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
+* [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,831 | 🐛 1,372 | 📅 2026-10-30 - A curated list of modern Generative Artificial Intelligence projects and services.
+* [awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) ⭐ 3,575 | 🐛 423 | 📅 2025-12-18 - A curated list of Generative AI tools, works, models, and references.
+* [awesome-japanese-llm](https://github.com/llm-jp/awesome-japanese-llm) ⭐ 1,447 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-09 - 日本語LLMまとめ - Overview of Japanese LLMs.
 * [Awesome-Language-Model-on-Graphs](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) ⭐ 1,000 | 🐛 0 | 📅 2025-03-02 - A curated list of papers and resources based on "Large Language Models on Graphs: A Comprehensive Survey" (TKDE).
-* [awesome-aiart-pics-prompts](https://github.com/Jermic/awesome-aiart-pics-prompts) ⭐ 551 | 🐛 4 | 📅 2026-08-11 - 🎨 精选 3000+ Gemini Nano Banana Pro 高质量提示词与生成案例 | 涵盖摄影、设计、艺术、营销等多领域 | 双语支持 | JSON 格式.
-* [awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) ⭐ 331 | 🐛 5 | 📅 2026-11-12 - Seedance 2.5 API guide, prompts, parameters, and examples for video generation.
+* [awesome-aiart-pics-prompts](https://github.com/Jermic/awesome-aiart-pics-prompts) ⭐ 553 | 🐛 4 | 📅 2026-08-11 - 🎨 精选 3000+ Gemini Nano Banana Pro 高质量提示词与生成案例 | 涵盖摄影、设计、艺术、营销等多领域 | 双语支持 | JSON 格式.
+* [awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) ⭐ 332 | 🐛 5 | 📅 2026-11-12 - Seedance 2.5 API guide, prompts, parameters, and examples for video generation.
 * [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts) ⭐ 216 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-07 - 🎬 Curated MiniMax H3 video generation prompts — cinematic, ads, anime, UGC, product videos, and more. Includes playable examples and creator attribution.
-* [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) ⭐ 213 | 🐛 2 | 📅 2026-09-29 - The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.
+* [awesome-ai-video-models](https://github.com/Anil-matcha/awesome-ai-video-models) ⭐ 215 | 🐛 3 | 📅 2026-09-29 - The most complete, up-to-date comparison of AI video generation models — which model, via which API, at what price, and how fast.
 * [Awesome-Resource-Efficient-LLM-Papers](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers) ⭐ 167 | 🐛 4 | 📅 2026-06-08 - A curated list of high-quality papers on resource-efficient LLMs 🌱.
 * [awesome-generative-ui](https://github.com/narrowin/awesome-generative-ui) ⭐ 152 | 🐛 8 | 📅 2026-10-26 - A curated list of resources for AI-generated user interfaces — systems where LLMs dynamically create, compose, and render UI components.
 * [Awesome-GenAI-Watermarking](https://github.com/and-mill/Awesome-GenAI-Watermarking) ⭐ 149 | 🐛 0 | 📅 2026-11-05 - A curated list of watermarking schemes for generative AI models.
-* [generative-engine-optimization-tools](https://github.com/izak-fisher/generative-engine-optimization-tools) ⭐ 120 | 🐛 5 | 📅 2026-11-11 - Awesome list of generative engine optimization tools.
-* [awesome-ai-image-models](https://github.com/Anil-matcha/awesome-ai-image-models) ⭐ 92 | 🐛 7 | 📅 2026-10-19 - The most complete, up-to-date comparison of AI image generation models — which model, via which API, at what price.
+* [generative-engine-optimization-tools](https://github.com/izak-fisher/generative-engine-optimization-tools) ⭐ 120 | 🐛 6 | 📅 2026-11-11 - Awesome list of generative engine optimization tools.
+* [awesome-ai-image-models](https://github.com/Anil-matcha/awesome-ai-image-models) ⭐ 93 | 🐛 7 | 📅 2026-10-19 - The most complete, up-to-date comparison of AI image generation models — which model, via which API, at what price.
 * [Awesome-Efficient-Video-Generation](https://github.com/oahzxl/Awesome-Efficient-Video-Generation) ⭐ 74 | 🐛 1 | 📅 2025-10-07 - A curated list of recent efficient video generation methods.
 * [awesome-generative-ai](https://github.com/chaosreactor/awesome-generative-ai) ⭐ 54 | 🐛 18 | 📅 2024-06-04 - An awesome list of low- and no-code generative AI resources.
-* [awesome-video-generation](https://github.com/backblaze-labs/awesome-video-generation) ⭐ 40 | 🐛 18 | 📅 2026-11-11 - A curated list of AI video generation APIs, SDKs, and tools including text-to-video, video editing, multimodal generation, diffusion models, and generative AI platforms. Covers commercial services, open source models with APIs, and production-ready infrastructure for developers building video applications.
-* [awesome-vibecoded-saas](https://github.com/Anil-matcha/awesome-vibecoded-saas) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2026-10-14 - Open-source alternatives to the SaaS tools people pay for.
+* [awesome-vibecoded-saas](https://github.com/Anil-matcha/awesome-vibecoded-saas) ⭐ 42 | 🐛 1 | 🌐 Python | 📅 2026-10-14 - Open-source alternatives to the SaaS tools people pay for.
+* [awesome-video-generation](https://github.com/backblaze-labs/awesome-video-generation) ⭐ 40 | 🐛 20 | 📅 2026-11-11 - A curated list of AI video generation APIs, SDKs, and tools including text-to-video, video editing, multimodal generation, diffusion models, and generative AI platforms. Covers commercial services, open source models with APIs, and production-ready infrastructure for developers building video applications.
 * [awesome-gemini-omni](https://github.com/cnemri/awesome-gemini-omni) ⭐ 34 | 🐛 1 | 📅 2026-05-31 - A curated list of awesome Google Gemini Omni prompt guides, interactive platforms, and creative showcases.
 * [awesome-minimax-h3-prompts](https://github.com/Anil-matcha/awesome-minimax-h3-prompts) ⭐ 28 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-15 - Original MiniMax H3 prompt library, MuAPI Python client, API examples, and current model notes.
 * [awesome-comfyui](https://github.com/umitkacar/awesome-comfyui) ⭐ 20 | 🐛 2 | 🌐 Python | 📅 2025-11-10 - ComfyUI Workflows: Stable Diffusion, Flux, SDXL, ControlNet, image generation, AI art, and custom node-based diffusion pipelines.
 * [Awesome-Diffusion-Models-for-NLP](https://github.com/StevenYuan666/Awesome-Diffusion-Models-for-NLP) ⭐ 20 | 🐛 1 | 📅 2024-06-21 - 📰 Must-read papers on Diffusion Models for Text Generation 🔥.
-* [awesome-uncensored-llms](https://github.com/Anil-matcha/awesome-uncensored-llms) ⭐ 14 | 🐛 6 | 📅 2026-10-05 - Source-tracked catalog of abliterated, low-refusal, and community-reported open-weight and hosted language models.
+* [awesome-uncensored-llms](https://github.com/Anil-matcha/awesome-uncensored-llms) ⭐ 15 | 🐛 7 | 📅 2026-10-05 - Source-tracked catalog of abliterated, low-refusal, and community-reported open-weight and hosted language models.
 * [prompt-tools-live](https://github.com/linny006/prompt-tools-live) ⭐ 11 | 🐛 3 | 🌐 Python | 📅 2026-11-02 - Live-updating tracker of prompt engineering tools, libraries, and techniques — refreshed every 15 mi.
 * [awesome-bengali-ai](https://github.com/iamsdt/awesome-bengali-ai) ⭐ 4 | 🐛 0 | 📅 2026-03-18 - A curated collection of resources for Bengali AI, LLMs, Generative AI, and NLP — including models, datasets, tools, benchmarks, and research papers.
 
@@ -4943,20 +4946,20 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Ghidra Topic Lists
 
-* [awesome-ghidra](https://github.com/allsafecybersecurity/awesome-ghidra) ⭐ 1,459 | 🐛 4 | 📅 2026-06-18 - A curated list of awesome Ghidra materials.
+* [awesome-ghidra](https://github.com/allsafecybersecurity/awesome-ghidra) ⭐ 1,460 | 🐛 4 | 📅 2026-06-18 - A curated list of awesome Ghidra materials.
 
 ### Gin Topic Lists
 
-* [go-collection](https://github.com/jiujuan/go-collection) ⭐ 3,163 | 🐛 0 | 🌐 Go | 📅 2024-05-18 - :tulip: awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习 Go 基础语法和高级特性，到实战项目，再到架构微服务，最后到跑路。.
+* [go-collection](https://github.com/jiujuan/go-collection) ⭐ 3,162 | 🐛 0 | 🌐 Go | 📅 2024-05-18 - :tulip: awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习 Go 基础语法和高级特性，到实战项目，再到架构微服务，最后到跑路。.
 * [go-collection](https://git.hiifong.cc/mirrors/go-collection) - :tulip: awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习golang基础和高级特性，到实战，到架构微服务，最后到跑路。.
 
 ### Geographic Information System Topic Lists
 
-* [awesome-gis](https://github.com/sshuair/awesome-gis) ⭐ 5,624 | 🐛 135 | 📅 2026-07-21 - 😎Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
-* [Awesome-GEE](https://github.com/opengeos/Awesome-GEE) ⭐ 1,259 | 🐛 0 | 📅 2026-10-26 - A curated list of Google Earth Engine resources.
-* [awesome-spectral-indices](https://github.com/awesome-spectral-indices/awesome-spectral-indices) ⭐ 1,204 | 🐛 24 | 🌐 Python | 📅 2026-11-08 - A ready-to-use curated list of Spectral Indices for Remote Sensing applications.
+* [awesome-gis](https://github.com/sshuair/awesome-gis) ⭐ 5,625 | 🐛 136 | 📅 2026-07-21 - 😎Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
+* [Awesome-GEE](https://github.com/opengeos/Awesome-GEE) ⭐ 1,258 | 🐛 0 | 📅 2026-11-14 - A curated list of Google Earth Engine resources.
+* [awesome-spectral-indices](https://github.com/awesome-spectral-indices/awesome-spectral-indices) ⭐ 1,205 | 🐛 24 | 🌐 Python | 📅 2026-11-08 - A ready-to-use curated list of Spectral Indices for Remote Sensing applications.
 * [awesome-geospatial-companies](https://github.com/chrieke/awesome-geospatial-companies) ⭐ 894 | 🐛 8 | 🌐 Python | 📅 2026-07-09 - :globe\_with\_meridians: List & Map of 800+ companies for geospatial jobs (GIS, Earth Observation, UAV, Satellite, Digital Farming, .).
-* [awesome-geo](https://github.com/luka2chat/awesome-geo) ⭐ 131 | 🐛 50 | 📅 2026-10-14 - 🚀 A curated list of awesome resources for Generative Engine Optimization (GEO) - optimizing content for AI search engines like ChatGPT, Perplexity, Claude, and Google AI Overviews.
+* [awesome-geo](https://github.com/luka2chat/awesome-geo) ⭐ 131 | 🐛 51 | 📅 2026-10-14 - 🚀 A curated list of awesome resources for Generative Engine Optimization (GEO) - optimizing content for AI search engines like ChatGPT, Perplexity, Claude, and Google AI Overviews.
 * [awesome-historical-maps](https://github.com/stark1tty/awesome-historical-maps) ⭐ 122 | 🐛 0 | 🌐 HTML | 📅 2026-04-30 - Historic(al) Maps: Meta guidance, tools, repositories, databases, search engines, and online resources for the exploration of Historic and Historical Maps.
 * [awesome-civil-engineering](https://github.com/quantumnovice/awesome-civil-engineering) ⭐ 119 | 🐛 4 | 🌐 Python | 📅 2026-11-10 - Awesome civil engineering software and programming reosurces.
 * [awesome-leaflet](https://github.com/harryprince/awesome-leaflet) ⭐ 28 | 🐛 2 | 📅 2022-04-01 - An awesome leaflet related package collection.
@@ -4969,8 +4972,8 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Git Topic Lists
 
-* [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) ⭐ 60,341 | 🐛 50 | 📅 2024-04-15 - A list of cool features of Git and GitHub.
-* [github-cheat-sheet#readme](https://github.com/tiimgreen/github-cheat-sheet#readme) ⭐ 60,341 | 🐛 50 | 📅 2024-04-15 - A list of cool features of Git and GitHub.
+* [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) ⭐ 60,364 | 🐛 50 | 📅 2024-04-15 - A list of cool features of Git and GitHub.
+* [github-cheat-sheet#readme](https://github.com/tiimgreen/github-cheat-sheet#readme) ⭐ 60,364 | 🐛 50 | 📅 2024-04-15 - A list of cool features of Git and GitHub.
 * [awesome-git](https://github.com/dictcp/awesome-git) ⭐ 2,973 | 🐛 124 | 📅 2026-10-23 - A curated list of amazingly awesome Git tools, resources and shiny things.
 * [awesome-github-alternatives](https://github.com/ianchanning/awesome-github-alternatives) ⭐ 267 | 🐛 6 | 📅 2024-06-16 - Love 'em or leave 'em.
 * [awesome-git-cn](https://github.com/esmadrider/awesome-git-cn) ⭐ 65 | 🐛 0 | 📅 2019-04-28 - :dragon\_face: 收集整理一些常用 Git 教程、工具 の 资源库，以便在工作中迅速的查找所需.
@@ -4987,13 +4990,13 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### GitHub Topic Lists
 
-* [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ⭐ 31,595 | 🐛 760 | 📅 2026-09-11 - 😎 A curated list of awesome GitHub Profile which updates in real time.
-* [awesome-repos](https://github.com/pawelborkar/awesome-repos) ⭐ 3,465 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-08 - A curated list of GitHub Repositories full of FREE Resources.
-* [awesome-useful-projects](https://github.com/furthir/awesome-useful-projects) ⭐ 1,682 | 🐛 32 | 📅 2026-01-19 - Curated List of 500+ Open Source Projects for Everyday Use.
-* [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) ⭐ 846 | 🐛 5 | 🌐 Mermaid | 📅 2025-07-12 - 🔖 The Ultimate Markdown Cheatsheet.
+* [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ⭐ 31,601 | 🐛 763 | 📅 2026-09-11 - 😎 A curated list of awesome GitHub Profile which updates in real time.
+* [awesome-repos](https://github.com/pawelborkar/awesome-repos) ⭐ 3,470 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-08 - A curated list of GitHub Repositories full of FREE Resources.
+* [awesome-useful-projects](https://github.com/furthir/awesome-useful-projects) ⭐ 1,684 | 🐛 32 | 📅 2026-01-19 - Curated List of 500+ Open Source Projects for Everyday Use.
+* [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet) ⭐ 847 | 🐛 5 | 🌐 Mermaid | 📅 2025-07-12 - 🔖 The Ultimate Markdown Cheatsheet.
 * [awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) ⭐ 501 | 🐛 1 | 📅 2026-10-31 - :neckbeard: Awesome list GitHub Wikis.
 * [awesome-developer-first-channels](https://github.com/fmerian/awesome-developer-first-channels) ⭐ 180 | 🐛 4 | 📅 2026-11-03 - Hand-picked places to promote your developer-first product.
-* [awesome-indonesia](https://github.com/indopensource/awesome-indonesia) ⭐ 93 | 🐛 2 | 🌐 Python | 📅 2026-11-12 - Awesome list of Indonesian open source projects listing on and.
+* [awesome-indonesia](https://github.com/indopensource/awesome-indonesia) ⭐ 93 | 🐛 2 | 🌐 Python | 📅 2026-11-13 - Awesome list of Indonesian open source projects listing on and.
 * [jimsghstars](https://github.com/jimbrig/jimsghstars) ⭐ 89 | 🐛 4 | 🌐 R | 📅 2025-11-16 - A curated application for browsing my GitHub stars! ⭐.
 * [awesome-starred](https://github.com/almereyda/awesome-starred) ⭐ 45 | 🐛 0 | 📅 2023-11-12 - A curated list of my GitHub stars!
 * [awesome-orgs](https://github.com/beansource/awesome-orgs) ⭐ 30 | 🐛 4 | 🌐 JavaScript | 📅 2024-04-09 - 🥰 List of awesome GitHub organizations.
@@ -5057,11 +5060,11 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### GNU General Public License Topic Lists
 
-* [awesome-free-software](https://github.com/johnjago/awesome-free-software) ⭐ 2,974 | 🐛 56 | 📅 2025-04-29 - Curated list of open-source, free as in freedom software.
+* [awesome-free-software](https://github.com/johnjago/awesome-free-software) ⭐ 2,976 | 🐛 56 | 📅 2025-04-29 - Curated list of open-source, free as in freedom software.
 
 ### Grafana Topic Lists
 
-* [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) ⭐ 8,261 | 🐛 44 | 🌐 Astro | 📅 2026-11-10 - 🚨 Collection of Prometheus alerting rules.
+* [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) ⭐ 8,261 | 🐛 45 | 🌐 Astro | 📅 2026-11-14 - 🚨 Collection of Prometheus alerting rules.
 
 ### Graphic Design Topic Lists
 
@@ -5069,7 +5072,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### GraphQL Topic Lists
 
-* [awesome-graphql](https://github.com/chentsulin/awesome-graphql) ⭐ 15,164 | 🐛 8 | 📅 2026-11-09 - Awesome list of GraphQL.
+* [awesome-graphql](https://github.com/chentsulin/awesome-graphql) ⭐ 15,165 | 🐛 8 | 📅 2026-11-09 - Awesome list of GraphQL.
 * [awesome-react-graphql](https://github.com/hasura/awesome-react-graphql) ⭐ 748 | 🐛 3 | 📅 2020-12-22 - A curated collection of resources, clients and tools that make working with `GraphQL and React/React Native` awesome.
 * [awesome-prisma](https://github.com/catalinmiron/awesome-prisma) ⭐ 663 | 🐛 16 | 📅 2024-05-23 - A collection of awesome things regarding Prisma ecosystem.
 * [awesome-aws-appsync](https://github.com/dabit3/awesome-aws-appsync) ⭐ 617 | 🐛 1 | 📅 2024-01-23 - Curated list of AWS AppSync Resources.
@@ -5113,16 +5116,16 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Hacking Topic Lists
 
-* [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 125,402 | 🐛 45 | 📅 2026-10-27 - A collection of various awesome lists for hackers, pentesters and security researchers.
-* [awesome-hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,490 | 🐛 73 | 📅 2024-06-02 - A curated list of awesome Hacking tutorials, tools and resources.
-* [movies-for-hackers](https://github.com/k4m4/movies-for-hackers) ⭐ 12,016 | 🐛 124 | 🌐 Shell | 📅 2024-08-01 - 🎬 A curated list of movies every hacker & cyberpunk must watch.
-* [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) ⭐ 7,355 | 🐛 23 | 📅 2026-10-29 - A list of web application security.
+* [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 125,481 | 🐛 45 | 📅 2026-10-27 - A collection of various awesome lists for hackers, pentesters and security researchers.
+* [awesome-hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,496 | 🐛 73 | 📅 2024-06-02 - A curated list of awesome Hacking tutorials, tools and resources.
+* [movies-for-hackers](https://github.com/k4m4/movies-for-hackers) ⭐ 12,017 | 🐛 124 | 🌐 Shell | 📅 2024-08-01 - 🎬 A curated list of movies every hacker & cyberpunk must watch.
+* [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) ⭐ 7,354 | 🐛 23 | 📅 2026-10-29 - A list of web application security.
 * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) ⭐ 4,249 | 🐛 1 | 📅 2026-02-17 - A collected list of awesome security talks.
 * [Awesome-Cellular-Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 4,124 | 🐛 1 | 📅 2026-11-03 - Awesome-Cellular-Hacking.
-* [awesome-ethical-hacking-resources](https://github.com/husnainfareed/awesome-ethical-hacking-resources) ⭐ 3,830 | 🐛 3 | 📅 2026-04-18 - 😎 🔗 Awesome list about all kinds of resources for learning Ethical Hacking and Penetration Testing.
-* [awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security) ⭐ 1,982 | 🐛 24 | 📅 2026-08-20 - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
+* [awesome-ethical-hacking-resources](https://github.com/husnainfareed/awesome-ethical-hacking-resources) ⭐ 3,832 | 🐛 3 | 📅 2026-04-18 - 😎 🔗 Awesome list about all kinds of resources for learning Ethical Hacking and Penetration Testing.
+* [awesome-cyber-security](https://github.com/fabionoth/awesome-cyber-security) ⭐ 1,983 | 🐛 24 | 📅 2026-08-20 - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 * [Offensive-OSINT-Tools](https://github.com/wddadk/Offensive-OSINT-Tools) ⭐ 1,324 | 🐛 5 | 📅 2026-10-25 - OffSec OSINT Pentest/RedTeam Tools.
-* [awesome-drone-hacking](https://github.com/nicholasaleks/awesome-drone-hacking) ⭐ 213 | 🐛 0 | 📅 2026-09-15 - A list of awesome drone hacking tools & resources.
+* [awesome-drone-hacking](https://github.com/nicholasaleks/awesome-drone-hacking) ⭐ 214 | 🐛 0 | 📅 2026-09-15 - A list of awesome drone hacking tools & resources.
 * [Pentest-Bookmarkz](https://github.com/SofianeHamlaoui/Pentest-Bookmarkz) ⭐ 181 | 🐛 0 | 📅 2025-06-06 - A collection of useful links for Pentesters.
 * [awesome-asus-tinker-board](https://github.com/thyrlian/awesome-asus-tinker-board) ⭐ 70 | 🐛 3 | 📅 2022-11-21 - A curated list of ASUS Tinker Board resources.
 * [awesome-hacking](https://github.com/hunterdii/awesome-hacking) ⭐ 62 | 🐛 1 | 📅 2024-11-17 - 🔐 Welcome to Hack-Academia, your ultimate resource hub for all things 🖥️ hacking, 🔧 pentesting, and 🛡️ security research. Whether you are a 🌱 beginner looking to explore the world of cybersecurity or a 🧑‍💻 seasoned professional seeking cutting-edge techniques and insights, Hack-Academia is here to empower you. ⚡.
@@ -5152,7 +5155,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Home Assistant Topic Lists
 
-* [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) ⭐ 8,669 | 🐛 33 | 🌐 Python | 📅 2026-11-13 - A curated list of amazingly awesome Home Assistant resources.
+* [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) ⭐ 8,673 | 🐛 34 | 🌐 Python | 📅 2026-11-13 - A curated list of amazingly awesome Home Assistant resources.
 * [awesome-poe-smarthome](https://github.com/zacs/awesome-poe-smarthome) ⭐ 83 | 🐛 0 | 📅 2026-11-05 - A list of smarthome devices designed to be PoE-first.
 * [awesome-rhasspy](https://github.com/koenvervloesem/awesome-rhasspy) ⭐ 65 | 🐛 0 | 📅 2022-02-05 - Carefully curated list of projects and resources for the voice assistant Rhasspy.
 
@@ -5162,8 +5165,8 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### HTML Topic Lists
 
-* [awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) ⭐ 8,746 | 🐛 8 | 📅 2026-10-19 - :page\_facing\_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护.
-* [awesome-emails](https://github.com/jonathandion/awesome-emails) ⭐ 2,771 | 🐛 56 | 📅 2024-10-03 - ✉️ An awesome list of resources to build better emails.
+* [awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) ⭐ 8,754 | 🐛 8 | 📅 2026-10-19 - :page\_facing\_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护.
+* [awesome-emails](https://github.com/jonathandion/awesome-emails) ⭐ 2,772 | 🐛 57 | 📅 2024-10-03 - ✉️ An awesome list of resources to build better emails.
 * [awesome-os](https://github.com/zriyansh/awesome-os) ⭐ 551 | 🐛 3 | 📅 2023-10-21 - A collection of all big and small open-source clones of Linux, Windows, and macOS operating system and their software.
 * [Awesome-HTML-Book-Course-HyperText-Markup-Language-HTML](https://github.com/Ditectrev/Awesome-HTML-Book-Course-HyperText-Markup-Language-HTML) ⭐ 63 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-17 - ⭐ Awesome HTML Book & Course with interactive CodeSandboxes. Learn HTML online with pleasure.
 * [awesome-html-css](https://github.com/zedix/awesome-html-css) ⭐ 10 | 🐛 0 | 📅 2026-09-17 - Resources on the super power of HTML and modern CSS.
@@ -5187,7 +5190,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Icon font Topic Lists
 
-* [awesome-fonts](https://github.com/brabadu/awesome-fonts) ⭐ 2,110 | 🐛 3 | 📅 2026-10-31 - Curated list of fonts and everything.
+* [awesome-fonts](https://github.com/brabadu/awesome-fonts) ⭐ 2,111 | 🐛 3 | 📅 2026-10-31 - Curated list of fonts and everything.
 * [awesome-icons](https://github.com/vkarampinis/awesome-icons) ⭐ 1,584 | 🐛 4 | 📅 2026-11-01 - A curated list of awesome Web Font Icons.
 * [awesome-iconjar](https://github.com/pluwen/awesome-iconjar) ⭐ 273 | 🐛 0 | 📅 2026-08-12 - 44 Collect free icon sets for iconjar. 收集免费的图标包，iconjar 格式（44套）。.
 
@@ -5223,8 +5226,8 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Interview Topic Lists
 
-* [awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) ⭐ 27,998 | 🐛 185 | 🌐 Java | 📅 2026-08-19 - Learn Low Level Design (LLD) and prepare for interviews using free resources.
-* [awesome-system-design](https://github.com/madd86/awesome-system-design) ⭐ 12,662 | 🐛 32 | 📅 2026-02-27 - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.
+* [awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) ⭐ 28,009 | 🐛 186 | 🌐 Java | 📅 2026-08-19 - Learn Low Level Design (LLD) and prepare for interviews using free resources.
+* [awesome-system-design](https://github.com/madd86/awesome-system-design) ⭐ 12,662 | 🐛 34 | 📅 2026-02-27 - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.
 * [Awesome-Interview](https://github.com/Awesome-Interview/Awesome-Interview) ⭐ 1,844 | 🐛 2 | 📅 2020-09-25 - Collection of awesome interview references.
 * [Product-Management-and-Leadership](https://github.com/ElizaLo/Product-Management-and-Leadership) ⭐ 210 | 🐛 0 | 📅 2023-05-05 - Product Management and Leadership Guide.
 * [awesome-github](https://github.com/reziamini/awesome-github) ⭐ 170 | 🐛 0 | 📅 2023-08-22 - List of awesome GitHub repository.
@@ -5241,21 +5244,21 @@ Last generated: 2026-11-12, 10396 lists.
 ### Ionic Topic Lists
 
 * [Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) ⭐ 1,459 | 🐛 14 | 📅 2021-04-18 - 😎 A curated list of amazingly awesome Ionic libraries, resources and solutions.
-* [awesome-ionic](https://github.com/Cap-go/awesome-ionic) ⭐ 866 | 🐛 4 | 📅 2026-10-12 - Awesome list of Ionic resources. Made by Capgo.
+* [awesome-ionic](https://github.com/Cap-go/awesome-ionic) ⭐ 866 | 🐛 1 | 📅 2026-11-13 - Awesome list of Ionic resources. Made by Capgo.
 * [awesome-capacitor](https://github.com/riderx/awesome-capacitor) ⭐ 641 | 🐛 9 | 🌐 HTML | 📅 2026-10-30 - 😎 Awesome lists of capacitor plugins. Made by Capgo.
 * [awesome-stenciljs](https://github.com/dmartinjs/awesome-stenciljs) ⭐ 24 | 🐛 1 | 📅 2025-09-26 - 🎉 A curated list of awesome things related to StencilJS.
 * [ionic-anhembi-2021.1](https://github.com/mcf1110/ionic-anhembi-2021.1) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2021-06-30 - All the code produced at the "Mobile Devices" lectures for the first semester of 2021 at Universidade Anhembi Morumbi.
 
 ### iOS Topic Lists
 
-* [awesome-ios-architecture](https://github.com/onmyway133/awesome-ios-architecture) ⭐ 5,268 | 🐛 2 | 📅 2023-11-29 - :japanese\_castle: Better ways to structure iOS apps.
+* [awesome-ios-architecture](https://github.com/onmyway133/awesome-ios-architecture) ⭐ 5,270 | 🐛 2 | 📅 2023-11-29 - :japanese\_castle: Better ways to structure iOS apps.
 * [awesome-scriptable](https://github.com/dersvenhesse/awesome-scriptable) ⭐ 1,655 | 🐛 2 | 📅 2025-11-15 - A curated list of awesome Scriptable scripts and widgets.
 * [awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) ⭐ 744 | 🐛 0 | 📅 2026-10-22 - 📚 Directory of iOS books.
 * [awesome-unit-testing-swift](https://github.com/oleh-zayats/awesome-unit-testing-swift) ⭐ 429 | 🐛 0 | 📅 2020-03-25 - A curated collection of awesome blog articles, books, talks, podcasts, tools/frameworks and examples.
 * [ios-apps](https://github.com/linsa-io/ios-apps) ⭐ 119 | 🐛 24 | 📅 2026-07-02 - Awesome iOS apps.
 * [awesome-cocoa](https://github.com/v-braun/awesome-cocoa) ⭐ 98 | 🐛 0 | 🌐 JavaScript | 📅 2022-05-21 - A curated list of awesome Cocoa controls for iOS, watchOS and macOS.
 * [awesome-combine](https://github.com/riteshhgupta/awesome-combine) ⭐ 64 | 🐛 0 | 📅 2020-01-22 - A collaborative list of awesome Combine resources and libraries. Feel free to contribute!
-* [awesome-iOS-security-tools](https://github.com/0xdad0/awesome-iOS-security-tools) ⭐ 54 | 🐛 2 | 📅 2026-07-27 - A collection of iOS tools designed for security purposes.
+* [awesome-iOS-security-tools](https://github.com/0xdad0/awesome-iOS-security-tools) ⭐ 55 | 🐛 2 | 📅 2026-07-27 - A collection of iOS tools designed for security purposes.
 * [awesome-conference-videos](https://github.com/onmyway133/awesome-conference-videos) ⭐ 40 | 🐛 0 | 📅 2020-04-01 - 🎸 Conference videos. Visit.
 * [awesome-ios-talks](https://github.com/bystritskiy/awesome-ios-talks) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-10-26 - 🇷🇺 A list of interesting сonference and meetups talks about iOS development.
 * [iosawesomeblogpost](https://github.com/layneios/iosawesomeblogpost) ⭐ 8 | 🐛 0 | 📅 2018-04-27 - IOS awesome blog. 😀😀😀.
@@ -5266,13 +5269,13 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Internet of things Topic Lists
 
-* [awesome-iot](https://github.com/phodal/awesome-iot) ⭐ 4,634 | 🐛 1 | 🌐 Python | 📅 2026-11-12 - Awesome IoT. A collaborative list of great resources about IoT Framework, Library, OS, Platform.
+* [awesome-iot](https://github.com/phodal/awesome-iot) ⭐ 4,634 | 🐛 0 | 🌐 Python | 📅 2026-11-14 - Awesome IoT. A collaborative list of great resources about IoT Framework, Library, OS, Platform.
 * [awesome-iot](https://github.com/HQarroum/awesome-iot) ⭐ 4,561 | 🐛 8 | 📅 2026-11-10 - 🤖 A curated list of awesome Internet of Things projects and resources.
-* [awesome-embedded-and-iot-security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) ⭐ 2,525 | 🐛 3 | 📅 2023-10-17 - A curated list of awesome embedded and IoT security resources.
+* [awesome-embedded-and-iot-security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) ⭐ 2,526 | 🐛 3 | 📅 2023-10-17 - A curated list of awesome embedded and IoT security resources.
 * [awesome-iot-hacks](https://github.com/nebgnahz/awesome-iot-hacks) ⭐ 2,447 | 🐛 3 | 📅 2020-05-16 - A Collection of Hacks in IoT Space so that we can address them (hopefully).
 * [awesome-censys-queries](https://github.com/thehappydinoa/awesome-censys-queries) ⭐ 1,251 | 🐛 2 | 🌐 Python | 📅 2026-10-26 - A collection of fascinating and bizarre Censys Search Queries.
 * [awesome-smarthome](https://github.com/pfalcon/awesome-smarthome) ⭐ 564 | 🐛 5 | 📅 2022-06-15 - Curated list of awesome SmartHome/Home Automation things (open and leaving users in control).
-* [awesome-mechatronics](https://github.com/engyasin/awesome-mechatronics) ⭐ 231 | 🐛 4 | 📅 2026-08-08 - A list of awesome mechatronics books, courses and software.
+* [awesome-mechatronics](https://github.com/engyasin/awesome-mechatronics) ⭐ 232 | 🐛 4 | 📅 2026-08-08 - A list of awesome mechatronics books, courses and software.
 * [awesome-thingsboard](https://github.com/devaskim/awesome-thingsboard) ⭐ 210 | 🐛 0 | 📅 2025-12-18 - A curated list of awesome Thingsboard widgets, widget bundles, dashboards, rule chains and custom rule nodes.
 * [awesome-meshtastic](https://github.com/SignalGap/awesome-meshtastic) ⭐ 54 | 🐛 0 | 📅 2026-10-29 - A curated list of useful resources, tools, tutorials, projects, and community contributions related to the Meshtastic open-source mesh communication project. Whether you're a beginner or advanced user, this list helps you explore and get the most out of your Meshtastic devices.
 * [awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) ⭐ 16 | 🐛 2 | 📅 2026-11-02 - 🐰 A curated list of awesome Nabaztag resources.
@@ -5289,17 +5292,17 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Jamstack Topic Lists
 
-* [awesome-jamstack](https://github.com/automata/awesome-jamstack) ⭐ 1,376 | 🐛 59 | 📅 2026-08-17 - Carefully curated list of awesome Jamstack resources.
-* [awesome-jamstack](https://github.com/BolajiAyodeji/awesome-jamstack) ⭐ 148 | 🐛 14 | 📅 2026-07-22 - :notebook\_with\_decorative\_cover: Curated list of resources: books, videos, articles, speaker decks, tools about using the Jamstack.
+* [awesome-jamstack](https://github.com/automata/awesome-jamstack) ⭐ 1,376 | 🐛 61 | 📅 2026-08-17 - Carefully curated list of awesome Jamstack resources.
+* [awesome-jamstack](https://github.com/BolajiAyodeji/awesome-jamstack) ⭐ 148 | 🐛 15 | 📅 2026-07-22 - :notebook\_with\_decorative\_cover: Curated list of resources: books, videos, articles, speaker decks, tools about using the Jamstack.
 * [awesome-jamstack-resources](https://github.com/Olanetsoft/awesome-jamstack-resources) ⭐ 63 | 🐛 2 | 📅 2020-12-07 - This is a Curated list of resources using the JAMStack: A modern web development architecture for creating fast, secure and dynamic websites.
 * [awesome-decap-cms](https://github.com/nuzulul/awesome-decap-cms) ⭐ 5 | 🐛 0 | 📅 2026-04-08 - Awesome Decap CMS (formerly Netlify CMS) resources.
 
 ### Java Topic Lists
 
-* [AwesomeJavaFX](https://github.com/mhrimaz/AwesomeJavaFX) ⭐ 3,378 | 🐛 4 | 📅 2026-07-07 - A curated list of awesome JavaFX libraries, books, frameworks, etc.
+* [AwesomeJavaFX](https://github.com/mhrimaz/AwesomeJavaFX) ⭐ 3,379 | 🐛 4 | 📅 2026-07-07 - A curated list of awesome JavaFX libraries, books, frameworks, etc.
 * [awesome-IntelliJ-IDEA](https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA) ⭐ 3,174 | 🐛 7 | 📅 2023-11-24 - 收集一些 Intellij IDEA 的一些技巧.
 * [free-resources](https://github.com/barnamenevisi/free-resources) ⭐ 1,298 | 🐛 5 | 📅 2026-10-11 - آرشیو منابع رایگان آموزش برنامه نویسی به زبان فارسی ( هر کسی باید بتونه برنامه نویسی رو یاد بگیره، مهم نیست پول داره یا نداره، به امید اینکه کسی به خاطر نداشتن پول از آموزش عقب نمونه ).
-* [awesome-j2me](https://github.com/hstsethi/awesome-j2me) ⭐ 437 | 🐛 1 | 🌐 Java | 📅 2026-11-13 - Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.
+* [awesome-j2me](https://github.com/hstsethi/awesome-j2me) ⭐ 438 | 🐛 1 | 🌐 Java | 📅 2026-11-13 - Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.
 * [awesome-java8](https://github.com/tedyoung/awesome-java8) ⭐ 403 | 🐛 0 | 📅 2019-10-29 - Curated list of useful, if not amazing, resources that take advantage of Java 8 and "Modern Java" thinking.
 * [awesome-java-security](https://github.com/guardrailsio/awesome-java-security) ⭐ 322 | 🐛 5 | 📅 2023-08-24 - Awesome Java Security Resources 🕶☕🔐.
 * [awesome-programming-resources](https://github.com/DogerRain/awesome-programming-resources) ⭐ 242 | 🐛 0 | 📅 2024-02-03 - 收集优秀的编程资源（Java为主），涵盖：Java面试、求职、电子书籍、计算机网络、操作系统、前端、 Redis、Mysql、Nginx、ZK、MQ、机器学习、NPL、架构、算法.
@@ -5323,10 +5326,10 @@ Last generated: 2026-11-12, 10396 lists.
 ### JavaScript Topic Lists
 
 * [jstips](https://github.com/loverajoel/jstips) ⭐ 12,407 | 🐛 9 | 📅 2025-04-26 - This is about useful JS tips!
-* [awesome-front-end-system-design](https://github.com/greatfrontend/awesome-front-end-system-design) ⭐ 8,626 | 🐛 1 | 📅 2026-11-10 - Curated front end system design resources for interviews and learning.
+* [awesome-front-end-system-design](https://github.com/greatfrontend/awesome-front-end-system-design) ⭐ 8,627 | 🐛 1 | 📅 2026-11-10 - Curated front end system design resources for interviews and learning.
 * [awesome-javascript-learning](https://github.com/micromata/awesome-javascript-learning) ⭐ 5,881 | 🐛 10 | 📅 2026-02-01 - A tiny list limited to the best JavaScript Learning Resources.
 * [awesome-charting](https://github.com/zingchart/awesome-charting) ⭐ 2,121 | 🐛 16 | 📅 2024-02-18 - A curated list of the best charting and dataviz resources that developers may find useful, including the best JavaScript charting libraries.
-* [awesome-canvas](https://github.com/raphamorim/awesome-canvas) ⭐ 1,873 | 🐛 29 | 🌐 Markdown | 📅 2026-06-14 - A curated list of awesome HTML5 Canvas with examples, related articles and posts.
+* [awesome-canvas](https://github.com/raphamorim/awesome-canvas) ⭐ 1,874 | 🐛 29 | 🌐 Markdown | 📅 2026-06-14 - A curated list of awesome HTML5 Canvas with examples, related articles and posts.
 * [awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes) ⭐ 1,563 | 🐛 12 | 📅 2024-10-22 - A list of webassemby runtimes.
 * [awesome-mad-science](https://github.com/feross/awesome-mad-science) ⭐ 1,227 | 🐛 11 | 📅 2022-05-01 - Delightful npm packages that make you say "wow, didn't know that was possible!".
 * [awesome-react-framer-x](https://github.com/davo/awesome-react-framer-x) ⭐ 914 | 🐛 2 | 📅 2021-02-16 - A collection of awesome links to learn React, ES6 & Framer X.
@@ -5353,7 +5356,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-javascript-podcasts](https://github.com/divyanshu013/awesome-javascript-podcasts) ⭐ 15 | 🐛 0 | 📅 2020-02-01 - JS, webdev, programming and life 🎧.
 * [awesome-jet](https://github.com/JohnRSim/awesome-jet) ⭐ 12 | 🐛 0 | 📅 2019-09-23 - 🎉 A curated list of awesome things related to Oracle Jet Toolkit.
 * [awesome-js](https://github.com/Awesome-Java-Script/awesome-js) ⭐ 12 | 🐛 0 | 📅 2020-08-07 - A curated list of awesome JS resources.
-* [fucking-awesome-vue](https://github.com/correia-jpv/fucking-awesome-vue) ⭐ 10 | 🐛 2 | 📅 2026-11-12 - 🎉 A curated list of awesome things related to Vue.js. With repository stars⭐ and forks🍴.
+* [fucking-awesome-vue](https://github.com/correia-jpv/fucking-awesome-vue) ⭐ 10 | 🐛 2 | 📅 2026-11-14 - 🎉 A curated list of awesome things related to Vue.js. With repository stars⭐ and forks🍴.
 * [awesome-app-js](https://github.com/pierrechls/awesome-app-js) ⭐ 7 | 🐛 0 | 📅 2017-09-30 - 😎 An awesome and curated list of JavaScript libraries that I use.
 * [awesome-js-resources](https://github.com/rjoydip/awesome-js-resources) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2025-04-21 - Collection of JavaScript resources (PDF, Video, Link).
 * [awesome-resource](https://github.com/jizai1125/awesome-resource) ⭐ 4 | 🐛 0 | 📅 2024-07-29 - 收集的一些书籍、教程、学习网站等资源.
@@ -5374,7 +5377,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Jetpack Compose Topic Lists
 
-* [jetpack-compose-awesome](https://github.com/jetpack-compose/jetpack-compose-awesome) ⭐ 2,615 | 🐛 33 | 🌐 Kotlin | 📅 2026-10-18 - 📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources.
+* [jetpack-compose-awesome](https://github.com/jetpack-compose/jetpack-compose-awesome) ⭐ 2,616 | 🐛 33 | 🌐 Kotlin | 📅 2026-10-18 - 📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources.
 * [Awesome-Jetpack-Compose](https://github.com/Naveentp/Awesome-Jetpack-Compose) ⭐ 295 | 🐛 1 | 📅 2022-06-17 - A collaborative list of awesome jetpack compose resources.
 
 ### Joplin Topic Lists
@@ -5387,7 +5390,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### JSON Topic Lists
 
-* [awesome-json](https://github.com/burningtree/awesome-json) ⭐ 1,577 | 🐛 165 | 📅 2026-06-19 - A curated list of awesome JSON libraries and resources.
+* [awesome-json](https://github.com/burningtree/awesome-json) ⭐ 1,577 | 🐛 168 | 📅 2026-06-19 - A curated list of awesome JSON libraries and resources.
 * [security-apis](https://github.com/jaegeral/security-apis) ⭐ 1,004 | 🐛 6 | 📅 2026-11-03 - A collective list of public APIs for use in security. Contributions welcome.
 * [awesome-web-online-tools](https://github.com/uretgec/awesome-web-online-tools) ⭐ 38 | 🐛 43 | 📅 2022-12-24 - Many many useful Web Online Tools For Web Developers\&Programmers.
 
@@ -5399,7 +5402,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Jupyter Notebook Topic Lists
 
-* [awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing) ⭐ 1,025 | 🐛 0 | 📅 2026-09-15 - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX.
+* [awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing) ⭐ 1,024 | 🐛 0 | 📅 2026-09-15 - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX.
 * [awesome-jupyter-resources](https://github.com/HanXinzi-AI/awesome-jupyter-resources) ⭐ 103 | 🐛 143 | 📅 2024-06-06 - A collection of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). 热门实用的Jupyter Notebook、Hub和Lab项目（扩展、内核、工具等）集合.
 
 ### JSON Web Tokens Topic Lists
@@ -5413,8 +5416,8 @@ Last generated: 2026-11-12, 10396 lists.
 ### Kernel Topic Lists
 
 * [awesome-os](https://github.com/jubalh/awesome-os) ⭐ 2,322 | 🐛 1 | 📅 2026-11-11 - A list of operating systems and stuff.
-* [Awesome-Bootkits-Rootkits-Development](https://github.com/TheMalwareGuardian/Awesome-Bootkits-Rootkits-Development) ⭐ 289 | 🐛 0 | 🌐 HTML | 📅 2026-08-16 - A curated compilation of extensive resources dedicated to bootkit and rootkit development.
-* [awesome-kernelsu](https://github.com/fynks/awesome-kernelsu) ⭐ 121 | 🐛 1 | 📅 2026-10-25 - A curated list of KernelSU & its forks, tools, modules, and documentation.
+* [Awesome-Bootkits-Rootkits-Development](https://github.com/TheMalwareGuardian/Awesome-Bootkits-Rootkits-Development) ⭐ 290 | 🐛 0 | 🌐 HTML | 📅 2026-08-16 - A curated compilation of extensive resources dedicated to bootkit and rootkit development.
+* [awesome-kernelsu](https://github.com/fynks/awesome-kernelsu) ⭐ 122 | 🐛 1 | 📅 2026-10-25 - A curated list of KernelSU & its forks, tools, modules, and documentation.
 * [awesome-unikernels](https://github.com/infoslack/awesome-unikernels) ⭐ 117 | 🐛 1 | 📅 2023-09-14 - A list about Unikernels.
 * [awesome](https://github.com/dennishilk/awesome) ⭐ 0 | 🐛 0 | 📅 2026-10-03 - A curated collection of weird hardware, operating systems, reverse engineering, retro computing, and experiments that make you ask: “Why does this even run?”.
 
@@ -5428,7 +5431,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Kubernetes Topic Lists
 
-* [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) ⭐ 16,138 | 🐛 107 | 🌐 Shell | 📅 2026-10-31 - A curated list for awesome kubernetes sources :ship::tada:.
+* [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) ⭐ 16,139 | 🐛 104 | 🌐 Shell | 📅 2026-10-31 - A curated list for awesome kubernetes sources :ship::tada:.
 * [awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security) ⭐ 970 | 🐛 13 | 📅 2023-12-15 - A curated list of awesome Kubernetes security resources.
 * [awesome-kubernetes-architecture-diagrams](https://github.com/philippemerle/awesome-kubernetes-architecture-diagrams) ⭐ 572 | 🐛 3 | 📅 2026-06-30 - Awesome Kubernetes Architecture Diagrams.
 * [awesome-cka](https://github.com/krzko/awesome-cka) ⭐ 342 | 🐛 4 | 📅 2022-10-02 - ☸️ A curated list for awesome resources needed to pass your Certified Kubernetes Administrator (CKA) exam.
@@ -5449,7 +5452,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Laravel Topic Lists
 
-* [awesome-laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,138 | 🐛 101 | 📅 2024-07-03 - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.
+* [awesome-laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,139 | 🐛 101 | 📅 2024-07-03 - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.
 * [awesome-laravel](https://github.com/TimothyDJones/awesome-laravel) ⭐ 1,655 | 🐛 43 | 📅 2024-07-03 - A curated list of delightful Laravel PHP framework packages and resources.
 * [awesome-laravel-nova](https://github.com/its-awesome/awesome-laravel-nova) ⭐ 548 | 🐛 0 | 📅 2026-05-09 - Curated list of Laravel Nova resources.
 * [awesome-pulse](https://github.com/timwassenburg/awesome-pulse) ⭐ 166 | 🐛 0 | 📅 2024-11-15 - A curated list of awesome packages, cards, tutorials, videos and other cool resources for Laravel Pulse.
@@ -5465,36 +5468,36 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### League of Legends Topic Lists
 
-* [awesome-league](https://github.com/CommunityDragon/awesome-league) ⭐ 666 | 🐛 10 | 📅 2026-11-05 - A list of apps that work with the League of Legends Client & In-Game API.
-* [awesome-league](https://github.com/leaguetoolkit/awesome-league) ⭐ 41 | 🐛 0 | 📅 2026-10-24 - List of useful tooling and programs for League of Legends.
+* [awesome-league](https://github.com/CommunityDragon/awesome-league) ⭐ 666 | 🐛 11 | 📅 2026-11-05 - A list of apps that work with the League of Legends Client & In-Game API.
+* [awesome-league](https://github.com/leaguetoolkit/awesome-league) ⭐ 42 | 🐛 0 | 📅 2026-10-24 - List of useful tooling and programs for League of Legends.
 
 ### Learning Topic Lists
 
 * [awesome-katas](https://github.com/gamontal/awesome-katas) ⭐ 3,175 | 🐛 1 | 📅 2026-07-16 - A curated list of code katas.
 * [awesome-visual-slam](https://github.com/tzutalin/awesome-visual-slam) ⭐ 2,436 | 🐛 3 | 📅 2022-05-10 - :books: The list of vision-based SLAM / Visual Odometry open source, blogs, and papers.
-* [awesome-economics](https://github.com/antontarasenko/awesome-economics) ⭐ 1,775 | 🐛 13 | 📅 2023-08-26 - A curated collection of links for economists.
+* [awesome-economics](https://github.com/antontarasenko/awesome-economics) ⭐ 1,776 | 🐛 13 | 📅 2023-08-26 - A curated collection of links for economists.
 * [awesome-learning](https://github.com/Lets-DevOps/awesome-learning) ⭐ 1,662 | 🐛 9 | 📅 2026-09-17 - A curated list for DevOps learning resources. Join the slack channel to discuss more.
 * [CS-Awesome-Courses](https://github.com/jackwener/CS-Awesome-Courses) ⭐ 1,640 | 🐛 0 | 📅 2022-07-04 - 计算机的优秀课程.
 * [awesome-learning](https://github.com/mfaisalkhatri/awesome-learning) ⭐ 1,301 | 🐛 2 | 📅 2026-11-10 - A curated list of awesome learning resources for a Software Test Automation Engineer.
-* [Free-Certifications](https://github.com/ArslanYM/Free-Certifications) ⭐ 1,153 | 🐛 4 | 📅 2025-02-02 - This repository contains the list of all the development courses available with free certifications.
+* [Free-Certifications](https://github.com/ArslanYM/Free-Certifications) ⭐ 1,154 | 🐛 4 | 📅 2025-02-02 - This repository contains the list of all the development courses available with free certifications.
 * [curated-lists](https://github.com/linsa-io/curated-lists) ⭐ 952 | 🐛 2 | 📅 2023-11-13 - Curated lists on various topics.
 * [awesome-learn-by-playing](https://github.com/lmammino/awesome-learn-by-playing) ⭐ 895 | 🐛 3 | 📅 2025-08-11 - A collection of tech resources that allow you to learn new things by playing games.
 * [learn-ruby](https://github.com/fpsvogel/learn-ruby) ⭐ 856 | 🐛 0 | 🌐 Ruby | 📅 2026-11-12 - Learning resources for Ruby, Rails, and related skills.
-* [awesome-fsrs](https://github.com/open-spaced-repetition/awesome-fsrs) ⭐ 760 | 🐛 8 | 📅 2026-11-13 - A curated list of awesome FSRS implementations, papers and resources.
+* [awesome-fsrs](https://github.com/open-spaced-repetition/awesome-fsrs) ⭐ 762 | 🐛 8 | 📅 2026-11-13 - A curated list of awesome FSRS implementations, papers and resources.
 * [awesome4girls](https://github.com/cristianoliveira/awesome4girls) ⭐ 660 | 🐛 7 | 🌐 Ruby | 📅 2024-05-17 - A curated list of inclusive events/projects/initiatives for women in the tech area. :gift\_heart:.
 * [Awesome-Embodied-AI](https://github.com/haoranD/Awesome-Embodied-AI) ⭐ 540 | 🐛 7 | 📅 2025-06-03 - A curated list of awesome papers on Embodied AI and related research/industry-driven resources.
-* [command-line-tools](https://github.com/linsa-io/command-line-tools) ⭐ 502 | 🐛 25 | 📅 2026-08-16 - Awesome Command Line Utilities.
-* [safari-extensions](https://github.com/linsa-io/safari-extensions) ⭐ 398 | 🐛 4 | 📅 2022-06-30 - Awesome Safari extensions.
+* [command-line-tools](https://github.com/linsa-io/command-line-tools) ⭐ 503 | 🐛 25 | 📅 2026-08-16 - Awesome Command Line Utilities.
+* [safari-extensions](https://github.com/linsa-io/safari-extensions) ⭐ 398 | 🐛 5 | 📅 2022-06-30 - Awesome Safari extensions.
 * [programming-languages](https://github.com/linsa-io/programming-languages) ⭐ 335 | 🐛 3 | 📅 2024-07-09 - Awesome Programming Languages.
 * [awesome-by-example](https://github.com/b0o/awesome-by-example) ⭐ 152 | 🐛 1 | 📅 2025-12-25 - 😎 A curated list of example-based learning resources.
 * [awesome-particle-physics-for-non-physicists](https://github.com/SwapneelM/awesome-particle-physics-for-non-physicists) ⭐ 152 | 🐛 0 | 📅 2018-09-04 - A curated list of introductory resources to Particle Physics (Quantum Field Theory, QED, QCD, Standard Model, Colliders) for people without a formal background in Physics.
 * [intertwingled](https://github.com/ahdinosaur/intertwingled) ⭐ 143 | 🐛 14 | 🌐 JavaScript | 📅 2024-08-19 - A collection of videos to showcase the magic alchemy of computation.
 * [awesome-software-engineer-topics](https://github.com/voxsim/awesome-software-engineer-topics) ⭐ 120 | 🐛 0 | 📅 2016-10-12 - A list of useful articles and videos generated from my Instapaper archived list on Software Design, Testing, Public Speaking, etc.
-* [LearningResources](https://github.com/zhravan/LearningResources) ⭐ 116 | 🐛 7 | 📅 2026-11-10 - A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more.
+* [LearningResources](https://github.com/zhravan/LearningResources) ⭐ 116 | 🐛 8 | 📅 2026-11-10 - A centralised hub for learner around the globe from A-Z. You can find collections of manuals, blogs, hacks, one liners, courses, other free learning-resources and more.
 * [podcasts](https://github.com/linsa-io/podcasts) ⭐ 95 | 🐛 1 | 📅 2023-04-07 - Awesome Podcasts.
 * [newsletters](https://github.com/linsa-io/newsletters) ⭐ 89 | 🐛 12 | 📅 2025-07-09 - Awesome Newsletters.
 * [documentaries](https://github.com/linsa-io/documentaries) ⭐ 81 | 🐛 1 | 📅 2020-10-03 - Awesome Documentaries.
-* [awesome-language-learning](https://github.com/jqhoogland/awesome-language-learning) ⭐ 71 | 🐛 51 | 🌐 Python | 📅 2025-05-27 - Awesome resources for learning languages.
+* [awesome-language-learning](https://github.com/jqhoogland/awesome-language-learning) ⭐ 71 | 🐛 53 | 🌐 Python | 📅 2025-05-27 - Awesome resources for learning languages.
 * [humans](https://github.com/linsa-io/humans) ⭐ 62 | 🐛 1 | 📅 2020-08-08 - Awesome Humans.
 * [slack-groups](https://github.com/linsa-io/slack-groups) ⭐ 44 | 🐛 0 | 📅 2021-06-18 - Awesome Slack Groups.
 * [talks](https://github.com/linsa-io/talks) ⭐ 37 | 🐛 0 | 📅 2020-06-24 - Awesome Talks.
@@ -5530,13 +5533,13 @@ Last generated: 2026-11-12, 10396 lists.
 
 * [awesome-ricing](https://github.com/fosslife/awesome-ricing) ⭐ 4,596 | 🐛 20 | 📅 2026-09-28 - A curated list of awesome tools and technology to help you out with ricing on linux.
 * [awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) ⭐ 1,803 | 🐛 4 | 🌐 Makefile | 📅 2026-07-31 - \[mirror] A list of software and resources for professional audio/video/live events production on Linux.
-* [awesome-linux-ricing](https://github.com/avtzis/awesome-linux-ricing) ⭐ 1,384 | 🐛 3 | 📅 2026-11-01 - 🎨 Curated list of awesome themes, tools and apps for customizing the Linux environment.
+* [awesome-linux-ricing](https://github.com/avtzis/awesome-linux-ricing) ⭐ 1,385 | 🐛 3 | 📅 2026-11-01 - 🎨 Curated list of awesome themes, tools and apps for customizing the Linux environment.
 * [awesome-kde](https://github.com/francoism90/awesome-kde) ⭐ 884 | 🐛 2 | 📅 2026-10-22 - A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.
 * [awesome-linux-customization](https://github.com/myugan/awesome-linux-customization) ⭐ 360 | 🐛 4 | 📅 2023-10-05 - :books: An awesome list of customization tools for your UN\*X/Linux desktop.
 * [awesome-linux-dev](https://github.com/madbob/awesome-linux-dev) ⭐ 339 | 🐛 4 | 📅 2026-10-22 - A collection of awesome Linux applications and tools for developers.
 * [awesome-raspberry-pi-zh](https://github.com/1021683053/awesome-raspberry-pi-zh) ⭐ 330 | 🐛 1 | 📅 2022-04-26 - 树莓派工具，镜像，教程，文章.
 * [awesome-linux-minimalism](https://github.com/MindPatch/awesome-linux-minimalism) ⭐ 315 | 🐛 3 | 📅 2025-03-04 - Awesome linux minimalism suggestions.
-* [awesome-linux-apps](https://github.com/cuongtk8/awesome-linux-apps) ⭐ 264 | 🐛 28 | 📅 2026-10-16 - 🚀 A list of awesome applications for 🐧 Linux distributions.
+* [awesome-linux-apps](https://github.com/cuongtk8/awesome-linux-apps) ⭐ 265 | 🐛 29 | 📅 2026-10-16 - 🚀 A list of awesome applications for 🐧 Linux distributions.
 * [awesome-guix](https://github.com/franzos/awesome-guix) ⭐ 152 | 🐛 1 | 📅 2026-10-03 - Docs, Channels, example configs and more - Guix is Awesome.
 * [Awesome-Server-Side-Swift](https://github.com/Jinxiansen/Awesome-Server-Side-Swift) ⭐ 137 | 🐛 1 | 📅 2019-08-24 - Swift 服务端开发 Perfect、Vapor资料。.
 * [awesome-alternatives](https://github.com/flick9000/awesome-alternatives) ⭐ 121 | 🐛 5 | 📅 2026-05-14 - A curated list of free and open-source alternatives to common proprietary software.
@@ -5547,7 +5550,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-alternatives](https://github.com/hardbsdk/awesome-alternatives) ⭐ 38 | 🐛 1 | 📅 2024-11-07 - A list of alternatives for the most used programs, games, web services and operating systems.
 * [awesome-initramfs](https://github.com/LaszloGombos/awesome-initramfs) ⭐ 36 | 🐛 1 | 📅 2025-04-25 - Awesome initramfs.
 * [SUSE-openSUSE-Guide](https://github.com/mikeroyal/SUSE-openSUSE-Guide) ⭐ 36 | 🐛 1 | 📅 2021-12-11 - SUSE/openSUSE Guide.
-* [awesome-system-calls](https://github.com/edigaryev/awesome-system-calls) ⭐ 31 | 🐛 1 | 🌐 Rust | 📅 2026-11-11 - A categorized list of system calls used by popular Unix-like operating systems.
+* [awesome-system-calls](https://github.com/edigaryev/awesome-system-calls) ⭐ 31 | 🐛 2 | 🌐 Rust | 📅 2026-11-13 - A categorized list of system calls used by popular Unix-like operating systems.
 * [awesome-linux-tray](https://github.com/ItsZariep/awesome-linux-tray) ⭐ 12 | 🐛 0 | 📅 2026-06-24 - A curated list of programs for Linux that mainly runs on tray.
 * [awesome-linux-desktop](https://github.com/inhishonor/awesome-linux-desktop) ⭐ 10 | 🐛 1 | 📅 2025-08-08 - An awesome list of the best desktop environments for Linux.
 * [awesome-flipper-one](https://github.com/hypery11/awesome-flipper-one) ⭐ 6 | 🐛 0 | 📅 2026-11-13 - Curated resources for Flipper One — the open-source portable Linux multi-tool from Flipper Devices.
@@ -5568,68 +5571,68 @@ Last generated: 2026-11-12, 10396 lists.
 ### Large Language Model Topic Lists
 
 * [Awesome-Chinese-LLM](https://github.com/AiHubCN/Awesome-Chinese-LLM) ⭐ 22,783 | 🐛 38 | 📅 2026-05-10 - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。.
-* [awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) ⭐ 9,081 | 🐛 58 | 📅 2026-11-01 - 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
+* [awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) ⭐ 9,082 | 🐛 60 | 📅 2026-11-01 - 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
 * [awesome-llm-strawberry](https://github.com/hijkzzz/awesome-llm-strawberry) ⭐ 6,901 | 🐛 29 | 📅 2025-12-17 - A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 🍓 and reasoning techniques.
-* [awesome-agent-papers](https://github.com/luo-junyu/awesome-agent-papers) ⭐ 2,874 | 🐛 29 | 📅 2026-11-12 - \[Up-to-date] Large Language Model Agent: A Survey on Methodology, Applications and Challenges.
-* [awesome-jev](https://github.com/yibie/awesome-jev) ⭐ 2,582 | 🐛 1 | 🌐 Python | 📅 2026-11-13 - A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.
+* [awesome-agent-papers](https://github.com/luo-junyu/awesome-agent-papers) ⭐ 2,876 | 🐛 29 | 📅 2026-11-12 - \[Up-to-date] Large Language Model Agent: A Survey on Methodology, Applications and Challenges.
+* [awesome-jev](https://github.com/yibie/awesome-jev) ⭐ 2,585 | 🐛 1 | 🌐 Python | 📅 2026-11-14 - A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.
 * [Awesome-RL-for-LRMs](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs) ⭐ 2,502 | 🐛 13 | 🌐 TeX | 📅 2026-09-14 - A Survey of Reinforcement Learning for Large Reasoning Models.
-* [KG-LLM-Papers](https://github.com/zjukg/KG-LLM-Papers) ⭐ 2,247 | 🐛 10 | 📅 2026-03-02 - \[Paper List] Papers integrating knowledge graphs (KGs) and large language models (LLMs).
+* [KG-LLM-Papers](https://github.com/zjukg/KG-LLM-Papers) ⭐ 2,248 | 🐛 10 | 📅 2026-03-02 - \[Paper List] Papers integrating knowledge graphs (KGs) and large language models (LLMs).
 * [Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) ⭐ 2,192 | 🐛 0 | 📅 2026-11-13 - 📰 Must-read papers and blogs on LLM based Long Context Modeling 🔥.
 * [awesome-llm-json](https://github.com/imaurer/awesome-llm-json) ⭐ 2,172 | 🐛 0 | 📅 2025-02-18 - Resource list for generating JSON using LLMs via function calling, tools, CFG. Libraries, Models, Notebooks, etc.
 * [Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM) ⭐ 2,051 | 🐛 14 | 🌐 Python | 📅 2025-06-17 - A curated list for Efficient Large Language Models.
-* [awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers) ⭐ 1,901 | 🐛 5 | 📅 2026-11-02 - A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous systems.
-* [awesome-llm-security](https://github.com/corca-ai/awesome-llm-security) ⭐ 1,721 | 🐛 295 | 📅 2025-08-20 - A curation of awesome tools, documents and projects about LLM Security.
-* [Awesome-LLMs-for-Vulnerability-Detection](https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection) ⭐ 1,597 | 🐛 7 | 🌐 Python | 📅 2026-11-13 - The community's most comprehensive, continuously-updated index of research on Large Language Models for software vulnerability detection — papers across function-level, repository-level, agentic, and smart-contract detection, plus datasets, benchmarks, and surveys.
-* [Awesome-LLM-for-RecSys](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) ⭐ 1,568 | 🐛 4 | 📅 2026-10-26 - Survey: A collection of AWESOME papers and resources on the large language model (LLM) related recommender system topics.
-* [Awesome-Knowledge-Distillation-of-LLMs](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs) ⭐ 1,317 | 🐛 4 | 📅 2025-03-09 - This repository collects papers for "A Survey on Knowledge Distillation of Large Language Models". We break down KD into Knowledge Elicitation and Distillation Algorithms, and explore the Skill & Vertical Distillation of LLMs.
-* [awesome-language-agents](https://github.com/ysymyth/awesome-language-agents) ⭐ 1,265 | 🐛 10 | 🌐 TeX | 📅 2025-01-16 - List of language agents based on paper "Cognitive Architectures for Language Agents".
-* [awesome-evals](https://github.com/benchflow-ai/awesome-evals) ⭐ 1,036 | 🐛 86 | 📅 2026-11-04 - A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.
+* [awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers) ⭐ 1,901 | 🐛 4 | 📅 2026-11-13 - A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous systems.
+* [awesome-llm-security](https://github.com/corca-ai/awesome-llm-security) ⭐ 1,721 | 🐛 300 | 📅 2025-08-20 - A curation of awesome tools, documents and projects about LLM Security.
+* [Awesome-LLMs-for-Vulnerability-Detection](https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection) ⭐ 1,597 | 🐛 7 | 🌐 Python | 📅 2026-11-14 - The community's most comprehensive, continuously-updated index of research on Large Language Models for software vulnerability detection — papers across function-level, repository-level, agentic, and smart-contract detection, plus datasets, benchmarks, and surveys.
+* [Awesome-LLM-for-RecSys](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) ⭐ 1,567 | 🐛 5 | 📅 2026-10-26 - Survey: A collection of AWESOME papers and resources on the large language model (LLM) related recommender system topics.
+* [Awesome-Knowledge-Distillation-of-LLMs](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs) ⭐ 1,318 | 🐛 4 | 📅 2025-03-09 - This repository collects papers for "A Survey on Knowledge Distillation of Large Language Models". We break down KD into Knowledge Elicitation and Distillation Algorithms, and explore the Skill & Vertical Distillation of LLMs.
+* [awesome-language-agents](https://github.com/ysymyth/awesome-language-agents) ⭐ 1,265 | 🐛 11 | 🌐 TeX | 📅 2025-01-16 - List of language agents based on paper "Cognitive Architectures for Language Agents".
+* [awesome-evals](https://github.com/benchflow-ai/awesome-evals) ⭐ 1,038 | 🐛 86 | 📅 2026-11-04 - A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.
 * [awesome-on-policy-distillation](https://github.com/chrisliu298/awesome-on-policy-distillation) ⭐ 915 | 🐛 9 | 📅 2026-10-06 - A curated collection of papers, technical reports, frameworks, and tools for on-policy distillation (OPD) of large language models.
 * [awesome-data-llm](https://github.com/OpenDataBox/awesome-data-llm) ⭐ 834 | 🐛 0 | 📅 2026-10-25 - Official Repository of "LLM × DATA" Survey Paper.
-* [Awesome-LLM4RS-Papers](https://github.com/nancheng58/Awesome-LLM4RS-Papers) ⭐ 766 | 🐛 0 | 📅 2026-10-27 - Large Language Model-enhanced Recommender System Papers.
-* [awesome-jev-tools](https://github.com/v-modal/awesome-jev-tools) ⭐ 734 | 🐛 5 | 📅 2026-11-09 - A curated list of tools built for Jev — TypeSafe AI's System One model for typed decisions.
-* [awesome-decision-models](https://github.com/AnotiaWang/awesome-decision-models) ⭐ 714 | 🐛 1 | 🌐 Python | 📅 2026-11-13 - A curated list of decision models (System One / typed decision models): hosted APIs, open-weight models, runtimes, SDKs, applications, benchmarks, and papers.
+* [Awesome-LLM4RS-Papers](https://github.com/nancheng58/Awesome-LLM4RS-Papers) ⭐ 766 | 🐛 1 | 📅 2026-10-27 - Large Language Model-enhanced Recommender System Papers.
+* [awesome-jev-tools](https://github.com/v-modal/awesome-jev-tools) ⭐ 752 | 🐛 5 | 📅 2026-11-09 - A curated list of tools built for Jev — TypeSafe AI's System One model for typed decisions.
+* [awesome-decision-models](https://github.com/AnotiaWang/awesome-decision-models) ⭐ 715 | 🐛 1 | 🌐 Python | 📅 2026-11-13 - A curated list of decision models (System One / typed decision models): hosted APIs, open-weight models, runtimes, SDKs, applications, benchmarks, and papers.
 * [Awesome-Reasoning-Foundation-Models](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models) ⭐ 663 | 🐛 11 | 📅 2026-09-03 - ✨✨Latest Papers and Benchmarks in Reasoning with Foundation Models.
 * [awesome-llm-unlearning](https://github.com/chrisliu298/awesome-llm-unlearning) ⭐ 638 | 🐛 1 | 📅 2026-10-06 - A resource repository for machine unlearning in large language models.
-* [awesome-jev](https://github.com/kydlikebtc/awesome-jev) ⭐ 602 | 🐛 5 | 🌐 Python | 📅 2026-11-13 - 148 verified examples of Jev — TypeSafe AI's System One decision model — indexed by the decision each one makes, not the blog that mentioned it. Bilingual EN/中文, JSON schema, CI link-checking, and the cross-platform compatibility table nobody else has.
+* [awesome-jev](https://github.com/kydlikebtc/awesome-jev) ⭐ 602 | 🐛 5 | 🌐 Python | 📅 2026-11-14 - 148 verified examples of Jev — TypeSafe AI's System One decision model — indexed by the decision each one makes, not the blog that mentioned it. Bilingual EN/中文, JSON schema, CI link-checking, and the cross-platform compatibility table nobody else has.
 * [Awesome-LLM-On-Policy-Distillation](https://github.com/nick7nlp/Awesome-LLM-On-Policy-Distillation) ⭐ 594 | 🐛 8 | 🌐 Python | 📅 2026-10-13 - A curated collection of papers and resources on On-Policy Distillation for Large Language Models.
 * [Awesome-LLMs-meet-Multimodal-Generation](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) ⭐ 550 | 🐛 3 | 🌐 HTML | 📅 2026-11-10 - 🔥🔥🔥 A curated list of papers on LLMs-based multimodal generation (image, video, 3D and audio).
-* [awesome-generative-engine-optimization](https://github.com/amplifying-ai/awesome-generative-engine-optimization) ⭐ 541 | 🐛 191 | 📅 2026-04-14 - A curated guide to Generative Engine Optimization (GEO) resources: guides, tools & research to boost visibility in AI-powered search engines.
+* [awesome-generative-engine-optimization](https://github.com/amplifying-ai/awesome-generative-engine-optimization) ⭐ 542 | 🐛 190 | 📅 2026-04-14 - A curated guide to Generative Engine Optimization (GEO) resources: guides, tools & research to boost visibility in AI-powered search engines.
 * [awesome-jev-use-cases](https://github.com/walidboulanouar/awesome-jev-use-cases) ⭐ 492 | 🐛 22 | 📅 2026-09-26 - Things built with Jev (TypeSafe), plus patterns, documented limits, and unbuilt ideas.
-* [awesome-jev-gallery](https://github.com/OmniJev/awesome-jev-gallery) ⭐ 490 | 🐛 0 | 🌐 Python | 📅 2026-11-12 - 🔥🔥 Papers, open reproductions and independent evaluations behind System One models and Jev.
+* [awesome-jev-gallery](https://github.com/OmniJev/awesome-jev-gallery) ⭐ 491 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - 🔥🔥 Papers, open reproductions and independent evaluations behind System One models and Jev.
 * [Awesome-GUI-Agents](https://github.com/ZJU-REAL/Awesome-GUI-Agents) ⭐ 468 | 🐛 2 | 📅 2026-11-01 - A curated collection of resources, tools, and frameworks for developing GUI Agents.
 * [Awesome-LLM-Survey](https://github.com/AiHubCN/Awesome-LLM-Survey) ⭐ 446 | 🐛 1 | 📅 2025-05-25 - An Awesome Collection for LLM Survey.
 * [LLM-Planning-Papers](https://github.com/AGI-Edgerunners/LLM-Planning-Papers) ⭐ 441 | 🐛 2 | 📅 2024-07-04 - Must-read Papers on Large Language Model (LLM) Planning.
-* [awesome-ai-agents-2026](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026) ⭐ 358 | 🐛 127 | 🌐 TypeScript | 📅 2026-11-04 - ✨ Awesome AI Agents for 2026.
+* [awesome-ai-agents-2026](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026) ⭐ 358 | 🐛 129 | 🌐 TypeScript | 📅 2026-11-04 - ✨ Awesome AI Agents for 2026.
 * [Awesome-Multimodal-LLM](https://github.com/HenryHZY/Awesome-Multimodal-LLM) ⭐ 357 | 🐛 3 | 📅 2023-10-17 - Research Trends in LLM-guided Multimodal Learning.
 * [awesome-recommend-system-pretraining-papers](https://github.com/archersama/awesome-recommend-system-pretraining-papers) ⭐ 353 | 🐛 0 | 📅 2026-03-19 - Paper List for Recommend-system PreTrained Models.
 * [voiceai](https://github.com/mahimairaja/voiceai) ⭐ 340 | 🐛 7 | 🌐 Astro | 📅 2026-10-28 - Set of 📝 with 🔗 to help those building Voice AI agents 🎙️🤖.
-* [Awesome-Repo-Level-Code-Generation](https://github.com/YerbaPage/Awesome-Repo-Level-Code-Generation) ⭐ 337 | 🐛 3 | 📅 2026-11-03 - Must-read papers on Repository-level Code Generation & Issue Resolution 🔥.
+* [Awesome-Repo-Level-Code-Generation](https://github.com/YerbaPage/Awesome-Repo-Level-Code-Generation) ⭐ 338 | 🐛 3 | 📅 2026-11-03 - Must-read papers on Repository-level Code Generation & Issue Resolution 🔥.
 * [awesome-ai4molconformation-md](https://github.com/aspirincode/awesome-ai4molconformation-md) ⭐ 307 | 🐛 0 | 📅 2026-11-13 - List of molecules (small molecules, RNA, peptide, protein, enzymes, antibody, and PPIs) conformations and molecular dynamics (force fields) using generative artificial intelligence and deep learning.
 * [Awesome-Interleaving-Reasoning](https://github.com/Osilly/Awesome-Interleaving-Reasoning) ⭐ 283 | 🐛 2 | 📅 2026-06-05 - Interleaving Reasoning: Next-Generation Reasoning Systems for AGI.
 * [Awesome-LLM-Healthcare](https://github.com/mingze-yuan/Awesome-LLM-Healthcare) ⭐ 279 | 🐛 0 | 📅 2023-12-23 - The paper list of the review on LLMs in medicine - "Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review".
 * [Awesome-LLM-Quantitative-Trading-Papers](https://github.com/Tom-roujiang/Awesome-LLM-Quantitative-Trading-Papers) ⭐ 261 | 🐛 4 | 📅 2026-07-24 - 🚀 A curated collection of papers focusing on LLM-based quantitative trading.
 * [Awesome-Human-Agent-Collaboration-Interaction-Systems](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems) ⭐ 242 | 🐛 6 | 📅 2026-07-23 - \[ACL 2026] LLM-Based Human-Agent Collaboration and Interaction Systems: A Survey | Awesome Human-Agent Collaboration | Human-AI Collaboration.
-* [awesome-llm-reasoning-failures](https://github.com/peiyang-song/awesome-llm-reasoning-failures) ⭐ 223 | 🐛 0 | 📅 2026-10-25 - Repo for "Large Language Model Reasoning Failures".
+* [awesome-llm-reasoning-failures](https://github.com/peiyang-song/awesome-llm-reasoning-failures) ⭐ 223 | 🐛 0 | 📅 2026-11-14 - Repo for "Large Language Model Reasoning Failures".
 * [awesome-VLLMs](https://github.com/JackYFL/awesome-VLLMs) ⭐ 221 | 🐛 0 | 📅 2026-11-07 - This repository collects papers on VLLM applications. We will update new papers irregularly.
 * [awesome-code-agents](https://github.com/euniai/awesome-code-agents) ⭐ 171 | 🐛 70 | 🌐 Python | 📅 2026-11-09 - A living collection of frontier research on code agents, from the code we build to the worlds we act in.
 * [Awesome-Diffusion-LLM](https://github.com/yczhou001/Awesome-Diffusion-LLM) ⭐ 170 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-01-19 - Paper list, tutorial, and nano code snippet for Diffusion Large Language Models.
 * [awesome-llm-os](https://github.com/bilalonur/awesome-llm-os) ⭐ 166 | 🐛 4 | 📅 2026-02-08 - A curated list of awesome resources, tools, research papers, and projects related to the concept of Large Language Model Operating Systems (LLM-OS).
 * [awesome-representation-engineering](https://github.com/chrisliu298/awesome-representation-engineering) ⭐ 161 | 🐛 5 | 📅 2024-11-14 - A resource repository for representation engineering in large language models.
 * [awesome-llm4math](https://github.com/tongyx361/awesome-llm4math) ⭐ 160 | 🐛 2 | 📅 2024-07-12 - Curation of resources for LLM mathematical reasoning, most of which are screened by @tongyx361 to ensure high quality and accompanied with elaborately-written concise descriptions to help readers get the gist as quickly as possible.
-* [awesome-ai-gateway](https://github.com/cuihuan/awesome-ai-gateway) ⭐ 156 | 🐛 27 | 🌐 HTML | 📅 2026-11-12 - ⚡ Awesome AI Gateway — pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by cost, security & compliance, see what consolidated in 2026, learn how they actually work from an 8-chapter handbook, and verify every number yourself. Reproducible benchmarks, bilingual, updated daily.
+* [awesome-ai-gateway](https://github.com/cuihuan/awesome-ai-gateway) ⭐ 156 | 🐛 27 | 🌐 HTML | 📅 2026-11-13 - ⚡ Awesome AI Gateway — pick an AI gateway from 160+ (LiteLLM, OpenRouter, Portkey, Kong, Higress, new-api, Bifrost) by cost, security & compliance, see what consolidated in 2026, learn how they actually work from an 8-chapter handbook, and verify every number yourself. Reproducible benchmarks, bilingual, updated daily.
 * [Awesome-Personalized-LLM](https://github.com/AiHubCN/Awesome-Personalized-LLM) ⭐ 148 | 🐛 3 | 📅 2024-09-23 - This repo aims to record resource of role-playing abilities in LLMs, including dataset, paper, application, etc.
 * [awesome-activation-engineering](https://github.com/ZFancy/awesome-activation-engineering) ⭐ 140 | 🐛 3 | 📅 2025-10-02 - A curated list of resources for activation engineering.
 * [awesome-refreshing-llms](https://github.com/hyintell/awesome-refreshing-llms) ⭐ 135 | 🐛 1 | 📅 2023-12-12 - EMNLP'23 survey: a curation of awesome papers and resources on refreshing large language models (LLMs) without expensive retraining.
 * [Awesome-Tool-Learning](https://github.com/luban-agi/Awesome-Tool-Learning) ⭐ 124 | 🐛 3 | 📅 2023-12-27 - A curated list of papers and applications on tool learning.
 * [awesome-LLMs-finetuning](https://github.com/pdaicode/awesome-LLMs-finetuning) ⭐ 123 | 🐛 3 | 📅 2025-01-12 - Collection of resources for finetuning Large Language Models (LLMs).
-* [awesome-ai-guardrails](https://github.com/enguard-ai/awesome-ai-guardrails) ⭐ 121 | 🐛 4 | 🌐 Python | 📅 2026-07-30 - A curated list of materials on AI guardrails.
+* [awesome-ai-guardrails](https://github.com/enguard-ai/awesome-ai-guardrails) ⭐ 121 | 🐛 5 | 🌐 Python | 📅 2026-07-30 - A curated list of materials on AI guardrails.
 * [awesome-personalized-rag-agent](https://github.com/applied-machine-learning-lab/awesome-personalized-rag-agent) ⭐ 120 | 🐛 1 | 📅 2025-08-06 - A Survey of Personalization: From RAG to Agent.
 * [awesome-data-contamination](https://github.com/lyy1994/awesome-data-contamination) ⭐ 118 | 🐛 1 | 📅 2026-09-28 - The Paper List on Data Contamination for Large Language Models Evaluation.
 * [awesome-agentic-engineering](https://github.com/jordimas/awesome-agentic-engineering) ⭐ 116 | 🐛 13 | 📅 2026-06-27 - A curated list of practical resources for Agentic Engineering.
-* [awesome-llm-agent-papers](https://github.com/js-lee-ai/awesome-llm-agent-papers) ⭐ 113 | 🐛 3 | 🌐 Python | 📅 2026-11-05 - A curated, continuously updated reading list of 500+ papers on LLM agents: planning, memory, tool use, multi-agent, evaluation & safety. Companion to the survey 'LLM Agents: A Survey'.
+* [awesome-llm-agent-papers](https://github.com/js-lee-ai/awesome-llm-agent-papers) ⭐ 114 | 🐛 0 | 🌐 Python | 📅 2026-11-14 - A curated, continuously updated reading list of 500+ papers on LLM agents: planning, memory, tool use, multi-agent, evaluation & safety. Companion to the survey 'LLM Agents: A Survey'.
 * [awesome-agents](https://github.com/scottcjn/awesome-agents) ⭐ 108 | 🐛 47 | 📅 2026-09-19 - A curated list of AI agent platforms, frameworks, protocols, tools, and resources.
-* [Awesome-Multimodal-Reasoning](https://github.com/The-Martyr/Awesome-Multimodal-Reasoning) ⭐ 108 | 🐛 0 | 📅 2026-10-19 - Latest Advances on (RL based) Multimodal Reasoning and Generation in Multimodal LLMs.
+* [Awesome-Multimodal-Reasoning](https://github.com/The-Martyr/Awesome-Multimodal-Reasoning) ⭐ 108 | 🐛 1 | 📅 2026-10-19 - Latest Advances on (RL based) Multimodal Reasoning and Generation in Multimodal LLMs.
 * [awesome-pydantic-ai](https://github.com/vstorm-co/awesome-pydantic-ai) ⭐ 108 | 🐛 1 | 📅 2026-11-08 - An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources.
 * [llm-misinformation-survey](https://github.com/llm-misinformation/llm-misinformation-survey) ⭐ 107 | 🐛 0 | 📅 2024-11-09 - Paper list for the survey "Combating Misinformation in the Age of LLMs: Opportunities and Challenges" and the initiative "LLMs Meet Misinformation", accepted by AI Magazine 2024.
 * [awesome-turkish-language-models](https://github.com/kesimeg/awesome-turkish-language-models) ⭐ 102 | 🐛 5 | 📅 2026-11-12 - A curated list of Turkish AI models, datasets, papers.
@@ -5647,33 +5650,33 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-awesome-llm](https://github.com/kylinc/awesome-awesome-llm) ⭐ 50 | 🐛 2 | 📅 2025-07-03 - Awesome LLM papers！ 🚀 🚀 🚀.
 * [awesome-mistral](https://github.com/samouraiworld/awesome-mistral) ⭐ 49 | 🐛 0 | 🌐 Python | 📅 2026-11-04 - A curated list of awesome resources, tools, libraries, and projects for the Mistral AI ecosystem.
 * [awesome-speculative-decoding](https://github.com/geralt-targaryen/awesome-speculative-decoding) ⭐ 49 | 🐛 2 | 📅 2026-06-02 - Reading notes on Speculative Decoding papers.
-* [awesome-llm-security](https://github.com/beyefendi/awesome-llm-security) ⭐ 48 | 🐛 7 | 📅 2026-11-09 - Awesome LLM security tools, research, and documents.
-* [awesome-geo-cn](https://github.com/llm-x-factorer/awesome-geo-cn) ⭐ 44 | 🐛 2 | 📅 2026-09-30 - 中文 GEO（生成式引擎优化）资源列表 — 覆盖豆包、元宝、千问、文心、Kimi、DeepSeek 等中文 AI 搜索生态.
+* [awesome-llm-security](https://github.com/beyefendi/awesome-llm-security) ⭐ 48 | 🐛 8 | 📅 2026-11-09 - Awesome LLM security tools, research, and documents.
+* [awesome-geo-cn](https://github.com/llm-x-factorer/awesome-geo-cn) ⭐ 45 | 🐛 0 | 📅 2026-11-13 - 中文 GEO（生成式引擎优化）资源列表 — 覆盖豆包、元宝、千问、文心、Kimi、DeepSeek 等中文 AI 搜索生态.
 * [awesome-datacentric-llm](https://github.com/koalazf99/awesome-datacentric-llm) ⭐ 41 | 🐛 0 | 📅 2025-05-20 - Trending projects & awesome papers about data-centric llm studies.
 * [awesome-mllm-guardrails](https://github.com/ant-research/awesome-mllm-guardrails) ⭐ 41 | 🐛 4 | 📅 2026-10-07 - A curated list of LLM/MLLM guardrails, safety benchmarks, guard models, jailbreak attacks, moderation datasets, and evaluation tools.
 * [prompt-engineers-atlas](https://github.com/yellow-footed-honeyguide/prompt-engineers-atlas) ⭐ 36 | 🐛 0 | 📅 2025-08-28 - A Collection of useful Prompt-Engineering Technics & Resources.
 * [awesome-transformer-visualization](https://github.com/ki-seki/awesome-transformer-visualization) ⭐ 33 | 🐛 2 | 📅 2024-12-01 - Explore visualization tools for understanding Transformer-based large language models (LLMs).
 * [awesome-data-quality](https://github.com/MigoXLab/awesome-data-quality) ⭐ 32 | 🐛 3 | 📅 2026-11-09 - A comprehensive collection of data quality resources, tools, papers, and projects across various data types including traditional data, LLM pretraining/fine-tuning data, multimodal data, and more. Essential reference for researchers and practitioners in data-centric AI.
 * [Awesome-LLM-Centric-Molecular-Discovery](https://github.com/REAL-Lab-NU/Awesome-LLM-Centric-Molecular-Discovery) ⭐ 29 | 🐛 1 | 📅 2026-09-07 - \[ACL 2026] A collection of AWESOME things about LLM-Centric-Molecular-Discovery.
-* [awesome-ai-coding-sandboxes](https://github.com/fhiltscher/awesome-ai-coding-sandboxes) ⭐ 28 | 🐛 12 | 🌐 Python | 📅 2026-11-02 - Security-posture-first list of sandboxes for running AI coding agents' code, ranked by isolation, egress control and secrets handling.
+* [awesome-ai-coding-sandboxes](https://github.com/fhiltscher/awesome-ai-coding-sandboxes) ⭐ 28 | 🐛 13 | 🌐 Python | 📅 2026-11-02 - Security-posture-first list of sandboxes for running AI coding agents' code, ranked by isolation, egress control and secrets handling.
 * [awesome-llm](https://github.com/sanjibnarzary/awesome-llm) ⭐ 27 | 🐛 2 | 📅 2023-07-16 - Curated list of open source and openly accessible large language models.
 * [awesome-llm-systems](https://github.com/romitjain/awesome-llm-systems) ⭐ 18 | 🐛 1 | 📅 2026-08-03 - This repository aims to consolidate resources for learning about systems for LLM.
 * [awesome-zig-llm](https://github.com/andrew-velox/awesome-zig-llm) ⭐ 18 | 🐛 0 | 📅 2026-09-25 - ⚡ A curated list of awesome Large Language Model (LLM), Machine Learning, and AI projects, libraries, and resources built with the Zig programming language.
 * [awesome-llm-cost](https://github.com/ankitvirdi4/awesome-llm-cost) ⭐ 14 | 🐛 2 | 📅 2026-10-04 - Tools, libraries, papers, and patterns for reducing the cost of running large language models in production.
-* [awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-11-12 - Question patterns, anti-patterns & calibration notes for Jev (TypeSafe AI) — the prompt engineering of typed decisions. 43 entries, 8 categories. EN/中文.
+* [awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - Question patterns, anti-patterns & calibration notes for Jev (TypeSafe AI) — the prompt engineering of typed decisions. 43 entries, 8 categories. EN/中文.
 * [awesome-medical-rag](https://github.com/justin-marian/awesome-medical-rag) ⭐ 13 | 🐛 0 | 📅 2026-06-25 - ⭐ Awesome Medical QA/RAG: A curated collection of 250+ papers, datasets, and benchmarks for Healthcare AI, Medical RAG, Knowledge Graphs, Clinical LLMs, and Multilingual Reasoning.
 * [awesome-compound-ai](https://github.com/flitternie/awesome-compound-ai) ⭐ 12 | 🐛 0 | 📅 2024-10-09 - List of awesome papers on compound AI.
 * [awesome-multimodal-unlearning](https://github.com/smsnobin77/awesome-multimodal-unlearning) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-10-12 - This repo presents a survey of multimodal unlearning across vision, language, video, and audio, covering papers, datasets, benchmarks, and open problems.
 * [awesome-straico](https://github.com/ivopereira/awesome-straico) ⭐ 12 | 🐛 0 | 📅 2024-12-27 - 🏆 A curated list of awesome Straico resources, tools, articles and more.
-* [awesome-jev-papers](https://github.com/OmniJev/awesome-jev-papers) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-11-12 - 📄 Research papers on Jev, TypeSafe's System One model, and the open models built in its shape.
+* [awesome-jev-papers](https://github.com/OmniJev/awesome-jev-papers) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - 📄 Research papers on Jev, TypeSafe's System One model, and the open models built in its shape.
 * [awesome-vlms-strawberry](https://github.com/thomasvonwu/awesome-vlms-strawberry) ⭐ 11 | 🐛 1 | 📅 2024-11-16 - A collection of VLMs papers, blogs, and projects, with a focus on VLMs in Autonomous Driving and related reasoning techniques.
 * [awesome-open-weight-models](https://github.com/phlx0/awesome-open-weight-models) ⭐ 11 | 🐛 0 | 📅 2026-04-20 - The practitioner's guide to open-weight LLMs — benchmarks, licensing, hardware, deployment, fine-tuning.
 * [Awesome-Long-Context-Language-Modeling](https://github.com/davendw49/Awesome-Long-Context-Language-Modeling) ⭐ 10 | 🐛 1 | 📅 2024-03-28 - Papers of Long Context Language Model.
-* [jev-in-the-wild](https://github.com/Jessie-QingYu/jev-in-the-wild) ⭐ 10 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-12 - Real-world Jev use cases, open-source projects, benchmarks and criticism — what people actually build with TypeSafe AI's Jev, and where it fails. Machine-readable, updated daily.
-* [Awesome-LLM-VLM-Foundation-Models](https://github.com/srebroa/Awesome-LLM-VLM-Foundation-Models) ⭐ 9 | 🐛 0 | 📅 2026-10-12 - 🚀⭐⭐⭐ Awesome curated list of LLM, VLM and other Foundation Models.
+* [jev-in-the-wild](https://github.com/Jessie-QingYu/jev-in-the-wild) ⭐ 10 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-13 - Real-world Jev use cases, open-source projects, benchmarks and criticism — what people actually build with TypeSafe AI's Jev, and where it fails. Machine-readable, updated daily.
+* [Awesome-LLM-VLM-Foundation-Models](https://github.com/srebroa/Awesome-LLM-VLM-Foundation-Models) ⭐ 9 | 🐛 1 | 📅 2026-10-12 - 🚀⭐⭐⭐ Awesome curated list of LLM, VLM and other Foundation Models.
 * [awesome-sparse-autoencoders](https://github.com/chrisliu298/awesome-sparse-autoencoders) ⭐ 9 | 🐛 0 | 📅 2024-09-11 - A resource repository of sparse autoencoders for large language models.
 * [awesome-llm-agent-privacy](https://github.com/yagobski/awesome-llm-agent-privacy) ⭐ 8 | 🐛 2 | 📅 2026-08-24 - A curated list of papers on privacy, security, and compliance in LLM-based agent systems — attacks, defenses, benchmarks, and regulatory frameworks.
-* [awesome-ai-agents-2026](https://github.com/Supersynergy/awesome-ai-agents-2026) ⭐ 6 | 🐛 22 | 📅 2026-11-13 - Complete directory of AI agents, frameworks, platforms, and tools — March 2026 Edition. Covers 100+ tools across coding agents, multi-agent patterns, MCP/A2A protocols, memory, observability, security.
+* [awesome-ai-agents-2026](https://github.com/Supersynergy/awesome-ai-agents-2026) ⭐ 6 | 🐛 21 | 📅 2026-11-13 - Complete directory of AI agents, frameworks, platforms, and tools — March 2026 Edition. Covers 100+ tools across coding agents, multi-agent patterns, MCP/A2A protocols, memory, observability, security.
 * [awesome-r1](https://github.com/kaicheng001/awesome-r1) ⭐ 5 | 🐛 0 | 📅 2025-07-02 - A curated list of research papers, models, and resources related to R1-style reasoning models following DeepSeek-R1's breakthrough in January 2025.
 * [awesome-llm](https://github.com/umitkacar/awesome-llm) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2025-11-10 - Large Language Models (LLMs): GPT, Claude, Llama, Gemini, fine-tuning, RAG, prompt engineering, and AI agents for GenAI apps.
 * [awesome-agent-collaborate-tools](https://github.com/masstensor/awesome-agent-collaborate-tools) ⭐ 2 | 🐛 5 | 📅 2026-04-02 - A curated list of tools for AI agent-to-agent communication, coordination, and collaboration.
@@ -5681,7 +5684,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-lalm](https://github.com/snkii/awesome-lalm) ⭐ 1 | 🐛 3 | 🌐 PowerShell | 📅 2026-08-30 - Awesome Large Audio Language Models (LALMs) - a curated index of audio-understanding foundation models: papers, venues, code, and open weights.
 * [awesome-llm-papers](https://github.com/InfiniteAICreations/awesome-llm-papers) ⭐ 1 | 🐛 0 | 📅 2024-06-23 - 😎 Awesome lists about all kinds of LLM related papers.
 * [awesome-llm-tokenization](https://github.com/ahmeterdempmk/awesome-llm-tokenization) ⭐ 1 | 🐛 0 | 📅 2026-02-17 - A curated collection of research papers, tools, libraries, and resources on tokenization for Large Language Models.
-* [awesome-ryu](https://github.com/amajorai/awesome-ryu) ⭐ 1 | 🐛 0 | 📅 2026-11-12 - A curated list of awesome things built with and around Ryu: the open platform for agent orchestration and human collaboration.
+* [awesome-ryu](https://github.com/amajorai/awesome-ryu) ⭐ 1 | 🐛 0 | 📅 2026-11-13 - A curated list of awesome things built with and around Ryu: the open platform for agent orchestration and human collaboration.
 * [awesome-ai-indonesia](https://github.com/ezkielynagroup/awesome-ai-indonesia) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-11-11 - Daftar kurasi AI untuk developer & UMKM Indonesia: LLM bahasa Indonesia, dataset, NLP, suara, regulasi, API, MCP, n8n.
 * [awesome-explainable-nlp](https://github.com/mohammadi-hadi/awesome-explainable-nlp) ⭐ 0 | 🐛 4 | 📅 2026-11-03 - Curated list of papers, tools, and resources on explainability and interpretability for NLP and large language models.
 * [Awesome-LLMs-on-device](https://github.com/NexaAI/Awesome-LLMs-on-device) - Awesome LLMs on Device: A Comprehensive Survey.
@@ -5707,14 +5710,14 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Loop Engineering Topic Lists
 
-* [Awesome-Graph-Engineering](https://github.com/DEEP-JLU/Awesome-Graph-Engineering) ⭐ 404 | 🐛 3 | 📅 2026-10-30 - A Survey on Ontology Engineering, Graph Engineering, Loop Engineering, Harness Engineering, Context Engineering and Prompt Engineering.
+* [Awesome-Graph-Engineering](https://github.com/DEEP-JLU/Awesome-Graph-Engineering) ⭐ 405 | 🐛 3 | 📅 2026-10-30 - A Survey on Ontology Engineering, Graph Engineering, Loop Engineering, Harness Engineering, Context Engineering and Prompt Engineering.
 
 ### Low code Topic Lists
 
-* [awesome-lowcode](https://github.com/taowen/awesome-lowcode) ⭐ 14,746 | 🐛 11 | 📅 2024-11-07 - 国内低代码平台从业者交流.
+* [awesome-lowcode](https://github.com/taowen/awesome-lowcode) ⭐ 14,747 | 🐛 11 | 📅 2024-11-07 - 国内低代码平台从业者交流.
 * [awesome-lowcode](https://github.com/antdimot/awesome-lowcode) ⭐ 592 | 🐛 14 | 📅 2026-11-06 - A collection of Awesome low-code development platform (LCDP).
 * [awesome-low-code](https://github.com/zenitysec/awesome-low-code) ⭐ 461 | 🐛 16 | 📅 2026-04-05 - Awesome Low Code platforms, vendors, tools and resources.
-* [awesome-nocode-lowcode](https://github.com/valentin-vogel/awesome-nocode-lowcode) ⭐ 419 | 🐛 12 | 📅 2026-10-20 - A curated list of awesome nocode and lowcode ressources for building software without code.
+* [awesome-nocode-lowcode](https://github.com/valentin-vogel/awesome-nocode-lowcode) ⭐ 419 | 🐛 13 | 📅 2026-10-20 - A curated list of awesome nocode and lowcode ressources for building software without code.
 * [awesome-lesscode](https://github.com/dream2023/awesome-lesscode) ⭐ 201 | 🐛 2 | 📅 2026-05-12 - Less code / no code 前后端实践和工具列表.
 
 ### Lua Topic Lists
@@ -5727,20 +5730,20 @@ Last generated: 2026-11-12, 10396 lists.
 ### Machine learning Topic Lists
 
 * [Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) ⭐ 12,380 | 🐛 32 | 🌐 HTML | 📅 2024-08-01 - A collection of resources and papers on Diffusion Models.
-* [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,550 | 🐛 30 | 📅 2024-08-19 - :octocat: Machine Learning for Cyber Security.
+* [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,554 | 🐛 31 | 📅 2024-08-19 - :octocat: Machine Learning for Cyber Security.
 * [awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) ⭐ 6,675 | 🐛 8 | 📅 2020-12-03 - Cool links & research papers related to Machine Learning applied to source code (MLonCode).
 * [useful-java-links](https://github.com/Vedenin/useful-java-links) ⭐ 6,212 | 🐛 20 | 🌐 Java | 📅 2026-05-08 - A list of useful Java frameworks, libraries, software and hello worlds examples.
 * [awesome-ai-ml-resources](https://github.com/armankhondker/awesome-ai-ml-resources) ⭐ 4,697 | 🐛 16 | 📅 2026-05-09 - Learn AI/ML for beginners with a roadmap and free resources.
 * [awesome-ai-residency](https://github.com/dangkhoasdc/awesome-ai-residency) ⭐ 3,305 | 🐛 1 | 📅 2025-04-04 - List of AI Residency Programs.
-* [awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,111 | 🐛 10 | 🌐 Python | 📅 2026-11-09 - :sunglasses: A curated list of robotics libraries and software.
+* [awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) ⭐ 3,110 | 🐛 10 | 🌐 Python | 📅 2026-11-09 - :sunglasses: A curated list of robotics libraries and software.
 * [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) ⭐ 2,481 | 🐛 4 | 🌐 Python | 📅 2025-12-28 - A collection of research papers on decision, classification and regression trees with implementations.
 * [machine-learning-with-ruby](https://github.com/arbox/machine-learning-with-ruby) ⭐ 2,229 | 🐛 7 | 🌐 Ruby | 📅 2024-12-26 - Curated list: Resources for machine learning in Ruby.
-* [awesome-ml4co](https://github.com/Thinklab-SJTU/awesome-ml4co) ⭐ 2,177 | 🐛 1 | 🌐 Python | 📅 2026-11-07 - Awesome machine learning for combinatorial optimization papers.
-* [awesome-normalizing-flows](https://github.com/janosh/awesome-normalizing-flows) ⭐ 1,643 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - Awesome resources on normalizing flows.
+* [awesome-ml4co](https://github.com/Thinklab-SJTU/awesome-ml4co) ⭐ 2,177 | 🐛 0 | 🌐 Python | 📅 2026-11-14 - Awesome machine learning for combinatorial optimization papers.
+* [awesome-normalizing-flows](https://github.com/janosh/awesome-normalizing-flows) ⭐ 1,644 | 🐛 0 | 🌐 Python | 📅 2026-07-31 - Awesome resources on normalizing flows.
 * [awesome-vector-search](https://github.com/currentslab/awesome-vector-search) ⭐ 1,596 | 🐛 30 | 📅 2026-07-06 - Collections of vector search related libraries, service and research papers.
 * [machine-learning-surveys](https://github.com/metrofun/machine-learning-surveys) ⭐ 1,412 | 🐛 3 | 🌐 JavaScript | 📅 2023-01-03 - A curated list of Machine Learning Surveys, Tutorials and Books.
 * [awesome-text-summarization](https://github.com/icoxfog417/awesome-text-summarization) ⭐ 1,315 | 🐛 1 | 📅 2022-11-27 - The guide to tackle with the Text Summarization.
-* [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai) ⭐ 1,244 | 🐛 29 | 📅 2021-11-12 - A repository to curate and summarise research papers related to fashion and e-commerce.
+* [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai) ⭐ 1,245 | 🐛 29 | 📅 2021-11-12 - A repository to curate and summarise research papers related to fashion and e-commerce.
 * [nlp-with-ruby](https://github.com/arbox/nlp-with-ruby) ⭐ 1,077 | 🐛 9 | 🌐 Ruby | 📅 2023-06-27 - Curated List: Practical Natural Language Processing done in Ruby.
 * [awesome-algorithmic-trading](https://github.com/joelowj/awesome-algorithmic-trading) ⭐ 1,013 | 🐛 28 | 📅 2019-05-21 - A curated list of awesome algorithmic trading frameworks, libraries, software and resources.
 * [awesome-dataset-tools](https://github.com/jsbroks/awesome-dataset-tools) ⭐ 946 | 🐛 7 | 📅 2023-06-09 - 🔧 A curated list of awesome dataset tools.
@@ -5750,14 +5753,14 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-online-machine-learning](https://github.com/online-ml/awesome-online-machine-learning) ⭐ 636 | 🐛 3 | 📅 2026-09-26 - :bookmark\_tabs: Online machine learning resources.
 * [text\_mining\_resources](https://github.com/stepthom/text_mining_resources) ⭐ 600 | 🐛 0 | 📅 2023-02-09 - Resources for learning about Text Mining and Natural Language Processing.
 * [awesome-ml-model-compression](https://github.com/cedrickchee/awesome-ml-model-compression) ⭐ 547 | 🐛 6 | 📅 2024-09-21 - Awesome machine learning model compression research papers, quantization, tools, and learning material.
-* [awesome-lego-machine-learning](https://github.com/360er0/awesome-lego-machine-learning) ⭐ 533 | 🐛 1 | 📅 2025-04-06 - A curated list of resources dedicated to Machine Learning applications to LEGO bricks.
-* [awesome-quantum-ml](https://github.com/artix41/awesome-quantum-ml) ⭐ 531 | 🐛 2 | 📅 2024-06-11 - Curated list of awesome papers and resources in quantum machine learning.
+* [awesome-lego-machine-learning](https://github.com/360er0/awesome-lego-machine-learning) ⭐ 534 | 🐛 1 | 📅 2025-04-06 - A curated list of resources dedicated to Machine Learning applications to LEGO bricks.
+* [awesome-quantum-ml](https://github.com/artix41/awesome-quantum-ml) ⭐ 531 | 🐛 1 | 📅 2024-06-11 - Curated list of awesome papers and resources in quantum machine learning.
 * [awesome-nlprojects](https://github.com/costezki/awesome-nlprojects) ⭐ 365 | 🐛 0 | 📅 2025-09-03 - List of projects related to Natural Language Processing (NLP) that make a geek smile for they exist.
 * [Awesome-LLM-Reasoning-with-NeSy](https://github.com/LAMDA-NeSy/Awesome-LLM-Reasoning-with-NeSy) ⭐ 333 | 🐛 3 | 📅 2025-06-19 - ✨✨Latest Advances on Neuro-Symbolic Learning in the era of Large Language Models.
 * [Awesome-VQVAE](https://github.com/wenhaochai/Awesome-VQVAE) ⭐ 333 | 🐛 3 | 📅 2025-01-31 - A collection of resources and papers on Vector Quantized Variational Autoencoder (VQ-VAE) and its application.
 * [awesome-machine-learning-engineer](https://github.com/superlinear-ai/awesome-machine-learning-engineer) ⭐ 302 | 🐛 0 | 📅 2024-10-29 - 🤓 A curated awesome list of Machine Learning Engineering resources. Feel free to contribute!
 * [awesome-self-supervised-multimodal-learning](https://github.com/ys-zong/awesome-self-supervised-multimodal-learning) ⭐ 279 | 🐛 2 | 📅 2026-11-07 - \[T-PAMI] A curated list of self-supervised multimodal learning resources.
-* [awesome-synthetic-data](https://github.com/statice/awesome-synthetic-data) ⭐ 273 | 🐛 14 | 📅 2024-01-11 - A curated list of awesome synthetic data tools (open source and commercial).
+* [awesome-synthetic-data](https://github.com/statice/awesome-synthetic-data) ⭐ 274 | 🐛 15 | 📅 2024-01-11 - A curated list of awesome synthetic data tools (open source and commercial).
 * [awesome-TDA](https://github.com/FatemehTarashi/awesome-TDA) ⭐ 231 | 🐛 0 | 📅 2026-07-09 - A curated list of topological data analysis (TDA) resources and links.
 * [Awesome-NLP-Resources](https://github.com/Akshat4112/Awesome-NLP-Resources) ⭐ 212 | 🐛 0 | 📅 2021-02-11 - This repository contains landmark research papers in Natural Language Processing that came out in this century.
 * [awesome-codex](https://github.com/KarelDO/awesome-codex) ⭐ 206 | 🐛 13 | 📅 2023-01-03 - A list dedicated to products, demos and articles related to 🤖 OpenAI's Codex.
@@ -5767,12 +5770,12 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-graph-reduction](https://github.com/Emory-Melody/awesome-graph-reduction) ⭐ 191 | 🐛 1 | 📅 2026-10-30 - \[IJCAI 2024] Papers about graph reduction including graph coarsening, graph condensation, graph sparsification, graph summarization, etc.
 * [awesome-tensorflow-js](https://github.com/aaronhma/awesome-tensorflow-js) ⭐ 189 | 🐛 0 | 📅 2026-10-31 - Awesome TensorFlow\.js - A curated list of dedicated resources to master TensorFlow\.js.
 * [Awesome-shiny-apps-for-statistics](https://github.com/huyingjie/Awesome-shiny-apps-for-statistics) ⭐ 180 | 🐛 0 | 🌐 JavaScript | 📅 2018-01-10 - 🌟 A curated list of Awesome Shiny Apps for Statistics (ASAS)🌟.
-* [awesome-all-you-need-papers](https://github.com/kentonishi/awesome-all-you-need-papers) ⭐ 162 | 🐛 0 | 🌐 Python | 📅 2026-11-09 - A list of all "all you need" papers. Updated daily using the arXiv API.
+* [awesome-all-you-need-papers](https://github.com/kentonishi/awesome-all-you-need-papers) ⭐ 162 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - A list of all "all you need" papers. Updated daily using the arXiv API.
 * [awesome-computational-biology](https://github.com/inoue0426/awesome-computational-biology) ⭐ 160 | 🐛 0 | 🌐 Python | 📅 2026-10-05 - Awesome list of computational biology.
-* [awesome-tinyml](https://github.com/AI-in-Transportation-Lab/awesome-tinyml) ⭐ 155 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-13 - A carefully curated collection of high-quality libraries, projects, tutorials, research papers, and other essential resources focused on TinyML — the intersection of machine learning and ultra-low-power embedded systems.
+* [awesome-tinyml](https://github.com/AI-in-Transportation-Lab/awesome-tinyml) ⭐ 155 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-14 - A carefully curated collection of high-quality libraries, projects, tutorials, research papers, and other essential resources focused on TinyML — the intersection of machine learning and ultra-low-power embedded systems.
 * [awesome-machine-learning](https://github.com/RatulGhosh/awesome-machine-learning) ⭐ 139 | 🐛 1 | 📅 2020-10-04 - :book: List of some awesome university courses for Machine Learning! Feel free to contribute!
+* [awesome-weight-space-learning](https://github.com/zehong-wang/awesome-weight-space-learning) ⭐ 124 | 🐛 3 | 📅 2026-05-12 - A collection of weight space learning including papers, codes, and datasets.
 * [awesome-asynchronous-federated-learning](https://github.com/yyyanbj/awesome-asynchronous-federated-learning) ⭐ 123 | 🐛 0 | 🌐 Python | 📅 2024-01-11 - 📦 Collect some Asynchronous Federated Learning papers.
-* [awesome-weight-space-learning](https://github.com/zehong-wang/awesome-weight-space-learning) ⭐ 123 | 🐛 3 | 📅 2026-05-12 - A collection of weight space learning including papers, codes, and datasets.
 * [Machine-Learning](https://github.com/ElizaLo/Machine-Learning) ⭐ 114 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-02-10 - Awesome list (courses, books, videos etc.) and implementation of Machine Learning Algorithms.
 * [awesome-webots](https://github.com/lukicdarkoo/awesome-webots) ⭐ 98 | 🐛 1 | 📅 2022-12-12 - Awesome Webots.
 * [awesome-healthmetrics](https://github.com/leandromineti/awesome-healthmetrics) ⭐ 80 | 🐛 2 | 📅 2023-09-22 - A curated list of awesome resources at the intersection of healthcare and AI.
@@ -5820,16 +5823,16 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### macOS Topic Lists
 
-* [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) ⭐ 19,485 | 🐛 21 | 📅 2026-10-21 -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
-* [osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) ⭐ 1,775 | 🐛 0 | 🌐 Shell | 📅 2026-10-31 - macOS and iOS related security tools.
-* [awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps) ⭐ 1,690 | 🐛 143 | 🌐 Shell | 📅 2026-11-11 - Discover the best native macOS apps: fast, lightweight Mac apps for productivity, developer tools, and everyday utilities. Free and paid options. No Electron.
-* [macos-apps](https://github.com/linsa-io/macos-apps) ⭐ 847 | 🐛 196 | 📅 2026-09-09 - Awesome macOS apps.
+* [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) ⭐ 19,489 | 🐛 24 | 📅 2026-10-21 -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
+* [osx-and-ios-security-awesome](https://github.com/ashishb/osx-and-ios-security-awesome) ⭐ 1,774 | 🐛 0 | 🌐 Shell | 📅 2026-10-31 - macOS and iOS related security tools.
+* [awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps) ⭐ 1,691 | 🐛 144 | 🌐 Shell | 📅 2026-11-11 - Discover the best native macOS apps: fast, lightweight Mac apps for productivity, developer tools, and everyday utilities. Free and paid options. No Electron.
+* [macos-apps](https://github.com/linsa-io/macos-apps) ⭐ 847 | 🐛 197 | 📅 2026-09-09 - Awesome macOS apps.
 * [awesome-macadmin-tools](https://github.com/smashism/awesome-macadmin-tools) ⭐ 685 | 🐛 19 | 📅 2025-12-17 - 🕶 Awesome Mac Admin Tools list.
 * [awesome-macos-commandline](https://github.com/phmullins/awesome-macos-commandline) ⭐ 676 | 🐛 11 | 📅 2022-08-06 - A curated list of awesome command-line software for macOS.
 * [super-awesome-mac](https://github.com/tonnoz/super-awesome-mac) ⭐ 531 | 🐛 21 | 📅 2026-02-15 - A curated collection of my favorite (free) apps for MacOs.
-* [awesome-macos-apps](https://github.com/guyzyl/awesome-macos-apps) ⭐ 134 | 🐛 27 | 📅 2026-10-24 - Curated list of awesome macOS apps.
-* [Mac-Menubar-Megalist](https://github.com/SKaplanOfficial/Mac-Menubar-Megalist) ⭐ 128 | 🐛 60 | 📅 2026-11-12 - Sorted list of 1800+ macOS menubar apps.
-* [awesome-macos](https://github.com/milanaryal/awesome-macos) ⭐ 108 | 🐛 58 | 📅 2026-01-03 - A curated list of 😎 awesome apps and tools for  macOS.
+* [awesome-macos-apps](https://github.com/guyzyl/awesome-macos-apps) ⭐ 135 | 🐛 27 | 📅 2026-10-24 - Curated list of awesome macOS apps.
+* [Mac-Menubar-Megalist](https://github.com/SKaplanOfficial/Mac-Menubar-Megalist) ⭐ 128 | 🐛 61 | 📅 2026-11-12 - Sorted list of 1800+ macOS menubar apps.
+* [awesome-macos](https://github.com/milanaryal/awesome-macos) ⭐ 109 | 🐛 58 | 📅 2026-01-03 - A curated list of 😎 awesome apps and tools for  macOS.
 * [awesome-mac](https://github.com/abordage/awesome-mac) ⭐ 36 | 🐛 0 | 📅 2026-11-13 - Curated collection of awesome macOS applications, tools, and resources. Auto-updated and always current with metadata, categorization, and quality filtering.
 * [awesome-macapps](https://github.com/kyriejoshua/awesome-macapps) ⭐ 31 | 🐛 3 | 📅 2022-09-17 - This is the best for me in MBP. My favorite macOS apps.
 * [awesome-mac](https://github.com/teamy/awesome-mac) ⭐ 9 | 🐛 4 | 🌐 EJS | 📅 2024-05-01 - 这个repo是开发人员和设计人员的一系列令人敬畏的Mac应用程序和工具.
@@ -5845,8 +5848,8 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Malware Topic Lists
 
-* [awesome-malware-development](https://github.com/rootkit-io/awesome-malware-development) ⭐ 1,876 | 🐛 0 | 📅 2026-10-31 - Curated resources for malware dev, reverse engineering, and defensive security research.
-* [osx-security-awesome](https://github.com/kai5263499/osx-security-awesome) ⭐ 794 | 🐛 1 | 📅 2026-10-13 - A collection of macOS and iOS security resources.
+* [awesome-malware-development](https://github.com/rootkit-io/awesome-malware-development) ⭐ 1,878 | 🐛 0 | 📅 2026-10-31 - Curated resources for malware dev, reverse engineering, and defensive security research.
+* [osx-security-awesome](https://github.com/kai5263499/osx-security-awesome) ⭐ 794 | 🐛 0 | 📅 2026-10-13 - A collection of macOS and iOS security resources.
 * [awesome-malware-persistence](https://github.com/Karneades/awesome-malware-persistence) ⭐ 319 | 🐛 0 | 📅 2026-08-25 - A curated list of awesome malware persistence tools and resources.
 
 ### Mantine Topic Lists
@@ -5855,13 +5858,13 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Markdown Topic Lists
 
-* [awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) ⭐ 1,023 | 🐛 111 | 📅 2026-04-20 - A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.
-* [awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) ⭐ 965 | 🐛 84 | 📅 2024-08-21 - :memo: Delightful Markdown stuff.
-* [awesome-marp](https://github.com/marp-team/awesome-marp) ⭐ 526 | 🐛 0 | 📅 2026-04-25 - A curated list of awesome things related to Marp.
+* [awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) ⭐ 1,023 | 🐛 112 | 📅 2026-04-20 - A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.
+* [awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) ⭐ 964 | 🐛 84 | 📅 2024-08-21 - :memo: Delightful Markdown stuff.
+* [awesome-marp](https://github.com/marp-team/awesome-marp) ⭐ 527 | 🐛 0 | 📅 2026-04-25 - A curated list of awesome things related to Marp.
 * [awesome-handbooks](https://github.com/hkdobrev/awesome-handbooks) ⭐ 267 | 🐛 0 | 📅 2024-06-16 - A curated list of awesome company handbooks.
 * [awesome-dendron](https://github.com/dendronhq/awesome-dendron) ⭐ 245 | 🐛 3 | 📅 2022-10-22 - A big list of Dendron docs, talks, tools, examples, articles, extensions, vaults, showcases, and more that the internet has to offer.
 * [make\_work\_easier](https://github.com/Magic-wei/make_work_easier) ⭐ 89 | 🐛 0 | 📅 2023-02-23 - This is a repo that investigates or develops tools to make work easier and enjoyable, especially for research stuffs.
-* [awesome-okf](https://github.com/yzfly/awesome-okf) ⭐ 84 | 🐛 0 | 🌐 Python | 📅 2026-11-01 - 开放知识格式(OKF)的中文资料整理,以及几个把飞书、Obsidian、Notion、GitHub 等转成 OKF 的小工具.
+* [awesome-okf](https://github.com/yzfly/awesome-okf) ⭐ 84 | 🐛 0 | 🌐 Python | 📅 2026-11-14 - 开放知识格式(OKF)的中文资料整理,以及几个把飞书、Obsidian、Notion、GitHub 等转成 OKF 的小工具.
 * [awesome-cloudinary](https://github.com/Developerayo/awesome-cloudinary) ⭐ 82 | 🐛 1 | 🌐 JavaScript | 📅 2020-12-01 - :notebook\_with\_decorative\_cover: :books: A curated list of awesome resources : books, videos, articles about getting started and using Cloudinary (A comprehensive cloud-based image and video management platform).
 * [awesome-markdown](https://github.com/webiaio/awesome-markdown) ⭐ 53 | 🐛 9 | 📅 2019-12-14 - Awesome markdown writing tools.
 * [awesome-technical-writing-learning](https://github.com/wongyah/awesome-technical-writing-learning) ⭐ 53 | 🐛 0 | 📅 2026-10-20 - 😎 A curated list of awesome and free resources about technical writing.
@@ -5874,19 +5877,19 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Marketing Topic Lists
 
-* [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) ⭐ 8,421 | 🐛 63 | 📅 2026-08-29 - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?".
-* [marketing-for-founders](https://github.com/edostra/marketing-for-founders) ⭐ 7,206 | 🐛 41 | 📅 2026-07-13 - Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup.
+* [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) ⭐ 8,428 | 🐛 63 | 📅 2026-08-29 - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?".
+* [marketing-for-founders](https://github.com/edostra/marketing-for-founders) ⭐ 7,211 | 🐛 41 | 📅 2026-07-13 - Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup.
 * [awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing) ⭐ 507 | 🐛 217 | 📅 2026-07-27 - A curated list of awesome marketing tools and resources.
 * [awesome-ecommerce-stack](https://github.com/astrotars/awesome-ecommerce-stack) ⭐ 444 | 🐛 44 | 📅 2025-02-17 - 💰 Popular marketing tools and add-ons used by 10,000+ of the top e-commerce stores.
 * [awesome-passive-income](https://github.com/yourincomehome/awesome-passive-income) ⭐ 440 | 🐛 13 | 📅 2020-09-29 - A curated list of ways to make money online.
-* [awesome-marketing](https://github.com/ronakganatra/awesome-marketing) ⭐ 420 | 🐛 6 | 📅 2026-11-12 - A living document of hand-picked resources for marketers.
+* [awesome-marketing](https://github.com/ronakganatra/awesome-marketing) ⭐ 420 | 🐛 8 | 📅 2026-11-12 - A living document of hand-picked resources for marketers.
 * [awesome-developer-marketing](https://github.com/ronakganatra/awesome-developer-marketing) ⭐ 414 | 🐛 8 | 📅 2026-10-06 - A living document of hand-picked resources for marketers working on dev-centric products.
 * [awesome-digital-marketing](https://github.com/paulbradish/awesome-digital-marketing) ⭐ 324 | 🐛 51 | 📅 2024-07-29 - 😎 A curated list of awesome digital marketing guides, resources, services, & more.
 * [awesome-gtm-engineering](https://github.com/marketinguys/awesome-gtm-engineering) ⭐ 181 | 🐛 21 | 📅 2025-06-08 - A curated list of tools, libraries, frameworks, and resources for Go-To-Market (GTM) Engineering — the intersection of engineering and marketing, focused on growth, automation, attribution, analytics, and experimentation.
-* [awesome-ai-startups](https://github.com/nowork-studio/awesome-ai-startups) ⭐ 149 | 🐛 106 | 📅 2026-10-09 - A curated list of indie-built AI startups — bootstrapped, pre-seed, and angel-funded products only.
+* [awesome-ai-startups](https://github.com/nowork-studio/awesome-ai-startups) ⭐ 149 | 🐛 107 | 📅 2026-10-09 - A curated list of indie-built AI startups — bootstrapped, pre-seed, and angel-funded products only.
 * [awesome-mautic](https://github.com/luizeof/awesome-mautic) ⭐ 98 | 🐛 6 | 📅 2023-06-23 - Curated List of Mautic Plugins, Blogs, Repositories and Themes.
-* [awesome-lead-generation](https://github.com/dariubs/awesome-lead-generation) ⭐ 92 | 🐛 47 | 📅 2026-07-30 - A curated list of tools, strategies, and resources for generating and converting leads.
-* [awesome-email-marketing](https://github.com/LLazyEmail/awesome-email-marketing) ⭐ 79 | 🐛 36 | 🌐 TypeScript | 📅 2026-11-09 - ✉️ An awesome list of resources for email marketing.
+* [awesome-lead-generation](https://github.com/dariubs/awesome-lead-generation) ⭐ 92 | 🐛 48 | 📅 2026-07-30 - A curated list of tools, strategies, and resources for generating and converting leads.
+* [awesome-email-marketing](https://github.com/LLazyEmail/awesome-email-marketing) ⭐ 79 | 🐛 40 | 🌐 TypeScript | 📅 2026-11-14 - ✉️ An awesome list of resources for email marketing.
 * [awesome-solo-founder-oss](https://github.com/princepal9120/awesome-solo-founder-oss) ⭐ 76 | 🐛 17 | 📅 2026-09-25 - Curated OSS stack for solo founders to build, launch, sell, support, and grow polished products.
 * [awesome-ai-gtm](https://github.com/ong/awesome-ai-gtm) ⭐ 28 | 🐛 14 | 📅 2026-06-01 - A curated guide to the new generation of AI GTM tools.
 * [awesome-developer-tools-marketing](https://github.com/tyaga001/awesome-developer-tools-marketing) ⭐ 18 | 🐛 7 | 🌐 TypeScript | 📅 2024-11-14 - Awesome-developer-tools-marketing.
@@ -5906,10 +5909,10 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Mathematics Topic Lists
 
-* [awesome-math](https://github.com/rossant/awesome-math) ⭐ 16,950 | 🐛 1 | 🌐 Python | 📅 2026-10-31 - A curated list of awesome mathematics resources.
+* [awesome-math](https://github.com/rossant/awesome-math) ⭐ 16,955 | 🐛 1 | 🌐 Python | 📅 2026-10-31 - A curated list of awesome mathematics resources.
 * [awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing) ⭐ 1,604 | 🐛 21 | 🌐 Python | 📅 2026-07-20 - :sunglasses: Curated list of awesome software for numerical analysis and scientific computing.
 * [awesome-manim](https://github.com/ManimCommunity/awesome-manim) ⭐ 549 | 🐛 4 | 📅 2026-10-07 - A database with many Manim users and content creators.
-* [awesome-interactive-math](https://github.com/ubavic/awesome-interactive-math) ⭐ 322 | 🐛 4 | 📅 2026-08-25 - A curated list of tools that can be used for creating interactive mathematical explorables.
+* [awesome-interactive-math](https://github.com/ubavic/awesome-interactive-math) ⭐ 322 | 🐛 0 | 📅 2026-11-13 - A curated list of tools that can be used for creating interactive mathematical explorables.
 * [awesome-category-theory](https://github.com/madnight/awesome-category-theory) ⭐ 150 | 🐛 0 | 📅 2026-01-26 - A curated list of awesome Category Theory resources.
 * [awesome-web-visualizations](https://github.com/bartolomej/awesome-web-visualizations) ⭐ 24 | 🐛 1 | 📅 2024-06-11 - A curated list of cool visualization on the web 👁️.
 * [awesome\_python\_math\_packages](https://github.com/VascoSch92/awesome_python_math_packages) ⭐ 19 | 🐛 0 | 📅 2026-09-30 - List of 🐍 packages that deal with mathematics.
@@ -5922,25 +5925,25 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### MCP Topic Lists
 
-* [awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers) ⭐ 3,104 | 🐛 2,576 | 📅 2026-11-06 - A collection of remote MCP servers.
-* [awesome-a2a](https://github.com/ai-boost/awesome-a2a) ⭐ 709 | 🐛 103 | 📅 2026-11-13 - Agent2Agent (A2A) – awesome A2A agents, tools, servers & clients, all in one place.
-* [awesome-mcp-devtools](https://github.com/punkpeye/awesome-mcp-devtools) ⭐ 487 | 🐛 255 | 📅 2026-08-04 - A curated list of developer tools, SDKs, libraries, and testing utilities for Model Context Protocol (MCP) server development.
+* [awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers) ⭐ 3,170 | 🐛 2,668 | 📅 2026-11-06 - A collection of remote MCP servers.
+* [awesome-a2a](https://github.com/ai-boost/awesome-a2a) ⭐ 709 | 🐛 104 | 📅 2026-11-14 - Agent2Agent (A2A) – awesome A2A agents, tools, servers & clients, all in one place.
+* [awesome-mcp-devtools](https://github.com/punkpeye/awesome-mcp-devtools) ⭐ 487 | 🐛 254 | 📅 2026-08-04 - A curated list of developer tools, SDKs, libraries, and testing utilities for Model Context Protocol (MCP) server development.
 * [awesome-fintech](https://github.com/moov-io/awesome-fintech) ⭐ 402 | 🐛 1 | 📅 2026-10-26 - A curated collection of open source fintech libraries for payments, banking, and financial infrastructure.
 * [awesome-openclaw-money-maker](https://github.com/blockrunai/awesome-openclaw-money-maker) ⭐ 378 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-09 - 🦞💰 Curated list of ways to make money with OpenClaw - automations, skills, services, and strategies.
-* [awesome-x402](https://github.com/xpaysh/awesome-x402) ⭐ 306 | 🐛 1,087 | 📅 2026-07-28 - 🚀 Curated list of x402 resources: HTTP 402 Payment Required protocol for blockchain payments, crypto micropayments, AI agents, API monetization. Includes SDKs (TypeScript, Python, Rust), examples, facilitators (Coinbase, Cloudflare), MCP integration, tutorials. Accept USDC payments with one line of code. Perfect for AI agent economy.
+* [awesome-x402](https://github.com/xpaysh/awesome-x402) ⭐ 306 | 🐛 1,099 | 📅 2026-07-28 - 🚀 Curated list of x402 resources: HTTP 402 Payment Required protocol for blockchain payments, crypto micropayments, AI agents, API monetization. Includes SDKs (TypeScript, Python, Rust), examples, facilitators (Coinbase, Cloudflare), MCP integration, tutorials. Accept USDC payments with one line of code. Perfect for AI agent economy.
 * [awesome-mcp-gateways](https://github.com/e2b-dev/awesome-mcp-gateways) ⭐ 194 | 🐛 37 | 🌐 Python | 📅 2026-10-19 - A list of MCP gateways.
-* [awesome-mcp](https://github.com/alexmili/awesome-mcp) ⭐ 159 | 🐛 35 | 🌐 Python | 📅 2026-11-12 - Awesome ModelContextProtocol resources - A curated list of MCP resources.
+* [awesome-mcp](https://github.com/alexmili/awesome-mcp) ⭐ 159 | 🐛 36 | 🌐 Python | 📅 2026-11-14 - Awesome ModelContextProtocol resources - A curated list of MCP resources.
 * [awesome-mcp-enterprise](https://github.com/bh-rat/awesome-mcp-enterprise) ⭐ 124 | 🐛 37 | 📅 2026-11-10 - A curated list of awesome MCP (Model Context Protocol) tools, platforms, and services for enterprises.
 * [awesome-copilot-for-testers](https://github.com/jaktestowac/awesome-copilot-for-testers) ⭐ 121 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-26 - 👨‍💻 Instructions, prompts, and chat modes to help You with test automation for GitHub Copilot 🤖.
-* [awesome-mcp-servers](https://github.com/mctrinh/awesome-mcp-servers) ⭐ 60 | 🐛 159 | 📅 2026-06-10 - A curated list of excellent Model Context Protocol (MCP) servers.
+* [awesome-mcp-servers](https://github.com/mctrinh/awesome-mcp-servers) ⭐ 60 | 🐛 162 | 📅 2026-06-10 - A curated list of excellent Model Context Protocol (MCP) servers.
 * [awesome-agentic-advertising](https://github.com/jshorwitz/awesome-agentic-advertising) ⭐ 46 | 🐛 17 | 📅 2026-09-29 - A curated list of MCP servers, tools, protocols, and resources for AI-powered advertising campaign management. Covers Google Ads, Meta, LinkedIn, Reddit, TikTok, Amazon, and more.
-* [awesome-mcp](https://github.com/abordage/awesome-mcp) ⭐ 31 | 🐛 0 | 📅 2026-11-13 - Curated list of Model Context Protocol (MCP) servers, clients, and frameworks. Automatically updated daily.
+* [awesome-mcp](https://github.com/abordage/awesome-mcp) ⭐ 31 | 🐛 5 | 📅 2026-11-13 - Curated list of Model Context Protocol (MCP) servers, clients, and frameworks. Automatically updated daily.
 * [awesome-mcp](https://github.com/mcphubcloud/awesome-mcp) ⭐ 24 | 🐛 21 | 📅 2025-04-23 - A collection of mcp servers/client/sdks.
-* [awesome-mcp-servers](https://github.com/habitoai/awesome-mcp-servers) ⭐ 24 | 🐛 178 | 📅 2026-10-06 - A curated list of Model Context Protocol (MCP) servers and tools. Discover and explore various MCP implementations that enable AI models to connect with external data sources and tools.
-* [awesome-jev](https://github.com/MrJev/awesome-jev) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-11-13 - A curated list of projects, integrations, and resources for Jev, TypeSafe AI's System One model.
+* [awesome-mcp-servers](https://github.com/habitoai/awesome-mcp-servers) ⭐ 24 | 🐛 181 | 📅 2026-10-06 - A curated list of Model Context Protocol (MCP) servers and tools. Discover and explore various MCP implementations that enable AI models to connect with external data sources and tools.
+* [awesome-jev](https://github.com/MrJev/awesome-jev) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-11-14 - A curated list of projects, integrations, and resources for Jev, TypeSafe AI's System One model.
 * [awesome-mcp-servers](https://github.com/bgizdov/awesome-mcp-servers) ⭐ 13 | 🐛 23 | 📅 2026-05-30 - This awesome list is automatically generated and regularly updated to ensure you have access to the latest and most comprehensive collection of MCP servers available.
 * [awesome-agent-vault](https://github.com/zriyansh/awesome-agent-vault) ⭐ 12 | 🐛 0 | 📅 2026-06-02 - The category map for agent credential management. Products, integrations, recipes, patterns, threat models. Curated by Authsome.
-* [awesome-mcp](https://github.com/AI-in-Transportation-Lab/awesome-mcp) ⭐ 12 | 🐛 33 | 🌐 JavaScript | 📅 2026-11-13 - A carefully curated collection of high-quality tools, libraries, research papers, projects, and tutorials centered around Model Context Protocol (MCP) — a novel paradigm designed to enable modular, adaptive coordination between large language models (LLMs) and external tools or data contexts.
+* [awesome-mcp](https://github.com/AI-in-Transportation-Lab/awesome-mcp) ⭐ 12 | 🐛 33 | 🌐 JavaScript | 📅 2026-11-14 - A carefully curated collection of high-quality tools, libraries, research papers, projects, and tutorials centered around Model Context Protocol (MCP) — a novel paradigm designed to enable modular, adaptive coordination between large language models (LLMs) and external tools or data contexts.
 * [awesome-mcp](https://github.com/xlxxcc/awesome-mcp) ⭐ 7 | 🐛 11 | 📅 2025-03-20 - Awesome Model Context Protocol Servers.
 * [awesome-gtm-mcp-servers](https://github.com/matteotitta/awesome-gtm-mcp-servers) ⭐ 4 | 🐛 11 | 📅 2026-11-11 - Model Context Protocol servers for the go-to-market stack — CRM, enrichment, SEO, ads, analytics, and lifecycle.
 * [awesome-mcp](https://github.com/eon01/awesome-mcp) ⭐ 3 | 🐛 3 | 📅 2026-07-15 - Awesome MCP devtools, platforms & resources for developers. 🌟 Consider supporting this work by giving it a star.
@@ -5958,7 +5961,7 @@ Last generated: 2026-11-12, 10396 lists.
 ### Medical imaging Topic Lists
 
 * [awesome-ai4med](https://github.com/freedomintelligence/awesome-ai4med) ⭐ 2,905 | 🐛 2 | 📅 2026-08-04 - A curated list of medical LLMs, multimodal systems, datasets, benchmarks, and more. 🏥.
-* [awesome-multimodal-in-medical-imaging](https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging) ⭐ 985 | 🐛 2 | 📅 2026-10-26 - A collection of resources on applications of multi-modal learning in medical imaging.
+* [awesome-multimodal-in-medical-imaging](https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging) ⭐ 986 | 🐛 2 | 📅 2026-10-26 - A collection of resources on applications of multi-modal learning in medical imaging.
 * [awesome-dicom](https://github.com/open-dicom/awesome-dicom) ⭐ 415 | 🐛 0 | 📅 2026-11-11 - A curated list of awesome DICOM resources and libraries.
 * [awesome-diabetic-retinopathy-detection](https://github.com/fdu-vts/awesome-diabetic-retinopathy-detection) ⭐ 175 | 🐛 0 | 📅 2024-04-09 - Papers and Public Datasets for Diabetic Retinopathy Detection.
 * [awesome-self-supervised-learning-in-medical-imaging](https://github.com/SaeedShurrab/awesome-self-supervised-learning-in-medical-imaging) ⭐ 160 | 🐛 1 | 📅 2024-08-01 - This repository is mainly dedicated for listing the recent research advancements in the application of Self-Supervised-Learning in medical images computing field.
@@ -5975,7 +5978,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Microservice Topic Lists
 
-* [awesome-serverless](https://github.com/anaibol/awesome-serverless) ⭐ 7,587 | 🐛 56 | 📅 2026-02-11 - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
+* [awesome-serverless](https://github.com/anaibol/awesome-serverless) ⭐ 7,587 | 🐛 57 | 📅 2026-02-11 - :cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.
 * [awesome-backend-architecture](https://github.com/TFdream/awesome-backend-architecture) ⭐ 154 | 🐛 0 | 📅 2020-06-17 - 后端开发常用技术框架、数据库、开源中间件、微服务、系统架构集合。.
 * [dev-stuff](https://github.com/patrykwozinski/dev-stuff) ⭐ 144 | 🐛 0 | 📅 2022-04-11 - 😎 Programming stuff for everyone. Collection of articles, videos about architecture, Domain Driven Design, microservices, testing etc.
 * [fucking-awesome-microservices](https://github.com/Correia-jpv/fucking-awesome-microservices) ⭐ 40 | 🐛 3 | 📅 2026-11-12 - A curated list of Microservice Architecture related principles and technologies. With repository stars⭐ and forks🍴.
@@ -5997,7 +6000,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### MIDI Topic Lists
 
-* [awesome-music](https://github.com/noteflakes/awesome-music) ⭐ 2,544 | 🐛 58 | 📅 2026-05-27 - Awesome Music Projects.
+* [awesome-music](https://github.com/noteflakes/awesome-music) ⭐ 2,545 | 🐛 61 | 📅 2026-05-27 - Awesome Music Projects.
 * [awesome-webfishing](https://github.com/letsgoawaydev/awesome-webfishing) ⭐ 8 | 🐛 0 | 📅 2024-12-12 - Links and stuff related to WEBFISHING.
 
 ### MikroTik Topic Lists
@@ -6006,7 +6009,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Minecraft Topic Lists
 
-* [awesome-minecraft](https://github.com/bs-community/awesome-minecraft) ⭐ 664 | 🐛 40 | 📅 2025-08-23 - 📝 The curated list of awesome things related to Minecraft.
+* [awesome-minecraft](https://github.com/bs-community/awesome-minecraft) ⭐ 664 | 🐛 41 | 📅 2025-08-23 - 📝 The curated list of awesome things related to Minecraft.
 * [awesome-packdev](https://github.com/modern-modpacks/awesome-packdev) ⭐ 32 | 🐛 1 | 📅 2026-11-10 - A curated list of mods, apps, and resources simplifying the lives of Minecraft modpack developers.
 * [awesome-mcje-vanilla-tech](https://github.com/RanolP/awesome-mcje-vanilla-tech) ⭐ 20 | 🐛 0 | 📅 2022-09-18 - Curated List for Minecraft: Java Edition Vanilla Technique for Creating Great Stuff.
 * [awesome-folia](https://github.com/nonswag/awesome-folia) ⭐ 8 | 🐛 0 | 📅 2025-12-19 - A collection of Folia plugins and projects I find awesome.
@@ -6042,12 +6045,12 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### MongoDB Topic Lists
 
-* [awesome-mongodb](https://github.com/ramnes/awesome-mongodb) ⭐ 2,681 | 🐛 22 | 📅 2026-11-06 - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications.
+* [awesome-mongodb](https://github.com/ramnes/awesome-mongodb) ⭐ 2,681 | 🐛 23 | 📅 2026-11-06 - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications.
 * [awesome-pmm](https://github.com/percona/awesome-pmm) ⭐ 31 | 🐛 0 | 📅 2020-02-26 - A curated list of awesome Percona Monitoring and Management (PMM) free and opensource software, libraries and resources.
 
 ### Monitoring Topic Lists
 
-* [awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) ⭐ 3,847 | 🐛 47 | 📅 2026-11-05 - Awesome list of status page open source software, services and public status pages of major internet companies.
+* [awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) ⭐ 3,848 | 🐛 47 | 📅 2026-11-05 - Awesome list of status page open source software, services and public status pages of major internet companies.
 * [awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring) ⭐ 756 | 🐛 28 | 🌐 Go | 📅 2025-02-25 - INFRASTRUCTURE、OPERATION SYSTEM and APPLICATION monitoring tools.
 * [awesome-networking](https://github.com/nyquist/awesome-networking) ⭐ 735 | 🐛 36 | 📅 2026-10-10 - Curated list of awesome computer networking resources.
 * [awesome-monitoring](https://github.com/Enapiuz/awesome-monitoring) ⭐ 437 | 🐛 26 | 📅 2026-10-30 - List of tools for monitoring and analyze everything.
@@ -6060,7 +6063,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### MQTT Topic Lists
 
-* [awesome-mqtt](https://github.com/awesome-mqtt/awesome-mqtt) ⭐ 2,413 | 🐛 1 | 📅 2026-11-11 - Curated list of MQTT brokers, clients, tools, resources and more.
+* [awesome-mqtt](https://github.com/awesome-mqtt/awesome-mqtt) ⭐ 2,413 | 🐛 0 | 📅 2026-11-13 - Curated list of MQTT brokers, clients, tools, resources and more.
 
 ### MySQL Topic Lists
 
@@ -6082,11 +6085,11 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Neovim Topic Lists
 
-* [vim-galore](https://github.com/mhinz/vim-galore) ⭐ 18,052 | 🐛 14 | 🌐 Vim script | 📅 2023-12-22 - :mortar\_board: All things Vim!
+* [vim-galore](https://github.com/mhinz/vim-galore) ⭐ 18,053 | 🐛 14 | 🌐 Vim script | 📅 2023-12-22 - :mortar\_board: All things Vim!
 
 ### Nest Topic Lists
 
-* [awesome-nestjs](https://github.com/nestjs/awesome-nestjs) ⭐ 13,193 | 🐛 6 | 📅 2026-11-07 - A curated list of awesome things related to NestJS 😎.
+* [awesome-nestjs](https://github.com/nestjs/awesome-nestjs) ⭐ 13,195 | 🐛 6 | 📅 2026-11-07 - A curated list of awesome things related to NestJS 😎.
 
 ### Network Topic Lists
 
@@ -6104,8 +6107,8 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Next Topic Lists
 
-* [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) ⭐ 11,108 | 🐛 398 | 📅 2026-11-02 - :notebook\_with\_decorative\_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications).
-* [awesome-nextjs](https://github.com/officialrajdeepsingh/awesome-nextjs) ⭐ 717 | 🐛 2 | 🌐 HTML | 📅 2026-10-30 - A curated list of awesome Nextjs-based libraries that help build small and large-scale applications with next.js.
+* [awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) ⭐ 11,107 | 🐛 404 | 📅 2026-11-02 - :notebook\_with\_decorative\_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications).
+* [awesome-nextjs](https://github.com/officialrajdeepsingh/awesome-nextjs) ⭐ 718 | 🐛 1 | 🌐 HTML | 📅 2026-11-13 - A curated list of awesome Nextjs-based libraries that help build small and large-scale applications with next.js.
 * [awesome-blitzjs](https://github.com/blitz-js/awesome-blitzjs) ⭐ 89 | 🐛 0 | 📅 2026-07-18 - Curated list of awesome resources for blitz.js.
 * [awesome-nextui](https://github.com/avalynndev/awesome-nextui) ⭐ 13 | 🐛 0 | 📅 2024-07-30 - A curated list of awesome things related to nextUI.
 * [awesome-v0](https://github.com/fmerian/awesome-v0) ⭐ 10 | 🐛 1 | 📅 2025-10-17 - A curated list of awesome resources and examples using v0, the AI builder for everyone.
@@ -6118,7 +6121,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Natural language processing Topic Lists
 
-* [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,154 | 🐛 16 | 📅 2026-10-12 - :book: A curated list of resources dedicated to Natural Language Processing (NLP).
+* [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,155 | 🐛 16 | 📅 2026-10-12 - :book: A curated list of resources dedicated to Natural Language Processing (NLP).
 * [awesome-chinese-nlp](https://github.com/crownpku/awesome-chinese-nlp) ⭐ 7,919 | 🐛 11 | 📅 2023-07-27 - A curated list of resources for Chinese NLP 中文自然语言处理相关资料.
 * [awesome-DeepLearning](https://github.com/PaddlePaddle/awesome-DeepLearning) ⭐ 3,668 | 🐛 444 | 🌐 Jupyter Notebook | 📅 2024-07-25 - 深度学习入门课、资深课、特色课、学术案例、产业实践案例、深度学习知识百科及面试题库The course, case and knowledge of Deep Learning and AI.
 * [awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph) ⭐ 1,909 | 🐛 45 | 📅 2026-09-11 - A curated list of Knowledge Graph related learning materials, databases, tools and other resources.
@@ -6138,7 +6141,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-semantic-search](https://github.com/Agrover112/awesome-semantic-search) ⭐ 366 | 🐛 13 | 📅 2025-12-09 - A curated list of awesome resources related to Semantic Search🔎 and Semantic Similarity tasks.
 * [Text-Summarization-Repo](https://github.com/uoneway/Text-Summarization-Repo) ⭐ 349 | 🐛 0 | 📅 2022-02-21 - 텍스트 요약 분야의 주요 연구 주제, Must-read Papers, 이용 가능한 model 및 data 등을 추천 자료와 함께 정리한 저장소입니다.
 * [awesome-legal-nlp](https://github.com/maastrichtlawtech/awesome-legal-nlp) ⭐ 345 | 🐛 10 | 📅 2025-10-14 - 📖 A curated list of LegalNLP resources from all around the web.
-* [awesome-legal-data](https://github.com/openlegaldata/awesome-legal-data) ⭐ 329 | 🐛 33 | 📅 2026-10-20 - A collection of datasets and other resources for legal text processing.
+* [awesome-legal-data](https://github.com/openlegaldata/awesome-legal-data) ⭐ 330 | 🐛 34 | 📅 2026-10-20 - A collection of datasets and other resources for legal text processing.
 * [awesome-nlp-polish](https://github.com/ksopyla/awesome-nlp-polish) ⭐ 309 | 🐛 0 | 📅 2021-08-08 - A curated list of resources dedicated to Natural Language Processing (NLP) in polish. Models, tools, datasets.
 * [awesome-ukrainian-nlp](https://github.com/osyvokon/awesome-ukrainian-nlp) ⭐ 240 | 🐛 6 | 📅 2026-02-19 - Curated list of Ukrainian natural language processing (NLP) resources (corpora, pretrained models, libriaries, etc.).
 * [awesome-cultural-nlp](https://github.com/simran-khanuja/awesome-cultural-nlp) ⭐ 123 | 🐛 2 | 📅 2025-09-28 - Resources for cultural NLP research.
@@ -6146,7 +6149,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-topic-models](https://github.com/jonaschn/awesome-topic-models) ⭐ 106 | 🐛 0 | 📅 2022-07-11 - ✨ Awesome - A curated list of amazing Topic Models (implementations, libraries, and resources).
 * [awesome-token-merge-for-mllms](https://github.com/jinxins/awesome-token-merge-for-mllms) ⭐ 90 | 🐛 0 | 📅 2025-10-26 - A paper list about Token Merge, Reduce, Resample, Drop for MLLMs.
 * [awesome-turkish-nlp](https://github.com/yusufusta/awesome-turkish-nlp) ⭐ 48 | 🐛 1 | 📅 2020-09-12 - A curated list of awesome Turkish language processing libraries, models, resources and datasets. The main focus is on open source tools, downloadable data and research papers with code.
-* [awesome-academic-nlp-labs](https://github.com/smsnobin77/awesome-academic-nlp-labs) ⭐ 26 | 🐛 0 | 📅 2026-11-08 - A curated directory of academic Natural Language Processing (NLP) research labs worldwide.
+* [awesome-academic-nlp-labs](https://github.com/smsnobin77/awesome-academic-nlp-labs) ⭐ 27 | 🐛 0 | 📅 2026-11-08 - A curated directory of academic Natural Language Processing (NLP) research labs worldwide.
 * [awesome-balochi-nlp](https://github.com/strickvl/awesome-balochi-nlp) ⭐ 19 | 🐛 0 | 📅 2023-06-03 - A repository for resources relating to NLP in the Balochi language.
 * [Manipuri-NLP](https://github.com/galax19ksh/Manipuri-NLP) ⭐ 11 | 🐛 0 | 📅 2026-10-03 - A comprehensive overview of research regarding Natural Language Processing (NLP) of Manipuri language.
 * [awesome-galicia](https://github.com/geiserx/awesome-galicia) ⭐ 8 | 🐛 3 | 🌐 Shell | 📅 2026-11-06 - Una selección de software open source para Galicia.
@@ -6162,7 +6165,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 * [npm-security-best-practices](https://github.com/lirantal/npm-security-best-practices) ⭐ 1,266 | 🐛 5 | 📅 2026-05-24 - Collection of npm package manager Security Best Practices.
 * [awesome-polars](https://github.com/ddotta/awesome-polars) ⭐ 1,137 | 🐛 0 | 📅 2026-11-05 - A curated list of Polars talks, tools, examples & articles. Contributions welcome !
-* [awesome-express](https://github.com/rajikaimal/awesome-express) ⭐ 862 | 🐛 13 | 📅 2026-08-22 - :octocat: A curated list of awesome express.js resources.
+* [awesome-express](https://github.com/rajikaimal/awesome-express) ⭐ 862 | 🐛 14 | 📅 2026-08-22 - :octocat: A curated list of awesome express.js resources.
 * [awesome-nodejs-learning](https://github.com/kryz81/awesome-nodejs-learning) ⭐ 468 | 🐛 7 | 📅 2023-01-26 - A list limited to the best Node.js Learning Resources.
 * [awesome-ava](https://github.com/avajs/awesome-ava) ⭐ 358 | 🐛 2 | 📅 2022-09-12 - Awesome AVA resources.
 * [Awesome-NodeJS](https://github.com/tejasrsuthar/Awesome-NodeJS) ⭐ 340 | 🐛 2 | 🌐 MDX | 📅 2024-12-20 - A curated collection of best Node.js Resources ✍️.
@@ -6176,12 +6179,12 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Nostr Topic Lists
 
-* [awesome-nostr](https://github.com/aljazceru/awesome-nostr) ⭐ 2,976 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-09 - Nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things.
+* [awesome-nostr](https://github.com/aljazceru/awesome-nostr) ⭐ 2,976 | 🐛 10 | 🌐 JavaScript | 📅 2026-11-09 - Nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things.
 * [awesome-nsite](https://github.com/nostrver-se/awesome-nsite) ⭐ 23 | 🐛 1 | 📅 2026-09-24 - A collection of tools and apps built using the nsite spec which extends the Blossom spec.
 
 ### Notion Topic Lists
 
-* [awesome-notion](https://github.com/spencerpauly/awesome-notion) ⭐ 850 | 🐛 43 | 📅 2026-03-15 - A curated list of awesome Notion related things.
+* [awesome-notion](https://github.com/spencerpauly/awesome-notion) ⭐ 850 | 🐛 45 | 📅 2026-03-15 - A curated list of awesome Notion related things.
 * [awesome-productivity-tools](https://github.com/ProductivityDirectory/awesome-productivity-tools) ⭐ 171 | 🐛 110 | 📅 2024-08-13 - My Awesome list of productivity tools and products.
 
 ### npm Topic Lists
@@ -6197,17 +6200,17 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Nuxt.js Topic Lists
 
-* [awesome](https://github.com/nuxt/awesome) ⭐ 5,552 | 🐛 33 | 📅 2026-10-10 - A curated list of awesome things related to Nuxt.js.
+* [awesome](https://github.com/nuxt/awesome) ⭐ 5,552 | 🐛 34 | 📅 2026-10-10 - A curated list of awesome things related to Nuxt.js.
 
 ### Nvidia Topic Lists
 
-* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,732 | 🐛 9 | 📅 2026-05-11 - Awesome Vulkan ecosystem.
+* [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) ⭐ 3,730 | 🐛 9 | 📅 2026-05-11 - Awesome Vulkan ecosystem.
 * [awesome-nemoclaw](https://github.com/voltagent/awesome-nemoclaw) ⭐ 97 | 🐛 4 | 📅 2026-03-17 - The awesome collection of Nvidia NemoClaw presets, recipes, and playbooks for sandboxed OpenClaw operations.
 * [awesome-nvidia-physical-simulation](https://github.com/tsubasakong/awesome-nvidia-physical-simulation) ⭐ 10 | 🐛 0 | 📅 2026-04-12 - A curated list of resources for NVIDIA's physical-simulation stack — OpenUSD, Omniverse, Warp, PhysX, Newton, Isaac Sim, DSX, and more. Organized by architectural layer.
 
 ### OCaml Topic Lists
 
-* [awesome-ocaml](https://github.com/ocaml-community/awesome-ocaml) ⭐ 3,135 | 🐛 5 | 📅 2026-10-23 - A curated collection of awesome OCaml tools, frameworks, libraries and articles.
+* [awesome-ocaml](https://github.com/ocaml-community/awesome-ocaml) ⭐ 3,134 | 🐛 5 | 📅 2026-10-23 - A curated collection of awesome OCaml tools, frameworks, libraries and articles.
 
 ### oculus Topic Lists
 
@@ -6228,7 +6231,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-spain](https://github.com/geiserx/awesome-spain) ⭐ 373 | 🐛 1 | 🌐 Python | 📅 2026-11-10 - Una selección de software open source que da soporte específico a España.
 * [awesome-ogd-switzerland](https://github.com/rnckp/awesome-ogd-switzerland) ⭐ 184 | 🐛 0 | 🌐 Python | 📅 2026-11-11 - A manually curated list of Open Government Data portals, websites, APIs, tools and other related resources in Switzerland. Relevant links to international websites are listed as well.
 * [awesome-japan-opendata](https://github.com/japan-opendata/awesome-japan-opendata) ⭐ 175 | 🐛 8 | 📅 2026-08-13 - Awesome Japan Open Data - 日本のオープンデータ情報一覧・まとめ.
-* [awesome-europe](https://github.com/geiserx/awesome-europe) ⭐ 154 | 🐛 0 | 🌐 Python | 📅 2026-11-10 - A curated list of open source software for Europe — institutions, regulations, standards, and cross-border infrastructure.
+* [awesome-europe](https://github.com/geiserx/awesome-europe) ⭐ 156 | 🐛 0 | 🌐 Python | 📅 2026-11-10 - A curated list of open source software for Europe — institutions, regulations, standards, and cross-border infrastructure.
 * [open-science-resources](https://github.com/asoplata/open-science-resources) ⭐ 139 | 🐛 5 | 📅 2022-08-12 - A publicly-editable collection of open science resources, including tools, datasets, meta-resources, etc.
 * [open-football](https://github.com/withqwerty/open-football) ⭐ 42 | 🐛 1 | 📅 2026-10-03 - A curated map of open football (soccer) data: free datasets and exports, plus the scrapers and tooling to use them.
 * [awesome-nba-data](https://github.com/JovaniPink/awesome-nba-data) ⭐ 41 | 🐛 3 | 🌐 Python | 📅 2026-11-07 - Curated NBA data sources, APIs, analytics tools, learning resources, and metric explainers.
@@ -6256,31 +6259,31 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Open Source Topic Lists
 
-* [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) ⭐ 19,867 | 🐛 155 | 🌐 Python | 📅 2025-09-03 - Awesome list of open-source startup alternatives to well-known SaaS products 🚀.
-* [open-source-games](https://github.com/bobeff/open-source-games) ⭐ 18,271 | 🐛 49 | 🌐 Python | 📅 2026-02-25 - A list of open source games.
-* [public-apis](https://github.com/marcelscruz/public-apis) ⭐ 9,725 | 🐛 30 | 🌐 JavaScript | 📅 2026-11-13 - A collaborative list of public APIs for developers.
-* [open-source-alternatives](https://github.com/piotrkulpinski/open-source-alternatives) ⭐ 6,902 | 🐛 2 | 📅 2026-11-13 - Curated list of open source alternatives to proprietary software.
-* [awesome-open-source-saas-alternatives](https://github.com/anil-matcha/awesome-open-source-saas-alternatives) ⭐ 3,476 | 🐛 56 | 🌐 JavaScript | 📅 2026-11-13 - Open source alternatives to paid SaaS apps: Notion, Slack, Auth0, Vercel and more. Curated list with licenses and GitHub stars.
+* [awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) ⭐ 19,870 | 🐛 155 | 🌐 Python | 📅 2025-09-03 - Awesome list of open-source startup alternatives to well-known SaaS products 🚀.
+* [open-source-games](https://github.com/bobeff/open-source-games) ⭐ 18,302 | 🐛 49 | 🌐 Python | 📅 2026-02-25 - A list of open source games.
+* [public-apis](https://github.com/marcelscruz/public-apis) ⭐ 9,726 | 🐛 33 | 🌐 JavaScript | 📅 2026-11-14 - A collaborative list of public APIs for developers.
+* [open-source-alternatives](https://github.com/piotrkulpinski/open-source-alternatives) ⭐ 6,905 | 🐛 2 | 📅 2026-11-14 - Curated list of open source alternatives to proprietary software.
+* [awesome-open-source-saas-alternatives](https://github.com/anil-matcha/awesome-open-source-saas-alternatives) ⭐ 3,477 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-13 - Open source alternatives to paid SaaS apps: Notion, Slack, Auth0, Vercel and more. Curated list with licenses and GitHub stars.
 * [awesome-oss](https://github.com/sereneblue/awesome-oss) ⭐ 1,959 | 🐛 4 | 📅 2026-08-15 - A list of open source projects with links to contribute or donate.
 * [awesome\_OpenSetRecognition\_list](https://github.com/gary23ai/awesome_OpenSetRecognition_list) ⭐ 1,211 | 🐛 2 | 📅 2024-03-01 - A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition.
 * [diy-synths](https://github.com/Atarity/diy-synths) ⭐ 598 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-11 - List of open-source synths 🎹.
-* [awesome-jev](https://github.com/cobanov/awesome-jev) ⭐ 595 | 🐛 2 | 📅 2026-11-09 - A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for typed decisions.
-* [awesome-pytest](https://github.com/augustogoulart/awesome-pytest) ⭐ 582 | 🐛 7 | 📅 2026-06-24 - A curated list of awesome pytest resources.
-* [awesome-open-source-alternatives](https://github.com/diegoleme/awesome-open-source-alternatives) ⭐ 515 | 🐛 15 | 📅 2026-11-03 - 😎 A curated list of awesome open-source alternative.
-* [awesome-opensource-israel](https://github.com/lirantal/awesome-opensource-israel) ⭐ 442 | 🐛 10 | 📅 2026-10-18 - A curated list of Israeli-made projects, events, and individuals.
-* [awesome-solana-oss](https://github.com/StockpileLabs/awesome-solana-oss) ⭐ 424 | 🐛 39 | 📅 2026-08-24 - Compilation of awesome open-source Solana repositories on GitHub!
-* [awesome-open-source-power-electronics](https://github.com/upb-lea/awesome-open-source-power-electronics) ⭐ 387 | 🐛 1 | 📅 2026-10-07 - Lists open source power electronic tools.
+* [awesome-jev](https://github.com/cobanov/awesome-jev) ⭐ 597 | 🐛 0 | 📅 2026-11-14 - A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for typed decisions.
+* [awesome-pytest](https://github.com/augustogoulart/awesome-pytest) ⭐ 582 | 🐛 8 | 📅 2026-06-24 - A curated list of awesome pytest resources.
+* [awesome-open-source-alternatives](https://github.com/diegoleme/awesome-open-source-alternatives) ⭐ 515 | 🐛 17 | 📅 2026-11-03 - 😎 A curated list of awesome open-source alternative.
+* [awesome-opensource-israel](https://github.com/lirantal/awesome-opensource-israel) ⭐ 442 | 🐛 11 | 📅 2026-10-18 - A curated list of Israeli-made projects, events, and individuals.
+* [awesome-solana-oss](https://github.com/StockpileLabs/awesome-solana-oss) ⭐ 431 | 🐛 40 | 📅 2026-08-24 - Compilation of awesome open-source Solana repositories on GitHub!
+* [awesome-open-source-power-electronics](https://github.com/upb-lea/awesome-open-source-power-electronics) ⭐ 388 | 🐛 2 | 📅 2026-10-07 - Lists open source power electronic tools.
 * [FLOSS-Games-on-Steam](https://github.com/Poussinou/FLOSS-Games-on-Steam) ⭐ 355 | 🐛 13 | 📅 2026-04-28 - A list of FLOSS games, mods and software available on Steam (86 so far).
 * [Awesome-CustomROM](https://github.com/ImKKingshuk/Awesome-CustomROM) ⭐ 276 | 🐛 1 | 📅 2026-09-21 - Awesome-CustomROM: Explore the World of Custom Android Experiences! Dive into a collection of the best Custom ROMs, featuring cutting-edge features, enhanced performance, and a vibrant developer community. Elevate your Android experience beyond the ordinary! 🌐🚀 #CustomROMs #AndroidDev #OpenSource #XiaomiEU #HyperOS #OriginOS.
 * [cuban-opensource](https://github.com/cuban-opensourcers/cuban-opensource) ⭐ 202 | 🐛 10 | 📅 2024-02-10 - Awesome list of Cuban opensource projects. Just to know what is being openly developed in Cuba.
-* [awesome-builder-programs](https://github.com/doanbactam/awesome-builder-programs) ⭐ 164 | 🐛 1 | 📅 2026-11-10 - A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.
-* [awesome-acoustic](https://github.com/nitnelav/awesome-acoustic) ⭐ 162 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-04 - A list of awesome open-source acoustic packages and resources.
+* [awesome-builder-programs](https://github.com/doanbactam/awesome-builder-programs) ⭐ 164 | 🐛 2 | 📅 2026-11-10 - A curated list of programs, credits, grants, and perks for students, startups, and open-source builders.
+* [awesome-acoustic](https://github.com/nitnelav/awesome-acoustic) ⭐ 163 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-04 - A list of awesome open-source acoustic packages and resources.
 * [progressive-enhancement-resources](https://github.com/voorhoede/progressive-enhancement-resources) ⭐ 151 | 🐛 2 | 📅 2023-02-17 - Resources on Progressive Enhancement. From concept and strategies to feature detection & testing methods. Complete with a list of (code) examples.
 * [awesome-open-source](https://github.com/oscafrica/awesome-open-source) ⭐ 134 | 🐛 2 | 📅 2024-09-27 - 📚 A curated list of awesome resources about open source: projects, articles, books, videos, tools, funding, etc.
 * [awesome-ngo](https://github.com/thiras/awesome-ngo) ⭐ 116 | 🐛 7 | 📅 2022-12-29 - A curated list of FOSS (Free and Open-source Software), freemium tools and guides for NGOs.
 * [Awesome-Bootstrapper-Roadmap](https://github.com/pierpaolo28/Awesome-Bootstrapper-Roadmap) ⭐ 111 | 🐛 1 | 📅 2025-12-29 - 💸 Save $2,000/mo bootstrapping your startup. Exhaustive Open Source SaaS alternatives and a step-by-step roadmap from Idea to Exit.
 * [made-in-indonesia](https://github.com/rujukan/made-in-indonesia) ⭐ 106 | 🐛 6 | 🌐 HTML | 📅 2023-05-12 - Curated list Open source software made by indonesian. 🇮🇩 Project Perangkat lunak sumber terbuka yang dibuat oleh orang indonesia.
-* [awesome-alt-clouds](https://github.com/datum-cloud/awesome-alt-clouds) ⭐ 95 | 🐛 24 | 🌐 MDX | 📅 2026-11-13 - A list of specialized clouds that span traditional infra, AI, data, connectivity, and more.
+* [awesome-alt-clouds](https://github.com/datum-cloud/awesome-alt-clouds) ⭐ 95 | 🐛 27 | 🌐 MDX | 📅 2026-11-13 - A list of specialized clouds that span traditional infra, AI, data, connectivity, and more.
 * [find-oss](https://github.com/SimoMay/find-oss) ⭐ 94 | 🐛 4 | 📅 2026-10-12 - A list of popular open source alternatives to proprietary SaaS.
 * [awesome-hk-open-source](https://github.com/hkgos/awesome-hk-open-source) ⭐ 85 | 🐛 2 | 📅 2018-06-25 - 收集香港開發者的Open Source.
 * [awesome-hacktoberfest-2026](https://github.com/Piyushhbhutoria/awesome-hacktoberfest-2026) ⭐ 63 | 🐛 4 | 🌐 SCSS | 📅 2026-03-11 - We present a curated list of awesome Hacktoberfest 2025 repositories. If you enjoyed this resource, please leave a star :star: to support this project! :sparkles:.
@@ -6300,7 +6303,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-shopify-resources](https://github.com/HerDigitalYard/awesome-shopify-resources) ⭐ 9 | 🐛 5 | 📅 2026-05-07 - 📌 Explore an expertly curated selection of top-notch Shopify resources, libraries, and open-source projects.
 * [data-protection-list](https://github.com/adgellida/data-protection-list) ⭐ 9 | 🐛 0 | 📅 2022-08-21 - 🔒 Manual of resistance to surveillance capitalism - Based on Valentin Delacour version - - Telegram group: -.
 * [awesome-open-source-alternatives](https://github.com/onmyway133/awesome-open-source-alternatives) ⭐ 7 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-09 - A curated list of open source alternatives to popular SaaS.
-* [awesome-free-tools](https://github.com/leoraclet/awesome-free-tools) ⭐ 3 | 🐛 3 | 📅 2026-02-01 - 💸 A curated list of awesome free tools for everyday tasks — focus on open-source and privacy.
+* [awesome-free-tools](https://github.com/leoraclet/awesome-free-tools) ⭐ 3 | 🐛 1 | 📅 2026-02-01 - 💸 A curated list of awesome free tools for everyday tasks — focus on open-source and privacy.
 * [awesome](https://github.com/rvdmei/awesome) ⭐ 2 | 🐛 0 | 📅 2021-07-01 - Every day people create and share awesome things, this list is just a sample of awesome work I have encountered.
 * [awesome\_worktools](https://github.com/schwabochino/awesome_worktools) ⭐ 2 | 🐛 2 | 📅 2025-09-04 - IT-Tools, Project managing.
 * [awesome-hebrew-dev](https://github.com/ofershap/awesome-hebrew-dev) ⭐ 1 | 🐛 1 | 📅 2026-03-07 - Curated list of Hebrew developer resources | רשימה אוצרת של משאבים למפתחים בעברית.
@@ -6313,8 +6316,8 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### OpenAI Topic Lists
 
-* [awesome-gpt-image-2](https://github.com/youmind-openlab/awesome-gpt-image-2) ⭐ 10,281 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-13 - 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. Free & open source.
-* [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) ⭐ 8,164 | 🐛 9 | 🌐 JavaScript | 📅 2025-05-26 - Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabilities.
+* [awesome-gpt-image-2](https://github.com/youmind-openlab/awesome-gpt-image-2) ⭐ 10,286 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-14 - 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. Free & open source.
+* [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) ⭐ 8,166 | 🐛 9 | 🌐 JavaScript | 📅 2025-05-26 - Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabilities.
 * [Awesome-Open-AI-Sora](https://github.com/Curated-Awesome-Lists/Awesome-Open-AI-Sora) ⭐ 260 | 🐛 5 | 📅 2026-09-03 - Sora AI Awesome List – Your go-to resource hub for all things Sora AI, OpenAI's groundbreaking model for crafting realistic scenes from text. Explore a curated collection of articles, videos, podcasts, and news about Sora's capabilities, advancements, and more.
 * [awesome-gpt4-zh-CN](https://github.com/yunwei37/awesome-gpt4-zh-CN) ⭐ 33 | 🐛 0 | 📅 2023-04-14 - 关于 GPT-4 语言模型的提示（prompt）、工具和资源的中文精选列表（自动持续更新）.
 * [awesome-ai](https://github.com/trueai-org/awesome-ai) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2025-03-18 - 收录全球 AI 产品，每小时更新排名。.
@@ -6328,14 +6331,14 @@ Last generated: 2026-11-12, 10396 lists.
 ### OpenBSD Topic Lists
 
 * [awesome-openbsd](https://github.com/ligurio/awesome-openbsd) ⭐ 490 | 🐛 2 | 📅 2026-11-06 - The curated list of awesome OpenBSD resources.
-* [awesome-bsd](https://github.com/DiscoverBSD/awesome-bsd) ⭐ 437 | 🐛 2 | 📅 2026-10-16 - A collection of awesome BSD related stuff.
+* [awesome-bsd](https://github.com/DiscoverBSD/awesome-bsd) ⭐ 438 | 🐛 2 | 📅 2026-10-16 - A collection of awesome BSD related stuff.
 * [Awesome-BSD-Ports-Programs-And-Projects](https://github.com/SaintFenix/Awesome-BSD-Ports-Programs-And-Projects) ⭐ 60 | 🐛 1 | 📅 2020-11-21 - A Repo Detailing BSD Ports, Programs, and Projects.
 
 ### OpenClaw Topic Lists
 
-* [awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) ⭐ 5,218 | 🐛 190 | 📅 2026-10-25 - Agent Skills 终极指南：快速入门、资源推荐、精选技能与实用工具 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Features\&Toolkit.
+* [awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) ⭐ 5,219 | 🐛 194 | 📅 2026-10-25 - Agent Skills 终极指南：快速入门、资源推荐、精选技能与实用工具 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Features\&Toolkit.
 * [awesome-openclaw](https://github.com/alvinreal/awesome-openclaw) ⭐ 751 | 🐛 14 | 📅 2026-10-15 - A curated list of the best OpenClaw resources: official projects, skills, plugins, dashboards, deployment tooling, memory systems, and guides.
-* [awesome-claws](https://github.com/machinae/awesome-claws) ⭐ 516 | 🐛 20 | 📅 2026-03-17 - A curated list of awesome AI agents inspired by OpenClaw.
+* [awesome-claws](https://github.com/machinae/awesome-claws) ⭐ 516 | 🐛 21 | 📅 2026-03-17 - A curated list of awesome AI agents inspired by OpenClaw.
 * [Awesome-OpenClaw-Research](https://github.com/shuolucs/Awesome-OpenClaw-Research) ⭐ 341 | 🐛 5 | 📅 2026-07-05 - 🦞 Research-oriented collection of papers, analyses & resources on the OpenClaw ecosystem.
 * [awesome-openclaw](https://github.com/vincentkoc/awesome-openclaw) ⭐ 149 | 🐛 73 | 📅 2026-04-20 - Curated awesome list for OpenClaw (formerly Moltbot/Clawdbot): skills, plugins, memory systems, MCP tools, deployment stacks, ecosystem platforms, and developer tooling.
 * [awesome-openclaw-plugins](https://github.com/composio-community/awesome-openclaw-plugins) ⭐ 49 | 🐛 14 | 🌐 TypeScript | 📅 2026-04-10 - A curated collection of OpenClaw plugins — covering everything from git stats, cost tracking, and secret detection to Docker, API testing, and time tracking. The awesome list for the OpenClaw ecosystem.
@@ -6358,19 +6361,19 @@ Last generated: 2026-11-12, 10396 lists.
 ### OpenGL Topic Lists
 
 * [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,457 | 🐛 1 | 📅 2026-01-09 - A curated list of awesome OpenGL libraries, debuggers and resources.
-* [awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) ⭐ 1,379 | 🐛 2 | 📅 2023-08-21 - :sparkler: Compilation of the best resources to learn programming OpenGL Shaders.
+* [awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) ⭐ 1,380 | 🐛 2 | 📅 2023-08-21 - :sparkler: Compilation of the best resources to learn programming OpenGL Shaders.
 * [awesome-openxr](https://github.com/Elameri/awesome-openxr) ⭐ 26 | 🐛 1 | 📅 2024-02-05 - A curated list of awesome OpenXR resources.
 
 ### OpenStreetMap Topic Lists
 
-* [awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap) ⭐ 1,028 | 🐛 48 | 📅 2026-10-05 - 😎 Curated list of awesome OpenSteetMap-projects.
-* [awesome-bikeprojects](https://github.com/mltbnz/awesome-bikeprojects) ⭐ 204 | 🐛 7 | 📅 2026-10-25 - A curated list of awesome projects around the bicycle 🚲.
+* [awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetmap) ⭐ 1,028 | 🐛 49 | 📅 2026-10-05 - 😎 Curated list of awesome OpenSteetMap-projects.
+* [awesome-bikeprojects](https://github.com/mltbnz/awesome-bikeprojects) ⭐ 204 | 🐛 2 | 📅 2026-11-13 - A curated list of awesome projects around the bicycle 🚲.
 * [Awesome-Electrical-Grid-Mapping](https://github.com/open-energy-transition/Awesome-Electrical-Grid-Mapping) ⭐ 170 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-23 - A curated dataset of global electrical grid maps, datasets and resources.
 * [awesome-overpass-turbo](https://github.com/cipher387/awesome-overpass-turbo) ⭐ 36 | 🐛 0 | 📅 2024-02-26 - Learning materials and tools for using Overpass turbo (web based data mining tool for OpenStreetMap that runs Overpass API query and shows the results on map).
 
 ### OpenTelemetry Topic Lists
 
-* [awesome-opentelemetry](https://github.com/magsther/awesome-opentelemetry) ⭐ 992 | 🐛 13 | 📅 2026-11-07 - A curated list of OpenTelemetry resources.
+* [awesome-opentelemetry](https://github.com/magsther/awesome-opentelemetry) ⭐ 992 | 🐛 14 | 📅 2026-11-07 - A curated list of OpenTelemetry resources.
 
 ### OpenUI5 Topic Lists
 
@@ -6378,7 +6381,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Operating system Topic Lists
 
-* [awesome-low-level-programming-languages](https://github.com/robertmuth/awesome-low-level-programming-languages) ⭐ 289 | 🐛 0 | 📅 2026-10-17 - A curated list of low level programming languages (i.e. suitable for OS and game programming).
+* [awesome-low-level-programming-languages](https://github.com/robertmuth/awesome-low-level-programming-languages) ⭐ 288 | 🐛 0 | 📅 2026-10-17 - A curated list of low level programming languages (i.e. suitable for OS and game programming).
 * [free-operating-system-resources](https://github.com/getvmio/free-operating-system-resources) ⭐ 8 | 🐛 0 | 📅 2025-05-01 - Operating System Free Resources | This repo collects 36 of free resources for Operating System. 🖥️ Delve into the core of computing with our OS Kernel repository! Offering a comprehensive collection of free resources on operating systems and an interactive online playground, this is your lab for .
 
 ### Oracle Database Topic Lists
@@ -6392,19 +6395,19 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### OSINT Topic Lists
 
-* [awesome-osint](https://github.com/jivoi/awesome-osint) ⭐ 31,043 | 🐛 3 | 📅 2026-11-12 - :scream: A curated list of amazingly awesome OSINT.
+* [awesome-osint](https://github.com/jivoi/awesome-osint) ⭐ 31,065 | 🐛 3 | 📅 2026-11-12 - :scream: A curated list of amazingly awesome OSINT.
 * [Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT) ⭐ 2,943 | 🐛 24 | 📅 2024-08-03 - 📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources.
-* [Awesome-Asset-Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery) ⭐ 2,901 | 🐛 20 | 📅 2025-01-22 - List of Awesome Asset Discovery Resources.
-* [non-typical-OSINT-guide](https://github.com/OffcierCia/non-typical-OSINT-guide) ⭐ 1,623 | 🐛 6 | 📅 2026-07-15 - The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only. PRs are welcome!
+* [Awesome-Asset-Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery) ⭐ 2,902 | 🐛 20 | 📅 2025-01-22 - List of Awesome Asset Discovery Resources.
+* [non-typical-OSINT-guide](https://github.com/OffcierCia/non-typical-OSINT-guide) ⭐ 1,624 | 🐛 6 | 📅 2026-07-15 - The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only. PRs are welcome!
 * [Osint-Resources](https://github.com/OldBonhart/Osint-Resources) ⭐ 172 | 🐛 0 | 📅 2019-07-06 - Data collected from publicly available sources to be used in an intelligence context.
-* [open-source-aviation](https://github.com/lucianosrp/open-source-aviation) ⭐ 145 | 🐛 1 | 🌐 Python | 📅 2026-11-12 - A list of open-source aviation projects and data.
+* [open-source-aviation](https://github.com/lucianosrp/open-source-aviation) ⭐ 145 | 🐛 1 | 🌐 Python | 📅 2026-11-13 - A list of open-source aviation projects and data.
 * [osint-notes](https://github.com/teal33t/osint-notes) ⭐ 77 | 🐛 1 | 📅 2026-08-20 - Another Comprehensive Collection of OSINT Tools and Notes.
 * [awesome-osint](https://github.com/edwardtay/awesome-osint) ⭐ 31 | 🐛 19 | 📅 2026-11-09 - A curated list of 360+ OSINT tools: people search, domains, social media, geolocation, breach data, forensics, and frameworks.
 * [awesome-snail-osint](https://github.com/snailsploit/awesome-snail-osint) ⭐ 24 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-01 - An Awesome List of OSINT Resources.
 
 ### P2P Topic Lists
 
-* [awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) ⭐ 1,478 | 🐛 25 | 📅 2026-09-07 - Curated list of open-source anti-censorship tools.
+* [awesome-anti-censorship](https://github.com/danoctavian/awesome-anti-censorship) ⭐ 1,477 | 🐛 26 | 📅 2026-09-07 - Curated list of open-source anti-censorship tools.
 * [awesome-mesh](https://github.com/moarpepes/awesome-mesh) ⭐ 406 | 🐛 3 | 📅 2023-03-22 - This is a list for mesh networking: Documentation, Free Software mesh protocols, and applications. A mesh network is a network topology in which each node relays data for the network. All mesh nodes cooperate in the distribution of data in the network.
 
 ### Package manager Topic Lists
@@ -6426,7 +6429,7 @@ Last generated: 2026-11-12, 10396 lists.
 ### PHP Topic Lists
 
 * [awesome-software-design](https://github.com/qdenka/awesome-software-design) ⭐ 862 | 🐛 2 | 📅 2026-04-05 - Organizing and structuring software through patterns, decisions, and verified design rules.
-* [awesome-web-scraper](https://github.com/duyet/awesome-web-scraper) ⭐ 295 | 🐛 40 | 📅 2024-04-04 - A collection of awesome web scaper, crawler.
+* [awesome-web-scraper](https://github.com/duyet/awesome-web-scraper) ⭐ 295 | 🐛 41 | 📅 2024-04-04 - A collection of awesome web scaper, crawler.
 * [awesome-php-jobs](https://github.com/filhodanuvem/awesome-php-jobs) ⭐ 145 | 🐛 0 | 🌐 PHP | 📅 2026-07-13 - 🐘A curated list of companies using php.
 * [awesome-payment](https://github.com/baiyutang/awesome-payment) ⭐ 101 | 🐛 0 | 📅 2022-11-16 - 支付业务常用汇总.
 * [awesome-silverstripe-cms](https://github.com/wernerkrauss/awesome-silverstripe-cms) ⭐ 56 | 🐛 2 | 🌐 Shell | 📅 2024-02-22 - Useful resources for Silverstripe CMS and framework.
@@ -6445,7 +6448,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Pixel Art Topic Lists
 
-* [awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) ⭐ 1,280 | 🐛 8 | 📅 2026-10-01 - Curated list of everything awesome around pixel art.
+* [awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) ⭐ 1,287 | 🐛 8 | 📅 2026-10-01 - Curated list of everything awesome around pixel art.
 
 ### Plain Text Accounting Topic Lists
 
@@ -6453,8 +6456,8 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Platform Engineering Topic Lists
 
-* [awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) ⭐ 538 | 🐛 0 | 🌐 Shell | 📅 2026-11-08 - Curated list of tools and resources for Platform Engineering.
-* [awesome-platform-engineering](https://github.com/toptechevangelist/awesome-platform-engineering) ⭐ 246 | 🐛 5 | 📅 2026-11-11 - An awesome list of Platform Engineering 平台工程列表.
+* [awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) ⭐ 539 | 🐛 0 | 🌐 Shell | 📅 2026-11-08 - Curated list of tools and resources for Platform Engineering.
+* [awesome-platform-engineering](https://github.com/toptechevangelist/awesome-platform-engineering) ⭐ 246 | 🐛 6 | 📅 2026-11-11 - An awesome list of Platform Engineering 平台工程列表.
 
 ### Panic Playdate Topic Lists
 
@@ -6474,7 +6477,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Portfolio Topic Lists
 
-* [awesome-github-pages-portfolios](https://github.com/guilyx/awesome-github-pages-portfolios) ⭐ 458 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-11 - 😎 A curated list of awesome GitHub pages porfolio templates 📝.
+* [awesome-github-pages-portfolios](https://github.com/guilyx/awesome-github-pages-portfolios) ⭐ 458 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-11 - 😎 A curated list of awesome GitHub pages porfolio templates 📝.
 * [awesome-uvx](https://github.com/carlosferreyra/awesome-uvx) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2026-11-10 - A curated collection of Python CLI tools available via uvx or pipx.
 * [developer-portfolio-homepages](https://github.com/fu4303/developer-portfolio-homepages) ⭐ 5 | 🐛 0 | 📅 2021-04-28 - 👩‍🎤🚧 WIP 🚧 A collection of portfolio homepages for GitHub users I have found very helpful for various things. From creative, to blog articles to coding structure.
 
@@ -6496,16 +6499,16 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Privacy Topic Lists
 
-* [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 336,571 | 🐛 0 | 📅 2026-11-07 - A list of Free Software network services and web applications which can be hosted on your own servers.
-* [awesome-privacy](https://github.com/pluja/awesome-privacy) ⭐ 20,287 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-05 - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-* [awesome-privacy](https://github.com/lissy93/awesome-privacy) ⭐ 10,077 | 🐛 1 | 🌐 Astro | 📅 2026-11-11 - 🦄 A curated list of privacy & security-focused software and services.
+* [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 336,862 | 🐛 0 | 📅 2026-11-07 - A list of Free Software network services and web applications which can be hosted on your own servers.
+* [awesome-privacy](https://github.com/pluja/awesome-privacy) ⭐ 20,289 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-05 - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+* [awesome-privacy](https://github.com/lissy93/awesome-privacy) ⭐ 10,078 | 🐛 2 | 🌐 Astro | 📅 2026-11-13 - 🦄 A curated list of privacy & security-focused software and services.
 * [alternative-frontends](https://github.com/digitalblossom/alternative-frontends) ⭐ 2,334 | 🐛 29 | 📅 2024-03-21 - 🔐🌐 Privacy-respecting web frontends for popular services.
-* [awesome-privacy-chinese](https://github.com/international-explore/awesome-privacy-chinese) ⭐ 487 | 🐛 2 | 🌐 HTML | 📅 2026-10-05 - \[WIP]国内隐私合规技术交流.
+* [awesome-privacy-chinese](https://github.com/international-explore/awesome-privacy-chinese) ⭐ 488 | 🐛 2 | 🌐 HTML | 📅 2026-10-05 - \[WIP]国内隐私合规技术交流.
 * [awesome-privacy](https://github.com/paulaime/awesome-privacy) ⭐ 414 | 🐛 17 | 📅 2026-10-13 - A curated list of tools and services that respect your privacy.
 * [awesome-aleo](https://github.com/howardwu/awesome-aleo) ⭐ 395 | 🐛 2 | 📅 2025-09-06 - 🏎️ A curated list of Aleo & Leo code and resources 🏎️.
 * [awesome-privacy](https://github.com/guyanqi/awesome-privacy) ⭐ 343 | 🐛 2 | 📅 2024-07-19 - Repository for collection of research papers on privacy.
-* [awesome-gdpr](https://github.com/oppoverbakke/awesome-gdpr) ⭐ 264 | 🐛 20 | 📅 2026-10-10 - Protection of natural persons with regard to the processing of personal data and on the free movement of such data.
-* [email-aliasing-comparison](https://github.com/fynks/email-aliasing-comparison) ⭐ 84 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-02 - Compare 10+ email alias services by features, pricing, security, privacy, and ease of use.
+* [awesome-gdpr](https://github.com/oppoverbakke/awesome-gdpr) ⭐ 264 | 🐛 20 | 📅 2026-11-13 - Protection of natural persons with regard to the processing of personal data and on the free movement of such data.
+* [email-aliasing-comparison](https://github.com/fynks/email-aliasing-comparison) ⭐ 85 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-02 - Compare 10+ email alias services by features, pricing, security, privacy, and ease of use.
 * [awesome-data-takeout](https://github.com/ivbeg/awesome-data-takeout) ⭐ 79 | 🐛 0 | 📅 2026-11-11 - Awesome list of data export pages/tools for most common online services.
 * [awesome-darknet](https://github.com/shadawck/awesome-darknet) ⭐ 61 | 🐛 0 | 📅 2024-06-16 - Networks and Tools that are used to access and navigate on "darknets".
 * [awesome-privacy](https://github.com/Narayana108/awesome-privacy) ⭐ 39 | 🐛 3 | 📅 2026-10-09 - A list of opensource privacy centered software, tools and web sites.
@@ -6522,23 +6525,23 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Product Management Topic Lists
 
-* [awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) ⭐ 2,636 | 🐛 4 | 📅 2026-11-09 - 👔 How to transition from software development to engineering management.
-* [awesome-product-management](https://github.com/dend/awesome-product-management) ⭐ 2,465 | 🐛 92 | 🌐 CSS | 📅 2026-11-07 - 🚀 A curated list of awesome resources for product/program managers to learn and grow.
-* [awesome-product-manager](https://github.com/yuhenobi/awesome-product-manager) ⭐ 339 | 🐛 0 | 📅 2026-11-08 - A curated list of awesome resources for product managers to learn and grow.
+* [awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) ⭐ 2,637 | 🐛 4 | 📅 2026-11-09 - 👔 How to transition from software development to engineering management.
+* [awesome-product-management](https://github.com/dend/awesome-product-management) ⭐ 2,466 | 🐛 93 | 🌐 CSS | 📅 2026-11-07 - 🚀 A curated list of awesome resources for product/program managers to learn and grow.
+* [awesome-product-manager](https://github.com/yuhenobi/awesome-product-manager) ⭐ 339 | 🐛 0 | 📅 2026-11-13 - A curated list of awesome resources for product managers to learn and grow.
 * [awesome\_product\_design](https://github.com/tianma-if/awesome_product_design) ⭐ 110 | 🐛 1 | 📅 2026-07-07 - 🚀 现代产品经理与设计师的硬核武器库：系统化产品理论、前沿 AI 工作流、实战文档模板与工具箱，助你打造极致体验的产品。.
 * [Awesome-Product-Management](https://github.com/prakashsellathurai/Awesome-Product-Management) ⭐ 66 | 🐛 4 | 📅 2021-12-19 - A curated list of Product Management Resources :seedling:.
 * [awesome-product-management-zh](https://github.com/zuojiangtao/awesome-product-management-zh) ⭐ 16 | 🐛 0 | 📅 2023-12-20 - 🍁供产品/项目经理学习和成长的中文精选资源列表。.
 
 ### ProductHunt Topic Lists
 
-* [awesome-launch-platforms](https://github.com/DirectorySurf/awesome-launch-platforms) ⭐ 272 | 🐛 80 | 📅 2026-10-15 - Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.
+* [awesome-launch-platforms](https://github.com/DirectorySurf/awesome-launch-platforms) ⭐ 272 | 🐛 81 | 📅 2026-10-15 - Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.
 
 ### Programming Topic Lists
 
-* [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) ⭐ 562,215 | 🐛 702 | 🌐 Markdown | 📅 2026-11-08 - Master programming by recreating your favorite technologies from scratch.
+* [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) ⭐ 562,406 | 🐛 703 | 🌐 Markdown | 📅 2026-11-08 - Master programming by recreating your favorite technologies from scratch.
 * [awesome-programming-books](https://github.com/zero-equals-false/awesome-programming-books) ⭐ 2,126 | 🐛 6 | 📅 2023-10-24 - 📚 A curated list of awesome programming books (Algorithms and data structures, Artificial intelligence, Software Architecture, Human–computer interaction, Operating Systems, Database Systems, IT Security, Concurrency, Interpreters and Compilers, High-Performance Computing, Distributed Systems, Game Development, Mathematical optimization).
 * [programming-math-science](https://github.com/bobeff/programming-math-science) ⭐ 1,925 | 🐛 6 | 📅 2026-11-10 - This is a list of links to different freely available learning resources about computer programming, math, and science.
-* [awesome-devbook](https://github.com/738/awesome-devbook) ⭐ 1,003 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-09 - 📕 국내 개발 도서 리스트.
+* [awesome-devbook](https://github.com/738/awesome-devbook) ⭐ 1,004 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-09 - 📕 국내 개발 도서 리스트.
 * [awesome-russian-it](https://github.com/unchase/awesome-russian-it) ⭐ 819 | 🐛 6 | 🌐 HTML | 📅 2025-01-16 - :book: :headphones: :tv: :calendar: Список полезных русскоязычных ресурсов, связанных с ИТ -.
 * [awesome-prolog](https://github.com/klaudiosinani/awesome-prolog) ⭐ 579 | 🐛 13 | 📅 2025-09-24 - Curated list of Prolog packages and resources.
 * [awesome-coding-camps](https://github.com/theodesp/awesome-coding-camps) ⭐ 393 | 🐛 0 | 📅 2023-12-28 - A curated list of awesome Coding Bootcamps and websites to help you boost your career in Programming.
@@ -6599,9 +6602,9 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Programming language Topic Lists
 
-* [awesome-games-of-coding](https://github.com/michelpereira/awesome-games-of-coding) ⭐ 2,172 | 🐛 0 | 📅 2026-11-11 - A curated list of games that can teach you how to learn a programming language.
+* [awesome-games-of-coding](https://github.com/michelpereira/awesome-games-of-coding) ⭐ 2,173 | 🐛 0 | 📅 2026-11-11 - A curated list of games that can teach you how to learn a programming language.
 * [awesome-AutoIt](https://github.com/J2TeaM/awesome-AutoIt) ⭐ 929 | 🐛 1 | 📅 2022-08-21 - :star: A curated list of awesome UDFs, example scripts, tools and useful resources for AutoIt.
-* [awesome-programming-languages](https://github.com/ChessMax/awesome-programming-languages) ⭐ 848 | 🐛 4 | 🌐 Markdown | 📅 2026-11-09 - The list of awesome programming languages that you might be interested in.
+* [awesome-programming-languages](https://github.com/ChessMax/awesome-programming-languages) ⭐ 848 | 🐛 5 | 🌐 Markdown | 📅 2026-11-09 - The list of awesome programming languages that you might be interested in.
 * [awesome-basic](https://github.com/JohnBlood/awesome-basic) ⭐ 210 | 🐛 9 | 📅 2026-06-08 - A curated list of awesome BASIC dialects, IDEs, and tutorials.
 * [awesome-aha](https://github.com/jondot/awesome-aha) ⭐ 83 | 🐛 0 | 📅 2018-01-04 - Awesome list for "Aha!" moments related to programming and computer science. Accelerate your learning.
 * [awesome-taglines](https://github.com/miketheman/awesome-taglines) ⭐ 34 | 🐛 0 | 📅 2025-02-14 - Awesome list of software taglines.
@@ -6614,29 +6617,29 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Project management Topic Lists
 
-* [awesome-engineering-management](https://github.com/engineering-management/awesome-engineering-management) ⭐ 2,796 | 🐛 6 | 📅 2026-11-10 - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
+* [awesome-engineering-management](https://github.com/engineering-management/awesome-engineering-management) ⭐ 2,797 | 🐛 6 | 📅 2026-11-10 - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
 * [awesome-project-management](https://github.com/shahedbd/awesome-project-management) ⭐ 817 | 🐛 34 | 📅 2026-07-28 - Awesome lists about Project Management interesting and useful topics.
 * [awesome-tpm](https://github.com/kuchin/awesome-tpm) ⭐ 319 | 🐛 0 | 📅 2022-03-23 - A curated and opinionated list of resources for Technical Program Managers.
 * [awesome-working-management-toolkit](https://github.com/ekaone/awesome-working-management-toolkit) ⭐ 1 | 🐛 0 | 📅 2023-03-10 - 🏫 📆 Collections for working management toolkit to increase your productivity.
 
 ### Prompt Engineering Topic Lists
 
-* [awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) ⭐ 13,780 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-13 - 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source.
-* [awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) ⭐ 10,393 | 🐛 18 | 📅 2026-11-13 - 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.
-* [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) ⭐ 6,447 | 🐛 146 | 🌐 TypeScript | 📅 2026-11-12 - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc.
-* [awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image) ⭐ 2,296 | 🐛 5 | 🌐 Python | 📅 2026-11-13 - A curated collection of the best GPT Image 2 and GPT Image 2.5 prompts and examples. The prompts come from top creators on X.
-* [awesome-seedance-2-prompts](https://github.com/youmind-openlab/awesome-seedance-2-prompts) ⭐ 2,219 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-13 - 🎬 2000+ curated Seedance 2.0 video generation prompts — cinematic, anime, UGC, ads, meme styles. Includes Seedance API guides, character consistency tips, and advanced video workflows.
+* [awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) ⭐ 13,782 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-14 - 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 languages. Google Gemini AI image generation. Free & open source.
+* [awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) ⭐ 10,391 | 🐛 18 | 📅 2026-11-14 - 🚀 An awesome list of curated Nano Banana pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano banana pro(Nano banana 2) AI image model.
+* [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) ⭐ 6,449 | 🐛 147 | 🌐 TypeScript | 📅 2026-11-13 - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc.
+* [awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image) ⭐ 2,297 | 🐛 5 | 🌐 Python | 📅 2026-11-14 - A curated collection of the best GPT Image 2 and GPT Image 2.5 prompts and examples. The prompts come from top creators on X.
+* [awesome-seedance-2-prompts](https://github.com/youmind-openlab/awesome-seedance-2-prompts) ⭐ 2,219 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-14 - 🎬 2000+ curated Seedance 2.0 video generation prompts — cinematic, anime, UGC, ads, meme styles. Includes Seedance API guides, character consistency tips, and advanced video workflows.
 * [Awesome-Prompting-on-Vision-Language-Model](https://github.com/JindongGu/Awesome-Prompting-on-Vision-Language-Model) ⭐ 512 | 🐛 0 | 📅 2025-03-18 - This repo lists relevant papers summarized in our survey paper: A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models.
-* [awesome-seedream-4.5](https://github.com/YouMind-OpenLab/awesome-seedream-4.5) ⭐ 64 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-13 - 🍌 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Banana Pro alternative — only 1/3 the cost. Open-source prompt engineering library.
+* [awesome-seedream-4.5](https://github.com/YouMind-OpenLab/awesome-seedream-4.5) ⭐ 64 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-14 - 🍌 100+ hand-picked Seedream 4.5 prompts with images, multilingual support, and instant gallery preview. The best Nano Banana Pro alternative — only 1/3 the cost. Open-source prompt engineering library.
 * [awesome-parametric-knowledge-in-llms](https://github.com/trae1oung/awesome-parametric-knowledge-in-llms) ⭐ 44 | 🐛 1 | 📅 2025-05-09 - Must-read papers and blogs about parametric knowledge mechanism in LLMs.
 * [awesome-prompt-engineering](https://github.com/prompt-engineering/awesome-prompt-engineering) ⭐ 27 | 🐛 0 | 📅 2023-03-30 - Awesome for your to collections.
-* [awesome-gpt-image-1.5](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5) ⭐ 26 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-13 - 🎨 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library.
+* [awesome-gpt-image-1.5](https://github.com/YouMind-OpenLab/awesome-gpt-image-1.5) ⭐ 26 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-14 - 🎨 100+ selected GPT Image 1.5 prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library.
 * [awesome-nanobanana-pro-prompts](https://github.com/ionic-errrrs-code/awesome-nanobanana-pro-prompts) ⭐ 26 | 🐛 0 | 🌐 JavaScript | 📅 2026-01-24 - 🚀 An awesome list of 12,000+ curated Nano Banana Pro prompts and examples. Your go-to resource for mastering prompt engineering and exploring the creative potential of the Nano Banana Pro (Nano Banana 2) AI image model.
-* [awesome-gemini-omni-prompts](https://github.com/atlascloudai/awesome-gemini-omni-prompts) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-13 - Gemini Omni API Prompts collection updated in real time every day, designed to help creators find inspiration faster. Free & Open Source.
-* [awesome-seedance-2-prompt](https://github.com/astorie-ai/awesome-seedance-2-prompt) ⭐ 17 | 🐛 0 | 🌐 Shell | 📅 2026-11-13 - Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.
+* [awesome-gemini-omni-prompts](https://github.com/atlascloudai/awesome-gemini-omni-prompts) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-14 - Gemini Omni API Prompts collection updated in real time every day, designed to help creators find inspiration faster. Free & Open Source.
+* [awesome-seedance-2-prompt](https://github.com/astorie-ai/awesome-seedance-2-prompt) ⭐ 17 | 🐛 0 | 🌐 Shell | 📅 2026-11-14 - Curated Seedance 2.0 video generation prompts, examples, workflows, and API guides by Martini Art.
 * [awesome-gpt-image-2-prompts](https://github.com/ToseaAI/awesome-gpt-image-2-prompts) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-04-22 - 60 production-grade prompts for OpenAI's GPT Image 2 - curated, bilingual, fully source-attributed. Live previews on Tosea.ai.
 * [awesome-semantic-textual-similarity](https://github.com/superbrucejia/awesome-semantic-textual-similarity) ⭐ 13 | 🐛 0 | 📅 2025-07-19 - Awesome Semantic Textual Similarity: a curated list of Semantic Textual Similarity in Large Language Models and NLP.
-* [Awesome-muse-video-prompts-and-skills](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-13 - Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual guides.
+* [Awesome-muse-video-prompts-and-skills](https://github.com/imagineVid/Awesome-muse-video-prompts-and-skills) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-14 - Source-backed Muse Video prompts with real result clips, temporal consistency tests, camera workflows, and multilingual guides.
 * [awesome-prompt-engineering](https://github.com/tysoncung/awesome-prompt-engineering) ⭐ 2 | 🐛 2 | 📅 2025-10-27 - 🚀 A curated list of awesome prompt engineering resources, tools, and techniques for LLMs.
 
 ### Pug Topic Lists
@@ -6661,7 +6664,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### PWA Topic Lists
 
-* [awesome-pwa](https://github.com/hemanth/awesome-pwa) ⭐ 4,947 | 🐛 161 | 🌐 JavaScript | 📅 2026-08-10 - A curated list of Progressive Web Apps, resources, tools and articles.
+* [awesome-pwa](https://github.com/hemanth/awesome-pwa) ⭐ 4,947 | 🐛 163 | 🌐 JavaScript | 📅 2026-08-10 - A curated list of Progressive Web Apps, resources, tools and articles.
 * [pwa-awesome-ru](https://github.com/FluorescentHallucinogen/pwa-awesome-ru) ⭐ 108 | 🐛 3 | 📅 2025-10-16 - A curated list of awesome PWA resources (primarily in Russian).
 
 ### PyCharm Topic Lists
@@ -6673,12 +6676,12 @@ Last generated: 2026-11-12, 10396 lists.
 
 * [pycrumbs](https://github.com/kirang89/pycrumbs) ⭐ 3,245 | 🐛 9 | 📅 2023-07-04 - Bits and bytes of Python from the Internet.
 * [awesome-dash](https://github.com/ucg8j/awesome-dash) ⭐ 2,274 | 🐛 1 | 🌐 Python | 📅 2024-12-30 - A curated list of awesome Dash (plotly) resources.
-* [awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio) ⭐ 1,723 | 🐛 40 | 📅 2026-09-11 - Curated list of python software and packages related to scientific research in audio.
+* [awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio) ⭐ 1,724 | 🐛 41 | 📅 2026-09-11 - Curated list of python software and packages related to scientific research in audio.
 * [awesome-python](https://github.com/uhub/awesome-python) ⭐ 1,199 | 🐛 0 | 📅 2026-10-30 - A curated list of awesome Python frameworks, libraries and software.
 * [awesome-pyproject](https://github.com/carlosperate/awesome-pyproject) ⭐ 1,018 | 🐛 6 | 📅 2026-08-13 - An Awesome List of projects using the pyproject.toml Python configuration file.
 * [awesome-python-security](https://github.com/guardrailsio/awesome-python-security) ⭐ 968 | 🐛 26 | 📅 2023-08-24 - Awesome Python Security resources 🕶🐍🔐.
 * [awesome-computational-social-science](https://github.com/gesiscss/awesome-computational-social-science) ⭐ 964 | 🐛 5 | 🌐 R | 📅 2026-10-13 - A list of awesome resources for Computational Social Science.
-* [awesome-robotframework](https://github.com/MarketSquare/awesome-robotframework) ⭐ 511 | 🐛 0 | 🌐 Python | 📅 2026-10-22 - A curated list of awesome Robot Framework resources and libraries.
+* [awesome-robotframework](https://github.com/MarketSquare/awesome-robotframework) ⭐ 511 | 🐛 1 | 🌐 Python | 📅 2026-10-22 - A curated list of awesome Robot Framework resources and libraries.
 * [awesome-python](https://github.com/dylanhogg/awesome-python) ⭐ 470 | 🐛 15 | 📅 2026-11-04 - 🐍 Hand-picked awesome Python libraries and frameworks, organised by category.
 * [awesome-odoo](https://github.com/desdelinux/awesome-odoo) ⭐ 436 | 🐛 9 | 📅 2025-10-22 - A curated list of awesome Odoo resources.
 * [awesome-flet](https://github.com/flet-dev/awesome-flet) ⭐ 320 | 🐛 0 | 🌐 Python | 📅 2026-10-24 - ⭐ An awesome list that curates the best Flet extensions, libraries, tools, tutorials, articles and more.
@@ -6694,7 +6697,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-python-touchdesigner](https://github.com/ulgens/awesome-python-touchdesigner) ⭐ 14 | 🐛 33 | 📅 2026-11-06 - Curated list of awesome Python - TouchDesigner resources.
 * [awesome-tokenizers](https://github.com/nlpoptimize/awesome-tokenizers) ⭐ 14 | 🐛 0 | 📅 2025-04-10 - A curated list of tokenizer libraries for blazing-fast NLP processing.
 * [Amazing-Python-Modules](https://github.com/clementwzk/Amazing-Python-Modules) ⭐ 9 | 🐛 0 | 📅 2021-01-30 - A sorted list of the best python modules, famous or not.
-* [awesome-jev-by-typesafe](https://github.com/Anil-matcha/awesome-jev-by-typesafe) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-10-13 - Evidence-backed use cases, patterns, prompts, and starter code for TypeSafe Jev — a System One model for fast, typed, confidence-aware decisions in software.
+* [awesome-jev-by-typesafe](https://github.com/Anil-matcha/awesome-jev-by-typesafe) ⭐ 5 | 🐛 2 | 🌐 Python | 📅 2026-10-13 - Evidence-backed use cases, patterns, prompts, and starter code for TypeSafe Jev — a System One model for fast, typed, confidence-aware decisions in software.
 * [socket-programming](https://github.com/eqba1/socket-programming) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2022-07-03 - A curated list of awesome Socket Programming frameworks, libraries, software and resources.
 * [best-of-awesome](https://github.com/wolforest/best-of-awesome) ⭐ 3 | 🐛 0 | 📅 2024-01-09 - A list of best Python open source projects.
 * [Python-Awesome](https://github.com/spy86/Python-Awesome) ⭐ 1 | 🐛 0 | 📅 2021-09-26 - Awesome Python.
@@ -6714,10 +6717,10 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Quantum Computing Topic Lists
 
-* [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing) ⭐ 3,300 | 🐛 37 | 📅 2024-07-24 - A curated list of awesome quantum computing learning and developing resources.
-* [awesome-quantum-software](https://github.com/qosf/awesome-quantum-software) ⭐ 2,427 | 🐛 22 | 📅 2026-09-24 - Curated list of open-source quantum software projects.
+* [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing) ⭐ 3,301 | 🐛 36 | 📅 2024-07-24 - A curated list of awesome quantum computing learning and developing resources.
+* [awesome-quantum-software](https://github.com/qosf/awesome-quantum-software) ⭐ 2,427 | 🐛 21 | 📅 2026-09-24 - Curated list of open-source quantum software projects.
 * [awesome-qsharp](https://github.com/ebraminio/awesome-qsharp) ⭐ 183 | 🐛 0 | 📅 2022-08-11 - A curated list of Q# code and resources.
-* [awesome-qc](https://github.com/xatta-trone/awesome-qc) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-13 - A curated collection of QC (Quantum Computing) resources—libraries, projects, tutorials, papers, and more—for researchers and developers in the field.
+* [awesome-qc](https://github.com/xatta-trone/awesome-qc) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-14 - A curated collection of QC (Quantum Computing) resources—libraries, projects, tutorials, papers, and more—for researchers and developers in the field.
 
 ### quarto Topic Lists
 
@@ -6734,8 +6737,8 @@ Last generated: 2026-11-12, 10396 lists.
 ### Retrieval-Augmented Generation Topic Lists
 
 * [Awesome-GraphRAG](https://github.com/DEEP-PolyU/Awesome-GraphRAG) ⭐ 2,687 | 🐛 20 | 📅 2026-06-02 - Awesome-GraphRAG: A curated list of resources (surveys, papers, benchmarks, and opensource projects) on graph-based retrieval-augmented generation.
-* [Awesome-RAG](https://github.com/Danielskry/Awesome-RAG) ⭐ 1,427 | 🐛 161 | 📅 2026-10-06 - 😎 Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI.
-* [awesome-ai-memory](https://github.com/iaar-shanghai/awesome-ai-memory) ⭐ 1,309 | 🐛 25 | 🌐 Python | 📅 2026-11-12 - Awesome AI Memory | LLM Memory | A curated knowledge base on AI memory for LLMs and agents, covering long-term memory, reasoning, retrieval, and memory-native system design. Awesome-AI-Memory 是一个 集中式、持续更新的 AI 记忆知识库，系统性整理了与 大模型记忆（LLM Memory）与智能体记忆（Agent Memory） 相关的前沿研究、工程框架、系统设计、评测基准与真实应用实践。.
+* [Awesome-RAG](https://github.com/Danielskry/Awesome-RAG) ⭐ 1,428 | 🐛 162 | 📅 2026-10-06 - 😎 Awesome list of Retrieval-Augmented Generation (RAG) applications in Generative AI.
+* [awesome-ai-memory](https://github.com/iaar-shanghai/awesome-ai-memory) ⭐ 1,308 | 🐛 27 | 🌐 Python | 📅 2026-11-12 - Awesome AI Memory | LLM Memory | A curated knowledge base on AI memory for LLMs and agents, covering long-term memory, reasoning, retrieval, and memory-native system design. Awesome-AI-Memory 是一个 集中式、持续更新的 AI 记忆知识库，系统性整理了与 大模型记忆（LLM Memory）与智能体记忆（Agent Memory） 相关的前沿研究、工程框架、系统设计、评测基准与真实应用实践。.
 * [Awesome-RAG](https://github.com/liunian-Jay/Awesome-RAG) ⭐ 521 | 🐛 3 | 📅 2026-11-07 - 💡 Awesome RAG: A resource of Retrieval-Augmented Generation (RAG) for LLMs, focusing on the development of technology.
 * [awesome-rag](https://github.com/coree/awesome-rag) ⭐ 455 | 🐛 23 | 📅 2025-12-01 - A curated list of retrieval-augmented generation (RAG) in large language models.
 * [awesome-rag](https://github.com/Poll-The-People/awesome-rag) ⭐ 189 | 🐛 10 | 📅 2025-07-14 - Awesome-rag: a collection of awesome thing related to Retrieval-Augmented Generation.
@@ -6758,20 +6761,20 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Raspberry Pi Topic Lists
 
-* [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) ⭐ 17,115 | 🐛 16 | 🌐 Shell | 📅 2026-11-11 - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources.
+* [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) ⭐ 17,116 | 🐛 16 | 🌐 Shell | 📅 2026-11-11 - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources.
 * [awesome-raspberry-pi-zh](https://github.com/wwj718/awesome-raspberry-pi-zh) ⭐ 2,515 | 🐛 0 | 📅 2022-11-27 - 树莓派(Raspberry Pi )资源大全中文版 , 包括工具、项目、镜像、资源等.
 * [awesome-raspberry-pi](https://github.com/blackout314/awesome-raspberry-pi) ⭐ 463 | 🐛 0 | 🌐 Shell | 📅 2026-10-20 - Curated list of projects with raspberry pi.
 * [awesome-raspberrypipico](https://github.com/slouchd/awesome-raspberrypipico) ⭐ 118 | 🐛 1 | 📅 2023-04-07 - Curation of Raspberry Pi Pico resources.
 * [awesome-embedded-swift](https://github.com/Cosmo/awesome-embedded-swift) ⭐ 82 | 🐛 0 | 🌐 Swift | 📅 2020-01-12 - A curated list for Embedded and Low-Level development in the Swift programming language.
 * [awesome-argonone](https://github.com/sagikazarmark/awesome-argonone) ⭐ 43 | 🐛 0 | 📅 2021-04-07 - List of Argon ONE links.
-* [fucking-awesome-raspberry-pi](https://github.com/correia-jpv/fucking-awesome-raspberry-pi) ⭐ 28 | 🐛 2 | 🌐 Shell | 📅 2026-11-12 - CC0 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources. 😎 Awesome lists about all kinds of interesting topics. With repository stars⭐ and forks🍴.
+* [fucking-awesome-raspberry-pi](https://github.com/correia-jpv/fucking-awesome-raspberry-pi) ⭐ 28 | 🐛 2 | 🌐 Shell | 📅 2026-11-14 - CC0 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources. 😎 Awesome lists about all kinds of interesting topics. With repository stars⭐ and forks🍴.
 * [314-or-so-awesome-raspberry-pi-resources](https://github.com/grantwinney/314-or-so-awesome-raspberry-pi-resources) ⭐ 26 | 🐛 0 | 📅 2018-05-19 - Here's a huge list of Raspberry Pi resources I put together for Pi Day - interesting people to follow, material to read, projects to try out. You've no excuse for not learning the Pi now! :wink:.
 * [Awesome-List](https://github.com/ryparker/Awesome-List) ⭐ 22 | 🐛 0 | 📅 2022-06-08 - A list of my favorite findings in the software industry. 🕶️.
 * [raspberry-pi](https://github.com/txuswashere/raspberry-pi) ⭐ 1 | 🐛 0 | 📅 2024-03-01 - Raspberry Pi: OS Images, Tools, Projects & Resources.
 
 ### RDF (Resource Description Framework) Topic Lists
 
-* [awesome-ontology](https://github.com/ozekik/awesome-ontology) ⭐ 745 | 🐛 4 | 📅 2026-10-12 - A curated list of ontology things.
+* [awesome-ontology](https://github.com/ozekik/awesome-ontology) ⭐ 746 | 🐛 4 | 📅 2026-10-12 - A curated list of ontology things.
 * [awesome-semantic-tools](https://github.com/costezki/awesome-semantic-tools) ⭐ 26 | 🐛 0 | 📅 2019-11-03 - List of projects related to Ontology engineering and Semantic Web technologies that make a geek smile for they exist.
 * [awesome-semantic-web-business](https://github.com/KMax/awesome-semantic-web-business) ⭐ 23 | 🐛 0 | 📅 2019-12-23 - A curated list of awesome resources that feature usages of Semantic Web technologies in business cases (applications).
 
@@ -6784,9 +6787,9 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-react-talks](https://github.com/tiaanduplessis/awesome-react-talks) ⭐ 684 | 🐛 2 | 📅 2026-10-03 - :sunglasses: A curated list of talks about React or topics related to React.
 * [awesome-list](https://github.com/component-driven/awesome-list) ⭐ 338 | 🐛 0 | 📅 2020-11-02 - Curated list of links on component-driven development and design systems.
 * [awesome-material-ui](https://github.com/nadunindunil/awesome-material-ui) ⭐ 272 | 🐛 1 | 📅 2024-08-28 - A curated list of Material-UI resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Material-UI that we keep up-to-date.
-* [react-components](https://github.com/sapegin/react-components) ⭐ 191 | 🐛 2 | 📅 2024-10-30 - List of React components I use and recommend.
-* [awesome-nutrient](https://github.com/pspdfkit/awesome-nutrient) ⭐ 127 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-05 - A collection of awesome things regarding Nutrient ecosystem.
-* [awesome-ui-libraries](https://github.com/dalisoft/awesome-ui-libraries) ⭐ 96 | 🐛 1 | 📅 2026-11-07 - List of curated UI libraries, templates and inspirations.
+* [react-components](https://github.com/sapegin/react-components) ⭐ 191 | 🐛 1 | 📅 2024-10-30 - List of React components I use and recommend.
+* [awesome-nutrient](https://github.com/pspdfkit/awesome-nutrient) ⭐ 127 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-13 - A collection of awesome things regarding Nutrient ecosystem.
+* [awesome-ui-libraries](https://github.com/dalisoft/awesome-ui-libraries) ⭐ 96 | 🐛 1 | 📅 2026-11-13 - List of curated UI libraries, templates and inspirations.
 * [awesome-arco](https://github.com/arco-design/awesome-arco) ⭐ 90 | 🐛 2 | 📅 2023-11-15 - Awesome Arco Design resources list.
 * [awesome-multiplayer-games](https://github.com/herrherrmann/awesome-multiplayer-games) ⭐ 48 | 🐛 0 | 📅 2026-09-18 - :joystick: Awesome games for local multiplayer sessions or LAN parties.
 * [awesome-web-react](https://github.com/dataformsjs/awesome-web-react) ⭐ 43 | 🐛 0 | 🌐 HTML | 📅 2024-09-13 - 🚀 Awesome Web Based React 🚀 Develop online with React!
@@ -6823,19 +6826,19 @@ Last generated: 2026-11-12, 10396 lists.
 ### Reinforcement learning Topic Lists
 
 * [Awesome-LLM-Post-training](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training) ⭐ 2,586 | 🐛 21 | 🌐 Python | 📅 2026-09-05 - Awesome Reasoning LLM Tutorial/Survey/Guide.
-* [awesome-deep-rl](https://github.com/tigerneil/awesome-deep-rl) ⭐ 1,523 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-13 - For deep RL and the future of AI.
+* [awesome-deep-rl](https://github.com/tigerneil/awesome-deep-rl) ⭐ 1,523 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-14 - For deep RL and the future of AI.
 * [awesome-model-based-RL](https://github.com/opendilab/awesome-model-based-RL) ⭐ 1,407 | 🐛 0 | 📅 2026-10-27 - A curated list of awesome model based RL resources (continually updated).
 * [awesome-offline-rl](https://github.com/hanjuku-kaso/awesome-offline-rl) ⭐ 1,083 | 🐛 1 | 📅 2024-05-23 - An index of algorithms for offline reinforcement learning (offline-rl).
 * [awesome-decision-transformer](https://github.com/opendilab/awesome-decision-transformer) ⭐ 921 | 🐛 3 | 📅 2026-05-21 - A curated list of Decision Transformer resources (continually updated).
 * [awesome-deep-rl](https://github.com/kengz/awesome-deep-rl) ⭐ 901 | 🐛 5 | 📅 2025-07-13 - A curated list of awesome Deep Reinforcement Learning resources.
-* [awesome-fly](https://github.com/cobanov/awesome-fly) ⭐ 742 | 🐛 1 | 📅 2026-11-09 - A curated list of fruit fly connectome projects: MaleCNS, FlyWire, brain simulations, embodied models, games, and research tools.
+* [awesome-fly](https://github.com/cobanov/awesome-fly) ⭐ 746 | 🐛 0 | 📅 2026-11-14 - A curated list of fruit fly connectome projects: MaleCNS, FlyWire, brain simulations, embodied models, games, and research tools.
 * [awesome-exploration-rl](https://github.com/opendilab/awesome-exploration-rl) ⭐ 730 | 🐛 0 | 📅 2026-05-21 - A curated list of awesome exploration RL resources (continually updated).
 * [Awesome-Long-Chain-of-Thought-Reasoning](https://github.com/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning) ⭐ 654 | 🐛 11 | 📅 2025-07-18 - Latest Advances on Long Chain-of-Thought Reasoning.
 * [awesome-end-to-end-autonomous-driving](https://github.com/opendilab/awesome-end-to-end-autonomous-driving) ⭐ 503 | 🐛 2 | 📅 2026-06-03 - A curated list of awesome End-to-End Autonomous Driving resources (continually updated).
 * [awesome-legged-locomotion-learning](https://github.com/gaiyi7788/awesome-legged-locomotion-learning) ⭐ 487 | 🐛 0 | 📅 2023-07-10 - A curated list of resources relevant to legged locomotion learning of robotics.
 * [awesome-real-world-rl](https://github.com/ugurkanates/awesome-real-world-rl) ⭐ 460 | 🐛 1 | 📅 2022-10-28 - Great resources for making Reinforcement Learning work in Real Life situations. Papers,projects and more.
 * [awesome-reinforcement-learning-lib](https://github.com/wwxFromTju/awesome-reinforcement-learning-lib) ⭐ 385 | 🐛 0 | 📅 2023-03-21 - GitHub's code repository is all you need.
-* [awesome-rlvr](https://github.com/opendilab/awesome-rlvr) ⭐ 365 | 🐛 6 | 📅 2026-06-01 - A curated list of reinforcement learning with verifiable rewards (continually updated).
+* [awesome-rlvr](https://github.com/opendilab/awesome-rlvr) ⭐ 366 | 🐛 6 | 📅 2026-06-01 - A curated list of reinforcement learning with verifiable rewards (continually updated).
 * [DRL4Recsys](https://github.com/cszhangzhen/DRL4Recsys) ⭐ 307 | 🐛 0 | 📅 2023-05-04 - Courses on Deep Reinforcement Learning (DRL) and DRL papers for recommender systems.
 * [awesome-explainable-reinforcement-learning](https://github.com/Plankson/awesome-explainable-reinforcement-learning) ⭐ 285 | 🐛 1 | 📅 2025-02-10 - A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges.
 * [Awesome-Embodied-AI](https://github.com/wadeKeith/Awesome-Embodied-AI) ⭐ 255 | 🐛 4 | 🌐 Python | 📅 2026-11-10 - Curated embodied AI list: surveys, VLA models, datasets, simulators, humanoids, robot learning, and safety resources.
@@ -6854,7 +6857,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### reMarkable tablet Topic Lists
 
-* [awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) ⭐ 7,813 | 🐛 24 | 📅 2026-10-05 - A curated list of projects related to the reMarkable tablet.
+* [awesome-reMarkable](https://github.com/reHackable/awesome-reMarkable) ⭐ 7,814 | 🐛 24 | 📅 2026-10-05 - A curated list of projects related to the reMarkable tablet.
 
 ### Representation learning Topic Lists
 
@@ -6876,10 +6879,10 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Reverse Engineering Topic Lists
 
-* [awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) ⭐ 5,210 | 🐛 8 | 📅 2021-09-01 - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts\&videos).
+* [awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) ⭐ 5,214 | 🐛 9 | 📅 2021-09-01 - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts\&videos).
 * [awesome-connected-things-sec](https://github.com/V33RU/awesome-connected-things-sec) ⭐ 3,575 | 🐛 8 | 📅 2026-10-16 - A Curated list of Security Resources for all connected things.
-* [awesome-decomp-games](https://github.com/submitgame/awesome-decomp-games) ⭐ 3,042 | 🐛 52 | 🌐 Python | 📅 2026-11-12 - Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.
-* [awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) ⭐ 2,094 | 🐛 3 | 🌐 Python | 📅 2026-11-11 - Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.
+* [awesome-decomp-games](https://github.com/submitgame/awesome-decomp-games) ⭐ 3,059 | 🐛 53 | 🌐 Python | 📅 2026-11-13 - Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.
+* [awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering) ⭐ 2,112 | 🐛 4 | 🌐 Python | 📅 2026-11-11 - Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and protocols.
 * [awesome-radare2](https://github.com/radareorg/awesome-radare2) ⭐ 738 | 🐛 3 | 📅 2020-04-30 - A curated list of awesome projects, articles and the other materials powered by Radare2.
 * [revens](https://github.com/jakiboy/revens) ⭐ 388 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-13 - Windows-based AI-powered Reverse Engineering Toolkit "AIO", Built for Security (Malware analysis, Pentesting) & Educational purposes.
 * [awesome-game-file-format-reversing](https://github.com/velocityra/awesome-game-file-format-reversing) ⭐ 244 | 🐛 1 | 🌐 Python | 📅 2026-11-04 - Collection of docs/tools/resources for reverse engineering and working with video game file formats.
@@ -6896,7 +6899,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Roblox Topic Lists
 
-* [awesome-roblox](https://github.com/awesome-roblox/awesome-roblox) ⭐ 93 | 🐛 0 | 📅 2026-10-18 - A curated list of awesome things related to Roblox OSS.
+* [awesome-roblox](https://github.com/awesome-roblox/awesome-roblox) ⭐ 93 | 🐛 0 | 📅 2026-11-13 - A curated list of awesome things related to Roblox OSS.
 * [awesome-roblox-ts](https://github.com/coyenn/awesome-roblox-ts) ⭐ 44 | 🐛 0 | 🌐 Luau | 📅 2026-11-11 - A list of all packages for roblox-ts.
 * [awesome-roblox](https://github.com/elevenpassin/awesome-roblox) - A curated list of ROBLOX resources, plugins and frameworks!
 
@@ -6906,12 +6909,12 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Robotics Topic Lists
 
-* [awesome-robotics](https://github.com/Kiloreux/awesome-robotics) ⭐ 7,303 | 🐛 51 | 📅 2024-09-22 - A list of awesome Robotics resources.
+* [awesome-robotics](https://github.com/Kiloreux/awesome-robotics) ⭐ 7,306 | 🐛 53 | 📅 2024-09-22 - A list of awesome Robotics resources.
 * [awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM) ⭐ 2,164 | 🐛 0 | 📅 2026-11-11 - A comprehensive list of Implicit Representations, NeRF and 3D Gaussian Splatting papers relating to SLAM/Robotics domain, including papers, videos, codes, and related websites.
-* [awesome-robotics-projects](https://github.com/mjyc/awesome-robotics-projects) ⭐ 1,841 | 🐛 18 | 📅 2026-02-13 - A list of open-source, affordable, less-known, or visionary robotics projects.
+* [awesome-robotics-projects](https://github.com/mjyc/awesome-robotics-projects) ⭐ 1,841 | 🐛 19 | 📅 2026-02-13 - A list of open-source, affordable, less-known, or visionary robotics projects.
 * [awesome-mecheng](https://github.com/m2n037/awesome-mecheng) ⭐ 1,759 | 🐛 34 | 📅 2024-09-24 - Awesome Mechanical Engineering Resources.
 * [awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) ⭐ 1,701 | 🐛 2 | 📅 2026-10-11 - A curated list of awesome robot descriptions (URDF, MJCF).
-* [awesome-robotics](https://github.com/ahundt/awesome-robotics) ⭐ 1,526 | 🐛 10 | 📅 2024-01-10 - A curated list of awesome links and software libraries that are useful for robots.
+* [awesome-robotics](https://github.com/ahundt/awesome-robotics) ⭐ 1,525 | 🐛 10 | 📅 2024-01-10 - A curated list of awesome links and software libraries that are useful for robots.
 * [awesome\_dynamic\_slam](https://github.com/zhuhu00/awesome_dynamic_slam) ⭐ 731 | 🐛 0 | 📅 2026-10-19 - Dynamic SLAM, Life-long SLAM Research(Lidar, Visual, Sensor Fusion etc.).
 * [awesome-physical-ai](https://github.com/keon/awesome-physical-ai) ⭐ 463 | 🐛 24 | 📅 2026-06-24 - A curated list of academic papers and resources on Physical AI — focusing on Vision-Language-Action (VLA) models, world models, embodied ai, and robotic foundation models.
 * [SLAM-Resources-for-Beginner](https://github.com/Taeyoung96/SLAM-Resources-for-Beginner) ⭐ 266 | 🐛 0 | 📅 2023-07-29 - Highly recommended resources for SLAM newbies (Lecture, Reviewed paper, Books, Tutorial, etc).
@@ -6970,7 +6973,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Rust Topic Lists
 
-* [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) ⭐ 8,195 | 🐛 17 | 📅 2026-10-27 - Curated list of resources for Embedded and Low-level development in the Rust programming language.
+* [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) ⭐ 8,196 | 🐛 18 | 📅 2026-10-27 - Curated list of resources for Embedded and Low-level development in the Rust programming language.
 * [not-yet-awesome-rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust) ⭐ 1,423 | 🐛 27 | 📅 2024-12-16 - A curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community.
 * [awesome-solana-security](https://github.com/0xMacro/awesome-solana-security) ⭐ 604 | 🐛 17 | 📅 2025-12-06 - A collection of resources to help you build better and more secure Solana programs. Kept up to date.
 * [awesome-rust-zh-cn](https://github.com/zzy/awesome-rust-zh-cn) ⭐ 65 | 🐛 0 | 🌐 Rust | 📅 2020-09-19 - Rust棒棒哒！资源大全中文版。.
@@ -6983,18 +6986,18 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Software as a service Topic Lists
 
-* [awesome-indiehackers](https://github.com/johackim/awesome-indiehackers) ⭐ 670 | 🐛 0 | 📅 2026-11-11 - Awesome list about indie hackers.
-* [Awesome-Black-Friday-Cyber-Monday-deals](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) ⭐ 571 | 🐛 23 | 🌐 HTML | 📅 2026-11-12 - 🟢 2025 Deals Live - Black Friday & Cyber Monday, Christmas & Holidays Deals for Developers, Techies, & Entrepreneurs,.
-* [awesome-free-saas](https://github.com/LlamaGenAI/awesome-free-saas) ⭐ 342 | 🐛 62 | 📅 2026-04-29 - An awesome list of free SaaS (software as a service) for you.
-* [awesome-saas-directories](https://github.com/mahseema/awesome-saas-directories) ⭐ 259 | 🐛 106 | 📅 2026-02-14 - A curated list of top best SaaS directories and platforms to launch and promote your SaaS product.
+* [awesome-indiehackers](https://github.com/johackim/awesome-indiehackers) ⭐ 671 | 🐛 0 | 📅 2026-11-11 - Awesome list about indie hackers.
+* [Awesome-Black-Friday-Cyber-Monday-deals](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) ⭐ 577 | 🐛 15 | 🌐 HTML | 📅 2026-11-14 - 🟢 2025 Deals Live - Black Friday & Cyber Monday, Christmas & Holidays Deals for Developers, Techies, & Entrepreneurs,.
+* [awesome-free-saas](https://github.com/LlamaGenAI/awesome-free-saas) ⭐ 343 | 🐛 63 | 📅 2026-04-29 - An awesome list of free SaaS (software as a service) for you.
+* [awesome-saas-directories](https://github.com/mahseema/awesome-saas-directories) ⭐ 259 | 🐛 107 | 📅 2026-02-14 - A curated list of top best SaaS directories and platforms to launch and promote your SaaS product.
 * [awesome-avs](https://github.com/layr-labs/awesome-avs) ⭐ 178 | 🐛 7 | 📅 2025-04-17 - A curated list of awesome projects and resources related to AVS development and EigenLayer.
 * [awesome-priceops](https://github.com/priceops/awesome-priceops) ⭐ 158 | 🐛 1 | 📅 2023-02-24 - Links to articles, guides and resources related to software pricing and its implementation.
-* [awesome-checklists](https://github.com/israelroldan/awesome-checklists) ⭐ 150 | 🐛 1 | 📅 2017-08-15 - A curated list of checklists. Inspired by the awesome list thing.
+* [awesome-checklists](https://github.com/israelroldan/awesome-checklists) ⭐ 151 | 🐛 1 | 📅 2017-08-15 - A curated list of checklists. Inspired by the awesome list thing.
 * [awesome-saas](https://github.com/georgezouq/awesome-saas) ⭐ 53 | 🐛 54 | 📅 2026-07-28 - A curated list for SaaS (Software as a services).
 * [awesome-bootstrapped-software](https://github.com/preetmishra/awesome-bootstrapped-software) ⭐ 49 | 🐛 4 | 📅 2026-11-12 - Find lean, reliable softwares built by bootstrapped founders who prioritize design, fast support, and sane pricing.
 * [awesome-saas](https://github.com/lendai/awesome-saas) ⭐ 12 | 🐛 5 | 📅 2024-08-09 - 😎 Awesome list for everyone building SaaS.
 * [awesome-chinese-going-global](https://github.com/launotice-lang/awesome-chinese-going-global) ⭐ 2 | 🐛 0 | 📅 2026-05-03 - A curated list of essential tools, services, and learning resources for Chinese entrepreneurs going global. Editorial reviews at chdh.me.
-* [enterpriseready](https://github.com/compile7/enterpriseready) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2026-10-13 - Essential capabilities for B2B SaaS companies to become enterprise-ready.
+* [enterpriseready](https://github.com/compile7/enterpriseready) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2026-11-14 - Essential capabilities for B2B SaaS companies to become enterprise-ready.
 * [awesome-black-friday-cyber-monday-deals-2024](https://github.com/arafatosdev/awesome-black-friday-cyber-monday-deals-2024) ⭐ 1 | 🐛 0 | 📅 2024-11-28 - 2024 Back Friday Deals now live 🟢.
 
 ### Sailfish OS Topic Lists
@@ -7019,7 +7022,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Script Topic Lists
 
-* [awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript) ⭐ 1,958 | 🐛 20 | 📅 2026-02-28 - A Comprehensive Collection of Everything Related to Tradingview Pine Script.
+* [awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript) ⭐ 1,963 | 🐛 20 | 📅 2026-02-28 - A Comprehensive Collection of Everything Related to Tradingview Pine Script.
 
 ### SDK Topic Lists
 
@@ -7035,14 +7038,14 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Security Topic Lists
 
-* [awesome-security](https://github.com/sbilly/awesome-security) ⭐ 15,099 | 🐛 398 | 📅 2026-01-11 - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
-* [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) ⭐ 14,049 | 🐛 12 | 🌐 Python | 📅 2026-11-02 - 🐶 A curated list of Web Security materials and resources.
-* [awesome-ctf](https://github.com/apsdehal/awesome-ctf) ⭐ 11,993 | 🐛 73 | 🌐 JavaScript | 📅 2024-07-22 - A curated list of CTF frameworks, libraries, resources and softwares.
-* [Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) ⭐ 7,678 | 🐛 0 | 🌐 Python | 📅 2026-11-02 - Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥.
-* [awesome-infosec](https://github.com/onlurking/awesome-infosec) ⭐ 5,782 | 🐛 21 | 📅 2026-08-28 - A curated list of awesome infosec courses and training resources.
+* [awesome-security](https://github.com/sbilly/awesome-security) ⭐ 15,104 | 🐛 400 | 📅 2026-01-11 - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
+* [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) ⭐ 14,053 | 🐛 12 | 🌐 Python | 📅 2026-11-02 - 🐶 A curated list of Web Security materials and resources.
+* [awesome-ctf](https://github.com/apsdehal/awesome-ctf) ⭐ 11,994 | 🐛 73 | 🌐 JavaScript | 📅 2024-07-22 - A curated list of CTF frameworks, libraries, resources and softwares.
+* [Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) ⭐ 7,680 | 🐛 0 | 🌐 Python | 📅 2026-11-02 - Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥.
+* [awesome-infosec](https://github.com/onlurking/awesome-infosec) ⭐ 5,783 | 🐛 21 | 📅 2026-08-28 - A curated list of awesome infosec courses and training resources.
 * [awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security) ⭐ 1,960 | 🐛 10 | 📅 2024-06-05 - Awesome Golang Security resources 🕶🔐.
 * [awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening) ⭐ 1,805 | 🐛 1 | 📅 2020-01-07 - A curated list of awesome Security Hardening techniques for Windows.
-* [awesome-security-GRC](https://github.com/GRC-Engineer/awesome-security-GRC) ⭐ 1,119 | 🐛 26 | 📅 2025-09-07 - Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).
+* [awesome-security-GRC](https://github.com/GRC-Engineer/awesome-security-GRC) ⭐ 1,120 | 🐛 26 | 📅 2025-09-07 - Curated list of resources for security Governance, Risk Management, Compliance and Audit professionals and enthusiasts (if they exist).
 * [awesome-serverless-security](https://github.com/puresec/awesome-serverless-security) ⭐ 638 | 🐛 5 | 📅 2022-05-05 - A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
 * [awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security) ⭐ 626 | 🐛 1 | 📅 2025-10-03 - List of Bluetooth BR/EDR/LE security resources.
 * [awesome-keepass](https://github.com/lgg/awesome-keepass) ⭐ 578 | 🐛 3 | 📅 2026-09-10 - Curated list of KeePass-related projects.
@@ -7053,7 +7056,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-threat-modeling](https://github.com/redshiftzero/awesome-threat-modeling) ⭐ 175 | 🐛 1 | 📅 2024-06-28 - A curated list of useful threat modeling resources.
 * [awesome-terraform-compliance](https://github.com/antonbabenko/awesome-terraform-compliance) ⭐ 149 | 🐛 2 | 📅 2026-11-04 - Awesome Terraform Compliance - tools, frameworks, and resources for implementing compliance, security, and governance controls in Terraform and OpenTofu infrastructure.
 * [Networking-Guide](https://github.com/mikeroyal/Networking-Guide) ⭐ 128 | 🐛 1 | 🌐 Python | 📅 2022-01-24 - A Networking Guide for getting started with basic/core network components such as wired and wireless network design, configuration, hardware, protocols, security, backup, recovery, and virtualization.
-* [awesome-side-channel-attack](https://github.com/phonchi/awesome-side-channel-attack) ⭐ 119 | 🐛 1 | 📅 2025-11-23 - A curated list of awesome side-channel attack resources.
+* [awesome-side-channel-attack](https://github.com/phonchi/awesome-side-channel-attack) ⭐ 120 | 🐛 1 | 📅 2025-11-23 - A curated list of awesome side-channel attack resources.
 * [awesome-security](https://github.com/mbcrump/awesome-security) ⭐ 104 | 🐛 1 | 📅 2023-06-08 - A collection of awesome ethical hacking and security related content!
 * [awesome-anti-virtualization](https://github.com/zeishr/awesome-anti-virtualization) ⭐ 97 | 🐛 0 | 📅 2025-07-15 - A curated list of awesome resources related to anti virtualization techniques.
 * [awesome-cybersecurity](https://github.com/secnotes/awesome-cybersecurity) ⭐ 89 | 🐛 1 | 🌐 Python | 📅 2026-11-09 - A collection of awesome GitHub repositories about security.
@@ -7061,7 +7064,7 @@ Last generated: 2026-11-12, 10396 lists.
 * [awesome-embedded-security](https://github.com/hexsecs/awesome-embedded-security) ⭐ 77 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-13 - Curated list of embedded security tools and resources: firmware analysis, reverse engineering, hardware hacking, IoT security, fuzzing, secure boot, side-channel analysis, and SDR.
 * [awesome-ctf-challenge-design](https://github.com/kareniel/awesome-ctf-challenge-design) ⭐ 73 | 🐛 1 | 📅 2022-03-17 - 🕶 Design fun and insightful CTF challenges.
 * [awesome-tls-hacks](https://github.com/lennysec/awesome-tls-hacks) ⭐ 59 | 🐛 0 | 📅 2025-01-13 - A collection of SSL/TLS security related resources.
-* [awesome-ton-security](https://github.com/Polaristow/awesome-ton-security) ⭐ 44 | 🐛 0 | 📅 2026-07-11 - A curated list of awesome ton security resources.
+* [awesome-ton-security](https://github.com/Polaristow/awesome-ton-security) ⭐ 45 | 🐛 0 | 📅 2026-07-11 - A curated list of awesome ton security resources.
 * [awesome-tls-security](https://github.com/edelahozuah/awesome-tls-security) ⭐ 42 | 🐛 0 | 🌐 TeX | 📅 2022-11-13 - A collection of (not-so, yet) awesome resources related to TLS, PKI and related stuff.
 * [awesome-sanitizer](https://github.com/junwha/awesome-sanitizer) ⭐ 33 | 🐛 0 | 📅 2026-11-02 - A curated list of sanitizers to detect bugs.
 * [awesome-redos-security](https://github.com/engn33r/awesome-redos-security) ⭐ 31 | 🐛 0 | 📅 2026-09-16 - List of RegEx DoS (ReDoS) CVEs and resources.
@@ -7072,7 +7075,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Self-hosted Topic Lists
 
-* [awesome-homelab](https://github.com/AwesomeHomelab/awesome-homelab) ⭐ 2,665 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-13 - Curating Top Open Source Apps for Homelab Enthusiasts.
+* [awesome-homelab](https://github.com/AwesomeHomelab/awesome-homelab) ⭐ 2,665 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-14 - Curating Top Open Source Apps for Homelab Enthusiasts.
 * [awesome-unifi](https://github.com/wolffcatskyy/awesome-unifi) ⭐ 87 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-09 - A curated list of awesome UniFi and Ubiquiti networking tools, libraries, and resources.
 * [awesome-nas](https://github.com/awesome-nas/awesome-nas) ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2024-03-26 - A curated list of awesome NAS（Network Attached Storage）software and resources.
 * [awesome-webtech](https://github.com/open-webtech/awesome-webtech) ⭐ 13 | 🐛 0 | 📅 2024-08-07 - 😎 A curated list of innovative, open web technologies.
@@ -7082,16 +7085,16 @@ Last generated: 2026-11-12, 10396 lists.
 ### Semantic Web Topic Lists
 
 * [awesome-semantic-web](https://github.com/semantalytics/awesome-semantic-web) ⭐ 1,709 | 🐛 32 | 📅 2026-11-06 - A curated list of various semantic web and linked data resources.
-* [awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) ⭐ 890 | 🐛 75 | 📅 2026-09-12 - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space.
+* [awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) ⭐ 890 | 🐛 77 | 📅 2026-09-12 - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space.
 * [awesome-humanities-ontologies](https://github.com/CLARIAH/awesome-humanities-ontologies) ⭐ 150 | 🐛 0 | 📅 2025-02-19 - A curated list of ontologies for Digital Humanities.
 * [awesome-semantic-web](https://github.com/jbenner-radham/awesome-semantic-web) ⭐ 62 | 🐛 0 | 📅 2022-09-11 - A curated list of various semantic web and linked data resources.
 * [awesome-bfo](https://github.com/PR0CK0/awesome-bfo) ⭐ 7 | 🐛 0 | 📅 2022-07-26 - A curated list of various BFO and BFO-related resources.
 
 ### Search engine optimization (SEO) Topic Lists
 
-* [awesome-seo](https://github.com/bmpi-dev/awesome-seo) ⭐ 2,856 | 🐛 6 | 📅 2026-10-21 - Google SEO Research and Web Traffic Monetization.
-* [awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) ⭐ 1,153 | 🐛 395 | 🌐 HTML | 📅 2026-11-02 - Curated list of awesome SEO tools.
-* [awesome-seo](https://github.com/teles/awesome-seo) ⭐ 892 | 🐛 102 | 🌐 TypeScript | 📅 2026-10-31 - :star2: A curated list of SEO (Search Engine Optimization) links.
+* [awesome-seo](https://github.com/bmpi-dev/awesome-seo) ⭐ 2,855 | 🐛 7 | 📅 2026-10-21 - Google SEO Research and Web Traffic Monetization.
+* [awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) ⭐ 1,153 | 🐛 399 | 🌐 HTML | 📅 2026-11-02 - Curated list of awesome SEO tools.
+* [awesome-seo](https://github.com/teles/awesome-seo) ⭐ 892 | 🐛 103 | 🌐 TypeScript | 📅 2026-10-31 - :star2: A curated list of SEO (Search Engine Optimization) links.
 * [awesome-seo](https://github.com/brandonhimpfen/awesome-seo) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2026-09-06 - A curated list of awesome SEO resources and tips to help you improve your website's search engine optimization.
 * [awesome-geo](https://github.com/deeflect/awesome-geo) ⭐ 17 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-12 - Curated GEO platforms, repositories, and verification scripts for AI-era discoverability.
 * [awesome-seo-book-course-search-engine-optimization](https://github.com/ditectrev/awesome-seo-book-course-search-engine-optimization) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-10 - ⭐ Awesome SEO Book & Course. Learn SEO online with pleasure.
@@ -7104,9 +7107,9 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Server-side rendering Topic Lists
 
-* [awesome-astro](https://github.com/one-aalam/awesome-astro) ⭐ 957 | 🐛 93 | 📅 2026-07-29 - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
+* [awesome-astro](https://github.com/one-aalam/awesome-astro) ⭐ 957 | 🐛 94 | 📅 2026-07-29 - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 * [awesome-universal-rendering](https://github.com/brillout/awesome-universal-rendering) ⭐ 352 | 🐛 0 | 📅 2019-09-15 - Awesome resources about server side sendering (SSR), static rendering, pre-rendering, static site generators (SSG).
-* [awesome-islands](https://github.com/lxsmnsyc/awesome-islands) ⭐ 191 | 🐛 1 | 📅 2024-05-01 - All about Islands Architecture and Partial Hydration.
+* [awesome-islands](https://github.com/lxsmnsyc/awesome-islands) ⭐ 192 | 🐛 1 | 📅 2024-05-01 - All about Islands Architecture and Partial Hydration.
 
 ### Serverless Topic Lists
 
@@ -7126,12 +7129,12 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Shell Topic Lists
 
-* [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,954 | 🐛 193 | 📅 2025-08-28 - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+* [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,954 | 🐛 194 | 📅 2025-08-28 - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 * [awesome-mac](https://github.com/deft-actor575/awesome-mac) - 🍏 Discover the best Mac apps, tools, and resources to boost your productivity and streamline your workflow.
 
 ### Shizuku Topic Lists
 
-* [awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) ⭐ 10,856 | 🐛 2 | 🌐 Python | 📅 2026-11-11 - Curated list of awesome Android apps making use of Shizuku.
+* [awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) ⭐ 10,873 | 🐛 2 | 🌐 Python | 📅 2026-11-11 - Curated list of awesome Android apps making use of Shizuku.
 
 ### Simulation Topic Lists
 
@@ -7145,31 +7148,31 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Slack Topic Lists
 
-* [awesome-slack](https://github.com/matiassingers/awesome-slack) ⭐ 896 | 🐛 4 | 📅 2026-08-29 - A curated list of awesome Slack related things.
+* [awesome-slack](https://github.com/matiassingers/awesome-slack) ⭐ 896 | 🐛 5 | 📅 2026-08-29 - A curated list of awesome Slack related things.
 * [awesome-slack](https://github.com/filipelinhares/awesome-slack) ⭐ 344 | 🐛 3 | 📅 2023-05-23 - 🕶️ List of communities powered by Slack.
 
 ### Software Topic Lists
 
 * [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) ⭐ 13,160 | 🐛 15 | 📅 2024-03-02 - Collection of awesome podcasts.
-* [awesome-amazon-seller](https://github.com/ScaleLeap/awesome-amazon-seller) ⭐ 456 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-09 - A curated list of tools and resources for Amazon sellers.
+* [awesome-amazon-seller](https://github.com/ScaleLeap/awesome-amazon-seller) ⭐ 456 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-09 - A curated list of tools and resources for Amazon sellers.
 * [Firmware-Guide](https://github.com/mikeroyal/Firmware-Guide) ⭐ 177 | 🐛 0 | 🌐 C | 📅 2022-01-23 - Firmware Guide.
 * [awesome-aussie](https://github.com/AdamXweb/awesome-aussie) ⭐ 48 | 🐛 79 | 🌐 Just | 📅 2026-11-07 - Curated list of Aussie (Australian) based software and services.
 * [software-list](https://github.com/senkawolf/software-list) ⭐ 8 | 🐛 3 | 🌐 Python | 📅 2026-11-01 - A collection of my favorite software across different platforms, including macOS, Windows, web browser extensions, and development tools.
 * [awesome-comunidad-de-madrid](https://github.com/geiserx/awesome-comunidad-de-madrid) ⭐ 6 | 🐛 2 | 🌐 Shell | 📅 2026-11-06 - Una selección de software open source que da soporte específico a la Comunidad de Madrid.
 * [awesome-softwares-windows](https://github.com/mrhyperion101/awesome-softwares-windows) ⭐ 2 | 🐛 0 | 📅 2024-09-13 - 💻 An awesome & curated list of best applications and tools for Windows.
-* [awesome-software](https://github.com/weiningwei/awesome-software) ⭐ 0 | 🐛 2 | 🌐 Python | 📅 2026-11-11 - A list of awesome softwares.
+* [awesome-software](https://github.com/weiningwei/awesome-software) ⭐ 0 | 🐛 2 | 🌐 Python | 📅 2026-11-13 - A list of awesome softwares.
 * [Software-Index](https://github.com/NexusWasLost/Software-Index) ⭐ 0 | 🐛 0 | 📅 2026-02-11 - A curated list of awesome free software that I personally love.
 
 ### Software Engineering Topic Lists
 
-* [awesome-cto](https://github.com/kuchin/awesome-cto) ⭐ 35,744 | 🐛 12 | 📅 2026-03-02 - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups.
-* [software-architecture-books](https://github.com/mhadidg/software-architecture-books) ⭐ 11,440 | 🐛 3 | 📅 2023-03-15 - A comprehensive list of books on Software Architecture.
-* [the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist) ⭐ 1,697 | 🐛 0 | 📅 2026-11-09 - Books for people who are or aspire to manage/lead team(s) of software engineers.
-* [awesome-spec-driven-development](https://github.com/Engineering4AI/awesome-spec-driven-development) ⭐ 322 | 🐛 6 | 📅 2026-11-13 - A curated list of awesome resources for spec-driven development (SDD).
+* [awesome-cto](https://github.com/kuchin/awesome-cto) ⭐ 35,750 | 🐛 12 | 📅 2026-03-02 - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups.
+* [software-architecture-books](https://github.com/mhadidg/software-architecture-books) ⭐ 11,438 | 🐛 3 | 📅 2023-03-15 - A comprehensive list of books on Software Architecture.
+* [the-engineering-managers-booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist) ⭐ 1,698 | 🐛 0 | 📅 2026-11-09 - Books for people who are or aspire to manage/lead team(s) of software engineers.
+* [awesome-spec-driven-development](https://github.com/Engineering4AI/awesome-spec-driven-development) ⭐ 323 | 🐛 7 | 📅 2026-11-13 - A curated list of awesome resources for spec-driven development (SDD).
 * [AwesomeLLM4APR](https://github.com/iSEngLab/AwesomeLLM4APR) ⭐ 250 | 🐛 0 | 📅 2026-05-01 - \[TOSEM 2026]A Systematic Literature Review on Large Language Models for Automated Program Repair.
 * [software-development-resources](https://github.com/rafaels88/software-development-resources) ⭐ 90 | 🐛 0 | 📅 2017-08-19 - Curated list of Software Development resources.
 * [awesome-coffee](https://github.com/psanders/awesome-coffee) ⭐ 78 | 🐛 2 | 📅 2026-07-20 - Awesome-coffee is a curated list of resources to help people make the most of each day.
-* [awesome-developer-essentials](https://github.com/dailydotdev/awesome-developer-essentials) ⭐ 62 | 🐛 15 | 📅 2026-11-01 - A curated list of tools, platforms, browser extensions and resources for staying informed, productive, and growing as a software developer.
+* [awesome-developer-essentials](https://github.com/dailydotdev/awesome-developer-essentials) ⭐ 62 | 🐛 17 | 📅 2026-11-01 - A curated list of tools, platforms, browser extensions and resources for staying informed, productive, and growing as a software developer.
 * [awesome-software-engineering-research](https://github.com/FudanSELab/awesome-software-engineering-research) ⭐ 32 | 🐛 0 | 📅 2022-12-16 - A curated list of software engineering research, data set, tool.
 * [awesome-practices](https://github.com/ParanoidUser/awesome-practices) ⭐ 20 | 🐛 2 | 📅 2026-04-20 - Practices and standards that shape how software gets built.
 
@@ -7181,10 +7184,10 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Solidity Topic Lists
 
-* [awesome-solidity](https://github.com/bkrem/awesome-solidity) ⭐ 7,073 | 🐛 27 | 📅 2026-11-12 - ⟠ A curated list of awesome Solidity resources, libraries, tools and more.
+* [awesome-solidity](https://github.com/bkrem/awesome-solidity) ⭐ 7,073 | 🐛 28 | 📅 2026-11-12 - ⟠ A curated list of awesome Solidity resources, libraries, tools and more.
 * [awesome-zkevm](https://github.com/LuozhuZhang/awesome-zkevm) ⭐ 467 | 🐛 0 | 📅 2026-09-23 - A curated list of awesome zkEVM resources, libraries, tools and more.
 * [awesome-solidity](https://github.com/BlockchainLabsNZ/awesome-solidity) ⭐ 267 | 🐛 6 | 📅 2021-08-05 - A curated list of awesome Solidity resources.
-* [awesome-solidity](https://github.com/solidity-developer/awesome-solidity) ⭐ 23 | 🐛 0 | 📅 2026-08-14 - A curated list of Solidity resources.
+* [awesome-solidity](https://github.com/solidity-developer/awesome-solidity) ⭐ 23 | 🐛 0 | 📅 2026-11-13 - A curated list of Solidity resources.
 * [awesome-solidity](https://github.com/NightKari/awesome-solidity) ⭐ 2 | 🐛 1 | 📅 2023-03-31 - ⟠ A curated list of awesome Solidity resources, libraries, tools and more.
 
 ### Apache Spark Topic Lists
@@ -7208,7 +7211,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 * [awesome-spring-boot](https://github.com/ityouknow/awesome-spring-boot) ⭐ 4,564 | 🐛 17 | 📅 2024-05-25 - Spring Boot Resources.
 * [awesome-spring-boot](https://github.com/Sharember/awesome-spring-boot) ⭐ 228 | 🐛 0 | 📅 2018-03-09 - Springboot 各种资料整理(demo、教程、网站、starter文档等)，持续更新，欢迎pr。.
-* [awesome-spring](https://github.com/bsdfzzzy/awesome-spring) ⭐ 30 | 🐛 0 | 📅 2017-12-18 - Spring-boot、spring-cloud 中文资料收集.
+* [awesome-spring](https://github.com/bsdfzzzy/awesome-spring) ⭐ 29 | 🐛 0 | 📅 2017-12-18 - Spring-boot、spring-cloud 中文资料收集.
 
 ### SQL Topic Lists
 
@@ -7223,7 +7226,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### SRE Topic Lists
 
-* [awesome-sre](https://github.com/dastergon/awesome-sre) ⭐ 13,774 | 🐛 126 | 📅 2025-08-28 - A curated list of Site Reliability and Production Engineering resources.
+* [awesome-sre](https://github.com/dastergon/awesome-sre) ⭐ 13,778 | 🐛 124 | 📅 2025-08-28 - A curated list of Site Reliability and Production Engineering resources.
 * [awesome-slo](https://github.com/stevedotmt/awesome-slo) ⭐ 283 | 🐛 0 | 📅 2025-06-12 - Curated list of resources on SLOs.
 * [awesome-failure-diagnosis](https://github.com/phamquiluan/awesome-failure-diagnosis) ⭐ 70 | 🐛 1 | 📅 2026-04-26 - Awesome resources for failure diagnosis research.
 * [awesome-sre](https://github.com/adriannovegil/awesome-sre) ⭐ 15 | 🐛 1 | 📅 2026-11-06 - Awesome SRE page.
@@ -7269,7 +7272,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Supabase Topic Lists
 
-* [awesome-supabase](https://github.com/lyqht/awesome-supabase) ⭐ 486 | 🐛 25 | 📅 2026-07-19 - Official awesome-list of Supabase Starters & Resources ⚡️.
+* [awesome-supabase](https://github.com/lyqht/awesome-supabase) ⭐ 486 | 🐛 28 | 📅 2026-07-19 - Official awesome-list of Supabase Starters & Resources ⚡️.
 
 ### Support Topic Lists
 
@@ -7282,7 +7285,7 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Svelte Topic Lists
 
-* [awesome-svelte](https://github.com/TheComputerM/awesome-svelte) ⭐ 2,180 | 🐛 79 | 📅 2026-11-03 - ⚡ A curated list of awesome Svelte resources.
+* [awesome-svelte](https://github.com/TheComputerM/awesome-svelte) ⭐ 2,181 | 🐛 79 | 📅 2026-11-03 - ⚡ A curated list of awesome Svelte resources.
 * [awesome-svelte](https://github.com/rocketlaunchr/awesome-svelte) ⭐ 366 | 🐛 9 | 📅 2026-07-30 - Awesome Svelte: Useful resources for developing Svelte applications.
 * [awesome-svelte-kit](https://github.com/one-aalam/awesome-svelte-kit) ⭐ 124 | 🐛 1 | 📅 2023-10-21 - Curated resources on building sites with SvelteKit - A server-less-first answer to "the Next.js experience" by the Svelte community.
 * [awesome-svelte](https://github.com/svelte-brasil/awesome-svelte) ⭐ 111 | 🐛 1 | 📅 2026-07-23 - Uma lista de coisas incríveis relacionadas ao Svelte.
@@ -7315,11 +7318,11 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Telegram Topic Lists
 
-* [awesome-telegram](https://github.com/ebertti/awesome-telegram) ⭐ 6,225 | 🐛 34 | 📅 2026-11-09 - Collection great groups, channels, bots and libraries for Telegram.
-* [awesome-telegram-mini-apps](https://github.com/telegram-mini-apps-dev/awesome-telegram-mini-apps) ⭐ 1,406 | 🐛 94 | 📅 2026-05-05 - A curated list of awesome things related to Telegram Mini Apps (TMA).
-* [awesome-telegram](https://github.com/kalanakt/awesome-telegram) ⭐ 275 | 🐛 3 | 📅 2026-11-12 - A curated list of awesome telegram groups, channels, bots, open source projects And Libraries.
+* [awesome-telegram](https://github.com/ebertti/awesome-telegram) ⭐ 6,229 | 🐛 37 | 📅 2026-11-09 - Collection great groups, channels, bots and libraries for Telegram.
+* [awesome-telegram-mini-apps](https://github.com/telegram-mini-apps-dev/awesome-telegram-mini-apps) ⭐ 1,406 | 🐛 95 | 📅 2026-05-05 - A curated list of awesome things related to Telegram Mini Apps (TMA).
+* [awesome-telegram](https://github.com/kalanakt/awesome-telegram) ⭐ 276 | 🐛 1 | 📅 2026-11-13 - A curated list of awesome telegram groups, channels, bots, open source projects And Libraries.
 * [awesome-telegram-cn](https://github.com/bitmasterv/awesome-telegram-cn) ⭐ 188 | 🐛 5 | 📅 2018-10-26 - Telegram 开发资源、机器人资源整理.
-* [awesome-telegram-groups](https://github.com/stkw0/awesome-telegram-groups) ⭐ 143 | 🐛 1 | 📅 2020-11-17 - List of telegram groups.
+* [awesome-telegram-groups](https://github.com/stkw0/awesome-telegram-groups) ⭐ 144 | 🐛 1 | 📅 2020-11-17 - List of telegram groups.
 * [awesome-telegram-bots](https://github.com/telegram-bot-sdk/awesome-telegram-bots) ⭐ 127 | 🐛 7 | 📅 2023-11-06 - Awesome Telegram Bots built with Telegram Bot SDK!
 * [awesome-telegram-dev-groups-uz](https://github.com/doniyor2109/awesome-telegram-dev-groups-uz) ⭐ 69 | 🐛 4 | 📅 2023-07-06 - Curated list of Uzbek Telegram dev groups.
 * [awesome-telegram](https://github.com/flutegram/awesome-telegram) ⭐ 20 | 🐛 8 | 📅 2022-12-20 - An awesome list that curates the best Telegram libraries, tools, tutorials, articles, bot and more.
@@ -7334,8 +7337,8 @@ Last generated: 2026-11-12, 10396 lists.
 
 ### Terminal Topic Lists
 
-* [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) ⭐ 13,158 | 🐛 158 | 🌐 Shell | 📅 2024-07-26 - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
-* [awesome-hyper](https://github.com/bnb/awesome-hyper) ⭐ 11,025 | 🐛 25 | 📅 2022-09-20 - 🖥 Delightful Hyper plugins, themes, and resources.
+* [awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources.
+* [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 * [awesome-ttygames](https://github.com/ligurio/awesome-ttygames) - Unix ASCII games.
 * [awesome-herdr](https://github.com/yigitkonur/awesome-herdr) - A curated guide to the Herdr ecosystem: tools, workflows, configs, clients, skills, and integrations.
 * [awesome-ascii](https://github.com/90dy/awesome-ascii) - 👻 Awesome ASCII games, libraries, tools, softwares and more. just for the fun.
@@ -12965,4 +12968,4 @@ Last generated: 2026-11-12, 10396 lists.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
